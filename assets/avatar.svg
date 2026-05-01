@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" fill="none">
+  <!-- Background -->
+  <rect width="200" height="200" rx="40" fill="#0f172a"/>
+
+  <!-- Outer arc -->
+  <path d="M 38 108 A 62 62 0 0 1 162 108" stroke="#38bdf8" stroke-width="10" stroke-linecap="round" opacity="0.3"/>
+  <!-- Mid arc -->
+  <path d="M 56 108 A 44 44 0 0 1 144 108" stroke="#38bdf8" stroke-width="10" stroke-linecap="round" opacity="0.6"/>
+  <!-- Inner arc -->
+  <path d="M 74 108 A 26 26 0 0 1 126 108" stroke="#38bdf8" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Mast -->
+  <line x1="100" y1="76" x2="100" y2="136" stroke="#38bdf8" stroke-width="9" stroke-linecap="round"/>
+  <!-- Base -->
+  <line x1="82" y1="136" x2="118" y2="136" stroke="#38bdf8" stroke-width="9" stroke-linecap="round"/>
+  <!-- Transmit dot -->
+  <circle cx="100" cy="76" r="9" fill="#38bdf8"/>
+</svg>
