@@ -1,21 +1,83 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 80" fill="none">
-  <!-- Icon mark -->
-  <!-- Outer signal arc -->
-  <path d="M 18 40 A 22 22 0 0 1 62 40" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" opacity="0.35"/>
-  <!-- Mid signal arc -->
-  <path d="M 24 40 A 16 16 0 0 1 56 40" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round" opacity="0.65"/>
-  <!-- Inner signal arc -->
-  <path d="M 30 40 A 10 10 0 0 1 50 40" stroke="#38bdf8" stroke-width="3.5" stroke-linecap="round"/>
-  <!-- Antenna mast -->
-  <line x1="40" y1="30" x2="40" y2="56" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <!-- Base -->
-  <line x1="33" y1="56" x2="47" y2="56" stroke="#38bdf8" stroke-width="3" stroke-linecap="round"/>
-  <!-- Dot/transmitter -->
-  <circle cx="40" cy="30" r="3" fill="#38bdf8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -18 560 188" fill="none">
+  <style>
+    .r  { stroke: #38bdf8; stroke-width: 2.8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+    .rf { stroke: #38bdf8; stroke-width: 2.8; fill: white; stroke-linecap: round; stroke-linejoin: round; }
+  </style>
 
-  <!-- Wordmark -->
-  <!-- "open" in muted -->
-  <text x="78" y="51" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#94a3b8">open</text>
-  <!-- "Rig" in accent -->
-  <text x="161" y="51" font-family="system-ui, -apple-system, 'Segoe UI', sans-serif" font-size="30" font-weight="700" letter-spacing="-1" fill="#38bdf8">Rig</text>
+  <!-- ── Radio body ── -->
+  <rect class="rf" x="10" y="44" width="152" height="106" rx="8"/>
+
+  <!-- Carry handle (top center arc) -->
+  <path class="r" d="M 60 44 Q 60 26 86 26 Q 112 26 112 44"/>
+
+  <!-- Feet -->
+  <rect class="rf" x="18" y="146" width="18" height="9" rx="2.5"/>
+  <rect class="rf" x="136" y="146" width="18" height="9" rx="2.5"/>
+
+  <!-- Antenna base box -->
+  <rect class="rf" x="13" y="34" width="16" height="13" rx="2"/>
+
+  <!-- Antenna (two converging lines → telescoping look) -->
+  <line class="r" x1="14" y1="35" x2="52" y2="-12"/>
+  <line class="r" x1="24" y1="38" x2="62" y2="-9"/>
+  <!-- Tip ball -->
+  <circle class="rf" cx="57" cy="-12" r="4"/>
+
+  <!-- ── Speaker (left face, large circle with rings + spokes) ── -->
+  <!-- Outer ring -->
+  <circle class="rf" cx="63" cy="98" r="38"/>
+  <!-- Mid ring -->
+  <circle class="r"  cx="63" cy="98" r="28"/>
+  <!-- Inner ring -->
+  <circle class="r"  cx="63" cy="98" r="16"/>
+  <!-- Spokes (4, clipped between inner and outer ring) -->
+  <line class="r" x1="63" y1="60" x2="63" y2="82"/>
+  <line class="r" x1="63" y1="114" x2="63" y2="136"/>
+  <line class="r" x1="25" y1="98" x2="47" y2="98"/>
+  <line class="r" x1="79" y1="98" x2="101" y2="98"/>
+  <!-- Center hub -->
+  <circle class="rf" cx="63" cy="98" r="5"/>
+
+  <!-- ── Right panel ── -->
+
+  <!-- Display screen -->
+  <rect class="rf" x="108" y="53" width="44" height="26" rx="3"/>
+  <rect class="r"  x="112" y="57" width="36" height="18" rx="2"/>
+  <!-- Screen detail lines -->
+  <line class="r" x1="115" y1="63" x2="145" y2="63"/>
+  <line class="r" x1="115" y1="68" x2="138" y2="68"/>
+
+  <!-- Three small knobs top-right -->
+  <circle class="rf" cx="160" cy="57" r="5"/>
+  <circle class="rf" cx="160" cy="71" r="5"/>
+  <circle class="rf" cx="160" cy="85" r="5"/>
+
+  <!-- Button grid (3 cols × 2 rows) -->
+  <rect class="rf" x="108" y="86" width="13" height="8" rx="2"/>
+  <rect class="rf" x="125" y="86" width="13" height="8" rx="2"/>
+  <rect class="rf" x="142" y="86" width="13" height="8" rx="2"/>
+  <rect class="rf" x="108" y="99" width="13" height="8" rx="2"/>
+  <rect class="rf" x="125" y="99" width="13" height="8" rx="2"/>
+  <rect class="rf" x="142" y="99" width="13" height="8" rx="2"/>
+
+  <!-- Large tuning / volume knob (bottom right) -->
+  <circle class="rf" cx="152" cy="126" r="14"/>
+  <circle class="r"  cx="152" cy="126" r="8"/>
+  <line   class="r"  x1="152" y1="118" x2="152" y2="112"/>
+
+  <!-- Small bottom-row indicator buttons -->
+  <rect class="rf" x="108" y="114" width="9" height="5" rx="1.5"/>
+  <rect class="rf" x="121" y="114" width="9" height="5" rx="1.5"/>
+  <rect class="rf" x="134" y="114" width="9" height="5" rx="1.5"/>
+
+  <!-- ── Wordmark ── -->
+  <text x="182" y="108"
+        font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+        font-size="70" font-weight="700" letter-spacing="-2"
+        fill="#38bdf8">openRig</text>
+
+  <!-- ── Tagline ── -->
+  <text x="186" y="137"
+        font-family="system-ui, -apple-system, 'Segoe UI', sans-serif"
+        font-size="21" fill="#38bdf8">Any Radio, Any Mode, Anywhere!</text>
 </svg>
