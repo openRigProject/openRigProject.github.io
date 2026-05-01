@@ -387,18 +387,20 @@
       <!-- Step 1 -->
       <div class="card">
         <div class="card-icon">1️⃣</div>
-        <h3>Download &amp; Flash with Raspberry Pi Imager</h3>
-        <p style="margin-bottom:1rem">The easiest way to get started. Open Raspberry Pi Imager, click <strong>Choose OS → Use custom</strong>, and paste the URL below — or just download the image directly.</p>
-        <div style="background:#0f172a;border:1px solid #334155;border-radius:6px;padding:.6rem .75rem;font-size:.82rem;color:#94a3b8;word-break:break-all;margin-bottom:1rem;font-family:monospace">
-          https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-rpizero2w-arm64.img.xz
-        </div>
+        <h3>Download &amp; Flash</h3>
+        <p style="margin-bottom:1rem">Select your hardware, then flash with Raspberry Pi Imager using <strong>Choose OS → Use custom</strong>.</p>
+        <label style="font-size:.82rem;color:var(--muted);display:block;margin-bottom:.4rem">Select your board</label>
+        <select id="board-select" onchange="onBoardChange()"
+          style="width:100%;background:#0f172a;border:1px solid #475569;border-radius:6px;padding:.55rem .75rem;color:#e2e8f0;font-size:.93rem;margin-bottom:.85rem;cursor:pointer">
+          <option value="rpizero2w-arm64.img">Raspberry Pi Zero 2W</option>
+          <option value="rpi4-arm64.img">Raspberry Pi 4</option>
+          <option value="rpi5-arm64.img">Raspberry Pi 5</option>
+          <option value="x86_64-amd64.iso">x86_64 (Generic PC)</option>
+        </select>
+        <div id="dl-url" style="background:#0f172a;border:1px solid #334155;border-radius:6px;padding:.6rem .75rem;font-size:.78rem;color:#94a3b8;word-break:break-all;margin-bottom:1rem;font-family:monospace"></div>
         <div style="display:flex;gap:.6rem;flex-wrap:wrap">
-          <a href="https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-rpizero2w-arm64.img.xz" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">
-            ⬇ Download Image
-          </a>
-          <a href="https://www.raspberrypi.com/software/" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">
-            Get RPi Imager
-          </a>
+          <a id="dl-btn" href="#" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">⬇ Download Image</a>
+          <a href="https://www.raspberrypi.com/software/" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">Get RPi Imager</a>
         </div>
       </div>
 
@@ -428,6 +430,16 @@
 </footer>
 
 <script>
+  // Board selector
+  var BASE = 'https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-';
+  function onBoardChange() {
+    var val = document.getElementById('board-select').value;
+    var url = BASE + val + '.xz';
+    document.getElementById('dl-url').textContent = url;
+    document.getElementById('dl-btn').href = url;
+  }
+  onBoardChange();
+
   // Smooth active link highlight on scroll
   (function () {
     var sections = document.querySelectorAll('section[id]');
