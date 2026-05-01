@@ -251,6 +251,7 @@
     <li><a href="#features">Features</a></li>
     <li><a href="#products">Products</a></li>
     <li><a href="#get-started">Get Started</a></li>
+    <li><a href="#hotspot-guide">Hotspot Guide</a></li>
     <li><a href="https://github.com/openRigProject/openRig" target="_blank">GitHub</a></li>
   </ul>
 </nav>
@@ -421,6 +422,139 @@
         <p style="margin-top:.75rem;color:var(--muted);font-size:.9rem">Once provisioned, the management interface is always available at <strong>http://&lt;hostname&gt;.local</strong>.</p>
       </div>
 
+    </div>
+  </div>
+</section>
+
+<section id="hotspot-guide">
+  <div class="section-inner">
+    <div class="section-label">Hotspot Guide</div>
+    <h2 class="section-title">DMR / YSF Hotspot Quick Start</h2>
+    <p class="section-sub">Get your MMDVM_HS_Hat hotspot on the air with openRigOS.</p>
+
+    <!-- What you need -->
+    <h3 style="color:var(--accent);font-size:1rem;font-weight:700;margin:2rem 0 .75rem;text-transform:uppercase;letter-spacing:.06em">What You Need</h3>
+    <div class="cards" style="grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:.75rem">
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.35rem">Hardware</div>
+        <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;line-height:1.8">
+          <li>Raspberry Pi Zero 2W</li>
+          <li>MMDVM_HS_Hat (duplex or simplex)</li>
+          <li>microSD card (8 GB+)</li>
+          <li>USB-C power supply (5V / 2.5A+)</li>
+          <li>UHF antenna (SMA)</li>
+        </ul>
+      </div>
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.35rem">Accounts</div>
+        <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;line-height:1.8">
+          <li>Amateur radio licence with callsign</li>
+          <li><a href="https://brandmeister.network" target="_blank">BrandMeister</a> account (for DMR)</li>
+          <li>DMR ID from <a href="https://radioid.net" target="_blank">RadioID.net</a></li>
+          <li><a href="https://www.qrz.com" target="_blank">QRZ</a> XML subscription (optional, for map)</li>
+        </ul>
+      </div>
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.35rem">On Your Computer</div>
+        <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;line-height:1.8">
+          <li><a href="https://www.raspberrypi.com/software/" target="_blank">Raspberry Pi Imager</a></li>
+          <li>A phone or PC with WiFi</li>
+        </ul>
+      </div>
+    </div>
+
+    <!-- Steps -->
+    <h3 style="color:var(--accent);font-size:1rem;font-weight:700;margin:2rem 0 .75rem;text-transform:uppercase;letter-spacing:.06em">Setup Steps</h3>
+    <div style="display:flex;flex-direction:column;gap:.75rem">
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">1</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Flash the image</div>
+          <p style="color:var(--muted);font-size:.9rem">Download the <strong>Raspberry Pi Zero 2W</strong> image from the <a href="#get-started">Get Started</a> section. Open Raspberry Pi Imager, choose <em>Use custom</em>, select the <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">.img.xz</code> file, and flash to your microSD card. No pre-configuration needed.</p>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">2</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Assemble and power on</div>
+          <p style="color:var(--muted);font-size:.9rem">Seat the MMDVM_HS_Hat on the RPi Zero 2W GPIO header. Attach the UHF antenna. Insert the flashed SD card. Apply power via the USB-C port. The first boot takes about 60 seconds.</p>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">3</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Connect to the provisioning AP</div>
+          <p style="color:var(--muted);font-size:.9rem">On your phone or PC, join the WiFi network <strong><code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">openRig-XXXX</code></strong> (password: <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">openrigsetup</code>). Then open <strong>http://openrig-config.local</strong> in your browser. Alternatively connect via USB cable — the device appears as <strong>http://openrig.local</strong>.</p>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">4</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Provision the device</div>
+          <p style="color:var(--muted);font-size:.9rem">Fill in the provisioning wizard:</p>
+          <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;margin-top:.4rem;line-height:1.9">
+            <li><strong>Device type</strong> — select <em>Hotspot</em></li>
+            <li><strong>Callsign</strong> — your licence callsign</li>
+            <li><strong>DMR ID</strong> — your 7-digit ID from RadioID.net</li>
+            <li><strong>WiFi</strong> — your home network SSID and password</li>
+            <li><strong>Password</strong> — sets the SSH / management password</li>
+          </ul>
+          <p style="color:var(--muted);font-size:.9rem;margin-top:.5rem">Click <em>Provision Device</em>. The hotspot will connect to your WiFi and restart. Reconnect your computer to your normal WiFi.</p>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">5</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Configure DMR &amp; YSF</div>
+          <p style="color:var(--muted);font-size:.9rem">Browse to <strong>http://&lt;hostname&gt;.local/hotspot</strong> (e.g. <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">http://w1aw-hotspot.local/hotspot</code>). On the <strong>Hotspot</strong> tab:</p>
+          <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;margin-top:.4rem;line-height:1.9">
+            <li>Set <strong>RF Frequency</strong> (e.g. 438.8000 MHz) and <strong>TX offset</strong> if duplex</li>
+            <li>Enable <strong>DMR</strong>, choose network (<em>BrandMeister</em> or <em>DMR+</em>), enter your hotspot password from the network dashboard</li>
+            <li>Add <strong>talkgroups</strong> you want to monitor</li>
+            <li>Enable <strong>YSF</strong> if desired and select a reflector</li>
+            <li>Click <strong>Save Hotspot Config</strong></li>
+          </ul>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">6</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">Register with BrandMeister</div>
+          <p style="color:var(--muted);font-size:.9rem">Log in to <a href="https://brandmeister.network" target="_blank">brandmeister.network</a> → <em>Self Care → Hotspots</em>. Add a new hotspot with your DMR ID, set a security password, and match it to what you entered in openRig. Your hotspot should connect within a minute of saving.</p>
+        </div>
+      </div>
+
+      <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
+        <div style="background:var(--green);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">✓</div>
+        <div>
+          <div style="font-weight:700;margin-bottom:.3rem">On the air!</div>
+          <p style="color:var(--muted);font-size:.9rem">The <strong>Status</strong> tab shows live last-heard activity and plots callers on the map. Program your DMR radio to your hotspot frequency, time slot 2, colour code 1. Key up — you should see your callsign appear in the heard list within seconds.</p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- Tips -->
+    <h3 style="color:var(--accent);font-size:1rem;font-weight:700;margin:2rem 0 .75rem;text-transform:uppercase;letter-spacing:.06em">Tips &amp; Notes</h3>
+    <div class="cards" style="grid-template-columns:repeat(auto-fit,minmax(260px,1fr));gap:.75rem">
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.3rem">Frequency choice</div>
+        <p style="color:var(--muted);font-size:.9rem">Use a simplex frequency in the 70cm (430–440 MHz) band that is clear of local repeaters. Check your regional band plan. Keep RF power low — hotspots are personal devices for home/portable use.</p>
+      </div>
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.3rem">Management interface</div>
+        <p style="color:var(--muted);font-size:.9rem">The full management UI is always at <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">http://&lt;hostname&gt;.local/hotspot</code>. Use the <strong>Device</strong> tab to back up your config, update credentials, or export settings for a replacement unit.</p>
+      </div>
+      <div class="card" style="padding:1rem 1.25rem">
+        <div style="font-weight:700;margin-bottom:.3rem">SSH access</div>
+        <p style="color:var(--muted);font-size:.9rem">SSH is always enabled: <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">ssh openrig@&lt;hostname&gt;.local</code> using the password you set during provisioning. Useful for diagnostics and log viewing.</p>
+      </div>
     </div>
   </div>
 </section>
