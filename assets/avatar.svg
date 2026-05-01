@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="-10 -10 220 220" fill="none">
   <style>
     .r  { stroke: #38bdf8; stroke-width: 4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
-    .rf { stroke: #38bdf8; stroke-width: 4; fill: #0f172a; stroke-linecap: round; stroke-linejoin: round; }
+    .rf { stroke: #38bdf8; stroke-width: 4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
   </style>
 
   <!-- Background -->

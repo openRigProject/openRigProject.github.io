@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 -18 560 188" fill="none">
   <style>
     .r  { stroke: #38bdf8; stroke-width: 2.8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
-    .rf { stroke: #38bdf8; stroke-width: 2.8; fill: white; stroke-linecap: round; stroke-linejoin: round; }
+    .rf { stroke: #38bdf8; stroke-width: 2.8; fill: none; stroke-linecap: round; stroke-linejoin: round; }
   </style>
 
   <!-- ── Radio body ── -->
