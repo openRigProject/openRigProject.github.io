@@ -379,13 +379,45 @@
 <!-- Get Started -->
 <section id="get-started">
   <div class="section-inner">
-    <div class="callout">
-      <h2>Ready to get on the air?</h2>
-      <p>Flash openRigOS to an SD card, power on your Pi, and connect to the provisioning page from any browser on your network.</p>
-      <div class="hero-actions">
-        <a href="https://github.com/openRigProject/openRig/releases" target="_blank" class="btn btn-primary">Download Latest Release</a>
-        <a href="https://github.com/openRigProject/openRig" target="_blank" class="btn btn-secondary">Read the Docs</a>
+    <div class="section-label">Get Started</div>
+    <h2 class="section-title">Flash &amp; go</h2>
+    <p class="section-sub">Get openRigOS running on your hardware in minutes.</p>
+    <div class="cards" style="grid-template-columns:repeat(auto-fit,minmax(280px,1fr))">
+
+      <!-- Step 1 -->
+      <div class="card">
+        <div class="card-icon">1️⃣</div>
+        <h3>Download &amp; Flash with Raspberry Pi Imager</h3>
+        <p style="margin-bottom:1rem">The easiest way to get started. Open Raspberry Pi Imager, click <strong>Choose OS → Use custom</strong>, and paste the URL below — or just download the image directly.</p>
+        <div style="background:#0f172a;border:1px solid #334155;border-radius:6px;padding:.6rem .75rem;font-size:.82rem;color:#94a3b8;word-break:break-all;margin-bottom:1rem;font-family:monospace">
+          https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-rpizero2w-arm64.img.xz
+        </div>
+        <div style="display:flex;gap:.6rem;flex-wrap:wrap">
+          <a href="https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-rpizero2w-arm64.img.xz" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">
+            ⬇ Download Image
+          </a>
+          <a href="https://www.raspberrypi.com/software/" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">
+            Get RPi Imager
+          </a>
+        </div>
       </div>
+
+      <!-- Step 2 -->
+      <div class="card">
+        <div class="card-icon">2️⃣</div>
+        <h3>Boot &amp; Connect</h3>
+        <p>Insert the SD card into your Raspberry Pi and power it on. openRigOS will broadcast a <strong>WiFi hotspot</strong> named <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px;font-size:.85rem">openRig-Setup</code> on first boot.</p>
+        <p style="margin-top:.75rem;color:var(--muted);font-size:.9rem">Connect to it, then open <strong>http://openrig-config.local</strong> in your browser to begin provisioning.</p>
+      </div>
+
+      <!-- Step 3 -->
+      <div class="card">
+        <div class="card-icon">3️⃣</div>
+        <h3>Provision Your Device</h3>
+        <p>The built-in web wizard walks you through setting your callsign, WiFi, device type (hotspot, remote rig, or console), and any mode-specific settings.</p>
+        <p style="margin-top:.75rem;color:var(--muted);font-size:.9rem">Once provisioned, the management interface is always available at <strong>http://&lt;hostname&gt;.local</strong>.</p>
+      </div>
+
     </div>
   </div>
 </section>
