@@ -4,8 +4,6 @@
     .rf { stroke: #38bdf8; stroke-width: 4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
   </style>
 
-  <!-- Background -->
-  <rect x="-10" y="-10" width="220" height="220" rx="44" fill="#0f172a"/>
 
   <!-- Radio body -->
   <rect class="rf" x="12" y="52" width="176" height="120" rx="9"/>
