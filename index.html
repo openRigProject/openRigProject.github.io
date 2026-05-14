@@ -281,7 +281,7 @@
       <div class="card">
         <div class="card-icon">📡</div>
         <h3>Hotspot Support</h3>
-        <p>Run YSF, DMR, and cross-mode hotspots on Raspberry Pi hardware with a clean web interface and automatic reflector management.</p>
+        <p>Run YSF and DMR hotspots on Raspberry Pi hardware with a clean web interface and reflector management. YSF is fully tested; DMR support is in active development.</p>
       </div>
       <div class="card">
         <div class="card-icon">🖥️</div>
@@ -328,7 +328,7 @@
             <span class="tag">Raspberry Pi Zero 2W</span>
             <span class="tag">RPi 4 / 5</span>
             <span class="tag">x86_64</span>
-            <span class="tag">YSF</span>
+            <span class="tag">YSF ✓</span>
             <span class="tag">DMR</span>
             <span class="tag">hamlib</span>
           </div>
@@ -480,8 +480,11 @@
 <section id="hotspot-guide">
   <div class="section-inner">
     <div class="section-label">Hotspot Guide</div>
-    <h2 class="section-title">DMR / YSF Hotspot Quick Start</h2>
-    <p class="section-sub">Get your MMDVM_HS_Hat hotspot on the air with openRigOS.</p>
+    <h2 class="section-title">YSF / DMR Hotspot Quick Start</h2>
+    <p class="section-sub">Get your MMDVM_HS_Hat hotspot on the air with openRigOS. You can run YSF, DMR, or both — enable whichever modes suit your radio.</p>
+    <div style="background:rgba(74,222,128,.08);border:1px solid rgba(74,222,128,.25);border-radius:10px;padding:.9rem 1.25rem;margin-bottom:1.5rem;font-size:.9rem;color:var(--text)">
+      <strong style="color:var(--green)">✓ YSF fully tested</strong> &nbsp;·&nbsp; YSF (Yaesu System Fusion) is the recommended starting point — it is the only mode that has been completely tested end-to-end at this stage. DMR is supported in the firmware and UI but has seen less testing. Neither mode is required; enable what works for your radio.
+    </div>
 
     <!-- What you need -->
     <h3 style="color:var(--accent);font-size:1rem;font-weight:700;margin:2rem 0 .75rem;text-transform:uppercase;letter-spacing:.06em">What You Need</h3>
@@ -500,8 +503,8 @@
         <div style="font-weight:700;margin-bottom:.35rem">Accounts</div>
         <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;line-height:1.8">
           <li>Amateur radio licence with callsign</li>
-          <li><a href="https://brandmeister.network" target="_blank">BrandMeister</a> account (for DMR)</li>
-          <li>DMR ID from <a href="https://radioid.net" target="_blank">RadioID.net</a></li>
+          <li><em>For YSF:</em> a free account on your chosen YSF reflector network (e.g. YSFReflector.com)</li>
+          <li><em>For DMR:</em> <a href="https://radioid.net" target="_blank">RadioID.net</a> DMR ID + <a href="https://brandmeister.network" target="_blank">BrandMeister</a> account</li>
           <li><a href="https://www.qrz.com" target="_blank">QRZ</a> XML subscription (optional, for map)</li>
         </ul>
       </div>
@@ -561,13 +564,12 @@
       <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
         <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">5</div>
         <div>
-          <div style="font-weight:700;margin-bottom:.3rem">Configure DMR &amp; YSF</div>
-          <p style="color:var(--muted);font-size:.9rem">Browse to <strong>http://&lt;hostname&gt;.local/hotspot</strong> (e.g. <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">http://w1aw-hotspot.local/hotspot</code>). On the <strong>Hotspot</strong> tab:</p>
+          <div style="font-weight:700;margin-bottom:.3rem">Configure your mode(s)</div>
+          <p style="color:var(--muted);font-size:.9rem">Browse to <strong>http://&lt;hostname&gt;.local/hotspot</strong> (e.g. <code style="background:#0f172a;padding:.1rem .35rem;border-radius:3px">http://w1aw-hotspot.local/hotspot</code>). On the <strong>Hotspot</strong> tab, set your RF frequency first, then enable the mode(s) you want:</p>
           <ul style="color:var(--muted);font-size:.9rem;padding-left:1.1rem;margin-top:.4rem;line-height:1.9">
             <li>Set <strong>RF Frequency</strong> (e.g. 438.8000 MHz) and <strong>TX offset</strong> if duplex</li>
-            <li>Enable <strong>DMR</strong>, choose network (<em>BrandMeister</em> or <em>DMR+</em>), enter your hotspot password from the network dashboard</li>
-            <li>Add <strong>talkgroups</strong> you want to monitor</li>
-            <li>Enable <strong>YSF</strong> if desired and select a reflector</li>
+            <li><strong>YSF</strong> — enable YSF and select a reflector. Recommended starting point; fully tested.</li>
+            <li><strong>DMR</strong> — enable DMR, choose network (<em>BrandMeister</em> or <em>DMR+</em>), enter your hotspot security password. Requires a DMR ID (see Accounts above).</li>
             <li>Click <strong>Save Hotspot Config</strong></li>
           </ul>
         </div>
@@ -576,8 +578,9 @@
       <div class="card" style="display:flex;gap:1.25rem;align-items:flex-start;padding:1.25rem 1.5rem">
         <div style="background:var(--accent);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">6</div>
         <div>
-          <div style="font-weight:700;margin-bottom:.3rem">Register with BrandMeister</div>
-          <p style="color:var(--muted);font-size:.9rem">Log in to <a href="https://brandmeister.network" target="_blank">brandmeister.network</a> → <em>Self Care → Hotspots</em>. Add a new hotspot with your DMR ID, set a security password, and match it to what you entered in openRig. Your hotspot should connect within a minute of saving.</p>
+          <div style="font-weight:700;margin-bottom:.3rem">Connect to your network</div>
+          <p style="color:var(--muted);font-size:.9rem"><strong>YSF:</strong> Your hotspot links to the selected reflector automatically when the config is saved — no account registration required. You can change or unlink the reflector at any time from the Status tab.</p>
+          <p style="color:var(--muted);font-size:.9rem;margin-top:.5rem"><strong>DMR (if enabled):</strong> Log in to <a href="https://brandmeister.network" target="_blank">brandmeister.network</a> → <em>Self Care → Hotspots</em>. Add a hotspot with your DMR ID and set the security password to match what you entered in openRig. The hotspot should connect within a minute.</p>
         </div>
       </div>
 
@@ -585,7 +588,8 @@
         <div style="background:var(--green);color:#0f172a;font-weight:800;font-size:1rem;border-radius:50%;width:2rem;height:2rem;display:flex;align-items:center;justify-content:center;flex-shrink:0">✓</div>
         <div>
           <div style="font-weight:700;margin-bottom:.3rem">On the air!</div>
-          <p style="color:var(--muted);font-size:.9rem">The <strong>Status</strong> tab shows live last-heard activity and plots callers on the map. Program your DMR radio to your hotspot frequency, time slot 2, colour code 1. Key up — you should see your callsign appear in the heard list within seconds.</p>
+          <p style="color:var(--muted);font-size:.9rem">The <strong>Status</strong> tab shows live last-heard activity and plots callers on the map. Program your radio to your hotspot frequency, key up, and you should see your callsign appear in the heard list within seconds.</p>
+          <p style="color:var(--muted);font-size:.9rem;margin-top:.5rem"><strong>YSF:</strong> Set your radio to DN mode, dial in your hotspot frequency, and transmit. <strong>DMR:</strong> Set time slot 2, colour code 1.</p>
         </div>
       </div>
 
