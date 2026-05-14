@@ -383,23 +383,61 @@
 <section id="download">
   <div class="section-inner">
     <div class="section-label">Download</div>
-    <h2 class="section-title">openRigConsole</h2>
-    <p class="section-sub">Desktop logging and rig control for macOS, Windows, and Linux.</p>
-    <div id="dl-console-version" style="font-size:.85rem;color:var(--muted);margin-bottom:1.5rem">Checking for latest release…</div>
-    <div style="display:flex;gap:1rem;flex-wrap:wrap;margin-bottom:2rem">
-      <a id="dl-mac" href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-primary" style="min-width:180px">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
-        macOS
-      </a>
-      <a id="dl-win" href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-primary" style="min-width:180px">
-        <svg width="16" height="16" viewBox="0 0 24 24" fill="currentColor"><path d="M3 5.557L10.447 4.5v7.02H3V5.557zm0 12.886L10.447 19.5V12.52H3v5.923zM11.553 4.35L21 3v8.52h-9.447V4.35zm0 15.3L21 21v-8.48h-9.447v7.13z"/></svg>
-        Windows
-      </a>
-      <a href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-secondary">
-        All releases ↗
-      </a>
+    <h2 class="section-title">Get openRig</h2>
+    <p class="section-sub">Choose what you need — the OS image for your Raspberry Pi hardware, the desktop app for your computer, or both.</p>
+    <div style="display:grid;grid-template-columns:repeat(auto-fit,minmax(300px,1fr));gap:1.5rem">
+
+      <!-- openRigOS -->
+      <div class="card">
+        <div style="display:flex;align-items:center;gap:.75rem;margin-bottom:.5rem">
+          <span style="font-size:1.8rem">🐧</span>
+          <div>
+            <h3 style="margin:0">openRigOS</h3>
+            <div style="font-size:.78rem;color:var(--muted)">For Raspberry Pi &amp; x86 hardware</div>
+          </div>
+        </div>
+        <p style="color:var(--muted);font-size:.9rem;margin-bottom:1.25rem">Flash to a microSD card and run on your Pi. Supports hotspot, remote rig CAT control, and console roles.</p>
+        <label style="font-size:.82rem;color:var(--muted);display:block;margin-bottom:.4rem">Select your board</label>
+        <select id="board-select" onchange="onBoardChange()"
+          style="width:100%;background:#0f172a;border:1px solid #475569;border-radius:6px;padding:.55rem .75rem;color:#e2e8f0;font-size:.93rem;margin-bottom:.75rem;cursor:pointer">
+          <option value="rpizero2w-arm64.img">Raspberry Pi Zero 2W</option>
+          <option value="rpi4-arm64.img">Raspberry Pi 4</option>
+          <option value="rpi5-arm64.img">Raspberry Pi 5</option>
+          <option value="x86_64-amd64.iso">x86_64 (Generic PC)</option>
+        </select>
+        <div id="dl-url" style="background:#0f172a;border:1px solid #334155;border-radius:6px;padding:.6rem .75rem;font-size:.78rem;color:#94a3b8;word-break:break-all;margin-bottom:.85rem;font-family:monospace"></div>
+        <div style="display:flex;gap:.6rem;flex-wrap:wrap">
+          <a id="dl-btn" href="#" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">⬇ Download Image</a>
+          <a href="https://www.raspberrypi.com/software/" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">Get RPi Imager</a>
+        </div>
+      </div>
+
+      <!-- openRigConsole -->
+      <div class="card">
+        <div style="display:flex;align-items:center;gap:.75rem;margin-bottom:.5rem">
+          <span style="font-size:1.8rem">🖥️</span>
+          <div>
+            <h3 style="margin:0">openRigConsole</h3>
+            <div style="font-size:.78rem;color:var(--muted)">For your Mac or Windows PC</div>
+          </div>
+        </div>
+        <p style="color:var(--muted);font-size:.9rem;margin-bottom:.5rem">Full-featured desktop logging and rig control app. Log QSOs, watch DX spots, and control your rig.</p>
+        <div id="dl-console-version" style="font-size:.82rem;color:var(--muted);margin-bottom:1.25rem;min-height:1.2em">Checking for latest release…</div>
+        <div style="display:flex;gap:.6rem;flex-wrap:wrap;margin-bottom:.85rem">
+          <a id="dl-mac" href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M18.71 19.5c-.83 1.24-1.71 2.45-3.05 2.47-1.34.03-1.77-.79-3.29-.79-1.53 0-2 .77-3.27.82-1.31.05-2.3-1.32-3.14-2.53C4.25 17 2.94 12.45 4.7 9.39c.87-1.52 2.43-2.48 4.12-2.51 1.28-.02 2.5.87 3.29.87.78 0 2.26-1.07 3.8-.91.65.03 2.47.26 3.64 1.98-.09.06-2.17 1.28-2.15 3.81.03 3.02 2.65 4.03 2.68 4.04-.03.07-.42 1.44-1.38 2.83M13 3.5c.73-.83 1.94-1.46 2.94-1.5.13 1.17-.34 2.35-1.04 3.19-.69.85-1.83 1.51-2.95 1.42-.15-1.15.41-2.35 1.05-3.11z"/></svg>
+            macOS
+          </a>
+          <a id="dl-win" href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">
+            <svg width="14" height="14" viewBox="0 0 24 24" fill="currentColor"><path d="M3 5.557L10.447 4.5v7.02H3V5.557zm0 12.886L10.447 19.5V12.52H3v5.923zM11.553 4.35L21 3v8.52h-9.447V4.35zm0 15.3L21 21v-8.48h-9.447v7.13z"/></svg>
+            Windows
+          </a>
+          <a href="https://github.com/openRigProject/openRigConsole/releases/latest" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">All releases ↗</a>
+        </div>
+        <p style="font-size:.82rem;color:var(--muted)">Linux: build from source — <a href="https://github.com/openRigProject/openRigConsole" target="_blank">openRigConsole repo</a>, requires Flutter 3.x.</p>
+      </div>
+
     </div>
-    <p style="font-size:.85rem;color:var(--muted)">Linux users: build from source via the <a href="https://github.com/openRigProject/openRigConsole" target="_blank">openRigConsole repository</a>. Requires Flutter 3.x.</p>
   </div>
 </section>
 
@@ -415,20 +453,8 @@
       <div class="card">
         <div class="card-icon">1️⃣</div>
         <h3>Download &amp; Flash</h3>
-        <p style="margin-bottom:1rem">Select your hardware, then flash with Raspberry Pi Imager using <strong>Choose OS → Use custom</strong>.</p>
-        <label style="font-size:.82rem;color:var(--muted);display:block;margin-bottom:.4rem">Select your board</label>
-        <select id="board-select" onchange="onBoardChange()"
-          style="width:100%;background:#0f172a;border:1px solid #475569;border-radius:6px;padding:.55rem .75rem;color:#e2e8f0;font-size:.93rem;margin-bottom:.85rem;cursor:pointer">
-          <option value="rpizero2w-arm64.img">Raspberry Pi Zero 2W</option>
-          <option value="rpi4-arm64.img">Raspberry Pi 4</option>
-          <option value="rpi5-arm64.img">Raspberry Pi 5</option>
-          <option value="x86_64-amd64.iso">x86_64 (Generic PC)</option>
-        </select>
-        <div id="dl-url" style="background:#0f172a;border:1px solid #334155;border-radius:6px;padding:.6rem .75rem;font-size:.78rem;color:#94a3b8;word-break:break-all;margin-bottom:1rem;font-family:monospace"></div>
-        <div style="display:flex;gap:.6rem;flex-wrap:wrap">
-          <a id="dl-btn" href="#" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">⬇ Download Image</a>
-          <a href="https://www.raspberrypi.com/software/" target="_blank" class="btn btn-secondary" style="font-size:.85rem;padding:.5rem 1rem">Get RPi Imager</a>
-        </div>
+        <p style="margin-bottom:1rem">Download the <strong>openRigOS</strong> image for your board from the <a href="#download">Download section</a>, then flash it to a microSD card with Raspberry Pi Imager using <strong>Choose OS → Use custom</strong>.</p>
+        <a href="#download" class="btn btn-primary" style="font-size:.85rem;padding:.5rem 1rem">⬇ Go to Downloads</a>
       </div>
 
       <!-- Step 2 -->
