@@ -627,7 +627,7 @@
 <script>
   // openRigConsole latest release
   (function () {
-    fetch('https://api.github.com/repos/openRigProject/openRigConsole/releases/latest')
+    fetch('https://api.github.com/repos/openRigProject/openRigConsole/releases/latest', {cache: 'no-store'})
       .then(function (r) { return r.json(); })
       .then(function (data) {
         var version = data.tag_name || '';
@@ -652,7 +652,7 @@
 
   // openRigOS latest release version label
   (function () {
-    fetch('https://api.github.com/repos/openRigProject/openRigOS/releases/latest')
+    fetch('https://api.github.com/repos/openRigProject/openRigOS/releases/latest', {cache: 'no-store'})
       .then(function (r) { return r.json(); })
       .then(function (data) {
         var version = data.tag_name || '';
