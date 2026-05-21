@@ -400,7 +400,8 @@
             <div style="font-size:.78rem;color:var(--muted)">For Raspberry Pi &amp; x86 hardware</div>
           </div>
         </div>
-        <p style="color:var(--muted);font-size:.9rem;margin-bottom:1.25rem">Flash to a microSD card and run on your Pi. Supports hotspot, remote rig CAT control, and console roles.</p>
+        <p style="color:var(--muted);font-size:.9rem;margin-bottom:.5rem">Flash to a microSD card and run on your Pi. Supports hotspot, remote rig CAT control, and console roles.</p>
+        <div id="dl-os-version" style="font-size:.82rem;color:var(--muted);margin-bottom:1.25rem;min-height:1.2em">Checking for latest release…</div>
         <label style="font-size:.82rem;color:var(--muted);display:block;margin-bottom:.4rem">Select your board</label>
         <select id="board-select" onchange="onBoardChange()"
           style="width:100%;background:#0f172a;border:1px solid #475569;border-radius:6px;padding:.55rem .75rem;color:#e2e8f0;font-size:.93rem;margin-bottom:.75rem;cursor:pointer">
@@ -646,6 +647,21 @@
       })
       .catch(function () {
         document.getElementById('dl-console-version').textContent = '';
+      });
+  })();
+
+  // openRigOS latest release version label
+  (function () {
+    fetch('https://api.github.com/repos/openRigProject/openRigOS/releases/latest')
+      .then(function (r) { return r.json(); })
+      .then(function (data) {
+        var version = data.tag_name || '';
+        var el = document.getElementById('dl-os-version');
+        if (version) el.textContent = 'Latest release: ' + version;
+        else el.textContent = '';
+      })
+      .catch(function () {
+        document.getElementById('dl-os-version').textContent = '';
       });
   })();
 
