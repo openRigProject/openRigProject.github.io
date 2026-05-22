@@ -1548,7 +1548,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.17.111.104",
+      "ipv4": "79.47.246.23",
       "ipv6": null
     },
     {
@@ -1713,7 +1713,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.42.10",
+      "ipv4": "75.161.84.248",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -5794,7 +5794,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.210.5.77",
+      "ipv4": "78.87.135.143",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.32.254",
-      "ipv6": "2001:9e8:406a:d734:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.115",
+      "ipv6": "2001:9e8:406a:e5d9:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10062,7 +10062,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.171.59.47",
+      "ipv4": "95.237.249.210",
       "ipv6": null
     },
     {
@@ -10106,7 +10106,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.40",
+      "ipv4": "192.253.246.42",
       "ipv6": null
     },
     {
@@ -12042,8 +12042,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14088,7 +14088,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
@@ -16574,7 +16574,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "212.171.59.47",
+      "ipv4": "95.237.249.210",
       "ipv6": null
     },
     {
@@ -17311,7 +17311,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.136.33",
+      "ipv4": "87.17.146.123",
       "ipv6": null
     },
     {
