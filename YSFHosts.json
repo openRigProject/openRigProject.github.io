@@ -9373,6 +9373,17 @@
       "ipv6": null
     },
     {
+      "designator": "31052",
+      "country": "US",
+      "name": "ReflectorHost",
+      "use_xx_prefix": false,
+      "description": "testREF",
+      "user_count": "000",
+      "port": 42100,
+      "ipv4": "86.63.149.47",
+      "ipv6": null
+    },
+    {
       "designator": "31059",
       "country": "US",
       "name": "vidalia net",
@@ -10073,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.234.24.211",
+      "ipv4": "172.239.57.117",
       "ipv6": null
     },
     {
@@ -14088,8 +14099,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
