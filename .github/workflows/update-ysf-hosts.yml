@@ -1,0 +1,41 @@
+name: Update YSFHosts.json
+
+on:
+  schedule:
+    - cron: '*/30 * * * *'
+  workflow_dispatch:
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Fetch and convert YSF reflectors
+        env:
+          DVREF_TOKEN: ${{ secrets.DVREF_TOKEN }}
+        run: |
+          curl -fsSL \
+            -H "Accept: application/json" \
+            -H "Authorization: Token ${DVREF_TOKEN}" \
+            -A "openRig-host-updater/1.0" \
+            "https://dvref.com/api/v2/ysf/reflectors/" \
+          | jq '{reflectors:[.data.reflectors[]|{designator,country,name,use_xx_prefix,description:(.description//""),user_count:(.user_count//"000"),port:(.port//42000),ipv4:(.ipv4//null),ipv6:(.ipv6//null)}]}' \
+          > YSFHosts.json
+
+          echo "Reflector count: $(jq '.reflectors|length' YSFHosts.json)"
+
+      - name: Commit if changed
+        run: |
+          git config user.name  "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add YSFHosts.json
+          if git diff --cached --quiet; then
+            echo "No changes."
+          else
+            git commit -m "chore: update YSFHosts.json $(date -u +%Y-%m-%dT%H:%MZ)"
+            git push
+          fi
