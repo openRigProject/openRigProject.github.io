@@ -1002,6 +1002,17 @@
       "ipv6": null
     },
     {
+      "designator": "00211",
+      "country": "FR",
+      "name": "XLX211",
+      "use_xx_prefix": false,
+      "description": "XLX211 powered",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "84.97.38.108",
+      "ipv6": null
+    },
+    {
       "designator": "00212",
       "country": "US",
       "name": "NYC-LINK",
@@ -9314,7 +9325,7 @@
       "description": "YCS311",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "173.27.101.203",
+      "ipv4": "173.30.248.227",
       "ipv6": null
     },
     {
@@ -10073,7 +10084,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.40.210.196",
+      "ipv4": "79.25.244.108",
       "ipv6": null
     },
     {
@@ -10084,7 +10095,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.234.24.211",
+      "ipv4": "172.239.57.117",
       "ipv6": null
     },
     {
@@ -12054,7 +12065,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14099,7 +14110,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
@@ -16585,7 +16596,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.40.210.196",
+      "ipv4": "79.25.244.108",
       "ipv6": null
     },
     {
