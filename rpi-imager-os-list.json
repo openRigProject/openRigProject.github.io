@@ -6,8 +6,8 @@
       "icon": "https://openrigproject.github.io/assets/avatar.png",
       "url": "https://github.com/openRigProject/openRigOS/releases/latest/download/openRigOS-rpizero2w-arm64.img.xz",
       "extract_size": 2147483648,
-      "image_download_size": 220946800,
-      "release_date": "2026-05-22",
+      "image_download_size": 220939320,
+      "release_date": "2026-05-23",
       "init_format": "systemd",
       "devices": [
         "Raspberry Pi Zero 2W",
