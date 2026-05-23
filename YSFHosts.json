@@ -2934,7 +2934,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3607,17 +3607,6 @@
       "port": 42000,
       "ipv4": "167.99.62.115",
       "ipv6": null
-    },
-    {
-      "designator": "06317",
-      "country": "GB",
-      "name": "CHASE-ROOM",
-      "use_xx_prefix": false,
-      "description": "chaseroom",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "217.44.154.82",
-      "ipv6": "2a00:23cc:ed13:d901:40e5:1aa3:e0a4:10eb"
     },
     {
       "designator": "06381",
@@ -6702,7 +6691,7 @@
     {
       "designator": "22200",
       "country": "IT",
-      "name": "Benacus",
+      "name": "C4FM-ELBA",
       "use_xx_prefix": false,
       "description": "YSFReflector",
       "user_count": "000",
@@ -10095,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.239.57.117",
+      "ipv4": "172.234.24.211",
       "ipv6": null
     },
     {
@@ -12065,7 +12054,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
