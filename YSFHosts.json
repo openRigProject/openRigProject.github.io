@@ -1002,17 +1002,6 @@
       "ipv6": null
     },
     {
-      "designator": "00211",
-      "country": "FR",
-      "name": "XLX211",
-      "use_xx_prefix": false,
-      "description": "XLX211 powered",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "84.97.38.108",
-      "ipv6": null
-    },
-    {
       "designator": "00212",
       "country": "US",
       "name": "NYC-LINK",
@@ -3606,6 +3595,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "167.99.62.115",
+      "ipv6": null
+    },
+    {
+      "designator": "06317",
+      "country": "GB",
+      "name": "CHASE-ROOM",
+      "use_xx_prefix": false,
+      "description": "chaseroom",
+      "user_count": "000",
+      "port": 42250,
+      "ipv4": "86.129.222.187",
       "ipv6": null
     },
     {
@@ -12054,7 +12054,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
