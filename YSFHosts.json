@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.41.89.241",
+      "ipv4": "87.8.247.252",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.239.57.117",
+      "ipv4": "172.234.24.211",
       "ipv6": null
     },
     {
@@ -11965,7 +11965,7 @@
       "description": "BR6QBD-WUHAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "58.48.104.139",
+      "ipv4": "221.232.100.135",
       "ipv6": null
     },
     {
@@ -14100,7 +14100,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -16596,7 +16596,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.41.89.241",
+      "ipv4": "87.8.247.252",
       "ipv6": null
     },
     {
