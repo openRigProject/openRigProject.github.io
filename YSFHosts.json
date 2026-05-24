@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.44.242.74",
+      "ipv4": "79.41.89.241",
       "ipv6": null
     },
     {
@@ -12053,8 +12053,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -12328,7 +12328,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.239.92",
+      "ipv4": "151.63.156.98",
       "ipv6": null
     },
     {
@@ -14099,8 +14099,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15266,6 +15266,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "51.38.82.109",
+      "ipv6": null
+    },
+    {
+      "designator": "70600",
+      "country": "IT",
+      "name": "TESTREF-B",
+      "use_xx_prefix": false,
+      "description": "TESTREF-B",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "178.105.140.155",
       "ipv6": null
     },
     {
@@ -16585,7 +16596,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.44.242.74",
+      "ipv4": "79.41.89.241",
       "ipv6": null
     },
     {
