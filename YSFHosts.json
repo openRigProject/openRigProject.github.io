@@ -1515,7 +1515,7 @@
       "description": "VE2SUS REF420",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.163.174.236",
+      "ipv4": "198.16.209.187",
       "ipv6": null
     },
     {
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -9716,7 +9716,7 @@
     {
       "designator": "31445",
       "country": "US",
-      "name": "Quahog Networ",
+      "name": "RI DIGITALINK",
       "use_xx_prefix": false,
       "description": "QuahogRepeater",
       "user_count": "000",
@@ -11646,7 +11646,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.189.214",
+      "ipv4": "77.189.7.59",
       "ipv6": null
     },
     {
@@ -12054,7 +12054,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14099,7 +14099,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
