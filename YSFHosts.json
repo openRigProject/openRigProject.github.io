@@ -3286,7 +3286,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "193.37.46.106",
+      "ipv4": "87.121.37.210",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.50",
-      "ipv6": "2001:9e8:406a:2e3c:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.34.184",
+      "ipv6": "2001:9e8:406a:386f:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.20.60.219",
+      "ipv4": "87.8.245.231",
       "ipv6": null
     },
     {
@@ -11844,8 +11844,8 @@
       "description": "XLX311",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.211.201.183",
-      "ipv6": "2003:f9:af3b:ad01:be24:11ff:fe93:2c45"
+      "ipv4": "217.233.23.205",
+      "ipv6": "2003:f9:af1a:e201:be24:11ff:fe93:2c45"
     },
     {
       "designator": "45742",
@@ -12053,7 +12053,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -14099,7 +14099,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
@@ -14825,7 +14825,7 @@
       "description": "TG46028",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "110.191.248.105",
+      "ipv4": "171.217.141.137",
       "ipv6": null
     },
     {
@@ -16596,7 +16596,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.20.60.219",
+      "ipv4": "87.8.245.231",
       "ipv6": null
     },
     {
