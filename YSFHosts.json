@@ -2203,9 +2203,9 @@
     {
       "designator": "00823",
       "country": "US",
-      "name": "XLX823",
+      "name": "URF823",
       "use_xx_prefix": false,
-      "description": "KD2QQV-YSF-823",
+      "description": "URF823",
       "user_count": "000",
       "port": 42000,
       "ipv4": "24.104.209.133",
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.239.57.117",
+      "ipv4": "172.234.24.211",
       "ipv6": null
     },
     {
@@ -13901,7 +13901,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.236.74.147",
+      "ipv4": "90.236.191.114",
       "ipv6": null
     },
     {
@@ -14099,8 +14099,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15552,7 +15552,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.188.123",
-      "ipv6": "2804:7f0:b771:2453:e011:d86b:9ee8:f10e"
+      "ipv6": "2804:7f0:b771:2453:e0cd:42ab:8e00:4c12"
     },
     {
       "designator": "72420",
