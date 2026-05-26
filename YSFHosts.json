@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -5805,7 +5805,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.207.135",
+      "ipv4": "93.130.143.113",
       "ipv6": null
     },
     {
@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.2.165.94",
+      "ipv4": "95.237.243.181",
       "ipv6": null
     },
     {
@@ -11646,7 +11646,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.7.59",
+      "ipv4": "77.184.211.88",
       "ipv6": null
     },
     {
@@ -12054,7 +12054,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14748,8 +14748,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14759,8 +14759,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14770,8 +14770,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14781,8 +14781,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14792,8 +14792,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.229.252",
-      "ipv6": "2003:c9:8fff:2d48:e228:6dff:fe74:b559"
+      "ipv4": "91.16.237.50",
+      "ipv6": "2003:c9:8fff:ee0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15530,7 +15530,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.188.123",
-      "ipv6": "2804:7f0:b771:2453:e0cd:42ab:8e00:4c12"
+      "ipv6": "2804:7f0:b771:2453:e011:d86b:9ee8:f10e"
     },
     {
       "designator": "72407",
@@ -15541,7 +15541,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.188.123",
-      "ipv6": "2804:7f0:b771:2453:e0cd:42ab:8e00:4c12"
+      "ipv6": "2804:7f0:b771:2453:e011:d86b:9ee8:f10e"
     },
     {
       "designator": "72420",
@@ -16134,8 +16134,8 @@
       "description": "Texas i35 Hams",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.237.138.46",
-      "ipv6": "2600:3c00::f03c:93ff:fe7b:dbd5"
+      "ipv4": "104.21.28.148",
+      "ipv6": "2606:4700:3031::ac43:92be"
     },
     {
       "designator": "75791",
@@ -16585,7 +16585,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "87.2.165.94",
+      "ipv4": "95.237.243.181",
       "ipv6": null
     },
     {
