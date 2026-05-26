@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3286,7 +3286,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "94.156.108.198",
+      "ipv4": "91.92.3.228",
       "ipv6": null
     },
     {
@@ -5794,7 +5794,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.106.236",
+      "ipv4": "178.59.159.250",
       "ipv6": null
     },
     {
@@ -8957,9 +8957,9 @@
     {
       "designator": "28804",
       "country": "GB",
-      "name": "NWMG",
+      "name": "NWFG5",
       "use_xx_prefix": false,
-      "description": "NWMG",
+      "description": "NWFG5",
       "user_count": "000",
       "port": 42000,
       "ipv4": "154.61.61.38",
@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.48.2.184",
+      "ipv4": "79.24.247.191",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.234.24.211",
+      "ipv4": "172.239.57.117",
       "ipv6": null
     },
     {
@@ -11646,7 +11646,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.184.211.88",
+      "ipv4": "77.189.45.176",
       "ipv6": null
     },
     {
@@ -12053,7 +12053,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3036::6815:88d"
     },
     {
@@ -14099,8 +14099,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -16585,7 +16585,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "82.48.2.184",
+      "ipv4": "79.24.247.191",
       "ipv6": null
     },
     {
