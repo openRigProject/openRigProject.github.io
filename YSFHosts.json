@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5145,7 +5145,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.179",
+      "ipv4": "88.207.73.18",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.32.242",
-      "ipv6": "2001:9e8:406a:3be7:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.15",
+      "ipv6": "2001:9e8:406a:46d1:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10073,7 +10073,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.237.243.181",
+      "ipv4": "79.41.98.138",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.239.57.117",
+      "ipv4": "172.234.24.211",
       "ipv6": null
     },
     {
@@ -10117,7 +10117,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.39",
+      "ipv4": "192.253.246.43",
       "ipv6": null
     },
     {
@@ -12054,7 +12054,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14099,8 +14099,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -16134,8 +16134,8 @@
       "description": "Texas i35 Hams",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.28.148",
-      "ipv6": "2606:4700:3031::ac43:92be"
+      "ipv4": "104.237.138.46",
+      "ipv6": "2600:3c00::f03c:93ff:fe7b:dbd5"
     },
     {
       "designator": "75791",
@@ -16585,7 +16585,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "95.237.243.181",
+      "ipv4": "79.41.98.138",
       "ipv6": null
     },
     {
@@ -17322,7 +17322,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.51.35.106",
+      "ipv4": "87.7.140.81",
       "ipv6": null
     },
     {
