@@ -2802,7 +2802,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.28.112.207",
+      "ipv4": "188.29.9.220",
       "ipv6": null
     },
     {
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.234.24.211",
+      "ipv4": "172.239.57.117",
       "ipv6": null
     },
     {
