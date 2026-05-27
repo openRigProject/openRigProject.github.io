@@ -5794,7 +5794,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.31.6",
+      "ipv4": "89.210.15.93",
       "ipv6": null
     },
     {
@@ -6916,7 +6916,7 @@
       "description": "TE YSF Room",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "95.252.182.167",
+      "ipv4": "80.116.169.114",
       "ipv6": null
     },
     {
@@ -6927,7 +6927,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.252.182.167",
+      "ipv4": "80.116.169.114",
       "ipv6": null
     },
     {
@@ -10095,7 +10095,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.239.57.117",
+      "ipv4": "172.234.24.211",
       "ipv6": null
     },
     {
@@ -12064,8 +12064,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14633,9 +14633,9 @@
     {
       "designator": "63452",
       "country": "US",
-      "name": "URF552",
+      "name": "Northern Comm",
       "use_xx_prefix": false,
-      "description": "URF552",
+      "description": "",
       "user_count": "000",
       "port": 42000,
       "ipv4": "47.33.195.49",
