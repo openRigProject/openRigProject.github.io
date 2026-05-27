@@ -3286,7 +3286,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "151.43.16.232",
+      "ipv4": "87.120.234.2",
       "ipv6": null
     },
     {
@@ -5794,7 +5794,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.210.15.93",
+      "ipv4": "46.177.254.207",
       "ipv6": null
     },
     {
@@ -7796,7 +7796,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "95.145.196.98",
+      "ipv4": "109.159.124.15",
       "ipv6": null
     },
     {
@@ -10579,7 +10579,7 @@
       "description": "Doghouse",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "38.59.14.214",
+      "ipv4": "38.59.15.231",
       "ipv6": null
     },
     {
@@ -12064,8 +12064,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
