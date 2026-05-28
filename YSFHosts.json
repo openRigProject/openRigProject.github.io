@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5145,7 +5145,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.73.18",
+      "ipv4": "88.207.75.221",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.34.226",
-      "ipv6": "2001:9e8:406a:642a:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.34.186",
+      "ipv6": "2001:9e8:406a:7e5c:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -8610,7 +8610,7 @@
       "description": "TRIAD NC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "98.121.64.202",
+      "ipv4": "192.168.1.18",
       "ipv6": null
     },
     {
@@ -10128,7 +10128,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.43",
+      "ipv4": "192.253.246.40",
       "ipv6": null
     },
     {
@@ -11657,7 +11657,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.217.181",
+      "ipv4": "77.179.224.160",
       "ipv6": null
     },
     {
@@ -12065,7 +12065,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14759,8 +14759,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14770,8 +14770,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14781,8 +14781,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14792,8 +14792,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14803,8 +14803,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.232.111",
-      "ipv6": "2003:c9:8fff:3df4:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.72",
+      "ipv6": "2003:c9:8fff:1635:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -17333,7 +17333,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.45.188.226",
+      "ipv4": "87.13.162.21",
       "ipv6": null
     },
     {
