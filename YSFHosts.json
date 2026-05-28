@@ -3286,7 +3286,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.120.234.2",
+      "ipv4": "193.207.20.33",
       "ipv6": null
     },
     {
@@ -6854,6 +6854,17 @@
       "ipv6": null
     },
     {
+      "designator": "22243",
+      "country": "IT",
+      "name": "XLXEMI",
+      "use_xx_prefix": false,
+      "description": "Emilia Ovest",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "95.238.44.197",
+      "ipv6": null
+    },
+    {
       "designator": "22244",
       "country": "IT",
       "name": "TEST-ITA4OVE",
@@ -6883,7 +6894,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.26.8.113",
+      "ipv4": "95.233.166.169",
       "ipv6": null
     },
     {
@@ -12339,7 +12350,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.156.98",
+      "ipv4": "151.52.69.81",
       "ipv6": null
     },
     {
@@ -14110,8 +14121,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -17333,7 +17344,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.13.162.21",
+      "ipv4": "79.55.144.161",
       "ipv6": null
     },
     {
