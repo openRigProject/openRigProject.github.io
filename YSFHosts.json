@@ -954,7 +954,7 @@
       "description": "Digi LP",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.23.110.205",
+      "ipv4": "191.81.150.211",
       "ipv6": null
     },
     {
@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -10095,7 +10095,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.0.40.170",
+      "ipv4": "62.211.184.240",
       "ipv6": null
     },
     {
@@ -12350,7 +12350,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.52.69.81",
+      "ipv4": "151.63.133.154",
       "ipv6": null
     },
     {
@@ -14121,8 +14121,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15463,7 +15463,7 @@
       "description": "Id. 72234",
       "user_count": "000",
       "port": 42008,
-      "ipv4": "181.23.110.205",
+      "ipv4": "191.81.150.211",
       "ipv6": null
     },
     {
@@ -16618,7 +16618,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "87.0.40.170",
+      "ipv4": "62.211.184.240",
       "ipv6": null
     },
     {
