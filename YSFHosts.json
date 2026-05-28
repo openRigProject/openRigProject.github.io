@@ -9204,7 +9204,7 @@
       "description": "URF303",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "76.25.18.88",
+      "ipv4": "98.38.29.7",
       "ipv6": null
     },
     {
@@ -10106,7 +10106,7 @@
       "description": "KK7ZTX YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.234.24.211",
+      "ipv4": "172.239.57.117",
       "ipv6": null
     },
     {
@@ -11129,7 +11129,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.87.241.161",
+      "ipv4": "181.2.49.170",
       "ipv6": null
     },
     {
@@ -12076,7 +12076,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14121,7 +14121,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -15200,6 +15200,17 @@
       "user_count": "000",
       "port": 42005,
       "ipv4": "96.47.95.121",
+      "ipv6": null
+    },
+    {
+      "designator": "69300",
+      "country": "US",
+      "name": "QQ",
+      "use_xx_prefix": false,
+      "description": "YSF Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.131.126",
       "ipv6": null
     },
     {
@@ -17344,7 +17355,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.55.144.161",
+      "ipv4": "79.37.136.44",
       "ipv6": null
     },
     {
