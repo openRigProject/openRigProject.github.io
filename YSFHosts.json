@@ -734,7 +734,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.180.49.114",
+      "ipv4": "87.4.50.51",
       "ipv6": null
     },
     {
@@ -9105,7 +9105,7 @@
       "description": "HARC-UHF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "198.27.15.106",
+      "ipv4": "66.220.173.131",
       "ipv6": null
     },
     {
@@ -14132,8 +14132,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -16894,6 +16894,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "18.224.162.91",
+      "ipv6": null
+    },
+    {
+      "designator": "83261",
+      "country": "GR",
+      "name": "Experimental",
+      "use_xx_prefix": false,
+      "description": "4 Testing",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "79.130.248.158",
       "ipv6": null
     },
     {
