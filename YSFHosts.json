@@ -2923,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3286,7 +3286,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "185.171.150.68",
+      "ipv4": "212.24.9.194",
       "ipv6": null
     },
     {
@@ -5794,7 +5794,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.210.15.56",
+      "ipv4": "178.59.32.63",
       "ipv6": null
     },
     {
@@ -12361,7 +12361,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.77.225",
+      "ipv4": "151.52.78.147",
       "ipv6": null
     },
     {
@@ -13526,7 +13526,7 @@
       "use_xx_prefix": false,
       "description": "RC ARAS54N",
       "user_count": "000",
-      "port": 42315,
+      "port": 42000,
       "ipv4": "217.154.116.10",
       "ipv6": null
     },
@@ -14132,7 +14132,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
