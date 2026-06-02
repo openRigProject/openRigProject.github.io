@@ -2912,7 +2912,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -7323,7 +7323,7 @@
       "description": "Canada Link",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "198.84.232.116",
+      "ipv4": "198.84.233.45",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.184",
-      "ipv6": "2001:9e8:406a:efc1:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.34.44",
+      "ipv6": "2001:9e8:406a:e17:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -11668,7 +11668,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.232.76",
+      "ipv4": "77.12.153.239",
       "ipv6": null
     },
     {
@@ -12075,7 +12075,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3036::6815:88d"
     },
     {
@@ -13619,6 +13619,17 @@
       "ipv6": null
     },
     {
+      "designator": "55191",
+      "country": "TH",
+      "name": "TH-XLX647",
+      "use_xx_prefix": true,
+      "description": "XLX647-YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "58.8.188.23",
+      "ipv6": null
+    },
+    {
       "designator": "55193",
       "country": "GB",
       "name": "M0JCM TEST",
@@ -14110,7 +14121,7 @@
       "description": "Saint-Constant",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "76.71.222.159",
+      "ipv4": "74.14.61.202",
       "ipv6": null
     },
     {
@@ -17366,7 +17377,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.19.140.180",
+      "ipv4": "79.46.142.119",
       "ipv6": null
     },
     {
