@@ -1702,7 +1702,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.84.248",
+      "ipv4": "75.161.41.243",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -6971,7 +6971,7 @@
       "description": "URFDDC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.16.253.74",
+      "ipv4": "87.7.255.103",
       "ipv6": null
     },
     {
@@ -8610,7 +8610,7 @@
       "description": "TRIAD NC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.168.1.18",
+      "ipv4": "34.199.8.144",
       "ipv6": null
     },
     {
@@ -10667,7 +10667,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.9.220.22",
+      "ipv4": "87.0.113.249",
       "ipv6": null
     },
     {
@@ -12075,7 +12075,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -13835,7 +13835,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.255.59",
+      "ipv4": "79.247.183.83",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13846,7 +13846,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.255.59",
+      "ipv4": "79.247.183.83",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13857,7 +13857,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.255.59",
+      "ipv4": "79.247.183.83",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14132,8 +14132,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15474,7 +15474,7 @@
       "description": "Id. 72234",
       "user_count": "000",
       "port": 42008,
-      "ipv4": "181.23.120.64",
+      "ipv4": "191.81.134.2",
       "ipv6": null
     },
     {
@@ -17377,7 +17377,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.46.142.119",
+      "ipv4": "82.51.72.187",
       "ipv6": null
     },
     {
