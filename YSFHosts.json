@@ -2912,7 +2912,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5794,7 +5794,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.231.142",
+      "ipv4": "77.12.46.119",
       "ipv6": null
     },
     {
@@ -7775,6 +7775,17 @@
       "user_count": "000",
       "port": 42398,
       "ipv4": "57.131.25.19",
+      "ipv6": null
+    },
+    {
+      "designator": "24600",
+      "country": "LT",
+      "name": "D-Star LT",
+      "use_xx_prefix": false,
+      "description": "D-Star LT",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "85.255.60.41",
       "ipv6": null
     },
     {
@@ -10667,7 +10678,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.22.52.184",
+      "ipv4": "79.33.69.171",
       "ipv6": null
     },
     {
@@ -13564,17 +13575,6 @@
       "ipv6": null
     },
     {
-      "designator": "54810",
-      "country": "FR",
-      "name": "YSF-LONGWY",
-      "use_xx_prefix": false,
-      "description": "RC ARAS54N",
-      "user_count": "000",
-      "port": 42304,
-      "ipv4": "217.160.175.21",
-      "ipv6": null
-    },
-    {
       "designator": "54919",
       "country": "DE",
       "name": "DL-NORDWEST",
@@ -14133,7 +14133,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -15585,7 +15585,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:2075:4987:62f5:5d76:cc90"
+      "ipv6": "2804:7f0:b771:2075:1168:eed6:4e5d:2fe2"
     },
     {
       "designator": "72420",
