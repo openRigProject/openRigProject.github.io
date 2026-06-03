@@ -5783,7 +5783,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.32.63",
+      "ipv4": "178.59.13.54",
       "ipv6": null
     },
     {
@@ -6916,7 +6916,7 @@
       "description": "TE YSF Room",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "80.116.169.114",
+      "ipv4": "79.25.38.70",
       "ipv6": null
     },
     {
@@ -6927,7 +6927,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.116.169.114",
+      "ipv4": "79.25.38.70",
       "ipv6": null
     },
     {
@@ -7780,7 +7780,7 @@
     {
       "designator": "24600",
       "country": "LT",
-      "name": "D-Star LT",
+      "name": "D-Star",
       "use_xx_prefix": false,
       "description": "D-Star LT",
       "user_count": "000",
@@ -11998,7 +11998,7 @@
       "description": "BR6QBD-WUHAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "221.232.100.135",
+      "ipv4": "221.232.100.59",
       "ipv6": null
     },
     {
