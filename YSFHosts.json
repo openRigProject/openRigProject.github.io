@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -371,7 +371,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "60.37.155.68",
+      "ipv4": "153.195.190.205",
       "ipv6": "2400:4051:8ea0:7200:5ce3:baff:fe6c:5ffe"
     },
     {
@@ -888,7 +888,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "60.37.155.68",
+      "ipv4": "153.195.190.205",
       "ipv6": null
     },
     {
@@ -7807,8 +7807,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.34.44",
-      "ipv6": "2001:9e8:406a:e17:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.35.45",
+      "ipv6": "2001:9e8:406a:2ae8:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10667,7 +10667,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.50.164.78",
+      "ipv4": "95.252.32.41",
       "ipv6": null
     },
     {
@@ -11668,7 +11668,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.153.239",
+      "ipv4": "77.189.9.125",
       "ipv6": null
     },
     {
@@ -12075,7 +12075,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -13622,7 +13622,7 @@
       "designator": "55191",
       "country": "TH",
       "name": "XLX647",
-      "use_xx_prefix": true,
+      "use_xx_prefix": false,
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
@@ -14132,8 +14132,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -14781,8 +14781,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14792,8 +14792,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14803,8 +14803,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14814,8 +14814,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14825,8 +14825,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.231.43",
-      "ipv6": "2003:c9:8fff:c68:e228:6dff:fe74:b559"
+      "ipv4": "91.16.232.170",
+      "ipv6": "2003:c9:8fff:4046:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -18532,7 +18532,7 @@
       "description": "YSF-XLXSP5",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.24.120.176",
+      "ipv4": "83.5.244.165",
       "ipv6": null
     },
     {
