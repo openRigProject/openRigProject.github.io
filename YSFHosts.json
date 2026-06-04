@@ -6850,7 +6850,7 @@
       "description": "Emilia Ovest",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.12.64.39",
+      "ipv4": "95.238.44.7",
       "ipv6": null
     },
     {
@@ -6883,7 +6883,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.18.34.69",
+      "ipv4": "95.234.143.235",
       "ipv6": null
     },
     {
@@ -7191,7 +7191,7 @@
       "description": "DMR/YSF/D-Star",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "108.56.177.66",
+      "ipv4": "151.243.141.104",
       "ipv6": null
     },
     {
@@ -7730,7 +7730,7 @@
       "description": "Dierscheid",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.184.160.9",
+      "ipv4": "93.186.4.253",
       "ipv6": null
     },
     {
@@ -10106,7 +10106,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.41.247.136",
+      "ipv4": "87.9.246.133",
       "ipv6": null
     },
     {
@@ -10150,7 +10150,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.37",
+      "ipv4": "192.253.246.40",
       "ipv6": null
     },
     {
@@ -11690,7 +11690,7 @@
       "description": "MoselEifelSaar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "91.184.160.9",
+      "ipv4": "93.186.4.253",
       "ipv6": null
     },
     {
@@ -11701,7 +11701,7 @@
       "description": "Trier Saarburg",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.184.160.9",
+      "ipv4": "93.186.4.253",
       "ipv6": null
     },
     {
@@ -12087,7 +12087,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -15574,7 +15574,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:2075:1168:eed6:4e5d:2fe2"
+      "ipv6": "2804:7f0:b771:2075:bf08:5473:fa91:b724"
     },
     {
       "designator": "72407",
@@ -15585,7 +15585,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:2075:1168:eed6:4e5d:2fe2"
+      "ipv6": "2804:7f0:b771:2075:bf08:5473:fa91:b724"
     },
     {
       "designator": "72420",
@@ -16629,7 +16629,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.41.247.136",
+      "ipv4": "87.9.246.133",
       "ipv6": null
     },
     {
@@ -17377,7 +17377,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.245.25.89",
+      "ipv4": "79.26.26.181",
       "ipv6": null
     },
     {
@@ -17707,7 +17707,7 @@
       "description": "Antwerpen",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.181.113.194",
+      "ipv4": "91.182.81.71",
       "ipv6": "2a02:a03f:8d4c:5501:211:32ff:fe75:ca2e"
     },
     {
