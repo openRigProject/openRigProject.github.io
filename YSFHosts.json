@@ -2912,7 +2912,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -2989,7 +2989,7 @@
       "description": "YSF-YS1AHL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "74.48.9.12",
+      "ipv4": "203.88.117.171",
       "ipv6": null
     },
     {
@@ -3275,7 +3275,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "94.156.55.222",
+      "ipv4": "212.24.17.58",
       "ipv6": null
     },
     {
@@ -10887,7 +10887,7 @@
       "description": "Inland Empire",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "76.178.123.76",
+      "ipv4": "23.241.70.86",
       "ipv6": null
     },
     {
@@ -12076,7 +12076,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3036::6815:88d"
+      "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -15024,6 +15024,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "146.56.185.110",
+      "ipv6": null
+    },
+    {
+      "designator": "67498",
+      "country": "US",
+      "name": "Netoholics",
+      "use_xx_prefix": false,
+      "description": "Netoholics Net",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "45.76.255.39",
       "ipv6": null
     },
     {
