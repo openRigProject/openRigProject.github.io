@@ -2032,7 +2032,7 @@
       "description": "734 ADN VZLA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "117.55.236.14",
+      "ipv4": "64.112.40.66",
       "ipv6": null
     },
     {
@@ -2901,7 +2901,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -12075,8 +12075,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14011,7 +14011,7 @@
       "description": "TECHNICAL LINK",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "64.112.40.66",
+      "ipv4": "117.55.236.14",
       "ipv6": null
     },
     {
