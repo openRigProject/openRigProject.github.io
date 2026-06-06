@@ -2901,7 +2901,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3264,7 +3264,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "212.24.17.58",
+      "ipv4": "212.24.7.236",
       "ipv6": null
     },
     {
@@ -5783,7 +5783,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.189.225.157",
+      "ipv4": "77.189.189.161",
       "ipv6": null
     },
     {
@@ -12075,8 +12075,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14110,7 +14110,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -14847,7 +14847,7 @@
       "description": "TG46028",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "222.211.146.117",
+      "ipv4": "118.116.38.5",
       "ipv6": null
     },
     {
@@ -17003,7 +17003,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.45.220",
+      "ipv4": "109.104.39.122",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
@@ -17608,7 +17608,7 @@
       "description": "cumbriaCQ URF",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "89.240.4.99",
+      "ipv4": "57.128.190.202",
       "ipv6": null
     },
     {
