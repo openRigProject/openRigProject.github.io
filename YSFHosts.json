@@ -2934,7 +2934,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -8834,6 +8834,17 @@
       "ipv6": null
     },
     {
+      "designator": "28401",
+      "country": "BG",
+      "name": "Bulgaria",
+      "use_xx_prefix": false,
+      "description": "IPSC2-BULGARIA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "164.138.216.202",
+      "ipv6": null
+    },
+    {
       "designator": "28456",
       "country": "US",
       "name": "SouthrnStates",
@@ -12108,7 +12119,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -13366,6 +13377,17 @@
       "ipv6": null
     },
     {
+      "designator": "52909",
+      "country": "TH",
+      "name": "XLX909 YSF",
+      "use_xx_prefix": false,
+      "description": "XLX909",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.32.128.17",
+      "ipv6": null
+    },
+    {
       "designator": "53001",
       "country": "NZ",
       "name": "New Zealand",
@@ -14144,7 +14166,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
