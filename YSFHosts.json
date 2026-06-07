@@ -1629,17 +1629,6 @@
       "ipv6": null
     },
     {
-      "designator": "00464",
-      "country": "US",
-      "name": "W6IDK ROOM",
-      "use_xx_prefix": false,
-      "description": "W6IDK ROOM",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "72.174.162.14",
-      "ipv6": null
-    },
-    {
       "designator": "00468",
       "country": "US",
       "name": "URF468",
@@ -2934,7 +2923,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -12119,7 +12108,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3036::6815:88d"
     },
     {
@@ -14166,7 +14155,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -14286,7 +14275,7 @@
       "description": "Dundee ARC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.126.229.107",
+      "ipv4": "86.155.213.157",
       "ipv6": null
     },
     {
@@ -15629,7 +15618,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:2075:447a:d355:6beb:da54"
+      "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
     },
     {
       "designator": "72407",
@@ -15640,7 +15629,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:2075:447a:d355:6beb:da54"
+      "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
     },
     {
       "designator": "72420",
