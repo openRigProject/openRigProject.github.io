@@ -1211,6 +1211,17 @@
       "ipv6": null
     },
     {
+      "designator": "00292",
+      "country": "US",
+      "name": "W6IDK",
+      "use_xx_prefix": false,
+      "description": "W6IDK",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.174.162.14",
+      "ipv6": null
+    },
+    {
       "designator": "00294",
       "country": "MK",
       "name": "XLX294",
@@ -14154,7 +14165,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
