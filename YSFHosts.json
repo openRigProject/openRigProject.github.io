@@ -1816,6 +1816,17 @@
       "ipv6": "2a02:4780:14:23a7::1"
     },
     {
+      "designator": "00611",
+      "country": "US",
+      "name": "W6IDK ROOM",
+      "use_xx_prefix": false,
+      "description": "W6IDK ROOM",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.174.162.14",
+      "ipv6": null
+    },
+    {
       "designator": "00618",
       "country": "RU",
       "name": "Club 618",
@@ -12108,7 +12119,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3036::6815:88d"
     },
     {
@@ -14154,7 +14165,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -15618,7 +15629,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
+      "ipv6": "2804:7f0:b771:2075:447a:d355:6beb:da54"
     },
     {
       "designator": "72407",
