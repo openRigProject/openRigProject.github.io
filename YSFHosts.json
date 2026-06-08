@@ -2934,7 +2934,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5816,7 +5816,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.168.191",
+      "ipv4": "78.51.242.128",
       "ipv6": null
     },
     {
@@ -6905,7 +6905,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.20.140.233",
+      "ipv4": "87.20.140.213",
       "ipv6": null
     },
     {
@@ -7840,8 +7840,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.34.211",
-      "ipv6": "2001:9e8:406a:ac95:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.35.184",
+      "ipv6": "2001:9e8:406a:b8b7:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -12394,7 +12394,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.52.78.147",
+      "ipv4": "151.52.95.220",
       "ipv6": null
     },
     {
@@ -14166,7 +14166,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
