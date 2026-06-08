@@ -1218,7 +1218,7 @@
       "description": "W6IDK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "72.174.162.14",
+      "ipv4": "15.197.225.128",
       "ipv6": null
     },
     {
@@ -12119,7 +12119,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -13868,7 +13868,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.252.54",
+      "ipv4": "80.136.246.177",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13879,7 +13879,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.252.54",
+      "ipv4": "80.136.246.177",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13890,7 +13890,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.252.54",
+      "ipv4": "80.136.246.177",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14165,7 +14165,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
@@ -15628,7 +15628,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.110.251.173",
+      "ipv4": "189.38.188.35",
       "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
     },
     {
@@ -16954,7 +16954,7 @@
     {
       "designator": "83261",
       "country": "GR",
-      "name": "Experimental",
+      "name": "Greece 4 Test",
       "use_xx_prefix": false,
       "description": "4 Testing",
       "user_count": "000",
