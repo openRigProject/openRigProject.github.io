@@ -7576,7 +7576,7 @@
       "description": "YSFRef23522",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.106.36.66",
+      "ipv4": "90.253.244.159",
       "ipv6": null
     },
     {
@@ -7840,8 +7840,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.35.184",
-      "ipv6": "2001:9e8:406a:b8b7:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.131",
+      "ipv6": "2001:9e8:406a:b8cb:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -11173,7 +11173,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.2.49.170",
+      "ipv4": "181.2.42.244",
       "ipv6": null
     },
     {
@@ -13175,7 +13175,7 @@
       "description": "GB-H1L8RE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.155.7.183",
+      "ipv4": "86.151.96.9",
       "ipv6": null
     },
     {
@@ -14166,7 +14166,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15628,7 +15628,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.110.251.173",
+      "ipv4": "189.38.188.35",
       "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
     },
     {
