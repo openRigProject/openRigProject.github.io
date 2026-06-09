@@ -1779,7 +1779,7 @@
       "description": "W6IDK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": null,
+      "ipv4": "72.174.162.14",
       "ipv6": null
     },
     {
@@ -3297,7 +3297,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "193.46.174.129",
+      "ipv4": "193.46.173.173",
       "ipv6": null
     },
     {
@@ -6872,7 +6872,7 @@
       "description": "Emilia Ovest",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.238.44.7",
+      "ipv4": "79.26.39.157",
       "ipv6": null
     },
     {
@@ -7840,8 +7840,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.32.131",
-      "ipv6": "2001:9e8:406a:b8cb:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.97",
+      "ipv6": "2001:9e8:406a:c46f:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10986,7 +10986,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.171.65.43",
+      "ipv4": "87.3.176.171",
       "ipv6": null
     },
     {
@@ -14165,8 +14165,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15629,7 +15629,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.173",
-      "ipv6": "2804:7f0:b771:18be:2af9:db56:678f:99f9"
+      "ipv6": "2804:7f0:b771:18be:966e:d27d:d47:7eb4"
     },
     {
       "designator": "72407",
@@ -17432,7 +17432,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.47.146.39",
+      "ipv4": "82.53.75.144",
       "ipv6": null
     },
     {
