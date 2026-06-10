@@ -1801,7 +1801,7 @@
       "description": "YSF SX Chat",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "2.219.168.61",
+      "ipv4": "176.253.168.59",
       "ipv6": null
     },
     {
@@ -5816,7 +5816,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.19.211",
+      "ipv4": "77.181.90.147",
       "ipv6": null
     },
     {
@@ -9083,7 +9083,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "146.212.215.27",
+      "ipv4": "146.212.28.174",
       "ipv6": null
     },
     {
@@ -12108,7 +12108,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3034::ac43:8b86"
     },
     {
@@ -14154,8 +14154,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
