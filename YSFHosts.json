@@ -1559,7 +1559,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.17.108.198",
+      "ipv4": "79.56.12.147",
       "ipv6": null
     },
     {
@@ -1779,7 +1779,7 @@
       "description": "W6IDK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "72.174.162.14",
+      "ipv4": "15.197.225.128",
       "ipv6": null
     },
     {
@@ -2698,11 +2698,11 @@
     {
       "designator": "01239",
       "country": "US",
-      "name": "URF239",
+      "name": "WHOCARES",
       "use_xx_prefix": false,
-      "description": "URF239",
+      "description": "Who Cares ARG",
       "user_count": "000",
-      "port": 42001,
+      "port": 42000,
       "ipv4": "45.76.30.167",
       "ipv6": null
     },
@@ -3297,7 +3297,7 @@
       "description": "YSF IZ0RTP PG",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "94.156.242.18",
+      "ipv4": "87.121.101.170",
       "ipv6": null
     },
     {
@@ -6938,7 +6938,7 @@
       "description": "TE YSF Room",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "79.25.38.70",
+      "ipv4": "82.57.119.192",
       "ipv6": null
     },
     {
@@ -6949,7 +6949,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.25.38.70",
+      "ipv4": "82.57.119.192",
       "ipv6": null
     },
     {
@@ -7840,8 +7840,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.117",
-      "ipv6": "2001:9e8:406a:dd26:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.198",
+      "ipv6": "2001:9e8:406a:f58a:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -9083,7 +9083,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "146.212.194.239",
+      "ipv4": "146.212.197.195",
       "ipv6": null
     },
     {
@@ -10601,7 +10601,7 @@
       "description": "NDARG 36250",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "80.42.238.103",
+      "ipv4": "92.25.149.209",
       "ipv6": null
     },
     {
@@ -10612,7 +10612,7 @@
       "description": "NDART 36255",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "80.42.238.103",
+      "ipv4": "92.25.149.209",
       "ipv6": null
     },
     {
@@ -10975,7 +10975,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.3.176.171",
+      "ipv4": "87.1.183.147",
       "ipv6": null
     },
     {
@@ -12109,7 +12109,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14154,7 +14154,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
@@ -17421,7 +17421,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.55.146.144",
+      "ipv4": "79.12.27.149",
       "ipv6": null
     },
     {
