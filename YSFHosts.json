@@ -6905,7 +6905,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.21.147.137",
+      "ipv4": "79.55.143.196",
       "ipv6": null
     },
     {
@@ -7840,8 +7840,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.198",
-      "ipv6": "2001:9e8:406a:f58a:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.33",
+      "ipv6": "2001:9e8:406a:f26:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -9083,7 +9083,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.37.18.214",
+      "ipv4": "46.164.7.252",
       "ipv6": null
     },
     {
@@ -10975,7 +10975,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.1.183.147",
+      "ipv4": "212.171.71.157",
       "ipv6": null
     },
     {
@@ -12109,7 +12109,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14154,7 +14154,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -15661,7 +15661,7 @@
       "description": "C4FM/YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.97.43.58",
+      "ipv4": "45.161.252.199",
       "ipv6": null
     },
     {
@@ -17421,7 +17421,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.12.27.149",
+      "ipv4": "79.26.26.221",
       "ipv6": null
     },
     {
