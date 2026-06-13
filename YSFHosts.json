@@ -1779,7 +1779,7 @@
       "description": "W6IDK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "3.33.251.168",
+      "ipv4": "15.197.225.128",
       "ipv6": null
     },
     {
@@ -2934,7 +2934,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5156,7 +5156,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.15.212",
+      "ipv4": "109.60.14.8",
       "ipv6": null
     },
     {
@@ -9083,7 +9083,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.37.48.113",
+      "ipv4": "92.37.15.88",
       "ipv6": null
     },
     {
@@ -11096,7 +11096,7 @@
       "description": "Tri State Area",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.229.130.25",
+      "ipv4": "188.165.11.93",
       "ipv6": null
     },
     {
@@ -12109,7 +12109,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -13857,7 +13857,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.246.177",
+      "ipv4": "80.136.247.250",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13868,7 +13868,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.246.177",
+      "ipv4": "80.136.247.250",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13879,7 +13879,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.246.177",
+      "ipv4": "80.136.247.250",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14154,7 +14154,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
