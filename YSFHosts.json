@@ -6916,7 +6916,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.33.0.94",
+      "ipv4": "80.117.28.38",
       "ipv6": null
     },
     {
@@ -7851,8 +7851,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.35.235",
-      "ipv6": "2001:9e8:406a:6da9:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.126",
+      "ipv6": "2001:9e8:406a:7aa2:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10150,7 +10150,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.232.151.168",
+      "ipv4": "79.44.240.249",
       "ipv6": null
     },
     {
@@ -10194,7 +10194,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.39",
+      "ipv4": "192.253.246.41",
       "ipv6": null
     },
     {
@@ -14913,7 +14913,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "124.156.190.61",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -16684,7 +16684,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "95.232.151.168",
+      "ipv4": "79.44.240.249",
       "ipv6": null
     },
     {
@@ -17432,7 +17432,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.52.146",
+      "ipv4": "95.250.6.127",
       "ipv6": null
     },
     {
@@ -18587,7 +18587,7 @@
       "description": "YSF-XLXSP5",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.24.117.6",
+      "ipv4": "83.5.241.172",
       "ipv6": null
     },
     {
