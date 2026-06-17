@@ -30,7 +30,7 @@
       "description": "World link",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "207.244.224.170",
+      "ipv4": "94.72.113.36",
       "ipv6": null
     },
     {
@@ -1780,17 +1780,6 @@
       "user_count": "000",
       "port": 42004,
       "ipv4": "45.124.54.132",
-      "ipv6": null
-    },
-    {
-      "designator": "00537",
-      "country": "US",
-      "name": "W6IDK",
-      "use_xx_prefix": false,
-      "description": "W6IDK",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "72.174.162.14",
       "ipv6": null
     },
     {
@@ -7862,8 +7851,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.45",
-      "ipv6": "2001:9e8:406a:9f26:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.95",
+      "ipv6": "2001:9e8:406a:9fc5:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -14166,7 +14155,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3035::ac43:9b4c"
+      "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -14913,7 +14902,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "101.33.46.108",
+      "ipv4": "124.156.190.61",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -15672,8 +15661,8 @@
       "description": "C4FM/YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.80.127",
-      "ipv6": "2606:4700:3034::ac43:b511"
+      "ipv4": "172.67.181.17",
+      "ipv6": "2606:4700:3032::6815:507f"
     },
     {
       "designator": "73010",
@@ -16932,12 +16921,12 @@
     {
       "designator": "83232",
       "country": "US",
-      "name": "ASHLANDOH419",
+      "name": "JVILLEOH419",
       "use_xx_prefix": false,
-      "description": "ASHLANDOHYSF",
+      "description": "JVILLEYSF",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "74.44.226.105",
+      "ipv4": "72.23.37.29",
       "ipv6": null
     },
     {
