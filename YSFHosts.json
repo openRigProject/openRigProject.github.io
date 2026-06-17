@@ -3946,7 +3946,7 @@
       "description": "Alicante",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.116.3.219",
+      "ipv4": "79.116.53.195",
       "ipv6": null
     },
     {
@@ -5838,7 +5838,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.209.68",
+      "ipv4": "77.179.170.83",
       "ipv6": null
     },
     {
@@ -6729,7 +6729,7 @@
       "description": "YSFReflector",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "95.250.170.225",
+      "ipv4": "87.4.50.51",
       "ipv6": null
     },
     {
@@ -12119,8 +12119,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3034::ac43:8b86"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3036::6815:88d"
     },
     {
       "designator": "46085",
@@ -14165,7 +14165,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -14913,7 +14913,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -18544,6 +18544,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "85.146.115.138",
+      "ipv6": null
+    },
+    {
+      "designator": "99966",
+      "country": "GB",
+      "name": "TFD270",
+      "use_xx_prefix": false,
+      "description": "Test Reflector",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "81.103.126.31",
       "ipv6": null
     },
     {
