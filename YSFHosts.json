@@ -1834,7 +1834,7 @@
       "description": "Jason's Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "72.174.162.14",
+      "ipv4": "15.197.225.128",
       "ipv6": null
     },
     {
@@ -4573,7 +4573,7 @@
       "description": "Local UHF Rpt",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "73.209.171.33",
+      "ipv4": "76.157.206.223",
       "ipv6": null
     },
     {
@@ -6927,7 +6927,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.42.2.158",
+      "ipv4": "79.37.94.209",
       "ipv6": null
     },
     {
@@ -7862,8 +7862,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.32.95",
-      "ipv6": "2001:9e8:406a:9fc5:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.35",
+      "ipv6": "2001:9e8:406a:ac82:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -14165,7 +14165,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -14913,7 +14913,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "124.156.190.61",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -15672,7 +15672,7 @@
       "description": "C4FM/YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.181.17",
+      "ipv4": "104.21.80.127",
       "ipv6": "2606:4700:3032::6815:507f"
     },
     {
@@ -17432,7 +17432,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.252.153.137",
+      "ipv4": "95.239.92.212",
       "ipv6": null
     },
     {
