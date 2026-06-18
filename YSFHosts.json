@@ -470,7 +470,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.27.203",
+      "ipv4": "31.62.36.15",
       "ipv6": null
     },
     {
@@ -1834,7 +1834,7 @@
       "description": "Jason's Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "15.197.225.128",
+      "ipv4": "72.174.162.14",
       "ipv6": null
     },
     {
@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5838,7 +5838,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.170.83",
+      "ipv4": "77.189.176.201",
       "ipv6": null
     },
     {
@@ -7137,6 +7137,17 @@
       "user_count": "000",
       "port": 42009,
       "ipv4": "88.208.241.94",
+      "ipv6": null
+    },
+    {
+      "designator": "22355",
+      "country": "IT",
+      "name": "DSTAR-ITALY-N",
+      "use_xx_prefix": false,
+      "description": "DSTAR ITALY N",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "82.165.139.66",
       "ipv6": null
     },
     {
@@ -9105,7 +9116,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "146.212.26.30",
+      "ipv4": "46.164.1.246",
       "ipv6": null
     },
     {
@@ -10722,7 +10733,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.251.194.220",
+      "ipv4": "95.232.147.139",
       "ipv6": null
     },
     {
@@ -12119,7 +12130,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
@@ -14166,7 +14177,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -14902,7 +14913,7 @@
       "description": "TG46028",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "182.148.142.111",
+      "ipv4": "118.114.249.157",
       "ipv6": null
     },
     {
@@ -14913,7 +14924,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "124.156.190.61",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -15672,7 +15683,7 @@
       "description": "C4FM/YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.80.127",
+      "ipv4": "172.67.181.17",
       "ipv6": "2606:4700:3032::6815:507f"
     },
     {
