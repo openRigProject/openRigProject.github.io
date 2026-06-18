@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -7144,7 +7144,7 @@
       "country": "IT",
       "name": "DSTAR-ITALY-N",
       "use_xx_prefix": false,
-      "description": "DSTAR ITALY N",
+      "description": "DSTAR-ITALY-N",
       "user_count": "000",
       "port": 42000,
       "ipv4": "82.165.139.66",
@@ -14176,7 +14176,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3033::6815:3a1e"
     },
     {
@@ -15683,7 +15683,7 @@
       "description": "C4FM/YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.80.127",
+      "ipv4": "172.67.181.17",
       "ipv6": "2606:4700:3032::6815:507f"
     },
     {
