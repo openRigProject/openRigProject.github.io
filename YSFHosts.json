@@ -470,7 +470,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.36.15",
+      "ipv4": "31.62.35.219",
       "ipv6": null
     },
     {
@@ -5138,6 +5138,17 @@
       "ipv6": null
     },
     {
+      "designator": "14000",
+      "country": "ES",
+      "name": "HISPANOS",
+      "use_xx_prefix": true,
+      "description": "HISPANOS",
+      "user_count": "000",
+      "port": 43001,
+      "ipv4": "217.160.212.72",
+      "ipv6": null
+    },
+    {
       "designator": "14054",
       "country": "US",
       "name": "W5JDW LINK",
@@ -5662,8 +5673,8 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.5.228.159",
-      "ipv6": null
+      "ipv4": "104.21.51.141",
+      "ipv6": "2606:4700:3035::6815:338d"
     },
     {
       "designator": "19300",
@@ -12141,7 +12152,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
@@ -14188,7 +14199,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3033::6815:3a1e"
+      "ipv6": "2606:4700:3035::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -15662,7 +15673,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.188.35",
-      "ipv6": "2804:7f0:b771:195:26f6:59de:6731:8402"
+      "ipv6": "2804:7f0:b771:195:3e68:77ae:76ce:bd1"
     },
     {
       "designator": "72420",
