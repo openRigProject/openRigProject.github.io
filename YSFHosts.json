@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -5673,8 +5673,8 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.51.141",
-      "ipv6": "2606:4700:3035::6815:338d"
+      "ipv4": "172.67.181.42",
+      "ipv6": "2606:4700:3037::ac43:b52a"
     },
     {
       "designator": "19300",
@@ -7884,8 +7884,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.34.75",
-      "ipv6": "2001:9e8:406a:f6ad:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.138",
+      "ipv6": "2001:9e8:406a:14a:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -11745,7 +11745,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.104.192",
+      "ipv4": "77.12.15.185",
       "ipv6": null
     },
     {
@@ -12152,7 +12152,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3037::6815:88d"
     },
     {
@@ -12350,7 +12350,7 @@
       "description": "GB-0VERLAND",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.185.208.14",
+      "ipv4": "86.135.192.125",
       "ipv6": null
     },
     {
@@ -14858,8 +14858,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14869,8 +14869,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14880,8 +14880,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14891,8 +14891,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14902,8 +14902,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.175.169",
-      "ipv6": "2003:c9:8fff:2d4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.228.195",
+      "ipv6": "2003:c9:8fff:66d:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16167,7 +16167,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.63.169.47",
+      "ipv4": "91.63.162.20",
       "ipv6": null
     },
     {
