@@ -5674,7 +5674,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.181.42",
-      "ipv6": "2606:4700:3035::6815:338d"
+      "ipv6": "2606:4700:3037::ac43:b52a"
     },
     {
       "designator": "19300",
@@ -5838,7 +5838,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.40.130",
+      "ipv4": "178.59.146.240",
       "ipv6": null
     },
     {
@@ -6312,17 +6312,6 @@
       "user_count": "000",
       "port": 42014,
       "ipv4": "212.227.87.198",
-      "ipv6": null
-    },
-    {
-      "designator": "21411",
-      "country": "ES",
-      "name": "CADIZ",
-      "use_xx_prefix": false,
-      "description": "CADIZ",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "79.112.144.189",
       "ipv6": null
     },
     {
@@ -10304,8 +10293,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "209.169.69.221",
-      "ipv6": null
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -10997,7 +10986,7 @@
       "description": "C4FM TEAM",
       "user_count": "000",
       "port": 42008,
-      "ipv4": "79.131.116.137",
+      "ipv4": "2.86.32.12",
       "ipv6": null
     },
     {
