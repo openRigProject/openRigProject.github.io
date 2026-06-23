@@ -7884,8 +7884,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.35.177",
-      "ipv6": "2001:9e8:406a:2fb0:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.11",
+      "ipv6": "2001:9e8:406a:39c2:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -12163,7 +12163,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
@@ -15672,8 +15672,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.38.188.35",
-      "ipv6": "2804:7f0:b771:1510:cced:fe18:563a:273e"
+      "ipv4": "189.38.175.17",
+      "ipv6": "2804:7f0:b771:195:9e0c:b9d2:ca7a:e7db"
     },
     {
       "designator": "72407",
@@ -15683,8 +15683,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.38.188.35",
-      "ipv6": "2804:7f0:b771:195:9e0c:b9d2:ca7a:e7db"
+      "ipv4": "189.38.175.17",
+      "ipv6": "2804:7f0:b771:1510:cced:fe18:563a:273e"
     },
     {
       "designator": "72420",
@@ -16178,7 +16178,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.63.172.236",
+      "ipv4": "91.56.77.84",
       "ipv6": null
     },
     {
