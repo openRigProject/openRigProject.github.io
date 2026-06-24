@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3627,7 +3627,7 @@
       "description": "chaseroom",
       "user_count": "000",
       "port": 42250,
-      "ipv4": "95.144.111.34",
+      "ipv4": "81.157.173.7",
       "ipv6": null
     },
     {
@@ -5673,8 +5673,8 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.51.141",
-      "ipv6": "2606:4700:3037::ac43:b52a"
+      "ipv4": "172.67.181.42",
+      "ipv6": "2606:4700:3035::6815:338d"
     },
     {
       "designator": "19300",
@@ -7873,8 +7873,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.11",
-      "ipv6": "2001:9e8:406a:39c2:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.175",
+      "ipv6": "2001:9e8:406a:5422:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10238,7 +10238,7 @@
       "description": "mizzou-link",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "136.32.131.147",
+      "ipv4": "136.32.147.227",
       "ipv6": null
     },
     {
@@ -10293,7 +10293,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
+      "ipv4": "104.21.30.174",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -12152,7 +12152,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3037::6815:88d"
     },
     {
@@ -14199,7 +14199,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -17465,7 +17465,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.45.231.152",
+      "ipv4": "79.35.139.147",
       "ipv6": null
     },
     {
@@ -17795,8 +17795,8 @@
       "description": "Antwerpen",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "80.200.114.197",
-      "ipv6": "2a02:a03f:9dfc:ba01:211:32ff:fe75:ca2e"
+      "ipv4": "109.137.242.250",
+      "ipv6": "2a02:a03f:9dfa:9401:211:32ff:fe75:ca2e"
     },
     {
       "designator": "90882",
