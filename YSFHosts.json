@@ -8621,7 +8621,7 @@
       "description": "",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "50.158.172.181",
+      "ipv4": "68.108.58.11",
       "ipv6": null
     },
     {
@@ -10293,8 +10293,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3037::ac43:ad7a"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -12900,7 +12900,7 @@
       "description": "MOARC, Inc.",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "107.152.47.152",
+      "ipv4": "34.199.8.144",
       "ipv6": null
     },
     {
@@ -17465,7 +17465,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.53.76.35",
+      "ipv4": "79.44.47.83",
       "ipv6": null
     },
     {
