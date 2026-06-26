@@ -5673,8 +5673,8 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.181.42",
-      "ipv6": "2606:4700:3035::6815:338d"
+      "ipv4": "104.21.51.141",
+      "ipv6": "2606:4700:3037::ac43:b52a"
     },
     {
       "designator": "19300",
@@ -11848,6 +11848,17 @@
       "ipv6": null
     },
     {
+      "designator": "44600",
+      "country": "CZ",
+      "name": "URFCZS",
+      "use_xx_prefix": false,
+      "description": "URFCZS",
+      "user_count": "000",
+      "port": 42200,
+      "ipv4": "128.0.182.6",
+      "ipv6": null
+    },
+    {
       "designator": "44833",
       "country": "JP",
       "name": "YSF-YYK-833",
@@ -14946,7 +14957,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "124.156.190.61",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
