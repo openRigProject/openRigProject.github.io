@@ -7862,7 +7862,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.155.56.29",
+      "ipv4": "109.145.69.216",
       "ipv6": null
     },
     {
@@ -7873,8 +7873,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.35.74",
-      "ipv6": "2001:9e8:406a:aa62:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.118",
+      "ipv6": "2001:9e8:406a:c92e:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -10293,7 +10293,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
+      "ipv4": "104.21.30.174",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -11140,7 +11140,7 @@
       "description": "Tri State Area",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.229.163.79",
+      "ipv4": "75.251.89.217",
       "ipv6": null
     },
     {
@@ -12163,8 +12163,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -13604,7 +13604,7 @@
       "description": "Radio Club",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.251.139.144",
+      "ipv4": "84.67.221.21",
       "ipv6": null
     },
     {
@@ -14209,8 +14209,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15858,7 +15858,7 @@
       "use_xx_prefix": false,
       "description": "C4FM HK4RAU",
       "user_count": "000",
-      "port": 42000,
+      "port": 42041,
       "ipv4": "2.24.220.228",
       "ipv6": null
     },
@@ -17487,7 +17487,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.41.52.212",
+      "ipv4": "82.53.76.50",
       "ipv6": null
     },
     {
