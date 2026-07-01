@@ -3373,7 +3373,7 @@
       "use_xx_prefix": false,
       "description": "XE1JMB",
       "user_count": "000",
-      "port": 41300,
+      "port": 43000,
       "ipv4": "89.117.61.236",
       "ipv6": null
     },
@@ -5662,8 +5662,8 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.181.42",
-      "ipv6": "2606:4700:3035::6815:338d"
+      "ipv4": "104.21.51.141",
+      "ipv6": "2606:4700:3037::ac43:b52a"
     },
     {
       "designator": "19300",
@@ -7004,7 +7004,7 @@
       "description": "URFDDC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.1.208.74",
+      "ipv4": "82.55.238.40",
       "ipv6": null
     },
     {
@@ -12141,8 +12141,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3037::6815:88d"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -12427,7 +12427,7 @@
       "description": "Forth Valley",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "84.67.228.162",
+      "ipv4": "13.40.4.166",
       "ipv6": null
     },
     {
@@ -14935,7 +14935,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -14957,7 +14957,7 @@
       "description": "AZ POTA on FB",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "184.170.187.11",
+      "ipv4": "184.170.187.94",
       "ipv6": null
     },
     {
@@ -15650,7 +15650,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.1.91.56",
+      "ipv4": "189.38.175.17",
       "ipv6": "2804:7f0:b771:1265:8499:d55e:4ebf:7911"
     },
     {
@@ -15661,7 +15661,7 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.1.91.56",
+      "ipv4": "189.38.175.17",
       "ipv6": "2804:7f0:b771:1265:8499:d55e:4ebf:7911"
     },
     {
