@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5534,6 +5534,17 @@
       "ipv6": null
     },
     {
+      "designator": "17856",
+      "country": "DE",
+      "name": "XLXNRW",
+      "use_xx_prefix": false,
+      "description": "XLX NRW German",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "78.43.70.83",
+      "ipv6": null
+    },
+    {
       "designator": "17947",
       "country": "US",
       "name": "Penn-Link_7",
@@ -6916,7 +6927,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.180.222.231",
+      "ipv4": "79.42.5.212",
       "ipv6": null
     },
     {
@@ -9149,7 +9160,7 @@
       "description": "HARC-UHF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "66.220.173.250",
+      "ipv4": "198.27.14.24",
       "ipv6": null
     },
     {
@@ -10271,7 +10282,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
+      "ipv4": "104.21.30.174",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -12142,7 +12153,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -14188,7 +14199,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3037::6815:3a1e"
+      "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -14935,7 +14946,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "43.153.249.96",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -14957,7 +14968,7 @@
       "description": "AZ POTA on FB",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "184.170.187.198",
+      "ipv4": "184.170.187.246",
       "ipv6": null
     },
     {
@@ -15651,7 +15662,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "201.1.91.56",
-      "ipv6": "2804:7f0:b771:1510:5f43:effe:3f26:945b"
+      "ipv6": "2804:7f0:b771:1265:8499:d55e:4ebf:7911"
     },
     {
       "designator": "72407",
