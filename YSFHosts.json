@@ -7015,7 +7015,7 @@
       "description": "URFDDC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.233.52.81",
+      "ipv4": "87.6.249.9",
       "ipv6": null
     },
     {
@@ -10282,8 +10282,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3033::6815:1eae"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
       "designator": "32888",
