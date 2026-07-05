@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -7873,8 +7873,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.47",
-      "ipv6": "2001:9e8:406a:7cc0:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.33.27",
+      "ipv6": "2001:9e8:406a:897e:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -8160,6 +8160,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "217.72.202.215",
+      "ipv6": null
+    },
+    {
+      "designator": "26217",
+      "country": "DE",
+      "name": "DL-Hessen-F17",
+      "use_xx_prefix": false,
+      "description": "F17 Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "80.69.46.184",
       "ipv6": null
     },
     {
@@ -10282,7 +10293,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
+      "ipv4": "104.21.30.174",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -12152,7 +12163,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3037::6815:88d"
     },
     {
@@ -14209,8 +14220,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3037::6815:3a1e"
+      "ipv4": "104.21.58.30",
+      "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
       "designator": "59599",
