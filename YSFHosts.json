@@ -2945,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3704,7 +3704,7 @@
       "description": "CIMA YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.36.252.137",
+      "ipv4": "81.36.252.236",
       "ipv6": null
     },
     {
@@ -3715,7 +3715,7 @@
       "description": "ISLA YSF",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "81.36.252.137",
+      "ipv4": "81.36.252.236",
       "ipv6": null
     },
     {
@@ -6135,7 +6135,7 @@
       "description": "LincsLink",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.136.157.235",
+      "ipv4": "86.140.124.245",
       "ipv6": null
     },
     {
@@ -7873,8 +7873,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.34.80",
-      "ipv6": "2001:9e8:406a:a2c6:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.27",
+      "ipv6": "2001:9e8:406a:ad8b:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -8523,6 +8523,17 @@
       "user_count": "000",
       "port": 42386,
       "ipv4": "49.12.36.86",
+      "ipv6": null
+    },
+    {
+      "designator": "26512",
+      "country": "PL",
+      "name": "26512Warszawa",
+      "use_xx_prefix": false,
+      "description": "26512 Warszawa",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "94.177.202.207",
       "ipv6": null
     },
     {
@@ -12164,7 +12175,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -14220,7 +14231,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
@@ -14957,7 +14968,7 @@
       "description": "TG46028",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "118.116.38.98",
+      "ipv4": "182.138.153.106",
       "ipv6": null
     },
     {
