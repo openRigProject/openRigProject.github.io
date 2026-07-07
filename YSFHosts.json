@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -5849,7 +5849,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.4.210",
+      "ipv4": "77.189.187.17",
       "ipv6": null
     },
     {
@@ -8599,7 +8599,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.119.18",
+      "ipv4": "79.184.98.122",
       "ipv6": null
     },
     {
@@ -10304,7 +10304,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "104.21.30.174",
+      "ipv4": "172.67.173.122",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -11756,7 +11756,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "93.130.190.64",
+      "ipv4": "78.51.174.57",
       "ipv6": null
     },
     {
@@ -12174,8 +12174,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -12406,6 +12406,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "81.70.46.208",
+      "ipv6": null
+    },
+    {
+      "designator": "46940",
+      "country": "CA",
+      "name": "XLXBSL-Quebec",
+      "use_xx_prefix": false,
+      "description": "Rimouski-QC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "149.56.130.169",
       "ipv6": null
     },
     {
@@ -14127,9 +14138,9 @@
     {
       "designator": "58734",
       "country": "US",
-      "name": "SOS VENEZUELA",
+      "name": "VZLA TECH LIN",
       "use_xx_prefix": false,
-      "description": "SOS VENEZUELA",
+      "description": "VZLA TECH LINK",
       "user_count": "000",
       "port": 42001,
       "ipv4": "117.55.236.14",
@@ -14231,7 +14242,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
@@ -14891,8 +14902,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14902,8 +14913,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14913,8 +14924,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14924,8 +14935,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14935,8 +14946,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.161.142",
-      "ipv6": "2003:c9:8fff:35a9:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.23",
+      "ipv6": "2003:c9:8fff:4434:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14979,7 +14990,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "124.156.190.61",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
