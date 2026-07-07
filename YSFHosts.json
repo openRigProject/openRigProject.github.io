@@ -2956,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3661,6 +3661,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "142.93.122.88",
+      "ipv6": null
+    },
+    {
+      "designator": "06555",
+      "country": "NL",
+      "name": "PD1ASH",
+      "use_xx_prefix": false,
+      "description": "PD1ASH",
+      "user_count": "000",
+      "port": 42006,
+      "ipv4": "77.167.3.242",
       "ipv6": null
     },
     {
@@ -5684,7 +5695,7 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.33.166.253",
+      "ipv4": "81.33.166.171",
       "ipv6": "2606:4700:3035::6815:338d"
     },
     {
@@ -10315,7 +10326,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
+      "ipv4": "104.21.30.174",
       "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
@@ -12186,7 +12197,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -15001,7 +15012,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "124.156.190.61",
+      "ipv4": "101.33.46.108",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -16189,7 +16200,7 @@
       "description": "URF740",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.3",
+      "ipv4": "192.253.246.2",
       "ipv6": null
     },
     {
@@ -16464,7 +16475,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "220.108.28.182",
+      "ipv4": "219.164.42.151",
       "ipv6": null
     },
     {
