@@ -1607,6 +1607,17 @@
       "ipv6": null
     },
     {
+      "designator": "00451",
+      "country": "DE",
+      "name": "DE-Olfen",
+      "use_xx_prefix": false,
+      "description": "YSF Room Olfen",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "185.14.13.16",
+      "ipv6": null
+    },
+    {
       "designator": "00455",
       "country": "US",
       "name": "455 Reflector",
@@ -2945,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -10305,7 +10316,7 @@
       "user_count": "000",
       "port": 42050,
       "ipv4": "104.21.30.174",
-      "ipv6": "2606:4700:3033::6815:1eae"
+      "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
       "designator": "32888",
@@ -12086,7 +12097,7 @@
       "description": "BR6QBD-WUHAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "59.173.123.28",
+      "ipv4": "59.174.162.100",
       "ipv6": null
     },
     {
@@ -12174,8 +12185,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3037::6815:88d"
+      "ipv4": "104.21.8.141",
+      "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14243,7 +14254,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -14990,7 +15001,7 @@
       "description": "BI8CQD",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "124.156.190.61",
+      "ipv4": "43.153.249.96",
       "ipv6": "240e:398:91:a041::3b5"
     },
     {
@@ -15705,7 +15716,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.42.107.31",
+      "ipv4": "201.1.91.56",
       "ipv6": "2804:7f0:b771:1265:8499:d55e:4ebf:7911"
     },
     {
@@ -15716,7 +15727,7 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.42.107.31",
+      "ipv4": "201.1.91.56",
       "ipv6": "2804:7f0:b771:1265:8499:d55e:4ebf:7911"
     },
     {
