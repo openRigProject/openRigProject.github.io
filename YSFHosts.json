@@ -1746,7 +1746,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.74.70",
+      "ipv4": "75.161.73.179",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -2956,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -9949,7 +9949,7 @@
       "country": "US",
       "name": "DUNoW",
       "use_xx_prefix": false,
-      "description": "DUNoW Reflctr",
+      "description": "GLDN Reflctr",
       "user_count": "000",
       "port": 42001,
       "ipv4": "172.234.200.178",
@@ -12229,7 +12229,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
@@ -15783,7 +15783,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.225.178.74",
-      "ipv6": "2804:7f0:b771:1255:2dfb:5e58:c73:62d2"
+      "ipv6": "2804:7f0:b771:24b7:bc8d:cb97:a3ba:2673"
     },
     {
       "designator": "72420",
