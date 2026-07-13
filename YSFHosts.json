@@ -6960,7 +6960,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.233.167.250",
+      "ipv4": "95.239.147.188",
       "ipv6": null
     },
     {
@@ -7906,8 +7906,8 @@
       "description": "Duelmen NRW",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.116.33.57",
-      "ipv6": "2001:9e8:406a:39ac:2e91:abff:fed4:cf79"
+      "ipv4": "92.116.32.151",
+      "ipv6": "2001:9e8:406a:522c:2e91:abff:fed4:cf79"
     },
     {
       "designator": "24800",
@@ -9171,7 +9171,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.37.72.114",
+      "ipv4": "46.164.24.116",
       "ipv6": null
     },
     {
@@ -10348,7 +10348,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "104.21.30.174",
+      "ipv4": "172.67.173.122",
       "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
@@ -10701,6 +10701,17 @@
       "user_count": "000",
       "port": 42004,
       "ipv4": "92.25.149.209",
+      "ipv6": null
+    },
+    {
+      "designator": "36318",
+      "country": "US",
+      "name": "N8PWM-MIOMI",
+      "use_xx_prefix": false,
+      "description": "N8PWM 36318",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "163.245.209.125",
       "ipv6": null
     },
     {
@@ -14287,7 +14298,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3037::6815:3a1e"
+      "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -15760,8 +15771,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.42.107.31",
-      "ipv6": "2804:7f0:b771:825:c94e:3472:c720:a8f9"
+      "ipv4": "179.225.178.74",
+      "ipv6": "2804:7f0:b771:1255:2dfb:5e58:c73:62d2"
     },
     {
       "designator": "72407",
@@ -15771,8 +15782,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.42.107.31",
-      "ipv6": "2804:7f0:b771:825:c94e:3472:c720:a8f9"
+      "ipv4": "179.225.178.74",
+      "ipv6": "2804:7f0:b771:24b7:bc8d:cb97:a3ba:2673"
     },
     {
       "designator": "72420",
