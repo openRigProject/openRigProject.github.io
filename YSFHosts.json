@@ -5860,7 +5860,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.152.25",
+      "ipv4": "93.130.145.104",
       "ipv6": null
     },
     {
@@ -7895,7 +7895,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "109.145.69.216",
+      "ipv4": "109.159.124.46",
       "ipv6": null
     },
     {
@@ -8632,7 +8632,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.107.178",
+      "ipv4": "79.184.110.22",
       "ipv6": null
     },
     {
@@ -10349,7 +10349,7 @@
       "user_count": "000",
       "port": 42050,
       "ipv4": "104.21.30.174",
-      "ipv6": "2606:4700:3033::6815:1eae"
+      "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
       "designator": "32888",
@@ -11811,7 +11811,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.104.60",
+      "ipv4": "77.12.91.170",
       "ipv6": null
     },
     {
@@ -14298,7 +14298,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.155.76",
-      "ipv6": "2606:4700:3037::6815:3a1e"
+      "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
       "designator": "59599",
@@ -15222,6 +15222,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "146.56.185.110",
+      "ipv6": null
+    },
+    {
+      "designator": "67301",
+      "country": "US",
+      "name": "INDYARC",
+      "use_xx_prefix": false,
+      "description": "IARC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.14.178.62",
       "ipv6": null
     },
     {
