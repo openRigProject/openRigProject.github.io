@@ -932,7 +932,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.230.86",
+      "ipv4": "79.103.90.22",
       "ipv6": null
     },
     {
@@ -4357,17 +4357,6 @@
       "ipv6": null
     },
     {
-      "designator": "09733",
-      "country": "US",
-      "name": "N4FOX",
-      "use_xx_prefix": false,
-      "description": "N4FOX - MID TN",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "15.204.205.35",
-      "ipv6": null
-    },
-    {
       "designator": "09815",
       "country": "PL",
       "name": "XLX132",
@@ -4447,9 +4436,9 @@
     {
       "designator": "10100",
       "country": "US",
-      "name": "TENNESSEE",
+      "name": "N4FOX",
       "use_xx_prefix": false,
-      "description": "TENNESSEE",
+      "description": "N4FOX",
       "user_count": "000",
       "port": 42000,
       "ipv4": "15.204.205.35",
@@ -4551,7 +4540,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.230.86",
+      "ipv4": "79.103.90.22",
       "ipv6": null
     },
     {
@@ -4641,17 +4630,6 @@
       "port": 42020,
       "ipv4": "45.89.91.78",
       "ipv6": null
-    },
-    {
-      "designator": "11100",
-      "country": "US",
-      "name": "QSO",
-      "use_xx_prefix": false,
-      "description": "US QSO Server",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "139.144.16.179",
-      "ipv6": "2600:3c02::2000:ecff:feb0:e96"
     },
     {
       "designator": "11102",
@@ -6993,7 +6971,7 @@
       "description": "TE YSF Room",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.16.183.30",
+      "ipv4": "79.52.1.120",
       "ipv6": null
     },
     {
@@ -7004,7 +6982,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.16.183.30",
+      "ipv4": "79.52.1.120",
       "ipv6": null
     },
     {
@@ -10349,7 +10327,7 @@
       "user_count": "000",
       "port": 42050,
       "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3037::ac43:ad7a"
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -12230,7 +12208,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3037::6815:88d"
+      "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14297,7 +14275,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
+      "ipv4": "172.67.155.76",
       "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
@@ -15783,7 +15761,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.247.171.95",
-      "ipv6": "2804:7f0:b771:24b7:530b:bd57:291b:f3a9"
+      "ipv6": "2804:7f0:b771:24b7:c28a:4714:808c:669b"
     },
     {
       "designator": "72407",
