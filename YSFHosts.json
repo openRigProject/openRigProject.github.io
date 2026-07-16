@@ -4438,7 +4438,7 @@
       "country": "US",
       "name": "N4FOX",
       "use_xx_prefix": false,
-      "description": "N4FOX",
+      "description": "Dickson County",
       "user_count": "000",
       "port": 42000,
       "ipv4": "15.204.205.35",
@@ -10326,7 +10326,7 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "104.21.30.174",
+      "ipv4": "172.67.173.122",
       "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
@@ -10732,8 +10732,8 @@
       "use_xx_prefix": false,
       "description": "XLXFOX - N4FOX",
       "user_count": "000",
-      "port": 42008,
-      "ipv4": "38.254.48.120",
+      "port": 42000,
+      "ipv4": "15.204.205.35",
       "ipv6": null
     },
     {
@@ -12119,7 +12119,7 @@
       "description": "BR6QBD-WUHAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "59.174.162.100",
+      "ipv4": "221.232.100.225",
       "ipv6": null
     },
     {
@@ -14275,7 +14275,7 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.155.76",
+      "ipv4": "104.21.58.30",
       "ipv6": "2606:4700:3031::ac43:9b4c"
     },
     {
