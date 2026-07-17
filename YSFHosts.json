@@ -5838,7 +5838,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.199.222",
+      "ipv4": "77.189.241.150",
       "ipv6": null
     },
     {
@@ -8610,7 +8610,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.165.243",
+      "ipv4": "79.184.89.162",
       "ipv6": null
     },
     {
@@ -11800,7 +11800,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.194.99",
+      "ipv4": "77.179.242.75",
       "ipv6": null
     },
     {
@@ -15430,7 +15430,7 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.27.243",
+      "ipv4": "172.67.169.216",
       "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
