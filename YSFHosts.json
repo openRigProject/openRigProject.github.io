@@ -2245,17 +2245,6 @@
       "ipv6": null
     },
     {
-      "designator": "00823",
-      "country": "US",
-      "name": "URF823",
-      "use_xx_prefix": false,
-      "description": "URF823",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "24.104.209.133",
-      "ipv6": null
-    },
-    {
       "designator": "00825",
       "country": "GB",
       "name": "URFLAN",
@@ -2956,7 +2945,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3475,6 +3464,17 @@
       "port": 42200,
       "ipv4": "136.244.96.172",
       "ipv6": "2001:19f0:5000:1096:5400:3ff:fe5e:d0f8"
+    },
+    {
+      "designator": "04003",
+      "country": "US",
+      "name": "XLX823",
+      "use_xx_prefix": false,
+      "description": "YSF REFLECTOR",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": null,
+      "ipv6": null
     },
     {
       "designator": "04004",
@@ -5838,7 +5838,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.244.109",
+      "ipv4": "77.179.199.222",
       "ipv6": null
     },
     {
@@ -8610,7 +8610,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.81.21",
+      "ipv4": "79.184.165.243",
       "ipv6": null
     },
     {
@@ -10326,8 +10326,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3033::6815:1eae"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
       "designator": "32888",
@@ -11800,7 +11800,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.45.138",
+      "ipv4": "77.189.194.99",
       "ipv6": null
     },
     {
@@ -12218,8 +12218,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -14374,7 +14374,7 @@
       "description": "URFEUS",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.9.249.19",
+      "ipv4": "88.9.255.184",
       "ipv6": null
     },
     {
@@ -15430,7 +15430,7 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
+      "ipv4": "104.21.27.243",
       "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
