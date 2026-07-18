@@ -5827,7 +5827,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.177.243.182",
+      "ipv4": "89.210.24.174",
       "ipv6": null
     },
     {
@@ -6938,7 +6938,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.19.21.229",
+      "ipv4": "87.18.25.136",
       "ipv6": null
     },
     {
@@ -7070,7 +7070,7 @@
       "description": "MP-TRAPANI",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "101.56.247.85",
+      "ipv4": "101.56.247.121",
       "ipv6": null
     },
     {
@@ -10788,7 +10788,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.21.135.167",
+      "ipv4": "95.236.171.81",
       "ipv6": null
     },
     {
@@ -12218,7 +12218,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
+      "ipv4": "172.67.139.134",
       "ipv6": "2606:4700:3037::6815:88d"
     },
     {
@@ -15430,8 +15430,8 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
-      "ipv6": "2606:4700:3033::ac43:a9d8"
+      "ipv4": "104.21.27.243",
+      "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
       "designator": "69614",
