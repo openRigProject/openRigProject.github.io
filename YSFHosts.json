@@ -2956,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -6724,9 +6724,9 @@
     {
       "designator": "22167",
       "country": "IT",
-      "name": "C/Mare",
+      "name": "Matrix",
       "use_xx_prefix": false,
-      "description": "MP C/Mare",
+      "description": "MP Matrix",
       "user_count": "000",
       "port": 42022,
       "ipv4": "95.252.133.64",
@@ -12219,7 +12219,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.139.134",
-      "ipv6": "2606:4700:3031::ac43:8b86"
+      "ipv6": "2606:4700:3037::6815:88d"
     },
     {
       "designator": "46085",
@@ -14287,7 +14287,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15430,7 +15430,7 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
+      "ipv4": "104.21.27.243",
       "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
