@@ -932,7 +932,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.8.61",
+      "ipv4": "46.12.119.59",
       "ipv6": null
     },
     {
@@ -2967,7 +2967,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -4551,7 +4551,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.8.61",
+      "ipv4": "46.12.119.59",
       "ipv6": null
     },
     {
@@ -9001,7 +9001,7 @@
     {
       "designator": "28505",
       "country": "GB",
-      "name": "GB Wakefield",
+      "name": "Wakefield",
       "use_xx_prefix": false,
       "description": "Wakefield UK",
       "user_count": "000",
@@ -10326,8 +10326,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3037::ac43:ad7a"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -10711,7 +10711,7 @@
       "description": "Doghouse",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "38.59.14.215",
+      "ipv4": "38.59.14.239",
       "ipv6": null
     },
     {
@@ -14286,8 +14286,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15431,7 +15431,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.169.216",
-      "ipv6": "2606:4700:3036::6815:1bf3"
+      "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
       "designator": "69614",
