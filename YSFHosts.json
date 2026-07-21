@@ -5948,7 +5948,7 @@
       "description": "235 Alive",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "81.111.198.111",
+      "ipv4": "82.20.246.67",
       "ipv6": null
     },
     {
@@ -10304,8 +10304,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3037::ac43:ad7a"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -10348,7 +10348,7 @@
       "description": "Coamo WP4NNZ",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "67.224.139.156",
+      "ipv4": "173.215.220.169",
       "ipv6": null
     },
     {
@@ -11041,7 +11041,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.252.182.124",
+      "ipv4": "82.57.39.238",
       "ipv6": null
     },
     {
@@ -11756,7 +11756,7 @@
       "description": "Soccer Chat",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "81.111.198.111",
+      "ipv4": "82.20.246.67",
       "ipv6": null
     },
     {
@@ -11767,7 +11767,7 @@
       "description": "UK SW Cluster",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "81.111.198.111",
+      "ipv4": "82.20.246.67",
       "ipv6": null
     },
     {
@@ -12196,8 +12196,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3037::6815:88d"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -15408,8 +15408,8 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
-      "ipv6": "2606:4700:3033::ac43:a9d8"
+      "ipv4": "104.21.27.243",
+      "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
       "designator": "69614",
