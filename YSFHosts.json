@@ -3004,17 +3004,6 @@
       "ipv6": null
     },
     {
-      "designator": "01923",
-      "country": "TR",
-      "name": "URFTRK",
-      "use_xx_prefix": false,
-      "description": "URFTRK",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "5.175.136.63",
-      "ipv6": null
-    },
-    {
       "designator": "01939",
       "country": "CH",
       "name": "Chablais",
@@ -10327,7 +10316,7 @@
       "user_count": "000",
       "port": 42050,
       "ipv4": "104.21.30.174",
-      "ipv6": "2606:4700:3033::6815:1eae"
+      "ipv6": "2606:4700:3037::ac43:ad7a"
     },
     {
       "designator": "32888",
@@ -15430,7 +15419,7 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
+      "ipv4": "104.21.27.243",
       "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
