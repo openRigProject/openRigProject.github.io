@@ -2956,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -6949,7 +6949,7 @@
       "description": "TE YSF Room",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "79.52.1.120",
+      "ipv4": "87.19.183.160",
       "ipv6": null
     },
     {
@@ -6960,7 +6960,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.52.1.120",
+      "ipv4": "87.19.183.160",
       "ipv6": null
     },
     {
@@ -9241,6 +9241,17 @@
       "ipv6": null
     },
     {
+      "designator": "30201",
+      "country": "CA",
+      "name": "C4FM CANADA",
+      "use_xx_prefix": false,
+      "description": "(YCS302)",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "66.170.180.73",
+      "ipv6": null
+    },
+    {
       "designator": "30270",
       "country": "PR",
       "name": "PUERTO RICO",
@@ -10898,7 +10909,7 @@
       "description": "XLX639W",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "49.135.34.101",
+      "ipv4": "49.135.32.244",
       "ipv6": null
     },
     {
@@ -11030,7 +11041,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.247.24.31",
+      "ipv4": "95.252.182.124",
       "ipv6": null
     },
     {
@@ -11217,7 +11228,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.2.42.244",
+      "ipv4": "181.87.242.26",
       "ipv6": null
     },
     {
@@ -12185,8 +12196,8 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.8.141",
-      "ipv6": "2606:4700:3037::6815:88d"
+      "ipv4": "172.67.139.134",
+      "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
       "designator": "46085",
@@ -14254,7 +14265,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15397,7 +15408,7 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
+      "ipv4": "104.21.27.243",
       "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
