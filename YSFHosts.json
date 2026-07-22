@@ -7235,7 +7235,7 @@
       "description": "DMR/YSF/D-Star",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "108.56.177.81",
+      "ipv4": "163.5.171.50",
       "ipv6": null
     },
     {
@@ -10304,8 +10304,8 @@
       "description": "SouthCoastRef",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "172.67.173.122",
-      "ipv6": "2606:4700:3037::ac43:ad7a"
+      "ipv4": "104.21.30.174",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -12196,7 +12196,7 @@
       "description": "JiangXi",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.139.134",
+      "ipv4": "104.21.8.141",
       "ipv6": "2606:4700:3031::ac43:8b86"
     },
     {
@@ -14264,8 +14264,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -15409,7 +15409,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.27.243",
-      "ipv6": "2606:4700:3033::ac43:a9d8"
+      "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
       "designator": "69614",
@@ -15920,9 +15920,9 @@
     {
       "designator": "73237",
       "country": "CO",
-      "name": "REM-52HZ",
+      "name": "COLOMBIA-LINK",
       "use_xx_prefix": false,
-      "description": "C4FM REM-52HZ",
+      "description": "COLOMBIA LINK",
       "user_count": "000",
       "port": 42052,
       "ipv4": "186.154.191.9",
