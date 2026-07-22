@@ -250,8 +250,8 @@
       "description": "Worldwide",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "00029",
@@ -2956,7 +2956,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5816,7 +5816,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.247.218",
+      "ipv4": "77.189.111.95",
       "ipv6": null
     },
     {
@@ -8588,7 +8588,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.79.14",
+      "ipv4": "79.184.162.99",
       "ipv6": null
     },
     {
@@ -11778,7 +11778,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.107.248",
+      "ipv4": "77.181.231.21",
       "ipv6": null
     },
     {
@@ -14264,8 +14264,8 @@
       "description": "406 Hi-Line",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.58.30",
-      "ipv6": "2606:4700:3031::ac43:9b4c"
+      "ipv4": "172.67.155.76",
+      "ipv6": "2606:4700:3037::6815:3a1e"
     },
     {
       "designator": "59599",
@@ -14935,8 +14935,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14946,8 +14946,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14957,8 +14957,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14968,8 +14968,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14979,8 +14979,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.170.60",
-      "ipv6": "2003:c9:8fff:33b0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.41.70",
+      "ipv6": "2003:c9:8fff:c70:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15408,8 +15408,8 @@
       "description": "NOVARS Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.169.216",
-      "ipv6": "2606:4700:3033::ac43:a9d8"
+      "ipv4": "104.21.27.243",
+      "ipv6": "2606:4700:3036::6815:1bf3"
     },
     {
       "designator": "69614",
