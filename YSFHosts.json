@@ -5112,7 +5112,7 @@
       "description": "Osaka XLX538Y",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "150.9.32.216",
+      "ipv4": "131.129.40.179",
       "ipv6": "2405:6584:5700:400:2448:a863:26d4:515d"
     },
     {
@@ -7148,7 +7148,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340c:fb00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3416:f100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8534,6 +8534,17 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "172.234.200.178",
+      "ipv6": null
+    },
+    {
+      "designator": "31555",
+      "country": "US",
+      "name": "Wisconsin DMR",
+      "use_xx_prefix": false,
+      "description": "Wisconsin DMR",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "64.177.123.35",
       "ipv6": null
     },
     {
@@ -14561,7 +14572,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.4.214.63",
+      "ipv4": "79.52.147.81",
       "ipv6": null
     },
     {
