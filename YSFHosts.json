@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -5882,7 +5882,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.239.143.217",
+      "ipv4": "79.22.195.232",
       "ipv6": null
     },
     {
@@ -6104,6 +6104,17 @@
       "port": 42393,
       "ipv4": "57.131.25.19",
       "ipv6": null
+    },
+    {
+      "designator": "22471",
+      "country": "IT",
+      "name": "XLX971",
+      "use_xx_prefix": false,
+      "description": "MIB Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "81.57.58.247",
+      "ipv6": "2a01:e11:6450:180:6151:a9e1:c90a:e27b"
     },
     {
       "designator": "22476",
@@ -13110,7 +13121,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.175.139",
-      "ipv6": "2804:7f0:b771:300:e61c:fa30:7bb:b486"
+      "ipv6": "2804:7f0:b771:300:e5d7:428b:2c25:99e4"
     },
     {
       "designator": "72407",
@@ -13121,7 +13132,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.175.139",
-      "ipv6": "2804:7f0:b771:300:e61c:fa30:7bb:b486"
+      "ipv6": "2804:7f0:b771:300:e5d7:428b:2c25:99e4"
     },
     {
       "designator": "72420",
