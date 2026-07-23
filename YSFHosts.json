@@ -7148,7 +7148,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340c:fb00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3416:f100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12493,7 +12493,7 @@
       "description": "TG46028",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "182.148.142.216",
+      "ipv4": "110.191.247.2",
       "ipv6": null
     },
     {
