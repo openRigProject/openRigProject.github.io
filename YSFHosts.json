@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -7159,7 +7159,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3416:f100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340c:fb00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10073,7 +10073,7 @@
       "description": "YSF-YYK-833",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "125.196.111.117",
+      "ipv4": "111.169.42.43",
       "ipv6": null
     },
     {
@@ -10084,7 +10084,7 @@
       "description": "YSF-YYK-834",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "122.133.139.87",
+      "ipv4": "122.132.40.184",
       "ipv6": null
     },
     {
