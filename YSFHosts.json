@@ -338,7 +338,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.195.190.205",
+      "ipv4": "153.169.24.190",
       "ipv6": "2400:4051:8ea0:7200:5ce3:baff:fe6c:5ffe"
     },
     {
@@ -833,7 +833,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.195.190.205",
+      "ipv4": "153.169.24.190",
       "ipv6": null
     },
     {
@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -7148,7 +7148,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3416:f100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340c:fb00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7895,7 +7895,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "146.212.111.115",
+      "ipv4": "92.37.89.236",
       "ipv6": null
     },
     {
@@ -14561,7 +14561,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.52.138.186",
+      "ipv4": "87.4.214.63",
       "ipv6": null
     },
     {
