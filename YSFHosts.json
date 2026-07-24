@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -12046,17 +12046,6 @@
       "ipv6": null
     },
     {
-      "designator": "61000",
-      "country": "US",
-      "name": "URFDVR",
-      "use_xx_prefix": false,
-      "description": "URFDVR",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "144.202.52.151",
-      "ipv6": null
-    },
-    {
       "designator": "61144",
       "country": "PH",
       "name": "DV7SKY",
@@ -15231,8 +15220,8 @@
       "use_xx_prefix": false,
       "description": "KE6UPI",
       "user_count": "000",
-      "port": 42000,
-      "ipv4": "149.248.12.117",
+      "port": 42002,
+      "ipv4": "45.76.170.217",
       "ipv6": null
     },
     {
