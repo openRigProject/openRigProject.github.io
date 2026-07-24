@@ -5248,17 +5248,6 @@
       "ipv6": null
     },
     {
-      "designator": "21277",
-      "country": "US",
-      "name": "URF277",
-      "use_xx_prefix": false,
-      "description": "URF277",
-      "user_count": "000",
-      "port": 42222,
-      "ipv4": "67.207.37.195",
-      "ipv6": null
-    },
-    {
       "designator": "21310",
       "country": "AD",
       "name": "C37AC",
@@ -12054,6 +12043,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "51.38.225.179",
+      "ipv6": null
+    },
+    {
+      "designator": "61000",
+      "country": "US",
+      "name": "URFDVR",
+      "use_xx_prefix": false,
+      "description": "URFDVR",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "144.202.52.151",
       "ipv6": null
     },
     {
