@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -4353,7 +4353,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.15.84",
+      "ipv4": "88.207.73.187",
       "ipv6": null
     },
     {
@@ -4947,7 +4947,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.203.158",
+      "ipv4": "77.181.239.179",
       "ipv6": null
     },
     {
@@ -5882,7 +5882,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.22.151.140",
+      "ipv4": "79.53.140.198",
       "ipv6": null
     },
     {
@@ -7411,7 +7411,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.117.127",
+      "ipv4": "79.184.81.144",
       "ipv6": null
     },
     {
@@ -7686,7 +7686,7 @@
       "description": "Wakefield UK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "86.128.162.240",
+      "ipv4": "86.169.25.178",
       "ipv6": null
     },
     {
@@ -9571,6 +9571,17 @@
       "ipv6": null
     },
     {
+      "designator": "42041",
+      "country": "FR",
+      "name": "YSF-DPT41",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42241,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
       "designator": "42100",
       "country": "FR",
       "name": "XLX42D",
@@ -9626,6 +9637,17 @@
       "ipv6": null
     },
     {
+      "designator": "42262",
+      "country": "FR",
+      "name": "YSF-TG20862",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42262,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
       "designator": "42274",
       "country": "US",
       "name": "KY-CQ-LOUISVI",
@@ -9634,6 +9656,28 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "18.217.73.9",
+      "ipv6": null
+    },
+    {
+      "designator": "42293",
+      "country": "FR",
+      "name": "YSF-F1ZFK",
+      "use_xx_prefix": false,
+      "description": "YSF-F1ZFK-Nord",
+      "user_count": "000",
+      "port": 42293,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
+      "designator": "42294",
+      "country": "FR",
+      "name": "YSF-NORD",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42294,
+      "ipv4": "147.79.100.223",
       "ipv6": null
     },
     {
@@ -13740,6 +13784,17 @@
       "ipv6": null
     },
     {
+      "designator": "77412",
+      "country": "FR",
+      "name": "YSF-MULTIPR",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42299,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
       "designator": "77462",
       "country": "PL",
       "name": "XLX132-XLXd",
@@ -14684,6 +14739,17 @@
       "port": 42010,
       "ipv4": "82.165.235.209",
       "ipv6": "::ffff:82.165.235.209"
+    },
+    {
+      "designator": "88741",
+      "country": "FR",
+      "name": "YSF-Serveur",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
     },
     {
       "designator": "88818",
