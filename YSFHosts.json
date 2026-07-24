@@ -5882,7 +5882,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.22.195.232",
+      "ipv4": "79.22.151.140",
       "ipv6": null
     },
     {
@@ -7159,7 +7159,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340c:fb00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3420:ce00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
