@@ -507,17 +507,6 @@
       "ipv6": null
     },
     {
-      "designator": "00073",
-      "country": "US",
-      "name": "URF073",
-      "use_xx_prefix": false,
-      "description": "URF073",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "162.213.130.93",
-      "ipv6": null
-    },
-    {
       "designator": "00077",
       "country": "US",
       "name": "0077 NETWORK",
@@ -870,6 +859,17 @@
       "ipv6": null
     },
     {
+      "designator": "00186",
+      "country": "JP",
+      "name": "URF296",
+      "use_xx_prefix": false,
+      "description": "URF296",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "153.127.50.48",
+      "ipv6": null
+    },
+    {
       "designator": "00188",
       "country": "US",
       "name": "XLX188",
@@ -944,17 +944,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "100.36.101.23",
-      "ipv6": null
-    },
-    {
-      "designator": "00218",
-      "country": "US",
-      "name": "URF218",
-      "use_xx_prefix": false,
-      "description": "URF218",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "138.128.247.74",
       "ipv6": null
     },
     {
@@ -1329,17 +1318,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "173.206.226.229",
-      "ipv6": null
-    },
-    {
-      "designator": "00426",
-      "country": "MX",
-      "name": "URF426",
-      "use_xx_prefix": false,
-      "description": "URF426",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "142.44.211.133",
       "ipv6": null
     },
     {
@@ -2069,17 +2047,6 @@
       "ipv6": null
     },
     {
-      "designator": "00892",
-      "country": "US",
-      "name": "URF892",
-      "use_xx_prefix": false,
-      "description": "URF892",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "209.251.60.132",
-      "ipv6": null
-    },
-    {
       "designator": "00907",
       "country": "GB",
       "name": "FreeDMR 907",
@@ -2132,17 +2099,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "69.164.209.180",
-      "ipv6": null
-    },
-    {
-      "designator": "00933",
-      "country": "FR",
-      "name": "URF933",
-      "use_xx_prefix": false,
-      "description": "URF933",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "51.254.33.194",
       "ipv6": null
     },
     {
@@ -2231,6 +2187,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.20.29.131",
+      "ipv6": null
+    },
+    {
+      "designator": "00987",
+      "country": "US",
+      "name": "URF987",
+      "use_xx_prefix": false,
+      "description": "URF987",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "66.218.38.162",
       "ipv6": null
     },
     {
@@ -2549,7 +2516,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3686,6 +3653,17 @@
       "ipv6": null
     },
     {
+      "designator": "09999",
+      "country": "DE",
+      "name": "URF508",
+      "use_xx_prefix": false,
+      "description": "URF508",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "104.156.136.8",
+      "ipv6": null
+    },
+    {
       "designator": "10000",
       "country": "US",
       "name": "USAF Cop Shop",
@@ -3860,17 +3838,6 @@
       "port": 42005,
       "ipv4": "76.157.206.223",
       "ipv6": null
-    },
-    {
-      "designator": "10823",
-      "country": "US",
-      "name": "URF307",
-      "use_xx_prefix": false,
-      "description": "URF307",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "72.21.76.154",
-      "ipv6": "2001:470:4b:e0::307"
     },
     {
       "designator": "10833",
@@ -10029,7 +9996,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.92.164",
+      "ipv4": "77.179.40.175",
       "ipv6": null
     },
     {
@@ -12482,8 +12449,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.165.65",
-      "ipv6": "2003:c9:8fff:11e4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.231.149",
+      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12493,8 +12460,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.165.65",
-      "ipv6": "2003:c9:8fff:11e4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.231.149",
+      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12504,8 +12471,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.165.65",
-      "ipv6": "2003:c9:8fff:11e4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.231.149",
+      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12515,8 +12482,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.165.65",
-      "ipv6": "2003:c9:8fff:11e4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.231.149",
+      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12526,8 +12493,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.165.65",
-      "ipv6": "2003:c9:8fff:11e4:e228:6dff:fe74:b559"
+      "ipv4": "91.16.231.149",
+      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -13971,17 +13938,6 @@
       "ipv6": null
     },
     {
-      "designator": "80208",
-      "country": "CL",
-      "name": "URF046",
-      "use_xx_prefix": false,
-      "description": "URF046",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "181.190.38.58",
-      "ipv6": null
-    },
-    {
       "designator": "80280",
       "country": "US",
       "name": "Contra-Costa",
@@ -14075,17 +14031,6 @@
       "name": "XLX083",
       "use_xx_prefix": false,
       "description": "Chile XLX083",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "190.44.28.137",
-      "ipv6": null
-    },
-    {
-      "designator": "81511",
-      "country": "CL",
-      "name": "URF083",
-      "use_xx_prefix": false,
-      "description": "URF083",
       "user_count": "000",
       "port": 42000,
       "ipv4": "190.44.28.137",
@@ -15420,17 +15365,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "185.177.59.32",
-      "ipv6": null
-    },
-    {
-      "designator": "98765",
-      "country": "JP",
-      "name": "URFYAI",
-      "use_xx_prefix": false,
-      "description": "URFYAI",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "203.138.145.124",
       "ipv6": null
     },
     {
