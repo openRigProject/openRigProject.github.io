@@ -4903,7 +4903,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.239.179",
+      "ipv4": "77.181.20.212",
       "ipv6": null
     },
     {
@@ -7334,7 +7334,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.159.143",
+      "ipv4": "79.184.174.188",
       "ipv6": null
     },
     {
@@ -12671,6 +12671,17 @@
       "port": 42000,
       "ipv4": "44.27.131.126",
       "ipv6": null
+    },
+    {
+      "designator": "69420",
+      "country": "US",
+      "name": "XLX285",
+      "use_xx_prefix": false,
+      "description": "NOVARS Bridge",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "216.82.35.115",
+      "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
       "designator": "69614",
