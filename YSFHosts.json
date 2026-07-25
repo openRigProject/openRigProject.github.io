@@ -1662,17 +1662,6 @@
       "ipv6": null
     },
     {
-      "designator": "00700",
-      "country": "NL",
-      "name": "URF700",
-      "use_xx_prefix": false,
-      "description": "URF700",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "217.122.135.52",
-      "ipv6": null
-    },
-    {
       "designator": "00705",
       "country": "CA",
       "name": "VA3PDG",
@@ -3838,6 +3827,17 @@
       "port": 42005,
       "ipv4": "76.157.206.223",
       "ipv6": null
+    },
+    {
+      "designator": "10823",
+      "country": "US",
+      "name": "URF307",
+      "use_xx_prefix": false,
+      "description": "URF307",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.21.76.154",
+      "ipv6": "2001:470:4b:e0::307"
     },
     {
       "designator": "10833",
@@ -7334,7 +7334,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.81.144",
+      "ipv4": "79.184.159.143",
       "ipv6": null
     },
     {
@@ -7687,17 +7687,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "89.144.10.204",
-      "ipv6": null
-    },
-    {
-      "designator": "28648",
-      "country": "TR",
-      "name": "YSF Mugla",
-      "use_xx_prefix": false,
-      "description": "YSF Mugla",
-      "user_count": "000",
-      "port": 42007,
-      "ipv4": "31.57.33.9",
       "ipv6": null
     },
     {
@@ -12497,6 +12486,17 @@
       "ipv6": null
     },
     {
+      "designator": "67301",
+      "country": "US",
+      "name": "US INDYARC",
+      "use_xx_prefix": false,
+      "description": "IARC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.14.178.62",
+      "ipv6": null
+    },
+    {
       "designator": "67498",
       "country": "US",
       "name": "Netoholics",
@@ -15321,6 +15321,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "85.146.115.138",
+      "ipv6": null
+    },
+    {
+      "designator": "99981",
+      "country": "PH",
+      "name": "4E9KKZ",
+      "use_xx_prefix": true,
+      "description": "Nano reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "149.28.141.211",
       "ipv6": null
     },
     {
