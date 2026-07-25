@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3055,7 +3055,7 @@
       "description": "chaseroom",
       "user_count": "000",
       "port": 42250,
-      "ipv4": "86.188.76.136",
+      "ipv4": "86.172.151.250",
       "ipv6": null
     },
     {
@@ -10448,6 +10448,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "80.211.12.209",
+      "ipv6": null
+    },
+    {
+      "designator": "48226",
+      "country": "CR",
+      "name": "TI5LUA",
+      "use_xx_prefix": false,
+      "description": "Costa Rica",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "172.235.134.127",
       "ipv6": null
     },
     {
