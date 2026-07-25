@@ -364,6 +364,17 @@
       "ipv6": null
     },
     {
+      "designator": "00042",
+      "country": "US",
+      "name": "0 FOX 0",
+      "use_xx_prefix": false,
+      "description": "YSF/DMR/ALL*",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "15.204.205.35",
+      "ipv6": null
+    },
+    {
       "designator": "00043",
       "country": "US",
       "name": "BayArea-YSF",
@@ -2516,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -7126,7 +7137,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3420:ce00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342a:b900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8742,7 +8753,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.25.221.80",
+      "ipv4": "82.48.254.117",
       "ipv6": null
     },
     {
@@ -9150,17 +9161,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.238.156.182",
-      "ipv6": null
-    },
-    {
-      "designator": "37051",
-      "country": "US",
-      "name": "XLXFOX",
-      "use_xx_prefix": false,
-      "description": "XLXFOX - N4FOX",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "15.204.205.35",
       "ipv6": null
     },
     {
@@ -13967,7 +13967,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.25.221.80",
+      "ipv4": "82.48.254.117",
       "ipv6": null
     },
     {
