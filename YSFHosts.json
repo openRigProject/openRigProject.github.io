@@ -2113,6 +2113,17 @@
       "ipv6": null
     },
     {
+      "designator": "00933",
+      "country": "FR",
+      "name": "URF933",
+      "use_xx_prefix": false,
+      "description": "URF933",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "51.254.33.194",
+      "ipv6": null
+    },
+    {
       "designator": "00935",
       "country": "US",
       "name": "XLX935 SoCal",
@@ -2527,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3111,17 +3122,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "212.46.58.33",
-      "ipv6": null
-    },
-    {
-      "designator": "06723",
-      "country": "MV",
-      "name": "SH SHLK",
-      "use_xx_prefix": false,
-      "description": "",
-      "user_count": "000",
-      "port": 42006,
-      "ipv4": "218.79.254.55",
       "ipv6": null
     },
     {
@@ -3728,17 +3728,6 @@
       "port": 42000,
       "ipv4": "15.204.205.35",
       "ipv6": "2604:2dc0:101:200::425c"
-    },
-    {
-      "designator": "10101",
-      "country": "CH",
-      "name": "HB9HTK",
-      "use_xx_prefix": false,
-      "description": "HB9HTK-Home",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "85.4.229.250",
-      "ipv6": null
     },
     {
       "designator": "10176",
@@ -4387,17 +4376,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "86.130.105.72",
-      "ipv6": null
-    },
-    {
-      "designator": "14681",
-      "country": "US",
-      "name": "XLX681",
-      "use_xx_prefix": false,
-      "description": "XLX681 MM",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "217.180.211.244",
       "ipv6": null
     },
     {
@@ -6084,17 +6062,6 @@
       "ipv6": null
     },
     {
-      "designator": "22471",
-      "country": "IT",
-      "name": "XLX971",
-      "use_xx_prefix": false,
-      "description": "MIB Reflector",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "81.57.58.247",
-      "ipv6": "2a01:e11:6450:180:6151:a9e1:c90a:e27b"
-    },
-    {
       "designator": "22476",
       "country": "RS",
       "name": "RS Serbia",
@@ -6136,17 +6103,6 @@
       "user_count": "000",
       "port": 42399,
       "ipv4": "212.227.87.198",
-      "ipv6": null
-    },
-    {
-      "designator": "22556",
-      "country": "US",
-      "name": "XLX556",
-      "use_xx_prefix": false,
-      "description": "DMR/YSF/D-Star",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "163.5.171.50",
       "ipv6": null
     },
     {
@@ -6367,17 +6323,6 @@
       "user_count": "000",
       "port": 42397,
       "ipv4": "57.131.25.19",
-      "ipv6": null
-    },
-    {
-      "designator": "23438",
-      "country": "MX",
-      "name": "Bridge XE1RAG",
-      "use_xx_prefix": false,
-      "description": "Bridge XE1RAG",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "187.170.92.45",
       "ipv6": null
     },
     {
@@ -7503,17 +7448,6 @@
       "ipv6": null
     },
     {
-      "designator": "27797",
-      "country": "RU",
-      "name": "MOSCOW",
-      "use_xx_prefix": false,
-      "description": "MOSCOW",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "128.0.132.69",
-      "ipv6": null
-    },
-    {
       "designator": "28054",
       "country": "US",
       "name": "XLX458",
@@ -8372,17 +8306,6 @@
       "ipv6": null
     },
     {
-      "designator": "31358",
-      "country": "US",
-      "name": "QSO31358",
-      "use_xx_prefix": false,
-      "description": "K8KHW-YSF",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "24.231.28.183",
-      "ipv6": null
-    },
-    {
       "designator": "31378",
       "country": "US",
       "name": "Gate City",
@@ -8688,17 +8611,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "187.33.156.165",
-      "ipv6": null
-    },
-    {
-      "designator": "31973",
-      "country": "IT",
-      "name": "FOXONE",
-      "use_xx_prefix": false,
-      "description": "FOX HOUSE",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "151.26.128.141",
       "ipv6": null
     },
     {
@@ -9989,28 +9901,6 @@
       "ipv6": null
     },
     {
-      "designator": "44213",
-      "country": "GB",
-      "name": "Mash369",
-      "use_xx_prefix": false,
-      "description": "",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "90.243.73.67",
-      "ipv6": null
-    },
-    {
-      "designator": "44220",
-      "country": "PH",
-      "name": "DX1BBC",
-      "use_xx_prefix": false,
-      "description": "DX1BBC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "32.218.108.144",
-      "ipv6": null
-    },
-    {
       "designator": "44222",
       "country": "GB",
       "name": "NWFG2",
@@ -10173,17 +10063,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "222.128.4.82",
-      "ipv6": null
-    },
-    {
-      "designator": "46004",
-      "country": "CN",
-      "name": "C4FM-BG4IAJ",
-      "use_xx_prefix": false,
-      "description": "China C4FM",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "139.196.236.224",
       "ipv6": null
     },
     {
@@ -10528,6 +10407,17 @@
       "ipv6": "2a02:c207:3003:8989::1"
     },
     {
+      "designator": "47792",
+      "country": "IT",
+      "name": "PIRS ITALIA",
+      "use_xx_prefix": false,
+      "description": "YSF PIRS",
+      "user_count": "000",
+      "port": 42395,
+      "ipv4": "31.189.197.56",
+      "ipv6": null
+    },
+    {
       "designator": "47890",
       "country": "GB",
       "name": "GM0MZB",
@@ -10734,17 +10624,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "112.213.34.65",
-      "ipv6": null
-    },
-    {
-      "designator": "50556",
-      "country": "GB",
-      "name": "ANZEL",
-      "use_xx_prefix": false,
-      "description": "Multimode",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "104.238.185.240",
       "ipv6": null
     },
     {
@@ -11119,17 +10998,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.32.93.221",
-      "ipv6": null
-    },
-    {
-      "designator": "51866",
-      "country": "GB",
-      "name": "H1L8RE",
-      "use_xx_prefix": false,
-      "description": "GB-H1L8RE",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "95.147.123.118",
       "ipv6": null
     },
     {
@@ -11801,17 +11669,6 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "117.55.236.14",
-      "ipv6": null
-    },
-    {
-      "designator": "58907",
-      "country": "TH",
-      "name": "URF162",
-      "use_xx_prefix": false,
-      "description": "",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "44.32.81.27",
       "ipv6": null
     },
     {
@@ -12497,17 +12354,6 @@
       "ipv6": null
     },
     {
-      "designator": "65330",
-      "country": "CN",
-      "name": "CS-BI8AQ",
-      "use_xx_prefix": false,
-      "description": "TG46028",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "110.191.247.48",
-      "ipv6": null
-    },
-    {
       "designator": "65535",
       "country": "US",
       "name": "URF668",
@@ -12648,17 +12494,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "146.56.185.110",
-      "ipv6": null
-    },
-    {
-      "designator": "67301",
-      "country": "US",
-      "name": "US INDYARC",
-      "use_xx_prefix": false,
-      "description": "IARC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "72.14.178.62",
       "ipv6": null
     },
     {
@@ -14125,17 +13960,6 @@
       "ipv6": null
     },
     {
-      "designator": "82832",
-      "country": "US",
-      "name": "US Central-NC",
-      "use_xx_prefix": false,
-      "description": "Central-NC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "75.52.100.63",
-      "ipv6": null
-    },
-    {
       "designator": "83132",
       "country": "US",
       "name": "ILLINOIS LINK",
@@ -14551,17 +14375,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "203.137.76.22",
-      "ipv6": null
-    },
-    {
-      "designator": "87648",
-      "country": "IT",
-      "name": "IR8UCW YSF",
-      "use_xx_prefix": true,
-      "description": "IR8UCW YSF REF",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "79.52.147.81",
       "ipv6": null
     },
     {
@@ -15214,17 +15027,6 @@
       "ipv6": null
     },
     {
-      "designator": "95100",
-      "country": "US",
-      "name": "IEARG",
-      "use_xx_prefix": false,
-      "description": "KE6UPI",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "72.134.238.36",
-      "ipv6": null
-    },
-    {
       "designator": "95110",
       "country": "US",
       "name": "C4FM-JET",
@@ -15412,14 +15214,14 @@
       "ipv6": null
     },
     {
-      "designator": "99462",
+      "designator": "99300",
       "country": "US",
-      "name": "Sub-RMs",
+      "name": "Sentry",
       "use_xx_prefix": false,
-      "description": "Sub Radiomen",
+      "description": "",
       "user_count": "000",
-      "port": 42002,
-      "ipv4": "47.216.47.227",
+      "port": 42001,
+      "ipv4": "99.105.192.230",
       "ipv6": null
     },
     {
@@ -15431,17 +15233,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "69.48.207.70",
-      "ipv6": null
-    },
-    {
-      "designator": "99500",
-      "country": "US",
-      "name": "KO4SJB",
-      "use_xx_prefix": false,
-      "description": "KO4SJB Miami F",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "50.73.6.170",
       "ipv6": null
     },
     {
@@ -15530,17 +15321,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "85.146.115.138",
-      "ipv6": null
-    },
-    {
-      "designator": "99981",
-      "country": "PH",
-      "name": "4E9KKZ",
-      "use_xx_prefix": true,
-      "description": "Nano reflector",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "149.28.141.211",
       "ipv6": null
     },
     {
