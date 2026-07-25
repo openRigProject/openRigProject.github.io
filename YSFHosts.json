@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -8886,17 +8886,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "173.215.220.169",
-      "ipv6": null
-    },
-    {
-      "designator": "33300",
-      "country": "US",
-      "name": "Sentry",
-      "use_xx_prefix": false,
-      "description": "US-Sentry",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "96.44.137.162",
       "ipv6": null
     },
     {
