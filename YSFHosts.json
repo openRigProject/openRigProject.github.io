@@ -2102,6 +2102,17 @@
       "ipv6": null
     },
     {
+      "designator": "00933",
+      "country": "FR",
+      "name": "URF933",
+      "use_xx_prefix": false,
+      "description": "URF933",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "51.254.33.194",
+      "ipv6": null
+    },
+    {
       "designator": "00935",
       "country": "US",
       "name": "XLX935 SoCal",
@@ -2516,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -7082,7 +7093,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3435:1900:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342a:b900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
