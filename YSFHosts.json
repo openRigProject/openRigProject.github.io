@@ -2102,17 +2102,6 @@
       "ipv6": null
     },
     {
-      "designator": "00933",
-      "country": "FR",
-      "name": "URF933",
-      "use_xx_prefix": false,
-      "description": "URF933",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "51.254.33.194",
-      "ipv6": null
-    },
-    {
       "designator": "00935",
       "country": "US",
       "name": "XLX935 SoCal",
@@ -2527,7 +2516,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -7698,6 +7687,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "89.144.10.204",
+      "ipv6": null
+    },
+    {
+      "designator": "28648",
+      "country": "TR",
+      "name": "YSF Mugla",
+      "use_xx_prefix": false,
+      "description": "YSF Mugla",
+      "user_count": "000",
+      "port": 42007,
+      "ipv4": "31.57.33.9",
       "ipv6": null
     },
     {
