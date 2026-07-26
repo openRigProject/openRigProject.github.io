@@ -3323,6 +3323,17 @@
       "ipv6": null
     },
     {
+      "designator": "07573",
+      "country": "US",
+      "name": "Docksea",
+      "use_xx_prefix": false,
+      "description": "westlink",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "45.76.71.61",
+      "ipv6": null
+    },
+    {
       "designator": "07575",
       "country": "ES",
       "name": "ALICANTE",
@@ -5838,7 +5849,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.53.140.198",
+      "ipv4": "87.2.183.17",
       "ipv6": null
     },
     {
@@ -7082,7 +7093,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:342a:b900:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3435:1900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -15049,6 +15060,17 @@
       "ipv6": null
     },
     {
+      "designator": "95100",
+      "country": "US",
+      "name": "IEARG",
+      "use_xx_prefix": false,
+      "description": "KE6UPI",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "72.134.238.36",
+      "ipv6": null
+    },
+    {
       "designator": "95110",
       "country": "US",
       "name": "C4FM-JET",
@@ -15320,7 +15342,7 @@
       "description": "WIRES-KLODZKO",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "155.133.62.148",
+      "ipv4": "91.238.55.102",
       "ipv6": null
     },
     {
