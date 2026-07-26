@@ -3330,7 +3330,7 @@
       "description": "Alicante",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.117.62.184",
+      "ipv4": "86.127.239.168",
       "ipv6": null
     },
     {
@@ -9886,7 +9886,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.40.175",
+      "ipv4": "93.130.194.10",
       "ipv6": null
     },
     {
@@ -11150,8 +11150,8 @@
       "use_xx_prefix": false,
       "description": "SOMOS LATINOS",
       "user_count": "000",
-      "port": 42024,
-      "ipv4": "68.190.46.43",
+      "port": 42080,
+      "ipv4": "66.168.193.157",
       "ipv6": null
     },
     {
@@ -12284,8 +12284,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.231.149",
-      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
+      "ipv4": "87.178.170.224",
+      "ipv6": "2003:c9:8fff:481c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12295,8 +12295,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.231.149",
-      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
+      "ipv4": "87.178.170.224",
+      "ipv6": "2003:c9:8fff:481c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12306,8 +12306,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.231.149",
-      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
+      "ipv4": "87.178.170.224",
+      "ipv6": "2003:c9:8fff:481c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12317,8 +12317,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.231.149",
-      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
+      "ipv4": "87.178.170.224",
+      "ipv6": "2003:c9:8fff:481c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12328,8 +12328,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.231.149",
-      "ipv6": "2003:c9:8fff:4091:e228:6dff:fe74:b559"
+      "ipv4": "87.178.170.224",
+      "ipv6": "2003:c9:8fff:481c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -12675,7 +12675,7 @@
     {
       "designator": "69420",
       "country": "US",
-      "name": "XLX285",
+      "name": "NOVARS-YSF",
       "use_xx_prefix": false,
       "description": "NOVARS Bridge",
       "user_count": "000",
