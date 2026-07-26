@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -5916,17 +5916,6 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "82.165.136.30",
-      "ipv6": null
-    },
-    {
-      "designator": "22270",
-      "country": "IT",
-      "name": "URFDDC",
-      "use_xx_prefix": false,
-      "description": "URFDDC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "79.41.39.154",
       "ipv6": null
     },
     {
@@ -15276,7 +15265,7 @@
       "description": "Carlisle",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "174.59.146.137",
+      "ipv4": "174.216.51.185",
       "ipv6": null
     },
     {
