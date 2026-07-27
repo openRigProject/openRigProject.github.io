@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -4914,7 +4914,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.133.241",
+      "ipv4": "77.181.85.23",
       "ipv6": null
     },
     {
@@ -7345,7 +7345,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.167.117",
+      "ipv4": "79.184.163.189",
       "ipv6": null
     },
     {
