@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -13681,7 +13681,7 @@
       "description": "dvbr.net",
       "user_count": "000",
       "port": 42777,
-      "ipv4": "200.150.207.27",
+      "ipv4": "92.246.129.30",
       "ipv6": "2804:1308::4:cc01"
     },
     {
@@ -15287,7 +15287,7 @@
       "description": "Carlisle",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "174.59.146.137",
+      "ipv4": "174.216.49.33",
       "ipv6": null
     },
     {
