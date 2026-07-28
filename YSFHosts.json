@@ -7285,7 +7285,7 @@
     {
       "designator": "26512",
       "country": "PL",
-      "name": "26512Warszawa",
+      "name": "26512W-waNXDN",
       "use_xx_prefix": false,
       "description": "26512 Warszawa",
       "user_count": "000",
@@ -15398,17 +15398,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "212.28.183.248",
-      "ipv6": null
-    },
-    {
-      "designator": "99911",
-      "country": "PL",
-      "name": "KOTLINA",
-      "use_xx_prefix": false,
-      "description": "WIRES-KLODZKO",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "91.238.55.102",
       "ipv6": null
     },
     {
