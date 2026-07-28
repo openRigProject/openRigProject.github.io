@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -5245,6 +5245,17 @@
       "user_count": "000",
       "port": 43000,
       "ipv4": "109.111.102.234",
+      "ipv6": null
+    },
+    {
+      "designator": "21313",
+      "country": "AD",
+      "name": "YSF ANDORRA",
+      "use_xx_prefix": false,
+      "description": "YSF ANDORRA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "143.47.34.183",
       "ipv6": null
     },
     {
