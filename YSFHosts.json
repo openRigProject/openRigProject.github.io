@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -15398,6 +15398,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "212.28.183.248",
+      "ipv6": null
+    },
+    {
+      "designator": "99911",
+      "country": "PL",
+      "name": "KOTLINA",
+      "use_xx_prefix": false,
+      "description": "WIRES-KLODZKO",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "91.238.55.102",
       "ipv6": null
     },
     {
