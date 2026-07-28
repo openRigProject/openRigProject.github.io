@@ -1497,6 +1497,17 @@
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
+      "designator": "00506",
+      "country": "JP",
+      "name": "JP-XLX506",
+      "use_xx_prefix": false,
+      "description": "XLX506Reflecto",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
       "designator": "00513",
       "country": "CN",
       "name": "NT-TG460073",
@@ -2527,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -5849,7 +5860,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.7.141.79",
+      "ipv4": "79.42.19.45",
       "ipv6": null
     },
     {
@@ -7093,7 +7104,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343f:3a00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3409:3d00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
