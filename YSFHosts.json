@@ -5882,7 +5882,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.33.12.186",
+      "ipv4": "79.22.63.63",
       "ipv6": null
     },
     {
@@ -8820,6 +8820,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "155.138.199.250",
+      "ipv6": null
+    },
+    {
+      "designator": "33033",
+      "country": "US",
+      "name": "Panic Room",
+      "use_xx_prefix": false,
+      "description": "Visit W3NTZ",
+      "user_count": "000",
+      "port": 42100,
+      "ipv4": "24.229.253.31",
       "ipv6": null
     },
     {
