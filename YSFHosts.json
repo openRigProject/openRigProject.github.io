@@ -958,6 +958,17 @@
       "ipv6": null
     },
     {
+      "designator": "00218",
+      "country": "US",
+      "name": "URF218",
+      "use_xx_prefix": false,
+      "description": "URF218",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "138.128.247.74",
+      "ipv6": null
+    },
+    {
       "designator": "00222",
       "country": "BH",
       "name": "AGDX",
@@ -1328,7 +1339,7 @@
       "description": "VE2SUS REF420",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "173.206.226.229",
+      "ipv4": "198.58.163.12",
       "ipv6": null
     },
     {
@@ -4914,7 +4925,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.39.241",
+      "ipv4": "178.59.45.129",
       "ipv6": null
     },
     {
