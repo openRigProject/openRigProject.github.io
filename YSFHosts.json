@@ -5116,17 +5116,6 @@
       "ipv6": null
     },
     {
-      "designator": "20612",
-      "country": "BE",
-      "name": "BE-ON8PMO WSL",
-      "use_xx_prefix": true,
-      "description": "YSF ON8PMO WSL",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "213.219.147.227",
-      "ipv6": null
-    },
-    {
       "designator": "20670",
       "country": "UA",
       "name": "Zaporozhe YSF",
@@ -8731,7 +8720,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.48.254.117",
+      "ipv4": "87.2.164.23",
       "ipv6": null
     },
     {
@@ -13912,7 +13901,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "82.48.254.117",
+      "ipv4": "87.2.164.23",
       "ipv6": null
     },
     {
