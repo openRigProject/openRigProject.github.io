@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -4925,7 +4925,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.103.197.86",
+      "ipv4": "178.59.149.203",
       "ipv6": null
     },
     {
@@ -10502,7 +10502,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.143.227",
+      "ipv4": "151.63.93.55",
       "ipv6": null
     },
     {
