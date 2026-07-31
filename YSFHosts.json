@@ -7833,17 +7833,6 @@
       "ipv6": null
     },
     {
-      "designator": "29072",
-      "country": "US",
-      "name": "URFM17",
-      "use_xx_prefix": false,
-      "description": "URFM17",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "45.79.204.38",
-      "ipv6": null
-    },
-    {
       "designator": "29298",
       "country": "PH",
       "name": "Freedom",
