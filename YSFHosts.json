@@ -7137,7 +7137,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3427:f500:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3413:3f00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7402,6 +7402,17 @@
       "port": 42000,
       "ipv4": "31.14.135.231",
       "ipv6": null
+    },
+    {
+      "designator": "27075",
+      "country": "NL",
+      "name": "NL  Zeist",
+      "use_xx_prefix": false,
+      "description": "test ysf",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "84.107.219.155",
+      "ipv6": "2001:1c02:c10:ef00:31b0:8017:6c65:d08"
     },
     {
       "designator": "27182",
