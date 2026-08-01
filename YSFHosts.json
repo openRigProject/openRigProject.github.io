@@ -1042,7 +1042,7 @@
       "description": "WDRG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.145.97.174",
+      "ipv4": "86.159.2.249",
       "ipv6": null
     },
     {
@@ -12526,7 +12526,7 @@
       "description": "URF668",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.204.233",
+      "ipv4": "104.21.69.55",
       "ipv6": "2606:4700:3036::ac43:cce9"
     },
     {
@@ -14815,6 +14815,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.236.92.130",
+      "ipv6": null
+    },
+    {
+      "designator": "90040",
+      "country": "IT",
+      "name": "Carini",
+      "use_xx_prefix": false,
+      "description": "carini",
+      "user_count": "000",
+      "port": 42100,
+      "ipv4": "93.44.254.24",
       "ipv6": null
     },
     {
