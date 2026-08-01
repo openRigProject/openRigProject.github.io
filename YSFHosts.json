@@ -4914,7 +4914,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.227.190.153",
+      "ipv4": "127.0.0.1",
       "ipv6": null
     },
     {
@@ -4991,7 +4991,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.227.177.138",
+      "ipv4": "127.0.0.1",
       "ipv6": null
     },
     {
@@ -5002,7 +5002,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.227.177.16",
+      "ipv4": "127.0.0.1",
       "ipv6": null
     },
     {
