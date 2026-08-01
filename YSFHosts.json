@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -4924,7 +4924,7 @@
       "use_xx_prefix": false,
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
-      "port": 42000,
+      "port": 42002,
       "ipv4": "57.129.48.4",
       "ipv6": null
     },
@@ -4940,6 +4940,28 @@
       "ipv6": null
     },
     {
+      "designator": "20213",
+      "country": "GR",
+      "name": "HELLAS-ADN13",
+      "use_xx_prefix": false,
+      "description": "HELLAS-ADNDMR",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "57.129.48.4",
+      "ipv6": null
+    },
+    {
+      "designator": "20214",
+      "country": "GR",
+      "name": "HELLAS-ADN14",
+      "use_xx_prefix": false,
+      "description": "HELLAS-ADNDMR",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "57.129.48.4",
+      "ipv6": null
+    },
+    {
       "designator": "20215",
       "country": "GR",
       "name": "HELLAS-ADN15",
@@ -4948,6 +4970,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "77.12.24.117",
+      "ipv6": null
+    },
+    {
+      "designator": "20216",
+      "country": "GR",
+      "name": "HELLAS-ADN16",
+      "use_xx_prefix": false,
+      "description": "HELLAS-ADNDMR",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "57.129.48.4",
       "ipv6": null
     },
     {
@@ -8742,7 +8775,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.2.164.23",
+      "ipv4": "87.9.239.197",
       "ipv6": null
     },
     {
@@ -12482,7 +12515,7 @@
       "description": "URF668",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.204.233",
+      "ipv4": "104.21.69.55",
       "ipv6": "2606:4700:3033::6815:4537"
     },
     {
@@ -13934,7 +13967,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "87.2.164.23",
+      "ipv4": "87.9.239.197",
       "ipv6": null
     },
     {
