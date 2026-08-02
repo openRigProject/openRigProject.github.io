@@ -1156,6 +1156,17 @@
       "ipv6": null
     },
     {
+      "designator": "00306",
+      "country": "AU",
+      "name": "URF306",
+      "use_xx_prefix": false,
+      "description": "URF306",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "103.1.187.251",
+      "ipv6": null
+    },
+    {
       "designator": "00309",
       "country": "US",
       "name": "XLX309",
@@ -3077,7 +3088,7 @@
       "description": "chaseroom",
       "user_count": "000",
       "port": 42250,
-      "ipv4": "86.172.151.250",
+      "ipv4": "86.139.249.214",
       "ipv6": null
     },
     {
@@ -4947,7 +4958,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.103.195.146",
+      "ipv4": "178.59.2.126",
       "ipv6": null
     },
     {
