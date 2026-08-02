@@ -1119,7 +1119,7 @@
       "description": "Japan XLX297-F",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.164.36.1",
+      "ipv4": "153.164.56.6",
       "ipv6": null
     },
     {
@@ -4394,7 +4394,7 @@
       "country": "ES",
       "name": "EA3SPAIN",
       "use_xx_prefix": false,
-      "description": "",
+      "description": "EA3SPAIN",
       "user_count": "000",
       "port": 42000,
       "ipv4": "164.68.114.171",
@@ -4935,7 +4935,7 @@
       "use_xx_prefix": false,
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
-      "port": 42000,
+      "port": 42001,
       "ipv4": "192.227.190.153",
       "ipv6": null
     },
@@ -4958,7 +4958,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.2.126",
+      "ipv4": "178.59.110.121",
       "ipv6": null
     },
     {
@@ -5012,7 +5012,7 @@
       "use_xx_prefix": false,
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
-      "port": 42001,
+      "port": 42002,
       "ipv4": "192.227.190.153",
       "ipv6": null
     },
@@ -5023,7 +5023,7 @@
       "use_xx_prefix": false,
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
-      "port": 42002,
+      "port": 42003,
       "ipv4": "192.227.190.153",
       "ipv6": null
     },
@@ -12548,8 +12548,8 @@
       "description": "URF668",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.204.233",
-      "ipv6": "2606:4700:3036::ac43:cce9"
+      "ipv4": "104.21.69.55",
+      "ipv6": "2606:4700:3033::6815:4537"
     },
     {
       "designator": "65635",
@@ -15463,7 +15463,7 @@
       "description": "Carlisle",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "174.198.201.206",
+      "ipv4": "174.216.50.214",
       "ipv6": null
     },
     {
