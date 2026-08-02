@@ -4936,7 +4936,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.107.9",
+      "ipv4": "77.69.47.90",
       "ipv6": null
     },
     {
@@ -9406,6 +9406,17 @@
       "ipv6": null
     },
     {
+      "designator": "40557",
+      "country": "US",
+      "name": "Ohio-Link",
+      "use_xx_prefix": false,
+      "description": "Ohio Link YSF",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "98.30.116.247",
+      "ipv6": null
+    },
+    {
       "designator": "40600",
       "country": "IT",
       "name": "C4FM TEAM",
@@ -12515,8 +12526,8 @@
       "description": "URF668",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.204.233",
-      "ipv6": "2606:4700:3033::6815:4537"
+      "ipv4": "104.21.69.55",
+      "ipv6": "2606:4700:3036::ac43:cce9"
     },
     {
       "designator": "65635",
@@ -15430,7 +15441,7 @@
       "description": "Carlisle",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "174.228.231.249",
+      "ipv4": "174.198.201.206",
       "ipv6": null
     },
     {
