@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -4379,6 +4379,17 @@
       "ipv6": null
     },
     {
+      "designator": "14316",
+      "country": "ES",
+      "name": "EA3SPAIN",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "164.68.114.171",
+      "ipv6": null
+    },
+    {
       "designator": "14500",
       "country": "US",
       "name": "We Love Ham",
@@ -4936,7 +4947,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.177.251.72",
+      "ipv4": "178.59.10.17",
       "ipv6": null
     },
     {
@@ -12527,7 +12538,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.204.233",
-      "ipv6": "2606:4700:3036::ac43:cce9"
+      "ipv6": "2606:4700:3033::6815:4537"
     },
     {
       "designator": "65635",
