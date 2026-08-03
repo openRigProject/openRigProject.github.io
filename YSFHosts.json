@@ -10044,6 +10044,17 @@
       "ipv6": null
     },
     {
+      "designator": "44220",
+      "country": "PH",
+      "name": "DX1BBC",
+      "use_xx_prefix": false,
+      "description": "DX1BBC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "32.218.108.144",
+      "ipv6": null
+    },
+    {
       "designator": "44222",
       "country": "GB",
       "name": "NWFG2",
