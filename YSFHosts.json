@@ -844,7 +844,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.118.9",
+      "ipv4": "46.12.171.8",
       "ipv6": null
     },
     {
@@ -2549,7 +2549,7 @@
       "description": "by HA7LCA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.183.226.213",
+      "ipv4": "46.107.212.44",
       "ipv6": null
     },
     {
@@ -3825,7 +3825,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.118.9",
+      "ipv4": "46.12.171.8",
       "ipv6": null
     },
     {
@@ -5948,7 +5948,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.55.150.19",
+      "ipv4": "79.53.140.207",
       "ipv6": null
     },
     {
@@ -9282,6 +9282,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "101.143.242.199",
+      "ipv6": null
+    },
+    {
+      "designator": "38469",
+      "country": "US",
+      "name": "RuralMN-707",
+      "use_xx_prefix": false,
+      "description": "RuralMN-707",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "184.83.91.237",
       "ipv6": null
     },
     {
