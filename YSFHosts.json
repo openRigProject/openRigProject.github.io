@@ -3154,7 +3154,7 @@
       "description": "CIMA YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.30.218.197",
+      "ipv4": "80.30.218.204",
       "ipv6": null
     },
     {
@@ -3165,7 +3165,7 @@
       "description": "ISLA YSF",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "80.30.218.197",
+      "ipv4": "80.30.218.204",
       "ipv6": null
     },
     {
@@ -4958,7 +4958,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.74.247",
+      "ipv4": "46.103.197.225",
       "ipv6": null
     },
     {
@@ -7631,7 +7631,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "95.232.205.193",
+      "ipv4": "95.249.49.50",
       "ipv6": null
     },
     {
@@ -8786,7 +8786,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.31.188.226",
+      "ipv4": "80.180.172.215",
       "ipv6": null
     },
     {
@@ -14011,7 +14011,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.31.188.226",
+      "ipv4": "80.180.172.215",
       "ipv6": null
     },
     {
