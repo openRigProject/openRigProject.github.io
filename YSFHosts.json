@@ -1097,7 +1097,7 @@
       "description": "Turkiye Genel",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.57.33.9",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -1119,7 +1119,7 @@
       "description": "Japan XLX297-F",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.164.36.1",
+      "ipv4": "153.164.56.6",
       "ipv6": null
     },
     {
@@ -2380,11 +2380,11 @@
       "designator": "01453",
       "country": "TR",
       "name": "Turk Konf.",
-      "use_xx_prefix": false,
+      "use_xx_prefix": true,
       "description": "Turk Konferans",
       "user_count": "000",
-      "port": 42003,
-      "ipv4": "31.57.33.9",
+      "port": 42023,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -4958,7 +4958,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.110.121",
+      "ipv4": "178.59.74.247",
       "ipv6": null
     },
     {
@@ -5948,7 +5948,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.5.32.49",
+      "ipv4": "82.55.150.19",
       "ipv6": null
     },
     {
@@ -7192,7 +7192,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3431:ca00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3406:6000:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7737,22 +7737,22 @@
       "designator": "28601",
       "country": "TR",
       "name": "YSF Adana",
-      "use_xx_prefix": false,
+      "use_xx_prefix": true,
       "description": "YSF Adana",
       "user_count": "000",
-      "port": 42008,
-      "ipv4": "31.57.33.9",
+      "port": 42001,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
       "designator": "28603",
       "country": "TR",
       "name": "YSF Afyon",
-      "use_xx_prefix": false,
+      "use_xx_prefix": true,
       "description": "YSF Afyon",
       "user_count": "000",
-      "port": 42010,
-      "ipv4": "31.57.33.9",
+      "port": 42003,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -7762,30 +7762,19 @@
       "use_xx_prefix": false,
       "description": "YSF Ankara",
       "user_count": "000",
-      "port": 42004,
-      "ipv4": "31.57.33.9",
+      "port": 42006,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
       "designator": "28607",
       "country": "TR",
-      "name": "YSF Anatalya",
+      "name": "YSF Antalya",
       "use_xx_prefix": false,
-      "description": "YSF Anatalya",
+      "description": "YSF Antalya",
       "user_count": "000",
-      "port": 42005,
+      "port": 42007,
       "ipv4": "89.144.10.204",
-      "ipv6": null
-    },
-    {
-      "designator": "28617",
-      "country": "TR",
-      "name": "YSF Canakkale",
-      "use_xx_prefix": false,
-      "description": "YSF Canakkale",
-      "user_count": "000",
-      "port": 42022,
-      "ipv4": "31.57.33.9",
       "ipv6": null
     },
     {
@@ -7795,8 +7784,8 @@
       "use_xx_prefix": false,
       "description": "YSF Istanbul",
       "user_count": "000",
-      "port": 42001,
-      "ipv4": "31.57.33.9",
+      "port": 42034,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -7806,8 +7795,8 @@
       "use_xx_prefix": false,
       "description": "YSF Izmir",
       "user_count": "000",
-      "port": 42002,
-      "ipv4": "31.57.33.9",
+      "port": 42035,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -7817,8 +7806,8 @@
       "use_xx_prefix": false,
       "description": "YSF Mugla",
       "user_count": "000",
-      "port": 42007,
-      "ipv4": "31.57.33.9",
+      "port": 42048,
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
