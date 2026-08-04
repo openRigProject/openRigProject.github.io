@@ -1526,7 +1526,7 @@
       "description": "XLX506Reflecto",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "126.111.83.172",
+      "ipv4": "126.111.77.170",
       "ipv6": null
     },
     {
@@ -2560,7 +2560,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -4958,7 +4958,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.198.188.27",
+      "ipv4": "78.87.130.218",
       "ipv6": null
     },
     {
@@ -5761,8 +5761,8 @@
       "description": "YCS222",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "209.227.237.98",
-      "ipv6": "2a00:6d42:1242:3a62::1"
+      "ipv4": "145.239.75.155",
+      "ipv6": null
     },
     {
       "designator": "22202",
@@ -8786,7 +8786,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.180.172.215",
+      "ipv4": "82.48.219.192",
       "ipv6": null
     },
     {
@@ -11624,8 +11624,8 @@
       "description": "XLXBRA-C",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "200.150.203.104",
-      "ipv6": "2804:1308::2:6400"
+      "ipv4": "177.131.119.153",
+      "ipv6": "2804:8c0:7323:7000:f3c:a5ff:d3b2:99a2"
     },
     {
       "designator": "55697",
@@ -14022,7 +14022,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "80.180.172.215",
+      "ipv4": "82.48.219.192",
       "ipv6": null
     },
     {
