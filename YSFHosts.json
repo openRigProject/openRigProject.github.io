@@ -7580,6 +7580,17 @@
       "ipv6": null
     },
     {
+      "designator": "28000",
+      "country": "CY",
+      "name": "CYPRUS-YSF",
+      "use_xx_prefix": false,
+      "description": "YSF CYPRUS",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "192.227.177.16",
+      "ipv6": null
+    },
+    {
       "designator": "28054",
       "country": "US",
       "name": "XLX458",
@@ -7873,7 +7884,7 @@
       "description": "YSF Bremen",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "90.186.114.31",
+      "ipv4": "90.186.113.80",
       "ipv6": null
     },
     {
@@ -8797,7 +8808,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.15.53.216",
+      "ipv4": "79.51.245.80",
       "ipv6": null
     },
     {
@@ -14044,7 +14055,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "87.15.53.216",
+      "ipv4": "79.51.245.80",
       "ipv6": null
     },
     {
