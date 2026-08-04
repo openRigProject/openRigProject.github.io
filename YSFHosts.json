@@ -778,7 +778,7 @@
       "description": "East Midlands",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.41.82.154",
+      "ipv4": "89.242.177.13",
       "ipv6": null
     },
     {
@@ -2560,7 +2560,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3994,6 +3994,17 @@
       "ipv6": null
     },
     {
+      "designator": "11550",
+      "country": "ES",
+      "name": "EA7RCH",
+      "use_xx_prefix": false,
+      "description": "Chipiona-Test",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "90.170.195.31",
+      "ipv6": null
+    },
+    {
       "designator": "11689",
       "country": "US",
       "name": "AMSAT",
@@ -4958,7 +4969,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.130.218",
+      "ipv4": "78.87.108.163",
       "ipv6": null
     },
     {
@@ -8786,7 +8797,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.48.219.192",
+      "ipv4": "79.41.246.134",
       "ipv6": null
     },
     {
@@ -13531,6 +13542,17 @@
       "ipv6": null
     },
     {
+      "designator": "73993",
+      "country": "HK",
+      "name": "XLX454",
+      "use_xx_prefix": false,
+      "description": "HKHAM node -2-",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "218.103.102.5",
+      "ipv6": null
+    },
+    {
       "designator": "74001",
       "country": "EC",
       "name": "QUITO",
@@ -14022,7 +14044,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "82.48.219.192",
+      "ipv4": "79.41.246.134",
       "ipv6": null
     },
     {
