@@ -844,7 +844,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.171.8",
+      "ipv4": "46.12.28.103",
       "ipv6": null
     },
     {
@@ -2560,7 +2560,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3825,7 +3825,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.171.8",
+      "ipv4": "46.12.28.103",
       "ipv6": null
     },
     {
@@ -5948,7 +5948,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.53.140.207",
+      "ipv4": "87.18.36.4",
       "ipv6": null
     },
     {
