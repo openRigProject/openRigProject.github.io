@@ -2560,7 +2560,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -8808,7 +8808,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.51.245.80",
+      "ipv4": "95.248.9.200",
       "ipv6": null
     },
     {
@@ -12442,6 +12442,17 @@
       "ipv6": "2001:558:6045:11:7cc3:e702:2ce6:f631"
     },
     {
+      "designator": "64189",
+      "country": "US",
+      "name": "KE7WIL-YSF",
+      "use_xx_prefix": false,
+      "description": "ASL YSF Bridge",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.222.219.41",
+      "ipv6": null
+    },
+    {
       "designator": "64200",
       "country": "LT",
       "name": "XLX642",
@@ -14055,7 +14066,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.51.245.80",
+      "ipv4": "95.248.9.200",
       "ipv6": null
     },
     {
