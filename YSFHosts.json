@@ -2421,6 +2421,17 @@
       "ipv6": null
     },
     {
+      "designator": "01524",
+      "country": "GB",
+      "name": "XLX524",
+      "use_xx_prefix": false,
+      "description": "LancsReflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "217.40.112.194",
+      "ipv6": null
+    },
+    {
       "designator": "01527",
       "country": "GB",
       "name": "GB3WL",
@@ -2560,7 +2571,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3286,8 +3297,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv4": "172.67.149.41",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07274",
@@ -3352,8 +3363,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -9788,6 +9799,17 @@
       "user_count": "000",
       "port": 42022,
       "ipv4": "216.8.55.73",
+      "ipv6": null
+    },
+    {
+      "designator": "42424",
+      "country": "US",
+      "name": "openRig",
+      "use_xx_prefix": false,
+      "description": "openRig Dev",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": null,
       "ipv6": null
     },
     {
