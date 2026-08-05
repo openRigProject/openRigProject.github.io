@@ -2439,7 +2439,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.28.120.89",
+      "ipv4": "188.29.110.62",
       "ipv6": null
     },
     {
@@ -3286,7 +3286,7 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
+      "ipv4": "104.21.71.203",
       "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
@@ -9259,7 +9259,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.180.42.219",
+      "ipv4": "82.48.121.147",
       "ipv6": null
     },
     {
@@ -9615,6 +9615,28 @@
       "ipv6": null
     },
     {
+      "designator": "42059",
+      "country": "FR",
+      "name": "YSF-Adrasec",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42259,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
+      "designator": "42076",
+      "country": "FR",
+      "name": "YSF-VWIDE",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42276,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
       "designator": "42100",
       "country": "FR",
       "name": "XLX42D",
@@ -9670,6 +9692,17 @@
       "ipv6": null
     },
     {
+      "designator": "42243",
+      "country": "FR",
+      "name": "YSF-TG20843",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42243,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
       "designator": "42262",
       "country": "FR",
       "name": "YSF-TG20862",
@@ -9677,6 +9710,17 @@
       "description": "pYSF3",
       "user_count": "000",
       "port": 42262,
+      "ipv4": "147.79.100.223",
+      "ipv6": null
+    },
+    {
+      "designator": "42270",
+      "country": "FR",
+      "name": "YSF-TEST",
+      "use_xx_prefix": false,
+      "description": "pYSF3",
+      "user_count": "000",
+      "port": 42070,
       "ipv4": "147.79.100.223",
       "ipv6": null
     },
@@ -11217,7 +11261,7 @@
       "description": "GB-H1L8RE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "95.147.123.118",
+      "ipv4": "86.164.191.108",
       "ipv6": null
     },
     {
