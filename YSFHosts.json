@@ -3286,8 +3286,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "152.171.225.161",
-      "ipv6": null
+      "ipv4": "172.67.149.41",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07274",
@@ -3352,8 +3352,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "103.11.77.251",
-      "ipv6": null
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -11210,6 +11210,17 @@
       "ipv6": null
     },
     {
+      "designator": "51866",
+      "country": "GB",
+      "name": "H1L8RE",
+      "use_xx_prefix": false,
+      "description": "GB-H1L8RE",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "95.147.123.118",
+      "ipv6": null
+    },
+    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -13109,7 +13120,7 @@
       "description": "(YCS722)",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "163.47.135.79",
+      "ipv4": "113.20.14.84",
       "ipv6": null
     },
     {
