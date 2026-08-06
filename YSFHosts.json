@@ -3363,8 +3363,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -7203,7 +7203,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:341a:6100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3424:6500:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7455,7 +7455,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.107.103",
+      "ipv4": "83.6.18.220",
       "ipv6": null
     },
     {
@@ -9810,7 +9810,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "73.143.143.47",
-      "ipv6": "2001:558:6017:60:19dc:27f3:d622:5aa"
+      "ipv6": null
     },
     {
       "designator": "42430",
@@ -14881,6 +14881,17 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "188.166.226.76",
+      "ipv6": null
+    },
+    {
+      "designator": "88831",
+      "country": "US",
+      "name": "XLX831",
+      "use_xx_prefix": false,
+      "description": "SCC-Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "50.242.87.165",
       "ipv6": null
     },
     {
