@@ -36,9 +36,9 @@
     {
       "designator": "00009",
       "country": "GB",
-      "name": "CQ-UK-C4FM",
+      "name": "CQ-UK-YCS235",
       "use_xx_prefix": false,
-      "description": "Ycs235 DG-ID",
+      "description": "Ycs235 C4FM",
       "user_count": "000",
       "port": 42000,
       "ipv4": "213.229.72.163",
@@ -2091,17 +2091,6 @@
       "ipv6": null
     },
     {
-      "designator": "00922",
-      "country": "GB",
-      "name": "CQ-UK-XLX922E",
-      "use_xx_prefix": false,
-      "description": "Multimode",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "81.150.10.62",
-      "ipv6": null
-    },
-    {
       "designator": "00925",
       "country": "GB",
       "name": "URF925",
@@ -3287,7 +3276,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
       "designator": "07274",
@@ -3352,8 +3341,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "172.67.149.41",
+      "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
       "designator": "07573",
@@ -7192,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:341a:6100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3424:6500:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -11573,17 +11562,6 @@
       "ipv6": null
     },
     {
-      "designator": "54321",
-      "country": "GB",
-      "name": "CQ-UK",
-      "use_xx_prefix": false,
-      "description": "Peanut Bridge",
-      "user_count": "000",
-      "port": 42300,
-      "ipv4": "81.150.10.62",
-      "ipv6": null
-    },
-    {
       "designator": "54410",
       "country": "FR",
       "name": "YSF-LONGWY-2",
@@ -15623,7 +15601,7 @@
     {
       "designator": "99300",
       "country": "US",
-      "name": "Sentry",
+      "name": "SENTRY",
       "use_xx_prefix": false,
       "description": "",
       "user_count": "000",
