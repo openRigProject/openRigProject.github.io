@@ -38,10 +38,10 @@
       "country": "GB",
       "name": "CQ-UK-C4FM",
       "use_xx_prefix": false,
-      "description": "World Wide",
+      "description": "Ycs235 DG-ID",
       "user_count": "000",
-      "port": 42200,
-      "ipv4": "149.102.158.76",
+      "port": 42000,
+      "ipv4": "213.229.72.163",
       "ipv6": null
     },
     {
@@ -1010,17 +1010,6 @@
       "user_count": "000",
       "port": 43000,
       "ipv4": "94.32.71.16",
-      "ipv6": null
-    },
-    {
-      "designator": "00235",
-      "country": "GB",
-      "name": "CQ-UK-YCS235",
-      "use_xx_prefix": false,
-      "description": "001-CQ-UK",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "213.229.72.163",
       "ipv6": null
     },
     {
@@ -2450,7 +2439,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.29.110.62",
+      "ipv4": "188.28.121.241",
       "ipv6": null
     },
     {
@@ -2571,7 +2560,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3297,8 +3286,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv4": "172.67.149.41",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07274",
@@ -3364,7 +3353,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -7203,7 +7192,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3424:6500:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341a:6100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
