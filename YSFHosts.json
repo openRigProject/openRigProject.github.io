@@ -3275,8 +3275,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
       "designator": "07274",
@@ -3341,8 +3341,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
       "designator": "07573",
@@ -4980,7 +4980,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.142.222",
+      "ipv4": "77.179.235.26",
       "ipv6": null
     },
     {
@@ -5739,7 +5739,7 @@
       "description": "MP Matrix",
       "user_count": "000",
       "port": 42022,
-      "ipv4": "82.63.121.250",
+      "ipv4": "82.56.209.118",
       "ipv6": null
     },
     {
@@ -7433,7 +7433,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.6.18.220",
+      "ipv4": "79.184.178.228",
       "ipv6": null
     },
     {
@@ -8126,7 +8126,7 @@
       "description": "REFLEC-MURCIA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": null,
+      "ipv4": "83.49.134.236",
       "ipv6": null
     },
     {
@@ -8797,7 +8797,7 @@
       "description": "IU3GMR-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.34.75.9",
+      "ipv4": "87.5.251.198",
       "ipv6": null
     },
     {
@@ -10139,7 +10139,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.204.58",
+      "ipv4": "77.12.134.214",
       "ipv6": null
     },
     {
@@ -10899,6 +10899,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "112.213.34.65",
+      "ipv6": null
+    },
+    {
+      "designator": "50556",
+      "country": "GB",
+      "name": "ANZEL",
+      "use_xx_prefix": false,
+      "description": "Multimode",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "104.238.185.240",
       "ipv6": null
     },
     {
@@ -12592,8 +12603,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.229.97",
-      "ipv6": "2003:c9:8fff:14f1:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.104",
+      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12603,8 +12614,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.229.97",
-      "ipv6": "2003:c9:8fff:14f1:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.104",
+      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12614,8 +12625,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.229.97",
-      "ipv6": "2003:c9:8fff:14f1:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.104",
+      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12625,8 +12636,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.229.97",
-      "ipv6": "2003:c9:8fff:14f1:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.104",
+      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12636,8 +12647,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.229.97",
-      "ipv6": "2003:c9:8fff:14f1:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.104",
+      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -12985,7 +12996,7 @@
       "country": "US",
       "name": "QQ-NET",
       "use_xx_prefix": false,
-      "description": "YSF Reflector",
+      "description": "QQ-NET",
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.131.126",
@@ -14143,7 +14154,7 @@
       "description": "IT IQ3UCY-BL",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "79.34.75.9",
+      "ipv4": "87.5.251.198",
       "ipv6": null
     },
     {
@@ -15606,7 +15617,7 @@
       "description": "Carlisle",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "174.59.146.137",
+      "ipv4": "174.216.50.174",
       "ipv6": null
     },
     {
