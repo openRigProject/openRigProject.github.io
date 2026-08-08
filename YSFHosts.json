@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3275,7 +3275,7 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
+      "ipv4": "104.21.71.203",
       "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
@@ -3341,8 +3341,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -10150,7 +10150,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.134.214",
+      "ipv4": "77.179.8.102",
       "ipv6": null
     },
     {
@@ -12625,8 +12625,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.173.104",
-      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.174.206",
+      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12636,8 +12636,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.173.104",
-      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.174.206",
+      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12647,8 +12647,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.173.104",
-      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.174.206",
+      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12658,8 +12658,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.173.104",
-      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.174.206",
+      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12669,8 +12669,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.173.104",
-      "ipv6": "2003:c9:8fff:49d0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.174.206",
+      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -13318,8 +13318,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.1.91.252",
-      "ipv6": "2804:7f0:b771:2838:29c2:2019:64b7:2278"
+      "ipv4": "191.13.109.216",
+      "ipv6": "2804:7f0:b771:93c:3bbd:526:3b8e:13c7"
     },
     {
       "designator": "72407",
@@ -13329,8 +13329,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.1.91.252",
-      "ipv6": "2804:7f0:b771:2838:29c2:2019:64b7:2278"
+      "ipv4": "191.13.109.216",
+      "ipv6": "2804:7f0:b771:93c:3bbd:526:3b8e:13c7"
     },
     {
       "designator": "72420",
@@ -13352,6 +13352,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "191.252.113.227",
+      "ipv6": null
+    },
+    {
+      "designator": "72426",
+      "country": "BR",
+      "name": "XLX026 Brazil",
+      "use_xx_prefix": false,
+      "description": "C4FM/YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "141.11.128.63",
       "ipv6": null
     },
     {
@@ -14495,7 +14506,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.35.109",
+      "ipv4": "109.104.42.121",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
