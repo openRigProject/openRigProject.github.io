@@ -2300,17 +2300,6 @@
       "ipv6": null
     },
     {
-      "designator": "01239",
-      "country": "US",
-      "name": "WHOCARES",
-      "use_xx_prefix": false,
-      "description": "Who Cares ARG",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "45.76.30.167",
-      "ipv6": null
-    },
-    {
       "designator": "01253",
       "country": "GB",
       "name": "WPARC",
@@ -2319,17 +2308,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "82.9.98.102",
-      "ipv6": null
-    },
-    {
-      "designator": "01259",
-      "country": "US",
-      "name": "URF259",
-      "use_xx_prefix": false,
-      "description": "URF259",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "67.220.71.98",
       "ipv6": null
     },
     {
@@ -2549,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3275,7 +3253,7 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
+      "ipv4": "104.21.71.203",
       "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
@@ -3341,7 +3319,7 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
+      "ipv4": "104.21.71.203",
       "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
@@ -7181,7 +7159,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343a:b200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341a:6100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7619,8 +7597,8 @@
       "use_xx_prefix": false,
       "description": "Zombie Alert",
       "user_count": "000",
-      "port": 42002,
-      "ipv4": "67.220.71.98",
+      "port": 42003,
+      "ipv4": "45.76.30.167",
       "ipv6": null
     },
     {
@@ -12167,6 +12145,17 @@
       "ipv6": null
     },
     {
+      "designator": "60606",
+      "country": "US",
+      "name": "W8VD",
+      "use_xx_prefix": false,
+      "description": "New Haven MI",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "45.76.30.167",
+      "ipv6": null
+    },
+    {
       "designator": "60725",
       "country": "ES",
       "name": "GOMERA",
@@ -13120,7 +13109,7 @@
       "description": "Who Cares ARG",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "67.220.71.98",
+      "ipv4": "45.76.30.167",
       "ipv6": null
     },
     {
