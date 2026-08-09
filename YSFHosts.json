@@ -3253,8 +3253,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "152.170.85.79",
+      "ipv6": null
     },
     {
       "designator": "07274",
@@ -3319,8 +3319,8 @@
       "description": "Hamradio-UY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "103.11.77.251",
+      "ipv6": null
     },
     {
       "designator": "07573",
