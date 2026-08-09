@@ -13329,8 +13329,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "191.13.109.216",
-      "ipv6": "2804:7f0:b771:93c:3bbd:526:3b8e:13c7"
+      "ipv4": "191.13.109.95",
+      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
     },
     {
       "designator": "72407",
@@ -13340,8 +13340,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "191.13.109.216",
-      "ipv6": "2804:7f0:b771:93c:3bbd:526:3b8e:13c7"
+      "ipv4": "191.13.109.95",
+      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
     },
     {
       "designator": "72420",
