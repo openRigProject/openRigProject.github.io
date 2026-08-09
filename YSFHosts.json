@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3936,6 +3936,17 @@
       "user_count": "000",
       "port": 42012,
       "ipv4": "96.47.95.121",
+      "ipv6": null
+    },
+    {
+      "designator": "11304",
+      "country": "TH",
+      "name": "XLX535",
+      "use_xx_prefix": true,
+      "description": "TH-XLX535",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "203.159.93.71",
       "ipv6": null
     },
     {
@@ -9479,7 +9490,7 @@
       "description": "Test Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "65.185.32.21",
+      "ipv4": "65.185.32.24",
       "ipv6": null
     },
     {
@@ -13352,17 +13363,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "191.252.113.227",
-      "ipv6": null
-    },
-    {
-      "designator": "72426",
-      "country": "BR",
-      "name": "XLX026 Brazil",
-      "use_xx_prefix": false,
-      "description": "C4FM/YSF",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "141.11.128.63",
       "ipv6": null
     },
     {
