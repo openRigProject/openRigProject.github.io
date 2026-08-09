@@ -1108,7 +1108,7 @@
       "description": "Japan XLX297-F",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.164.56.6",
+      "ipv4": "180.14.81.201",
       "ipv6": null
     },
     {
@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -4969,7 +4969,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.80.82",
+      "ipv4": "77.181.189.140",
       "ipv6": null
     },
     {
@@ -7181,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3404:df00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341a:6100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -13330,7 +13330,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.216",
-      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
+      "ipv6": "2804:7f0:b771:93c:7008:e9fb:834a:8bd7"
     },
     {
       "designator": "72407",
@@ -13341,7 +13341,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
+      "ipv6": "2804:7f0:b771:93c:7008:e9fb:834a:8bd7"
     },
     {
       "designator": "72420",
