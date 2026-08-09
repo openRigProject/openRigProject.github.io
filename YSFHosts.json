@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3253,8 +3253,8 @@
       "description": "Hamradio AR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.149.41",
-      "ipv6": "2606:4700:3033::6815:47cb"
+      "ipv4": "104.21.71.203",
+      "ipv6": "2606:4700:3036::ac43:9529"
     },
     {
       "designator": "07274",
@@ -3320,7 +3320,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.71.203",
-      "ipv6": "2606:4700:3036::ac43:9529"
+      "ipv6": "2606:4700:3033::6815:47cb"
     },
     {
       "designator": "07573",
@@ -10128,7 +10128,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.8.102",
+      "ipv4": "77.181.65.180",
       "ipv6": null
     },
     {
@@ -12614,8 +12614,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.174.206",
-      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
+      "ipv4": "87.178.169.33",
+      "ipv6": "2003:c9:8fff:32e4:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12625,8 +12625,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.174.206",
-      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
+      "ipv4": "87.178.169.33",
+      "ipv6": "2003:c9:8fff:32e4:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12636,8 +12636,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.174.206",
-      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
+      "ipv4": "87.178.169.33",
+      "ipv6": "2003:c9:8fff:32e4:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12647,8 +12647,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.174.206",
-      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
+      "ipv4": "87.178.169.33",
+      "ipv6": "2003:c9:8fff:32e4:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12658,8 +12658,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.174.206",
-      "ipv6": "2003:c9:8fff:34f2:e228:6dff:fe74:b559"
+      "ipv4": "87.178.169.33",
+      "ipv6": "2003:c9:8fff:32e4:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
