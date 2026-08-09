@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -13329,7 +13329,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "191.13.109.95",
+      "ipv4": "191.13.109.216",
       "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
     },
     {
