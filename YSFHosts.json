@@ -3942,8 +3942,8 @@
       "designator": "11304",
       "country": "TH",
       "name": "XLX535",
-      "use_xx_prefix": true,
-      "description": "TH-XLX535",
+      "use_xx_prefix": false,
+      "description": "YSF-XLX535",
       "user_count": "000",
       "port": 42000,
       "ipv4": "203.159.93.71",
@@ -13330,7 +13330,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.216",
-      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
+      "ipv6": "2804:7f0:b771:93c:7008:e9fb:834a:8bd7"
     },
     {
       "designator": "72407",
@@ -13340,8 +13340,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "191.13.109.216",
-      "ipv6": "2804:7f0:b771:5da:cdd1:2a3b:5e02:53d3"
+      "ipv4": "191.13.109.95",
+      "ipv6": "2804:7f0:b771:93c:7008:e9fb:834a:8bd7"
     },
     {
       "designator": "72420",
