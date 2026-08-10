@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -15618,17 +15618,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "84.232.226.95",
-      "ipv6": null
-    },
-    {
-      "designator": "99127",
-      "country": "US",
-      "name": "HoHNet",
-      "use_xx_prefix": false,
-      "description": "HoHNet",
-      "user_count": "000",
-      "port": 42005,
-      "ipv4": "136.32.132.11",
       "ipv6": null
     },
     {
