@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -8083,6 +8083,17 @@
       "user_count": "000",
       "port": 42020,
       "ipv4": "97.102.210.221",
+      "ipv6": null
+    },
+    {
+      "designator": "30399",
+      "country": "US",
+      "name": "K3IHI RPT",
+      "use_xx_prefix": false,
+      "description": "Latin American",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "131.106.28.84",
       "ipv6": null
     },
     {
