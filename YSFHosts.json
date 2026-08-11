@@ -2091,6 +2091,17 @@
       "ipv6": null
     },
     {
+      "designator": "00922",
+      "country": "GB",
+      "name": "XLX922-E",
+      "use_xx_prefix": false,
+      "description": "CQ-UK",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "81.150.10.62",
+      "ipv6": null
+    },
+    {
       "designator": "00925",
       "country": "GB",
       "name": "URF925",
@@ -2527,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -5937,7 +5948,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.26.9.86",
+      "ipv4": "95.250.142.180",
       "ipv6": null
     },
     {
