@@ -3015,17 +3015,6 @@
       "ipv6": null
     },
     {
-      "designator": "05258",
-      "country": "GB",
-      "name": "XLXEAR",
-      "use_xx_prefix": false,
-      "description": "XLXEAR GB7WY",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "213.171.208.97",
-      "ipv6": null
-    },
-    {
       "designator": "05555",
       "country": "GB",
       "name": "GetOnAir DV",
@@ -7192,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
