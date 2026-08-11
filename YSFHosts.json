@@ -1339,7 +1339,7 @@
       "description": "VE2SUS REF420",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "198.58.163.12",
+      "ipv4": "72.12.98.98",
       "ipv6": null
     },
     {
@@ -7192,7 +7192,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
