@@ -2527,7 +2527,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -13363,17 +13363,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "191.252.113.227",
-      "ipv6": null
-    },
-    {
-      "designator": "72426",
-      "country": "BR",
-      "name": "XLX026 Brazil",
-      "use_xx_prefix": false,
-      "description": "C4FM/YSF",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "141.11.128.63",
       "ipv6": null
     },
     {
