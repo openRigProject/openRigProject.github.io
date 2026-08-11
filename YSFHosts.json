@@ -7192,7 +7192,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7642,7 +7642,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.16.217.103",
+      "ipv4": "79.50.172.49",
       "ipv6": null
     },
     {
