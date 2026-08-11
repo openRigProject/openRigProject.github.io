@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -13142,6 +13142,17 @@
       "description": "Who Cares ARG",
       "user_count": "000",
       "port": 42001,
+      "ipv4": "45.76.30.167",
+      "ipv6": null
+    },
+    {
+      "designator": "70778",
+      "country": "US",
+      "name": "WC8MI-LURK",
+      "use_xx_prefix": false,
+      "description": "YSF Lurker",
+      "user_count": "000",
+      "port": 42099,
       "ipv4": "45.76.30.167",
       "ipv6": null
     },
