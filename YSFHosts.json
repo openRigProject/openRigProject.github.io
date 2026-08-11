@@ -13377,6 +13377,17 @@
       "ipv6": null
     },
     {
+      "designator": "72426",
+      "country": "BR",
+      "name": "XLX026 Brazil",
+      "use_xx_prefix": false,
+      "description": "C4FM/YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "82.152.175.30",
+      "ipv6": null
+    },
+    {
       "designator": "73010",
       "country": "CL",
       "name": "Link 73010",
