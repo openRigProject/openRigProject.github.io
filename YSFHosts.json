@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -8438,6 +8438,17 @@
       "ipv6": null
     },
     {
+      "designator": "31358",
+      "country": "US",
+      "name": "QSO31358",
+      "use_xx_prefix": false,
+      "description": "K8KHW-YSF",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "24.231.20.178",
+      "ipv6": null
+    },
+    {
       "designator": "31378",
       "country": "US",
       "name": "Gate City",
@@ -13341,7 +13352,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
+      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
     },
     {
       "designator": "72407",
