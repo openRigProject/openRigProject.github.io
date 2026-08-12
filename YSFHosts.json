@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3286,7 +3286,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.8.36",
+      "ipv4": "23.29.12.92",
       "ipv6": null
     },
     {
@@ -7181,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8962,7 +8962,7 @@
       "description": "Coamo WP4NNZ",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "64.237.213.253",
+      "ipv4": "72.50.109.225",
       "ipv6": null
     },
     {
