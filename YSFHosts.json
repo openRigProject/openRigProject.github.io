@@ -7181,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7362,7 +7362,7 @@
     {
       "designator": "26512",
       "country": "PL",
-      "name": "26512WawaNXDN",
+      "name": "26512Warszawa",
       "use_xx_prefix": false,
       "description": "26512 Warszawa",
       "user_count": "000",
