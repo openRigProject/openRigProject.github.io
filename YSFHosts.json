@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -13341,7 +13341,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
+      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
     },
     {
       "designator": "72407",
@@ -13516,7 +13516,7 @@
       "description": "COLOMBIA LINK",
       "user_count": "000",
       "port": 42052,
-      "ipv4": "186.154.191.9",
+      "ipv4": "181.143.174.154",
       "ipv6": null
     },
     {
