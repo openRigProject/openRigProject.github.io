@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -10833,17 +10833,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "24.166.245.204",
-      "ipv6": null
-    },
-    {
-      "designator": "49711",
-      "country": "ES",
-      "name": "SEVILLA",
-      "use_xx_prefix": false,
-      "description": "SEVILLA",
-      "user_count": "000",
-      "port": 42387,
-      "ipv4": "194.164.167.181",
       "ipv6": null
     },
     {
