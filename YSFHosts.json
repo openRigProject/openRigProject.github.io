@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -4871,17 +4871,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.31.102.155",
-      "ipv6": null
-    },
-    {
-      "designator": "20012",
-      "country": "JP",
-      "name": "XLX124",
-      "use_xx_prefix": true,
-      "description": "Module Y",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "211.14.169.234",
       "ipv6": null
     },
     {
@@ -10250,6 +10239,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "203.136.242.199",
+      "ipv6": null
+    },
+    {
+      "designator": "44834",
+      "country": "JP",
+      "name": "YSF-YYK-834",
+      "use_xx_prefix": false,
+      "description": "YSF-YYK-834",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "122.132.40.184",
       "ipv6": null
     },
     {
