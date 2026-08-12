@@ -2538,7 +2538,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3012,6 +3012,17 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "45.124.54.132",
+      "ipv6": null
+    },
+    {
+      "designator": "05258",
+      "country": "GB",
+      "name": "XLXEAR",
+      "use_xx_prefix": false,
+      "description": "XLXEAR GB7WY",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "213.171.208.97",
       "ipv6": null
     },
     {
@@ -7170,7 +7181,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -13011,7 +13022,7 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "103.107.129.226",
-      "ipv6": "2606:4700:3032::6815:13d6"
+      "ipv6": null
     },
     {
       "designator": "69285",
@@ -13352,7 +13363,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
+      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
     },
     {
       "designator": "72420",
@@ -15035,7 +15046,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "103.107.129.228",
-      "ipv6": "2606:4700:3032::6815:13d6"
+      "ipv6": null
     },
     {
       "designator": "89902",
