@@ -6128,6 +6128,17 @@
       "ipv6": null
     },
     {
+      "designator": "22379",
+      "country": "IT",
+      "name": "YSF-SVX-595",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "2.29.13.240",
+      "ipv6": null
+    },
+    {
       "designator": "22401",
       "country": "ES",
       "name": "EA C4FM Spain",
