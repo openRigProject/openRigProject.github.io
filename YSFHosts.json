@@ -5754,6 +5754,17 @@
       "ipv6": null
     },
     {
+      "designator": "22200",
+      "country": "IT",
+      "name": "C4FM-ELBA",
+      "use_xx_prefix": false,
+      "description": "YSFReflector",
+      "user_count": "000",
+      "port": 42005,
+      "ipv4": "87.4.50.51",
+      "ipv6": null
+    },
+    {
       "designator": "22201",
       "country": "IT",
       "name": "C4FM Italy",
@@ -7203,7 +7214,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8159,7 +8170,7 @@
       "description": "REFLEC-MURCIA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.49.134.236",
+      "ipv4": "88.23.105.213",
       "ipv6": null
     },
     {
