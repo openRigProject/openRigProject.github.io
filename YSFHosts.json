@@ -338,7 +338,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.169.24.190",
+      "ipv4": "122.16.185.24",
       "ipv6": "2400:4051:8ea0:7200:5ce3:baff:fe6c:5ffe"
     },
     {
@@ -833,7 +833,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.169.24.190",
+      "ipv4": "122.16.185.24",
       "ipv6": null
     },
     {
@@ -2428,7 +2428,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.28.121.241",
+      "ipv4": "188.28.120.239",
       "ipv6": null
     },
     {
@@ -13374,7 +13374,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
+      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
     },
     {
       "designator": "72420",
