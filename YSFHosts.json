@@ -338,7 +338,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "122.16.185.24",
+      "ipv4": "114.178.84.228",
       "ipv6": "2400:4051:8ea0:7200:5ce3:baff:fe6c:5ffe"
     },
     {
@@ -833,7 +833,7 @@
       "description": "XLX158 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "122.16.185.24",
+      "ipv4": "114.178.84.228",
       "ipv6": null
     },
     {
@@ -7203,7 +7203,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
