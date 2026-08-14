@@ -1950,9 +1950,9 @@
     {
       "designator": "00820",
       "country": "AU",
-      "name": "XLX820",
+      "name": "Central Qld",
       "use_xx_prefix": false,
-      "description": "AU-Rockhampton",
+      "description": "AU-Central Qld",
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.105.180.77",
@@ -7225,7 +7225,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3418:c400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8953,6 +8953,17 @@
       "port": 42000,
       "ipv4": "203.86.206.49",
       "ipv6": null
+    },
+    {
+      "designator": "32768",
+      "country": "US",
+      "name": "SouthCoastRef",
+      "use_xx_prefix": false,
+      "description": "SouthCoastRef",
+      "user_count": "000",
+      "port": 42050,
+      "ipv4": "44.27.39.189",
+      "ipv6": "2606:4700:3033::6815:1eae"
     },
     {
       "designator": "32888",
@@ -13385,7 +13396,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
+      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
     },
     {
       "designator": "72407",
@@ -13396,7 +13407,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:8d95:2e38:7f80:29ab"
+      "ipv6": "2804:7f0:b771:5da:979f:f2cf:7b43:702d"
     },
     {
       "designator": "72420",
