@@ -3202,6 +3202,17 @@
       "ipv6": null
     },
     {
+      "designator": "07146",
+      "country": "PA",
+      "name": "UPRA",
+      "use_xx_prefix": false,
+      "description": "UPRA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "149.56.98.154",
+      "ipv6": null
+    },
+    {
       "designator": "07159",
       "country": "UA",
       "name": "EmergencyWest",
@@ -7236,7 +7247,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3402:c700:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10266,9 +10277,9 @@
     {
       "designator": "44410",
       "country": "US",
-      "name": "WindyCity2",
+      "name": "Ravenswood",
       "use_xx_prefix": false,
-      "description": "Test Reflector",
+      "description": "",
       "user_count": "000",
       "port": 42003,
       "ipv4": "198.251.78.243",
