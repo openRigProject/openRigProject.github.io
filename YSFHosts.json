@@ -9028,7 +9028,7 @@
       "description": "Coamo WP4NNZ",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "72.50.109.225",
+      "ipv4": "64.237.214.46",
       "ipv6": null
     },
     {
@@ -12108,8 +12108,8 @@
       "description": "Albury Chat",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "13.237.195.56",
-      "ipv6": "2406:da1c:400:c900:ff4e:a56c:7962:c39b"
+      "ipv4": "207.246.105.178",
+      "ipv6": null
     },
     {
       "designator": "59335",
