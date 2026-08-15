@@ -1031,7 +1031,7 @@
       "description": "WDRG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.153.218.69",
+      "ipv4": "81.131.214.206",
       "ipv6": null
     },
     {
@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
