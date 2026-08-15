@@ -4038,17 +4038,6 @@
       "ipv6": null
     },
     {
-      "designator": "11902",
-      "country": "US",
-      "name": "XLX902",
-      "use_xx_prefix": false,
-      "description": "XLX902",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "142.196.196.190",
-      "ipv6": null
-    },
-    {
       "designator": "12014",
       "country": "BE",
       "name": "YSF Begium",
