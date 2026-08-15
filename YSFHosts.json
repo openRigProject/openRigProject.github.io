@@ -6289,7 +6289,7 @@
       "description": "Reseau HB9FG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "62.48.104.62",
+      "ipv4": "51.38.27.230",
       "ipv6": null
     },
     {
@@ -7225,7 +7225,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3402:c700:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -11845,6 +11845,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "155.138.212.200",
+      "ipv6": null
+    },
+    {
+      "designator": "56169",
+      "country": "US",
+      "name": "N5QPYSFOK",
+      "use_xx_prefix": false,
+      "description": "N5QPYSFOK",
+      "user_count": "000",
+      "port": 42005,
+      "ipv4": "57.138.142.16",
       "ipv6": null
     },
     {
