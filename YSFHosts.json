@@ -4368,6 +4368,17 @@
       "ipv6": null
     },
     {
+      "designator": "14260",
+      "country": "US",
+      "name": "Miranda Link",
+      "use_xx_prefix": false,
+      "description": "Miranda Link",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "98.63.105.23",
+      "ipv6": null
+    },
+    {
       "designator": "14275",
       "country": "ES",
       "name": "MADRID",
@@ -7214,7 +7225,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:3400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340e:a200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -13407,7 +13418,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:48d:96b6:7f9a:1910:6b63"
+      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
     },
     {
       "designator": "72407",
@@ -13418,7 +13429,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:48d:96b6:7f9a:1910:6b63"
+      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
     },
     {
       "designator": "72420",
