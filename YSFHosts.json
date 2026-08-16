@@ -13927,6 +13927,17 @@
       "ipv6": null
     },
     {
+      "designator": "74870",
+      "country": "UY",
+      "name": "Uruguay Link",
+      "use_xx_prefix": false,
+      "description": "Uruguay Link",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "113.20.7.188",
+      "ipv6": null
+    },
+    {
       "designator": "74890",
       "country": "UY",
       "name": "UYURUGUAY.NET",
