@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -6213,17 +6213,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "80.93.251.178",
-      "ipv6": null
-    },
-    {
-      "designator": "22480",
-      "country": "ES",
-      "name": "ARCANGEL",
-      "use_xx_prefix": false,
-      "description": "DR-2X CORDOBA",
-      "user_count": "000",
-      "port": 43397,
-      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
