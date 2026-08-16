@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -9457,7 +9457,7 @@
       "description": "XLX639W",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "49.135.29.155",
+      "ipv4": "49.135.34.101",
       "ipv6": null
     },
     {
@@ -10789,6 +10789,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "90.247.40.57",
+      "ipv6": null
+    },
+    {
+      "designator": "47900",
+      "country": "GB",
+      "name": "GM7JQK",
+      "use_xx_prefix": false,
+      "description": "ForthValley2",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "82.34.252.28",
       "ipv6": null
     },
     {
