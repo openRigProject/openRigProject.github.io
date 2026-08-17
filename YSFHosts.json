@@ -40,8 +40,8 @@
       "use_xx_prefix": false,
       "description": "Main Reflector",
       "user_count": "000",
-      "port": 42000,
-      "ipv4": "213.229.72.163",
+      "port": 42200,
+      "ipv4": "149.102.158.76",
       "ipv6": null
     },
     {
@@ -4243,7 +4243,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.161",
+      "ipv4": "109.60.12.244",
       "ipv6": null
     },
     {
@@ -4727,7 +4727,7 @@
       "description": "RB Digital Gro",
       "user_count": "000",
       "port": 42000,
-      "ipv4": null,
+      "ipv4": "134.22.231.194",
       "ipv6": null
     },
     {
