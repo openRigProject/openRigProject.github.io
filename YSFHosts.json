@@ -7225,7 +7225,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:3400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3417:dd00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -13429,7 +13429,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:48d:96b6:7f9a:1910:6b63"
+      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
     },
     {
       "designator": "72407",
@@ -13440,7 +13440,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:48d:96b6:7f9a:1910:6b63"
+      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
     },
     {
       "designator": "72420",
@@ -14188,6 +14188,17 @@
       "user_count": "000",
       "port": 42006,
       "ipv4": "45.89.91.78",
+      "ipv6": null
+    },
+    {
+      "designator": "79101",
+      "country": "US",
+      "name": "AMA-Hub",
+      "use_xx_prefix": false,
+      "description": "AMA YSF Hub",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.31.203.253",
       "ipv6": null
     },
     {
