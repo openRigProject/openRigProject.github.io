@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "57.131.25.19",
+      "ipv4": "213.186.33.5",
       "ipv6": null
     },
     {
@@ -3528,7 +3528,7 @@
       "description": "xlx718_Ysf",
       "user_count": "000",
       "port": 42200,
-      "ipv4": "136.244.96.172",
+      "ipv4": null,
       "ipv6": null
     },
     {
@@ -5773,17 +5773,6 @@
       "user_count": "000",
       "port": 42022,
       "ipv4": "79.18.17.247",
-      "ipv6": null
-    },
-    {
-      "designator": "22200",
-      "country": "IT",
-      "name": "C4FM-ELBA",
-      "use_xx_prefix": false,
-      "description": "YSFReflector",
-      "user_count": "000",
-      "port": 42005,
-      "ipv4": "87.4.50.51",
       "ipv6": null
     },
     {
@@ -9131,6 +9120,17 @@
       "ipv6": null
     },
     {
+      "designator": "34567",
+      "country": "US",
+      "name": "CHICAGO",
+      "use_xx_prefix": false,
+      "description": "CHICAGO REF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": null,
+      "ipv6": null
+    },
+    {
       "designator": "34610",
       "country": "ES",
       "name": "UREValencia",
@@ -9557,17 +9557,6 @@
       "user_count": "000",
       "port": 41000,
       "ipv4": "2.123.249.36",
-      "ipv6": null
-    },
-    {
-      "designator": "40806",
-      "country": "US",
-      "name": "KENTUCKY TEST",
-      "use_xx_prefix": false,
-      "description": "Test Reflector",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "65.185.32.24",
       "ipv6": null
     },
     {
@@ -13429,7 +13418,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
+      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
     },
     {
       "designator": "72407",
@@ -13440,7 +13429,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
+      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
     },
     {
       "designator": "72420",
