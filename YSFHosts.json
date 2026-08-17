@@ -2549,7 +2549,7 @@
       "description": "DSTAR",
       "user_count": "000",
       "port": 42011,
-      "ipv4": "213.186.33.5",
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -3936,6 +3936,17 @@
       "user_count": "000",
       "port": 42025,
       "ipv4": "80.211.251.171",
+      "ipv6": null
+    },
+    {
+      "designator": "11113",
+      "country": "PL",
+      "name": "LESZNO",
+      "use_xx_prefix": false,
+      "description": "LESZNO",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "178.183.82.24",
       "ipv6": null
     },
     {
@@ -13418,7 +13429,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
+      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
     },
     {
       "designator": "72407",
@@ -13428,8 +13439,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "191.13.109.95",
-      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
+      "ipv4": "191.13.22.85",
+      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
     },
     {
       "designator": "72420",
