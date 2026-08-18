@@ -5226,6 +5226,17 @@
       "ipv6": null
     },
     {
+      "designator": "21402",
+      "country": "ES",
+      "name": "ALBACETE",
+      "use_xx_prefix": false,
+      "description": "ALBACETE",
+      "user_count": "000",
+      "port": 42375,
+      "ipv4": "80.211.78.17",
+      "ipv6": null
+    },
+    {
       "designator": "21403",
       "country": "ES",
       "name": "EA-Distrito-3",
@@ -12988,7 +12999,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "191.13.22.85",
+      "ipv4": "191.13.109.95",
       "ipv6": "2804:7f0:b771:48d:5435:35d9:8184:1f83"
     },
     {
@@ -12999,8 +13010,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:5435:35d9:8184:1f83"
+      "ipv4": "191.13.109.95",
+      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
     },
     {
       "designator": "72420",
