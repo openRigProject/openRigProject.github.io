@@ -7899,6 +7899,17 @@
       "ipv6": null
     },
     {
+      "designator": "30399",
+      "country": "US",
+      "name": "K3IHI RPT",
+      "use_xx_prefix": false,
+      "description": "Latin American",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "131.106.28.84",
+      "ipv6": null
+    },
+    {
       "designator": "30444",
       "country": "CL",
       "name": "ZONA DMR CL",
@@ -14045,6 +14056,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.33.73.221",
+      "ipv6": null
+    },
+    {
+      "designator": "82741",
+      "country": "US",
+      "name": "KEYWEST",
+      "use_xx_prefix": false,
+      "description": "KEYWEST USA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "92.222.70.60",
       "ipv6": null
     },
     {
