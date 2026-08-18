@@ -3939,6 +3939,17 @@
       "ipv6": null
     },
     {
+      "designator": "11902",
+      "country": "US",
+      "name": "XLX902",
+      "use_xx_prefix": false,
+      "description": "W4MIF XLX902",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "65.35.142.174",
+      "ipv6": null
+    },
+    {
       "designator": "12014",
       "country": "BE",
       "name": "YSF Begium",
@@ -12989,7 +13000,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:5da:b0bb:8557:2a38:1217"
+      "ipv6": "2804:7f0:b771:48d:be6:6f5a:b976:bab6"
     },
     {
       "designator": "72420",
