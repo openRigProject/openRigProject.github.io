@@ -9868,6 +9868,17 @@
       "ipv6": null
     },
     {
+      "designator": "44044",
+      "country": "US",
+      "name": "Steel Shack",
+      "use_xx_prefix": false,
+      "description": "W3NTZ Friends",
+      "user_count": "000",
+      "port": 42200,
+      "ipv4": "24.229.253.31",
+      "ipv6": null
+    },
+    {
       "designator": "44174",
       "country": "IT",
       "name": "YSF-FVG",
