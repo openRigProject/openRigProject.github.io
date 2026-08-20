@@ -1387,17 +1387,6 @@
       "ipv6": null
     },
     {
-      "designator": "00461",
-      "country": "CN",
-      "name": "URFPRC",
-      "use_xx_prefix": false,
-      "description": "URFPRC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "120.197.207.2",
-      "ipv6": null
-    },
-    {
       "designator": "00462",
       "country": "FR",
       "name": "F1ZWZ-XLX-462",
@@ -7060,7 +7049,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3434:de00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342b:6a00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
