@@ -767,7 +767,7 @@
       "description": "East Midlands",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.242.177.13",
+      "ipv4": "92.16.181.229",
       "ipv6": null
     },
     {
@@ -1002,6 +1002,17 @@
       "ipv6": null
     },
     {
+      "designator": "00235",
+      "country": "GB",
+      "name": "CQ-UK-YCS235",
+      "use_xx_prefix": false,
+      "description": "YCS235 SERVER",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "213.229.72.163",
+      "ipv6": null
+    },
+    {
       "designator": "00241",
       "country": "DE",
       "name": "HRT",
@@ -1110,6 +1121,17 @@
       "port": 42300,
       "ipv4": "200.150.197.246",
       "ipv6": "2804:1308::2:6400"
+    },
+    {
+      "designator": "00301",
+      "country": "AU",
+      "name": "URF301",
+      "use_xx_prefix": false,
+      "description": "URF301",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.32.9.156",
+      "ipv6": null
     },
     {
       "designator": "00303",
@@ -2685,6 +2707,17 @@
       "ipv6": null
     },
     {
+      "designator": "02725",
+      "country": "US",
+      "name": "HAYABUSA1",
+      "use_xx_prefix": false,
+      "description": "US HAYABUSA 1",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "64.121.36.162",
+      "ipv6": null
+    },
+    {
       "designator": "02735",
       "country": "US",
       "name": "Potomac-Radio",
@@ -3906,6 +3939,17 @@
       "ipv6": null
     },
     {
+      "designator": "11550",
+      "country": "ES",
+      "name": "EA7RCH",
+      "use_xx_prefix": false,
+      "description": "Chipiona-Test",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "90.170.195.31",
+      "ipv6": null
+    },
+    {
       "designator": "11689",
       "country": "US",
       "name": "AMSAT",
@@ -3981,6 +4025,17 @@
       "port": 42000,
       "ipv4": "186.159.96.100",
       "ipv6": "2001:470:5:26b:10::377"
+    },
+    {
+      "designator": "12121",
+      "country": "GB",
+      "name": "SDAWARG",
+      "use_xx_prefix": false,
+      "description": "sdawarg.org",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "2.126.76.205",
+      "ipv6": null
     },
     {
       "designator": "12130",
@@ -4254,7 +4309,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.12.244",
+      "ipv4": "109.60.13.21",
       "ipv6": null
     },
     {
@@ -4870,7 +4925,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.104.164",
+      "ipv4": "78.51.135.28",
       "ipv6": null
     },
     {
@@ -5409,7 +5464,7 @@
       "description": "DSTAR/YSF/DMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.6.134.227",
+      "ipv4": "88.6.132.118",
       "ipv6": null
     },
     {
@@ -5783,7 +5838,7 @@
       "description": "Emilia Ovest",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "62.211.236.130",
+      "ipv4": "82.55.21.231",
       "ipv6": null
     },
     {
@@ -5816,7 +5871,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.5.233.80",
+      "ipv4": "87.18.228.184",
       "ipv6": null
     },
     {
@@ -6161,6 +6216,17 @@
       "ipv6": null
     },
     {
+      "designator": "22955",
+      "country": "IT",
+      "name": "LFQ-SCAZ7",
+      "use_xx_prefix": false,
+      "description": "Scanner Person",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "79.47.92.120",
+      "ipv6": null
+    },
+    {
       "designator": "23018",
       "country": "US",
       "name": "IL-Chicago-Lk",
@@ -6348,6 +6414,17 @@
       "ipv6": null
     },
     {
+      "designator": "23501",
+      "country": "GB",
+      "name": "ChatterBOX",
+      "use_xx_prefix": false,
+      "description": "UK ChatterBOX",
+      "user_count": "000",
+      "port": 42025,
+      "ipv4": "81.136.218.49",
+      "ipv6": null
+    },
+    {
       "designator": "23511",
       "country": "GB",
       "name": "LEFARS",
@@ -6487,7 +6564,7 @@
       "description": "SvxLink 24078",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.229.222.220",
+      "ipv4": "213.66.26.82",
       "ipv6": null
     },
     {
@@ -6994,7 +7071,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3417:dd00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3434:de00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -7906,7 +7983,7 @@
       "description": "Latin American",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "131.106.28.84",
+      "ipv4": "44.27.139.21",
       "ipv6": null
     },
     {
@@ -8262,6 +8339,17 @@
       "ipv6": null
     },
     {
+      "designator": "31378",
+      "country": "US",
+      "name": "Gate City",
+      "use_xx_prefix": false,
+      "description": "Greensboro NC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "98.121.64.202",
+      "ipv6": null
+    },
+    {
       "designator": "31379",
       "country": "US",
       "name": "PIEDMONT",
@@ -8578,6 +8666,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "101.59.54.185",
+      "ipv6": null
+    },
+    {
+      "designator": "31977",
+      "country": "US",
+      "name": "ECOAMERICA",
+      "use_xx_prefix": false,
+      "description": "YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "104.143.94.251",
       "ipv6": null
     },
     {
@@ -9802,6 +9901,17 @@
       "ipv6": null
     },
     {
+      "designator": "43650",
+      "country": "PL",
+      "name": "SR4LIN",
+      "use_xx_prefix": false,
+      "description": "Jerzwald",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "185.16.32.176",
+      "ipv6": null
+    },
+    {
       "designator": "43715",
       "country": "KZ",
       "name": "XLX888",
@@ -9919,7 +10029,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.60.31",
+      "ipv4": "77.184.219.109",
       "ipv6": null
     },
     {
@@ -12328,8 +12438,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.167.142",
-      "ipv6": "2003:c9:8fff:1eb3:e228:6dff:fe74:b559"
+      "ipv4": "91.16.236.217",
+      "ipv6": "2003:c9:8fff:4893:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -12339,8 +12449,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.167.142",
-      "ipv6": "2003:c9:8fff:1eb3:e228:6dff:fe74:b559"
+      "ipv4": "91.16.236.217",
+      "ipv6": "2003:c9:8fff:4893:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -12350,8 +12460,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.167.142",
-      "ipv6": "2003:c9:8fff:1eb3:e228:6dff:fe74:b559"
+      "ipv4": "91.16.236.217",
+      "ipv6": "2003:c9:8fff:4893:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -12361,8 +12471,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.167.142",
-      "ipv6": "2003:c9:8fff:1eb3:e228:6dff:fe74:b559"
+      "ipv4": "91.16.236.217",
+      "ipv6": "2003:c9:8fff:4893:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -12372,8 +12482,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.167.142",
-      "ipv6": "2003:c9:8fff:1eb3:e228:6dff:fe74:b559"
+      "ipv4": "91.16.236.217",
+      "ipv6": "2003:c9:8fff:4893:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -13022,7 +13132,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:5435:35d9:8184:1f83"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72407",
@@ -13033,7 +13143,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:5435:35d9:8184:1f83"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72420",
@@ -14741,6 +14851,17 @@
       "ipv6": null
     },
     {
+      "designator": "90300",
+      "country": "US",
+      "name": "SENTRY",
+      "use_xx_prefix": false,
+      "description": "US-SENTRY",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "99.105.192.230",
+      "ipv6": null
+    },
+    {
       "designator": "90443",
       "country": "US",
       "name": "SCMidlandsYSF",
@@ -14848,6 +14969,17 @@
       "user_count": "000",
       "port": 42010,
       "ipv4": "79.107.132.255",
+      "ipv6": null
+    },
+    {
+      "designator": "92160",
+      "country": "US",
+      "name": "EasternMILink",
+      "use_xx_prefix": false,
+      "description": "EasternMILink",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "24.127.204.177",
       "ipv6": null
     },
     {
@@ -15299,17 +15431,6 @@
       "user_count": "000",
       "port": 42024,
       "ipv4": "45.89.91.78",
-      "ipv6": null
-    },
-    {
-      "designator": "99300",
-      "country": "US",
-      "name": "SENTRY",
-      "use_xx_prefix": false,
-      "description": "YSF 99300",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "99.105.192.230",
       "ipv6": null
     },
     {
