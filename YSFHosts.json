@@ -3136,6 +3136,17 @@
       "ipv6": null
     },
     {
+      "designator": "07145",
+      "country": "PA",
+      "name": "GREMPA",
+      "use_xx_prefix": false,
+      "description": "YSF-GREMPA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "66.154.126.141",
+      "ipv6": null
+    },
+    {
       "designator": "07146",
       "country": "PA",
       "name": "UPRA",
@@ -9098,6 +9109,17 @@
       "ipv6": null
     },
     {
+      "designator": "36905",
+      "country": "US",
+      "name": "XLX239",
+      "use_xx_prefix": false,
+      "description": "Dr.Parrots",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "216.225.197.186",
+      "ipv6": null
+    },
+    {
       "designator": "36940",
       "country": "US",
       "name": "Doghouse",
@@ -13121,7 +13143,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:b35c:5962:40e7:5f1b"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72407",
