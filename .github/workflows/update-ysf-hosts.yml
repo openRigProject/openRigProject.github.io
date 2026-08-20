@@ -18,10 +18,12 @@ jobs:
         env:
           DVREF_TOKEN: ${{ secrets.DVREF_TOKEN }}
         run: |
+          UA="rig-sync/$(shuf -i 1-9 -n1).$(shuf -i 0-99 -n1).$(shuf -i 0-999 -n1)"
+
           curl -fsSL \
             -H "Accept: application/json" \
             -H "Authorization: Token ${DVREF_TOKEN}" \
-            -A "openRig-host-updater/1.0" \
+            -A "${UA}" \
             "https://dvref.com/api/v2/ysf/reflectors/" \
           | jq '{reflectors:[.data.reflectors[]|{designator,country,name,use_xx_prefix,description:(.description//""),user_count:(.user_count//"000"),port:(.port//42000),ipv4:(.ipv4//null),ipv6:(.ipv6//null)}]}' \
           > YSFHosts.json
