@@ -3846,8 +3846,8 @@
       "use_xx_prefix": false,
       "description": "Polish YSF",
       "user_count": "000",
-      "port": 42025,
-      "ipv4": "80.211.251.171",
+      "port": 42001,
+      "ipv4": "194.11.224.68",
       "ipv6": null
     },
     {
@@ -7764,6 +7764,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "83.144.124.122",
+      "ipv6": null
+    },
+    {
+      "designator": "28880",
+      "country": "PL",
+      "name": "DYPLOMY",
+      "use_xx_prefix": false,
+      "description": "DV Awards",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "194.11.224.68",
       "ipv6": null
     },
     {
@@ -13110,7 +13121,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:b35c:5962:40e7:5f1b"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72407",
@@ -13121,7 +13132,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:b35c:5962:40e7:5f1b"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72420",
@@ -14551,6 +14562,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "203.137.76.22",
+      "ipv6": null
+    },
+    {
+      "designator": "87648",
+      "country": "IT",
+      "name": "IR8UCW YSF",
+      "use_xx_prefix": true,
+      "description": "IR8UCW YSF REF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "79.37.52.117",
       "ipv6": null
     },
     {
