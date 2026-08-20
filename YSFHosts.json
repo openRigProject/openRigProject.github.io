@@ -1409,17 +1409,6 @@
       "ipv6": null
     },
     {
-      "designator": "00468",
-      "country": "US",
-      "name": "URF468",
-      "use_xx_prefix": false,
-      "description": "URF468",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "76.84.194.123",
-      "ipv6": null
-    },
-    {
       "designator": "00479",
       "country": "US",
       "name": "Arkansas NW",
@@ -8654,7 +8643,7 @@
       "description": "FOX HOUSE",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "151.26.146.36",
+      "ipv4": "91.254.235.75",
       "ipv6": null
     },
     {
