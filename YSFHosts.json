@@ -5893,7 +5893,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.251.181.71",
+      "ipv4": "87.11.178.155",
       "ipv6": null
     },
     {
@@ -6202,17 +6202,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.25.56.245",
-      "ipv6": null
-    },
-    {
-      "designator": "22955",
-      "country": "IT",
-      "name": "LFQ-SCAZ7",
-      "use_xx_prefix": false,
-      "description": "Scanner Person",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "79.47.92.120",
       "ipv6": null
     },
     {
@@ -7060,7 +7049,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343e:6600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342b:6a00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
