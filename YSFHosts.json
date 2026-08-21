@@ -3649,7 +3649,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "47.150.177.51",
+      "ipv4": "47.153.255.145",
       "ipv6": null
     },
     {
@@ -3660,7 +3660,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "47.150.177.51",
+      "ipv4": "47.153.255.145",
       "ipv6": null
     },
     {
@@ -7393,6 +7393,17 @@
       "ipv6": null
     },
     {
+      "designator": "27600",
+      "country": "US",
+      "name": "SENTRY",
+      "use_xx_prefix": false,
+      "description": "US-SENTRY",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "99.105.192.230",
+      "ipv6": null
+    },
+    {
       "designator": "27688",
       "country": "US",
       "name": "SO Oregon RC",
@@ -9327,6 +9338,17 @@
       "port": 42007,
       "ipv4": "85.73.209.95",
       "ipv6": null
+    },
+    {
+      "designator": "40406",
+      "country": "US",
+      "name": "XLXLWT",
+      "use_xx_prefix": false,
+      "description": "XLXLWT Mod C",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "172.232.11.89",
+      "ipv6": "2600:3c06::2000:22ff:fef5:b0e8"
     },
     {
       "designator": "40448",
@@ -13143,7 +13165,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "191.13.22.85",
-      "ipv6": "2804:7f0:b771:48d:b35c:5962:40e7:5f1b"
+      "ipv6": "2804:7f0:b771:48d:7a6d:3a9a:9250:f69f"
     },
     {
       "designator": "72407",
@@ -14870,17 +14892,6 @@
       "user_count": "000",
       "port": 42445,
       "ipv4": "95.255.196.50",
-      "ipv6": null
-    },
-    {
-      "designator": "90300",
-      "country": "US",
-      "name": "SENTRY",
-      "use_xx_prefix": false,
-      "description": "US-SENTRY",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "99.105.192.230",
       "ipv6": null
     },
     {
