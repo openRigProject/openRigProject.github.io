@@ -18,8 +18,7 @@ jobs:
         env:
           DVREF_TOKEN: ${{ secrets.DVREF_TOKEN }}
         run: |
-          UA="rig-sync/$(shuf -i 1-9 -n1).$(shuf -i 0-99 -n1).$(shuf -i 0-999 -n1)"
-
+          UA="openRig-host-updater/1.0"
           curl -fsSL \
             -H "Accept: application/json" \
             -H "Authorization: Token ${DVREF_TOKEN}" \
