@@ -10,6 +10,14 @@ Marketing/landing website for the openRig project.
 
 Plain HTML + vanilla JavaScript. No build step required — just open `index.html` or serve it with any static file server.
 
+## Reflector Data
+
+YSF reflector data distributed by this project is provided by
+[DVRef](https://dvref.com/).
+
+Use and redistribution of DVRef-derived data is subject to the
+[DVRef Acceptable Use Policy](https://dvref.com/aup/).
+
 ## Development
 
 ```bash

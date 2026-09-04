@@ -25,7 +25,15 @@ jobs:
             -H "Authorization: Token ${DVREF_TOKEN}" \
             -A "${UA}" \
             "https://dvref.com/api/v2/ysf/reflectors/" \
-          | jq '{reflectors:[.data.reflectors[]|{designator,country,name,use_xx_prefix,description:(.description//""),user_count:(.user_count//"000"),port:(.port//42000),ipv4:(.ipv4//null),ipv6:(.ipv6//null)}]}' \
+          | jq '{
+              "_meta": {
+                "source": "DVRef",
+                "source_url": "https://dvref.com/",
+                "attribution": "Reflector data provided by DVRef.",
+                "aup": "https://dvref.com/aup/"
+              },
+              "reflectors": [.data.reflectors[]|{designator,country,name,use_xx_prefix,description:(.description//""),user_count:(.user_count//"000"),port:(.port//42000),ipv4:(.ipv4//null),ipv6:(.ipv6//null)}]
+            }' \
           > YSFHosts.json
 
           echo "Reflector count: $(jq '.reflectors|length' YSFHosts.json)"
