@@ -136,7 +136,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "179.210.38.33",
-      "ipv6": "2804:14d:5cdf:54c7:aa76:cb08:f430:8471"
+      "ipv6": "2804:14d:5cdf:54c7:959:b0cd:2da0:51c3"
     },
     {
       "designator": "00018",
@@ -1008,6 +1008,17 @@
       "ipv6": null
     },
     {
+      "designator": "00161",
+      "country": "RU",
+      "name": "CLUBFM",
+      "use_xx_prefix": false,
+      "description": "RND Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "91.213.168.58",
+      "ipv6": null
+    },
+    {
       "designator": "00165",
       "country": "GR",
       "name": "URF365",
@@ -1015,7 +1026,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.28.103",
+      "ipv4": "46.12.3.26",
       "ipv6": null
     },
     {
@@ -2413,7 +2424,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "95.146.183.211",
-      "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
+      "ipv6": "2a00:23c8:fa75:c501:bdb7:5ae6:3cef:9a54"
     },
     {
       "designator": "00940",
@@ -4073,8 +4084,8 @@
       "description": "North America",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "44.15.64.51",
-      "ipv6": null
+      "ipv4": "104.21.71.105",
+      "ipv6": "2606:4700:3030::ac43:9065"
     },
     {
       "designator": "10231",
@@ -4106,7 +4117,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.28.103",
+      "ipv4": "46.12.3.26",
       "ipv6": null
     },
     {
@@ -4184,7 +4195,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.42.215.8",
-      "ipv6": null
+      "ipv6": "2606:4700:3030::ac43:9065"
     },
     {
       "designator": "10978",
@@ -9859,7 +9870,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.6.44.22",
+      "ipv4": "79.31.217.87",
       "ipv6": null
     },
     {
@@ -12907,7 +12918,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "95.146.183.211",
-      "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
+      "ipv6": "2a00:23c8:fa75:c501:bdb7:5ae6:3cef:9a54"
     },
     {
       "designator": "61685",
