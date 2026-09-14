@@ -1,0 +1,47 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: github-runner
+  namespace: openrig
+  labels:
+    app: github-runner
+spec:
+  replicas: 1
+  selector:
+    matchLabels:
+      app: github-runner
+  template:
+    metadata:
+      labels:
+        app: github-runner
+    spec:
+      nodeSelector:
+        kubernetes.io/hostname: server1
+      containers:
+        - name: runner
+          image: harbor.lab.outcastlabs.com/openrig/github-runner:latest
+          env:
+            - name: REPO_URL
+              value: https://github.com/openRigProject/openRigProject.github.io
+            - name: ACCESS_TOKEN
+              valueFrom:
+                secretKeyRef:
+                  name: github-runner-pat
+                  key: pat
+            - name: RUNNER_NAME
+              value: openrig-k8s
+            - name: RUNNER_WORKDIR
+              value: /tmp/runner
+            - name: RUNNER_SCOPE
+              value: repo
+            - name: LABELS
+              value: self-hosted,linux,x64
+            - name: DISABLE_AUTO_UPDATE
+              value: "true"
+          resources:
+            requests:
+              cpu: 100m
+              memory: 256Mi
+            limits:
+              cpu: 500m
+              memory: 512Mi
