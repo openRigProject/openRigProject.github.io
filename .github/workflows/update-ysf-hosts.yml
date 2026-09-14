@@ -7,7 +7,7 @@ on:
 
 jobs:
   update:
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
     permissions:
       contents: write
 
@@ -18,13 +18,21 @@ jobs:
         env:
           DVREF_TOKEN: ${{ secrets.DVREF_TOKEN }}
         run: |
-          UA="openRig-host-updater/1.0"
-          curl -fsSL \
+          set -o pipefail
+
+          http_code=$(curl -sL -o /tmp/dvref_raw.json -w '%{http_code}' \
             -H "Accept: application/json" \
             -H "Authorization: Token ${DVREF_TOKEN}" \
-            -A "${UA}" \
-            "https://dvref.com/api/v2/ysf/reflectors/" \
-          | jq '{
+            -A "openRig-host-updater/1.0 (+https://github.com/openRigProject)" \
+            "https://dvref.com/api/v2/ysf/reflectors/")
+
+          if [ "$http_code" -ne 200 ]; then
+            echo "::error::DVRef API returned HTTP ${http_code}"
+            head -c 500 /tmp/dvref_raw.json
+            exit 1
+          fi
+
+          jq '{
               "_meta": {
                 "source": "DVRef",
                 "source_url": "https://dvref.com/",
@@ -32,10 +40,14 @@ jobs:
                 "aup": "https://dvref.com/aup/"
               },
               "reflectors": [.data.reflectors[]|{designator,country,name,use_xx_prefix,description:(.description//""),user_count:(.user_count//"000"),port:(.port//42000),ipv4:(.ipv4//null),ipv6:(.ipv6//null)}]
-            }' \
-          > YSFHosts.json
+            }' /tmp/dvref_raw.json > YSFHosts.json
 
-          echo "Reflector count: $(jq '.reflectors|length' YSFHosts.json)"
+          count=$(jq '.reflectors|length' YSFHosts.json)
+          echo "Reflector count: ${count}"
+          if [ "$count" -lt 1 ]; then
+            echo "::error::No reflectors returned — aborting"
+            exit 1
+          fi
 
       - name: Commit if changed
         run: |
