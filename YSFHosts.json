@@ -4095,8 +4095,8 @@
       "description": "North America",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.105",
-      "ipv6": "2606:4700:3037::6815:4769"
+      "ipv4": "44.15.64.51",
+      "ipv6": null
     },
     {
       "designator": "10231",
@@ -9610,6 +9610,17 @@
       "ipv6": null
     },
     {
+      "designator": "33790",
+      "country": "DE",
+      "name": "TEUTO-N02",
+      "use_xx_prefix": false,
+      "description": "DARC OV Teuto",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "92.117.7.101",
+      "ipv6": null
+    },
+    {
       "designator": "33975",
       "country": "CL",
       "name": "REDLA",
@@ -11268,6 +11279,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "221.12.6.196",
+      "ipv6": null
+    },
+    {
+      "designator": "46666",
+      "country": "CN",
+      "name": "BI4KVT-46666",
+      "use_xx_prefix": false,
+      "description": "DMRISGOOD",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "47.104.203.194",
       "ipv6": null
     },
     {
@@ -13534,6 +13556,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "45.76.255.39",
+      "ipv6": null
+    },
+    {
+      "designator": "67762",
+      "country": "GB",
+      "name": "m0usr-room",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "82.2.207.40",
       "ipv6": null
     },
     {
