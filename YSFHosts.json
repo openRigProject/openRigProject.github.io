@@ -4205,8 +4205,8 @@
       "description": "URF902",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "45.42.215.8",
-      "ipv6": "2606:4700:3030::ac43:9065"
+      "ipv4": "172.67.144.101",
+      "ipv6": "2606:4700:3037::6815:4769"
     },
     {
       "designator": "10978",
@@ -5922,6 +5922,17 @@
       "user_count": "000",
       "port": 42398,
       "ipv4": "194.164.167.181",
+      "ipv6": null
+    },
+    {
+      "designator": "21454",
+      "country": "ES",
+      "name": "EA-4",
+      "use_xx_prefix": false,
+      "description": "EA-5",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "212.227.87.198",
       "ipv6": null
     },
     {
