@@ -1371,6 +1371,17 @@
       "ipv6": null
     },
     {
+      "designator": "00297",
+      "country": "JP",
+      "name": "XLX297",
+      "use_xx_prefix": false,
+      "description": "Kanazawa",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "133.165.252.15",
+      "ipv6": null
+    },
+    {
       "designator": "00300",
       "country": "BR",
       "name": "Brazil 300",
@@ -7550,7 +7561,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3431:e800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343c:2900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
