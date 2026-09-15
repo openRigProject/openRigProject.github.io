@@ -1389,7 +1389,7 @@
       "description": "BR300",
       "user_count": "000",
       "port": 42300,
-      "ipv4": "45.159.173.18",
+      "ipv4": "93.95.227.114",
       "ipv6": null
     },
     {
@@ -4436,7 +4436,7 @@
       "description": "YSF La Galera",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.219.230.173",
+      "ipv4": "87.219.230.158",
       "ipv6": null
     },
     {
@@ -6680,7 +6680,7 @@
       "description": "IT-C4FM-RAGUSA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.117.247.121",
+      "ipv4": "109.117.247.221",
       "ipv6": null
     },
     {
@@ -7021,7 +7021,7 @@
       "description": "SvxLink 24078",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.66.26.82",
+      "ipv4": "217.208.152.166",
       "ipv6": null
     },
     {
@@ -10754,13 +10754,13 @@
       "ipv6": null
     },
     {
-      "designator": "44206",
+      "designator": "44200",
       "country": "GB",
-      "name": "SW-Cluster",
+      "name": "Soccer",
       "use_xx_prefix": false,
-      "description": "UK SW Cluster",
+      "description": "Soccer Chat",
       "user_count": "000",
-      "port": 42007,
+      "port": 42006,
       "ipv4": "82.20.246.67",
       "ipv6": null
     },
