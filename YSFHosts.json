@@ -5316,7 +5316,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.185.4.78",
+      "ipv4": "93.130.168.9",
       "ipv6": null
     },
     {
@@ -7802,7 +7802,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.101.156",
+      "ipv4": "79.184.90.154",
       "ipv6": null
     },
     {
@@ -10794,7 +10794,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.190.218.76",
+      "ipv4": "93.130.242.4",
       "ipv6": null
     },
     {
@@ -13335,8 +13335,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.229.103",
-      "ipv6": "2003:c9:8fff:f84:e228:6dff:fe74:b559"
+      "ipv4": "87.178.175.189",
+      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13346,8 +13346,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.229.103",
-      "ipv6": "2003:c9:8fff:f84:e228:6dff:fe74:b559"
+      "ipv4": "87.178.175.189",
+      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13357,8 +13357,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.229.103",
-      "ipv6": "2003:c9:8fff:f84:e228:6dff:fe74:b559"
+      "ipv4": "87.178.175.189",
+      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13368,8 +13368,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.229.103",
-      "ipv6": "2003:c9:8fff:f84:e228:6dff:fe74:b559"
+      "ipv4": "87.178.175.189",
+      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13379,8 +13379,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.229.103",
-      "ipv6": "2003:c9:8fff:f84:e228:6dff:fe74:b559"
+      "ipv4": "87.178.175.189",
+      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
