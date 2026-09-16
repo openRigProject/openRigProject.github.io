@@ -1276,7 +1276,7 @@
       "country": "GB",
       "name": "XLX247",
       "use_xx_prefix": false,
-      "description": "OZ-DMR NET",
+      "description": "OZ-DMR NETWORK",
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.31.91.236",
@@ -3226,7 +3226,7 @@
       "description": "DARC-WAYNECONY",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "98.3.107.74",
+      "ipv4": "98.3.98.141",
       "ipv6": null
     },
     {
@@ -4216,8 +4216,8 @@
       "description": "URF902",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.21.71.105",
-      "ipv6": "2606:4700:3037::6815:4769"
+      "ipv4": "45.42.215.8",
+      "ipv6": "2606:4700:3030::ac43:9065"
     },
     {
       "designator": "10978",
@@ -4689,7 +4689,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.74.162",
+      "ipv4": "88.207.73.133",
       "ipv6": null
     },
     {
@@ -6024,6 +6024,17 @@
       "ipv6": null
     },
     {
+      "designator": "21500",
+      "country": "ES",
+      "name": "EA-DISTRITO",
+      "use_xx_prefix": false,
+      "description": "EA-DISTRITO",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "212.227.87.198",
+      "ipv6": null
+    },
+    {
       "designator": "21511",
       "country": "US",
       "name": "KV4S",
@@ -6972,7 +6983,7 @@
     {
       "designator": "23595",
       "country": "GB",
-      "name": "OZ-DMR",
+      "name": "OZ-DMR (UK)",
       "use_xx_prefix": false,
       "description": "OZ-DMR NETWORK",
       "user_count": "000",
@@ -8704,7 +8715,7 @@
       "description": "REFLEC-MURCIA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.23.190.196",
+      "ipv4": "88.22.162.78",
       "ipv6": null
     },
     {
@@ -11062,17 +11073,6 @@
       "ipv6": null
     },
     {
-      "designator": "46023",
-      "country": "CN",
-      "name": "CKG-TG46023",
-      "use_xx_prefix": false,
-      "description": "YSF_BM_TG46023",
-      "user_count": "000",
-      "port": 42005,
-      "ipv4": "47.109.55.52",
-      "ipv6": null
-    },
-    {
       "designator": "46028",
       "country": "CN",
       "name": "DZ-BI8AQ",
@@ -13182,39 +13182,6 @@
       "user_count": "000",
       "port": 42397,
       "ipv4": "217.154.97.237",
-      "ipv6": null
-    },
-    {
-      "designator": "63305",
-      "country": "CN",
-      "name": "C4P25-TG46005",
-      "use_xx_prefix": false,
-      "description": "YSF2P25-46005",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "47.109.24.90",
-      "ipv6": null
-    },
-    {
-      "designator": "63306",
-      "country": "CN",
-      "name": "CKG-TG46001",
-      "use_xx_prefix": false,
-      "description": "YSF_BM_TG46001",
-      "user_count": "000",
-      "port": 42006,
-      "ipv4": "47.109.55.52",
-      "ipv6": null
-    },
-    {
-      "designator": "63307",
-      "country": "CN",
-      "name": "CKG-DGID",
-      "use_xx_prefix": false,
-      "description": "DGID_Multi_BM",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "47.109.55.52",
       "ipv6": null
     },
     {
