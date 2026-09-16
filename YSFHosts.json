@@ -14641,7 +14641,7 @@
       "country": "US",
       "name": "XLX384",
       "use_xx_prefix": false,
-      "description": "MRN REF-1",
+      "description": "Texas-MRN",
       "user_count": "000",
       "port": 42384,
       "ipv4": "66.52.202.127",
@@ -15513,7 +15513,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.19.138.20",
+      "ipv4": "79.55.146.249",
       "ipv6": null
     },
     {
