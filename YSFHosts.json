@@ -1866,6 +1866,17 @@
       "ipv6": "2a02:4780:14:23a7::1"
     },
     {
+      "designator": "00607",
+      "country": "US",
+      "name": "URF607",
+      "use_xx_prefix": false,
+      "description": "URF607",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "67.182.227.214",
+      "ipv6": null
+    },
+    {
       "designator": "00620",
       "country": "JP",
       "name": "XLX620",
@@ -4205,7 +4216,7 @@
       "description": "URF902",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.67.144.101",
+      "ipv4": "104.21.71.105",
       "ipv6": "2606:4700:3037::6815:4769"
     },
     {
@@ -9562,7 +9573,7 @@
       "description": "Coamo WP4NNZ",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "64.237.214.46",
+      "ipv4": "173.215.225.88",
       "ipv6": null
     },
     {
@@ -12389,7 +12400,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "124.120.172.117",
+      "ipv4": "58.8.185.126",
       "ipv6": null
     },
     {
@@ -16514,7 +16525,7 @@
       "description": "tommumford.uk",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "90.253.77.8",
+      "ipv4": "80.176.22.43",
       "ipv6": null
     },
     {
