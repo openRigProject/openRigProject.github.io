@@ -564,7 +564,7 @@
       "description": "Interconnectio",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.102.41.85",
+      "ipv4": "44.27.25.163",
       "ipv6": null
     },
     {
@@ -6350,7 +6350,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.40.104.183",
+      "ipv4": "95.234.146.191",
       "ipv6": null
     },
     {
@@ -7583,7 +7583,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343c:2900:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3405:c300:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8396,7 +8396,7 @@
       "description": "URFYLV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "85.103.82.115",
+      "ipv4": "88.244.252.231",
       "ipv6": "2a00:1d32:5b0:16a7:46a8:ac79:ad14:9c15"
     },
     {
@@ -13145,7 +13145,7 @@
       "country": "ES",
       "name": "EA-Distrito-4",
       "use_xx_prefix": false,
-      "description": "YSF Distrito 4",
+      "description": "DISTRITO 4",
       "user_count": "000",
       "port": 42000,
       "ipv4": "212.237.0.67",
