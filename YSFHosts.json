@@ -1877,6 +1877,17 @@
       "ipv6": null
     },
     {
+      "designator": "00618",
+      "country": "RU",
+      "name": "618",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "77.37.234.172",
+      "ipv6": null
+    },
+    {
       "designator": "00620",
       "country": "JP",
       "name": "XLX620",
@@ -3298,7 +3309,7 @@
     {
       "designator": "05050",
       "country": "AU",
-      "name": "FD-VK-TG505",
+      "name": "FD-TG505",
       "use_xx_prefix": false,
       "description": "FD TG 505 CALL",
       "user_count": "000",
@@ -10079,7 +10090,7 @@
       "description": "SCANIA TEAM",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "85.73.210.100",
+      "ipv4": "79.131.81.139",
       "ipv6": null
     },
     {
@@ -14699,7 +14710,7 @@
       "description": "dvbr.net",
       "user_count": "000",
       "port": 42777,
-      "ipv4": "45.159.173.18",
+      "ipv4": "93.95.227.114",
       "ipv6": null
     },
     {
