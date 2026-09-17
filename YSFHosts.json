@@ -1736,9 +1736,9 @@
     {
       "designator": "00493",
       "country": "US",
-      "name": "URF493",
+      "name": "VEX493",
       "use_xx_prefix": false,
-      "description": "URF/XLX493",
+      "description": "VEX493",
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.218.221.46",
@@ -1874,17 +1874,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "67.182.227.214",
-      "ipv6": null
-    },
-    {
-      "designator": "00618",
-      "country": "RU",
-      "name": "618",
-      "use_xx_prefix": false,
-      "description": "",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "77.37.234.172",
       "ipv6": null
     },
     {
@@ -9661,7 +9650,7 @@
       "description": "DARC OV Teuto",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.117.7.56",
+      "ipv4": "195.90.222.217",
       "ipv6": null
     },
     {
@@ -10343,7 +10332,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.87.245.210",
+      "ipv4": "181.2.14.51",
       "ipv6": null
     },
     {
@@ -10908,17 +10897,6 @@
       "ipv6": null
     },
     {
-      "designator": "44600",
-      "country": "CZ",
-      "name": "URFCZS",
-      "use_xx_prefix": false,
-      "description": "URFCZS",
-      "user_count": "000",
-      "port": 42200,
-      "ipv4": "128.0.182.6",
-      "ipv6": null
-    },
-    {
       "designator": "44833",
       "country": "JP",
       "name": "YSF-YYK-833",
@@ -11421,7 +11399,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "31.189.207.227",
+      "ipv4": "151.63.157.12",
       "ipv6": null
     },
     {
@@ -14870,9 +14848,9 @@
     {
       "designator": "80364",
       "country": "US",
-      "name": "XLX493",
+      "name": "VEX493",
       "use_xx_prefix": false,
-      "description": "URF/XLX493",
+      "description": "VEX493",
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.218.221.46",
