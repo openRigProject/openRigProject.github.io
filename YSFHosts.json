@@ -4876,7 +4876,7 @@
       "description": "YSF-NAGOYA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "125.198.85.43",
+      "ipv4": "118.109.150.22",
       "ipv6": null
     },
     {
@@ -5305,7 +5305,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.210.5.30",
+      "ipv4": "178.59.74.196",
       "ipv6": null
     },
     {
@@ -6372,7 +6372,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.234.146.191",
+      "ipv4": "79.47.143.20",
       "ipv6": null
     },
     {
@@ -6625,7 +6625,7 @@
       "description": "Scanner gruppo",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.29.167.5",
+      "ipv4": "95.239.83.143",
       "ipv6": null
     },
     {
@@ -7605,7 +7605,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3405:c300:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3410:3000:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12796,7 +12796,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "125.198.85.43",
+      "ipv4": "118.109.150.22",
       "ipv6": null
     },
     {
@@ -14017,7 +14017,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.97.30.137",
+      "ipv4": "179.225.179.100",
       "ipv6": "2804:7f0:b771:e13:b7ce:c57f:e814:8b79"
     },
     {
@@ -14479,7 +14479,7 @@
       "description": "YSF-NAGOYA-2",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "125.198.85.43",
+      "ipv4": "118.109.150.22",
       "ipv6": null
     },
     {
