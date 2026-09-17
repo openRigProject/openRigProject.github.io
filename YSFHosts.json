@@ -10699,6 +10699,17 @@
       "ipv6": null
     },
     {
+      "designator": "43701",
+      "country": "US",
+      "name": "OH-KD8USF",
+      "use_xx_prefix": false,
+      "description": "OH-KD8USF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "74.208.190.12",
+      "ipv6": null
+    },
+    {
       "designator": "43715",
       "country": "KZ",
       "name": "XLX888",
