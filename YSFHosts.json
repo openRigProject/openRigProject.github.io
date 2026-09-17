@@ -5338,7 +5338,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.168.9",
+      "ipv4": "93.130.204.190",
       "ipv6": null
     },
     {
@@ -7835,7 +7835,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.90.154",
+      "ipv4": "79.184.88.179",
       "ipv6": null
     },
     {
@@ -10827,7 +10827,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "93.130.242.4",
+      "ipv4": "77.179.133.14",
       "ipv6": null
     },
     {
@@ -13324,8 +13324,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.175.189",
-      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
+      "ipv4": "87.178.171.51",
+      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13335,8 +13335,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.175.189",
-      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
+      "ipv4": "87.178.171.51",
+      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13346,8 +13346,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.175.189",
-      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
+      "ipv4": "87.178.171.51",
+      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13357,8 +13357,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.175.189",
-      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
+      "ipv4": "87.178.171.51",
+      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13368,8 +13368,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.175.189",
-      "ipv6": "2003:c9:8fff:c74:e228:6dff:fe74:b559"
+      "ipv4": "87.178.171.51",
+      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14017,8 +14017,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "179.225.179.100",
-      "ipv6": "2804:7f0:b771:6dd:7f03:d3f6:39e1:6a8c"
+      "ipv4": "189.97.30.137",
+      "ipv6": "2804:7f0:b771:e13:b7ce:c57f:e814:8b79"
     },
     {
       "designator": "72407",
@@ -14028,8 +14028,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "179.225.179.100",
-      "ipv6": "2804:7f0:b771:6dd:7f03:d3f6:39e1:6a8c"
+      "ipv4": "189.97.30.137",
+      "ipv6": "2804:7f0:b771:e13:b7ce:c57f:e814:8b79"
     },
     {
       "designator": "72420",
@@ -16239,7 +16239,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "122.133.239.109",
+      "ipv4": "60.236.33.182",
       "ipv6": null
     },
     {
@@ -16503,7 +16503,7 @@
       "description": "tommumford.uk",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "80.176.22.43",
+      "ipv4": "90.246.6.104",
       "ipv6": null
     },
     {
