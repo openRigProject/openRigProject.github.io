@@ -9661,7 +9661,7 @@
       "description": "DARC OV Teuto",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "92.117.7.101",
+      "ipv4": "92.117.7.56",
       "ipv6": null
     },
     {
@@ -11421,7 +11421,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "31.189.234.2",
+      "ipv4": "31.189.207.227",
       "ipv6": null
     },
     {
@@ -14017,8 +14017,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "179.225.179.100",
-      "ipv6": "2804:7f0:b771:e13:b7ce:c57f:e814:8b79"
+      "ipv4": "179.225.179.38",
+      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
     },
     {
       "designator": "72407",
@@ -14028,8 +14028,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.97.30.137",
-      "ipv6": "2804:7f0:b771:e13:b7ce:c57f:e814:8b79"
+      "ipv4": "179.225.179.38",
+      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
     },
     {
       "designator": "72420",
