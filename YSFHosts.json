@@ -3650,7 +3650,7 @@
     {
       "designator": "07220",
       "country": "AR",
-      "name": "RMDV-7220",
+      "name": "RMDV",
       "use_xx_prefix": false,
       "description": "RMDV",
       "user_count": "000",
@@ -3787,7 +3787,7 @@
       "description": "Alicante",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.116.204.241",
+      "ipv4": "79.112.107.22",
       "ipv6": null
     },
     {
@@ -7704,7 +7704,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3410:3000:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341a:7d00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12815,7 +12815,7 @@
       "country": "TH",
       "name": "URF162",
       "use_xx_prefix": false,
-      "description": "",
+      "description": "URF162",
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.32.81.27",
@@ -15612,7 +15612,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.55.146.249",
+      "ipv4": "79.37.3.250",
       "ipv6": null
     },
     {
