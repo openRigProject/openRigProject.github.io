@@ -1763,7 +1763,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.50.16",
+      "ipv4": "75.161.40.233",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -12688,6 +12688,39 @@
       "port": 42000,
       "ipv4": "143.198.216.15",
       "ipv6": null
+    },
+    {
+      "designator": "57288",
+      "country": "DE",
+      "name": "Falkensee",
+      "use_xx_prefix": false,
+      "description": "YSF-Reflektor",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "80.136.240.53",
+      "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
+    },
+    {
+      "designator": "57289",
+      "country": "DE",
+      "name": "Falkensee2",
+      "use_xx_prefix": false,
+      "description": "YSF-Reflektor",
+      "user_count": "000",
+      "port": 42032,
+      "ipv4": "80.136.240.53",
+      "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
+    },
+    {
+      "designator": "57290",
+      "country": "DE",
+      "name": "Falkensee3",
+      "use_xx_prefix": false,
+      "description": "YSF-Reflektor",
+      "user_count": "000",
+      "port": 42033,
+      "ipv4": "80.136.240.53",
+      "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
       "designator": "57300",
