@@ -1103,7 +1103,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "118.1.65.192",
+      "ipv4": "153.167.76.158",
       "ipv6": null
     },
     {
@@ -1268,7 +1268,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "118.1.65.192",
+      "ipv4": "153.167.76.158",
       "ipv6": null
     },
     {
@@ -1763,7 +1763,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.72.231",
+      "ipv4": "70.58.228.69",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -1819,6 +1819,116 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "144.76.12.90",
+      "ipv6": null
+    },
+    {
+      "designator": "00520",
+      "country": "AR",
+      "name": "ARGENTINA-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox ARG",
+      "user_count": "000",
+      "port": 42100,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00521",
+      "country": "CL",
+      "name": "CHILE-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox CHILE",
+      "user_count": "000",
+      "port": 42101,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00522",
+      "country": "CL",
+      "name": "COLOMBIA-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox COLOMB",
+      "user_count": "000",
+      "port": 42102,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00523",
+      "country": "EC",
+      "name": "ECUADOR-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox ECUADOR",
+      "user_count": "000",
+      "port": 42103,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00524",
+      "country": "MX",
+      "name": "MEXICO-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox MEXICO",
+      "user_count": "000",
+      "port": 42104,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00525",
+      "country": "PE",
+      "name": "PERU",
+      "use_xx_prefix": false,
+      "description": "QsoBox PERU",
+      "user_count": "000",
+      "port": 42105,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00526",
+      "country": "PR",
+      "name": "PUERTO RICO-Q",
+      "use_xx_prefix": false,
+      "description": "QsoBox PR",
+      "user_count": "000",
+      "port": 42106,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00527",
+      "country": "UY",
+      "name": "URUGUAY-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox URUG",
+      "user_count": "000",
+      "port": 42107,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00528",
+      "country": "VE",
+      "name": "VENEZUELA-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox VZLA",
+      "user_count": "000",
+      "port": 42108,
+      "ipv4": "80.211.236.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00529",
+      "country": "US",
+      "name": "MIAMI-QB",
+      "use_xx_prefix": false,
+      "description": "QsoBox MIAMI",
+      "user_count": "000",
+      "port": 42109,
+      "ipv4": "80.211.236.208",
       "ipv6": null
     },
     {
@@ -5327,7 +5437,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.204.190",
+      "ipv4": "77.180.201.69",
       "ipv6": null
     },
     {
@@ -7824,7 +7934,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.88.179",
+      "ipv4": "79.184.166.19",
       "ipv6": null
     },
     {
@@ -10827,7 +10937,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.133.14",
+      "ipv4": "93.130.141.215",
       "ipv6": null
     },
     {
@@ -12026,7 +12136,7 @@
       "description": "GB-H1L8RE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "217.39.86.246",
+      "ipv4": "86.143.170.166",
       "ipv6": null
     },
     {
@@ -13313,8 +13423,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.171.51",
-      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
+      "ipv4": "193.159.42.248",
+      "ipv6": "2003:c9:8fff:102f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13324,8 +13434,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.171.51",
-      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
+      "ipv4": "193.159.42.248",
+      "ipv6": "2003:c9:8fff:102f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13335,8 +13445,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.171.51",
-      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
+      "ipv4": "193.159.42.248",
+      "ipv6": "2003:c9:8fff:102f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13346,8 +13456,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.171.51",
-      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
+      "ipv4": "193.159.42.248",
+      "ipv6": "2003:c9:8fff:102f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13357,8 +13467,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.171.51",
-      "ipv6": "2003:c9:8fff:e1c:e228:6dff:fe74:b559"
+      "ipv4": "193.159.42.248",
+      "ipv6": "2003:c9:8fff:102f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
