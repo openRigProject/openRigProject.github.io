@@ -1763,7 +1763,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "70.58.228.69",
+      "ipv4": "75.161.49.143",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -4616,6 +4616,17 @@
       "ipv6": null
     },
     {
+      "designator": "13041",
+      "country": "US",
+      "name": "TEXAS-MRN-X",
+      "use_xx_prefix": false,
+      "description": "MRN",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "45.33.22.225",
+      "ipv6": null
+    },
+    {
       "designator": "13042",
       "country": "US",
       "name": "TEXAS-MRN",
@@ -4799,7 +4810,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.73.133",
+      "ipv4": "109.60.14.157",
       "ipv6": null
     },
     {
