@@ -1763,7 +1763,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.49.143",
+      "ipv4": "75.161.50.16",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -7842,7 +7842,7 @@
       "designator": "26455",
       "country": "DE",
       "name": "ighamspirit",
-      "use_xx_prefix": false,
+      "use_xx_prefix": true,
       "description": "IGHamspirit eV",
       "user_count": "000",
       "port": 42000,
@@ -13504,6 +13504,17 @@
       "ipv6": null
     },
     {
+      "designator": "65123",
+      "country": "UA",
+      "name": "URF256",
+      "use_xx_prefix": false,
+      "description": "URF256",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "178.136.97.107",
+      "ipv6": null
+    },
+    {
       "designator": "65535",
       "country": "US",
       "name": "URF668",
@@ -14128,7 +14139,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
+      "ipv6": "2804:7f0:b771:243b:da92:9b97:ee96:3a9c"
     },
     {
       "designator": "72407",
@@ -14139,7 +14150,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
+      "ipv6": "2804:7f0:b771:243b:da92:9b97:ee96:3a9c"
     },
     {
       "designator": "72420",
