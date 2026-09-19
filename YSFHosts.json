@@ -3276,9 +3276,9 @@
     {
       "designator": "03400",
       "country": "US",
-      "name": "3400-Digital",
+      "name": "BoontonARC",
       "use_xx_prefix": false,
-      "description": "3400 Digital",
+      "description": "BoontonARC",
       "user_count": "000",
       "port": 42000,
       "ipv4": "70.111.135.14",
@@ -5712,7 +5712,7 @@
       "description": "LincsLink",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.137.10.23",
+      "ipv4": "81.158.66.198",
       "ipv6": null
     },
     {
