@@ -7715,7 +7715,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:341a:7d00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3424:e000:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8569,7 +8569,7 @@
       "country": "GB",
       "name": "NWFG5",
       "use_xx_prefix": false,
-      "description": "NWFG5",
+      "description": "NWMG",
       "user_count": "000",
       "port": 42000,
       "ipv4": "154.61.61.38",
