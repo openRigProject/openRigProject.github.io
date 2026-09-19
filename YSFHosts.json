@@ -5415,7 +5415,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.74.196",
+      "ipv4": "178.59.105.47",
       "ipv6": null
     },
     {
@@ -11150,17 +11150,6 @@
       "ipv6": null
     },
     {
-      "designator": "46007",
-      "country": "CN",
-      "name": "China-9",
-      "use_xx_prefix": false,
-      "description": "YSF BI7JTA",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "125.91.17.122",
-      "ipv6": null
-    },
-    {
       "designator": "46008",
       "country": "CN",
       "name": "YSF-TG46008",
@@ -11366,7 +11355,7 @@
       "description": "Pepino Link",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "72.50.119.35",
+      "ipv4": "64.237.146.103",
       "ipv6": null
     },
     {
@@ -14172,7 +14161,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
+      "ipv6": "2804:7f0:b771:243b:e187:22fb:bb39:165b"
     },
     {
       "designator": "72407",
@@ -14183,7 +14172,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:f9af:bce8:2817:2d37"
+      "ipv6": "2804:7f0:b771:243b:e187:22fb:bb39:165b"
     },
     {
       "designator": "72420",
