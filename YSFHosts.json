@@ -2812,6 +2812,17 @@
       "ipv6": null
     },
     {
+      "designator": "01525",
+      "country": "GB",
+      "name": "XLX278",
+      "use_xx_prefix": false,
+      "description": "XLX Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.138.44",
+      "ipv6": null
+    },
+    {
       "designator": "01527",
       "country": "GB",
       "name": "GB3WL",
@@ -9786,6 +9797,17 @@
       "ipv6": null
     },
     {
+      "designator": "33884",
+      "country": "US",
+      "name": "LWRA_YSF",
+      "use_xx_prefix": false,
+      "description": "www.lwra.us",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "35.143.231.6",
+      "ipv6": null
+    },
+    {
       "designator": "33975",
       "country": "CL",
       "name": "REDLA",
@@ -10464,7 +10486,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.87.243.103",
+      "ipv4": "181.87.241.131",
       "ipv6": null
     },
     {
