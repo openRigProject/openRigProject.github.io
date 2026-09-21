@@ -4282,7 +4282,7 @@
       "description": "YO5KAW-Radio c",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.126.2.175",
+      "ipv4": "188.27.182.24",
       "ipv6": null
     },
     {
@@ -4877,6 +4877,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "188.213.170.172",
+      "ipv6": null
+    },
+    {
+      "designator": "14556",
+      "country": "PH",
+      "name": "DX1CI",
+      "use_xx_prefix": false,
+      "description": "COMPASS",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "130.51.21.177",
       "ipv6": null
     },
     {
@@ -6295,7 +6306,7 @@
       "description": "MP Matrix",
       "user_count": "000",
       "port": 42022,
-      "ipv4": "79.42.11.200",
+      "ipv4": "212.216.148.3",
       "ipv6": null
     },
     {
@@ -8528,7 +8539,7 @@
       "description": "URFYLV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.244.252.231",
+      "ipv4": "95.5.224.88",
       "ipv6": "2a00:1d32:5b0:16a7:46a8:ac79:ad14:9c15"
     },
     {
@@ -13385,9 +13396,9 @@
     {
       "designator": "64189",
       "country": "US",
-      "name": "URFWIL",
+      "name": "KE7WIL",
       "use_xx_prefix": false,
-      "description": "URFWIL",
+      "description": "KE7WIL YSF",
       "user_count": "000",
       "port": 42000,
       "ipv4": "72.222.219.41",
@@ -13456,8 +13467,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.165.200",
-      "ipv6": "2003:c9:8fff:4770:e228:6dff:fe74:b559"
+      "ipv4": "193.159.33.174",
+      "ipv6": "2003:c9:8fff:293f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13467,8 +13478,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.165.200",
-      "ipv6": "2003:c9:8fff:4770:e228:6dff:fe74:b559"
+      "ipv4": "193.159.33.174",
+      "ipv6": "2003:c9:8fff:293f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13478,8 +13489,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.165.200",
-      "ipv6": "2003:c9:8fff:4770:e228:6dff:fe74:b559"
+      "ipv4": "193.159.33.174",
+      "ipv6": "2003:c9:8fff:293f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13489,8 +13500,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.165.200",
-      "ipv6": "2003:c9:8fff:4770:e228:6dff:fe74:b559"
+      "ipv4": "193.159.33.174",
+      "ipv6": "2003:c9:8fff:293f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13500,8 +13511,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.165.200",
-      "ipv6": "2003:c9:8fff:4770:e228:6dff:fe74:b559"
+      "ipv4": "193.159.33.174",
+      "ipv6": "2003:c9:8fff:293f:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15007,7 +15018,7 @@
       "description": "Wires-X 80280",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.156.229.51",
+      "ipv4": "99.43.91.147",
       "ipv6": null
     },
     {
@@ -15917,7 +15928,7 @@
       "country": "RU",
       "name": "YSF Russia",
       "use_xx_prefix": false,
-      "description": "",
+      "description": "Moscow",
       "user_count": "000",
       "port": 42000,
       "ipv4": "77.37.234.172",
