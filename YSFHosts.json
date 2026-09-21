@@ -5415,7 +5415,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.105.47",
+      "ipv4": "46.198.189.83",
       "ipv6": null
     },
     {
@@ -6482,7 +6482,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.239.1.69",
+      "ipv4": "87.10.138.65",
       "ipv6": null
     },
     {
@@ -7715,7 +7715,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:342e:ca00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3438:5600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8567,7 +8567,7 @@
     {
       "designator": "28804",
       "country": "GB",
-      "name": "NWFG5",
+      "name": "NWMG",
       "use_xx_prefix": false,
       "description": "NWMG",
       "user_count": "000",
@@ -12763,7 +12763,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.236.198.11",
+      "ipv4": "90.236.108.154",
       "ipv6": null
     },
     {
@@ -14161,7 +14161,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:e69d:9c11:986e:a34c"
+      "ipv6": "2804:7f0:b771:243b:d8c4:52f7:f997:c003"
     },
     {
       "designator": "72407",
@@ -14172,7 +14172,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:e69d:9c11:986e:a34c"
+      "ipv6": "2804:7f0:b771:243b:d8c4:52f7:f997:c003"
     },
     {
       "designator": "72420",
@@ -15656,7 +15656,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.3.250",
+      "ipv4": "79.30.12.199",
       "ipv6": null
     },
     {
