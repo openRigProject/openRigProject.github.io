@@ -575,7 +575,7 @@
       "description": "XREFLECTOR",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "163.47.42.231",
+      "ipv4": "217.160.209.125",
       "ipv6": null
     },
     {
@@ -719,6 +719,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "161.153.200.24",
+      "ipv6": null
+    },
+    {
+      "designator": "00112",
+      "country": "US",
+      "name": "AMERICA",
+      "use_xx_prefix": false,
+      "description": "US-AMERICA",
+      "user_count": "000",
+      "port": 42012,
+      "ipv4": "217.160.209.125",
       "ipv6": null
     },
     {
