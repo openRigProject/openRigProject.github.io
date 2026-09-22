@@ -568,6 +568,17 @@
       "ipv6": null
     },
     {
+      "designator": "00080",
+      "country": "ES",
+      "name": "XREFLECTOR",
+      "use_xx_prefix": true,
+      "description": "XREFLECTOR",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "163.47.42.231",
+      "ipv6": null
+    },
+    {
       "designator": "00082",
       "country": "US",
       "name": "XLX082",
@@ -1103,7 +1114,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.167.76.158",
+      "ipv4": "153.213.57.34",
       "ipv6": null
     },
     {
@@ -1268,7 +1279,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.167.76.158",
+      "ipv4": "153.213.57.34",
       "ipv6": null
     },
     {
@@ -2281,6 +2292,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.31.14.30",
+      "ipv6": null
+    },
+    {
+      "designator": "00776",
+      "country": "JP",
+      "name": "XLX776",
+      "use_xx_prefix": false,
+      "description": "Kawaguchi776",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "61.27.174.176",
       "ipv6": null
     },
     {
@@ -11183,6 +11205,17 @@
       "ipv6": null
     },
     {
+      "designator": "46002",
+      "country": "CN",
+      "name": "46002",
+      "use_xx_prefix": false,
+      "description": "ARCH 46002",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "39.96.117.224",
+      "ipv6": null
+    },
+    {
       "designator": "46004",
       "country": "CN",
       "name": "C4FM-BG4IAJ",
@@ -14205,7 +14238,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:d8c4:52f7:f997:c003"
+      "ipv6": "2804:7f0:b771:243b:3a0b:9c54:21f5:9a78"
     },
     {
       "designator": "72407",
@@ -14216,7 +14249,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:d8c4:52f7:f997:c003"
+      "ipv6": "2804:7f0:b771:243b:3a0b:9c54:21f5:9a78"
     },
     {
       "designator": "72420",
