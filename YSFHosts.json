@@ -1147,7 +1147,7 @@
       "description": "GR-GREECE-DV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "185.243.214.85",
+      "ipv4": "91.250.248.216",
       "ipv6": "2a09:cd43:f:4270::1"
     },
     {
@@ -4022,6 +4022,17 @@
       "ipv6": null
     },
     {
+      "designator": "08806",
+      "country": "CA",
+      "name": "VE2IBN",
+      "use_xx_prefix": false,
+      "description": "Private",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "174.93.225.49",
+      "ipv6": null
+    },
+    {
       "designator": "08828",
       "country": "FR",
       "name": "YSF MAYENNE",
@@ -5624,7 +5635,7 @@
       "description": "GR-KERKYRA-DV",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "185.243.214.85",
+      "ipv4": "91.250.248.216",
       "ipv6": "2a09:cd43:f:4270::1"
     },
     {
@@ -6989,6 +7000,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "89.185.97.38",
+      "ipv6": null
+    },
+    {
+      "designator": "23278",
+      "country": "DE",
+      "name": "DA1SR",
+      "use_xx_prefix": false,
+      "description": "DA1SR",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "93.245.180.5",
       "ipv6": null
     },
     {
