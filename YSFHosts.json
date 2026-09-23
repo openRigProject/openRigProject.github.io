@@ -4134,9 +4134,9 @@
     {
       "designator": "09627",
       "country": "CL",
-      "name": "YSF",
+      "name": "YSF-TG73099",
       "use_xx_prefix": false,
-      "description": "CHILE-LINK",
+      "description": "YSF to TG73099",
       "user_count": "000",
       "port": 42002,
       "ipv4": "186.64.123.59",
@@ -14199,9 +14199,9 @@
     {
       "designator": "72350",
       "country": "CL",
-      "name": "CHILE",
+      "name": "TG73073",
       "use_xx_prefix": false,
-      "description": "YSF to TG730",
+      "description": "YSF to TG73073",
       "user_count": "000",
       "port": 42000,
       "ipv4": "186.64.123.59",
