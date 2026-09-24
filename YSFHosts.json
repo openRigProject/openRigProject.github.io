@@ -828,7 +828,7 @@
       "description": "XLXD Multiref",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.16.138.100",
+      "ipv4": "81.39.94.243",
       "ipv6": null
     },
     {
@@ -1214,17 +1214,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "138.128.247.74",
-      "ipv6": null
-    },
-    {
-      "designator": "00221",
-      "country": "AR",
-      "name": "CQ La Plata",
-      "use_xx_prefix": false,
-      "description": "Reflector XLX",
-      "user_count": "000",
-      "port": 42006,
-      "ipv4": "181.23.118.94",
       "ipv6": null
     },
     {
@@ -5800,7 +5789,7 @@
       "description": "LincsLink",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "81.158.66.198",
+      "ipv4": "86.181.36.6",
       "ipv6": null
     },
     {
@@ -8297,7 +8286,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "82.54.205.136",
+      "ipv4": "79.53.217.41",
       "ipv6": null
     },
     {
@@ -10200,7 +10189,7 @@
       "description": "RuralMN-707",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "184.83.91.237",
+      "ipv4": "140.186.31.154",
       "ipv6": null
     },
     {
@@ -12873,7 +12862,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.236.108.154",
+      "ipv4": "90.234.79.221",
       "ipv6": null
     },
     {
