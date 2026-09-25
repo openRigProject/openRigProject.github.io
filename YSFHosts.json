@@ -3204,7 +3204,7 @@
       "description": "PR-YSF-GROUP",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.66.149.239",
+      "ipv4": "50.110.214.169",
       "ipv6": null
     },
     {
@@ -5525,7 +5525,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.129.180.208",
+      "ipv4": "77.15.215.10",
       "ipv6": null
     },
     {
@@ -15117,7 +15117,7 @@
       "description": "Wires-X 80280",
       "user_count": "000",
       "port": 42000,
-      "ipv4": null,
+      "ipv4": "99.43.91.147",
       "ipv6": null
     },
     {
