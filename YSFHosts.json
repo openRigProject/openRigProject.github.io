@@ -3204,7 +3204,7 @@
       "description": "PR-YSF-GROUP",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "50.110.226.242",
+      "ipv4": "153.66.149.239",
       "ipv6": null
     },
     {
@@ -10061,6 +10061,17 @@
       "ipv6": null
     },
     {
+      "designator": "36633",
+      "country": "US",
+      "name": "K9RUF Repeatr",
+      "use_xx_prefix": false,
+      "description": "RPT 147.240",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "67.167.60.99",
+      "ipv6": null
+    },
+    {
       "designator": "36905",
       "country": "US",
       "name": "XLX239",
@@ -12851,7 +12862,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.234.79.221",
+      "ipv4": "90.236.47.25",
       "ipv6": null
     },
     {
@@ -15101,12 +15112,12 @@
     {
       "designator": "80280",
       "country": "US",
-      "name": "Contra-Costa",
+      "name": "NorCal-Link",
       "use_xx_prefix": false,
       "description": "Wires-X 80280",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "99.43.91.147",
+      "ipv4": null,
       "ipv6": null
     },
     {
@@ -15766,7 +15777,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.30.12.199",
+      "ipv4": "82.91.133.90",
       "ipv6": null
     },
     {
