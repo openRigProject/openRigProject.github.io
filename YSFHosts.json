@@ -2874,7 +2874,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.28.121.48",
+      "ipv4": "188.28.120.16",
       "ipv6": null
     },
     {
@@ -3457,8 +3457,8 @@
       "description": "FD TG 505 CALL",
       "user_count": "000",
       "port": 42505,
-      "ipv4": "172.105.188.159",
-      "ipv6": "2400:8907::f03c:94ff:fe9f:bf0c"
+      "ipv4": "172.105.187.182",
+      "ipv6": "2400:8907::f03c:93ff:fe2e:20cd"
     },
     {
       "designator": "05055",
@@ -5492,7 +5492,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.198.189.83",
+      "ipv4": "178.59.157.73",
       "ipv6": null
     },
     {
@@ -8649,7 +8649,7 @@
       "description": "YSF Bremen",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "90.186.91.162",
+      "ipv4": "90.186.114.60",
       "ipv6": null
     },
     {
@@ -11850,8 +11850,8 @@
       "description": "OZ-DMR NETWORK",
       "user_count": "000",
       "port": 42595,
-      "ipv4": "172.105.188.159",
-      "ipv6": "2400:8907::f03c:94ff:fe9f:bf0c"
+      "ipv4": "172.105.187.182",
+      "ipv6": "2400:8907::f03c:93ff:fe2e:20cd"
     },
     {
       "designator": "50596",
@@ -12225,17 +12225,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.32.93.221",
-      "ipv6": null
-    },
-    {
-      "designator": "51866",
-      "country": "GB",
-      "name": "H1L8RE",
-      "use_xx_prefix": false,
-      "description": "GB-H1L8RE",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "86.143.170.166",
       "ipv6": null
     },
     {
