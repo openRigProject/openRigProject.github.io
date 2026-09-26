@@ -1059,7 +1059,7 @@
       "description": "URF365",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.3.26",
+      "ipv4": "46.12.13.134",
       "ipv6": null
     },
     {
@@ -4282,7 +4282,7 @@
       "description": "FunasssyLand",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "60.37.69.6",
+      "ipv4": "58.88.60.200",
       "ipv6": null
     },
     {
@@ -4304,7 +4304,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.3.26",
+      "ipv4": "46.12.13.134",
       "ipv6": null
     },
     {
@@ -4865,7 +4865,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.72.11",
+      "ipv4": "88.207.73.255",
       "ipv6": null
     },
     {
@@ -5481,7 +5481,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.157.73",
+      "ipv4": "5.54.117.192",
       "ipv6": null
     },
     {
@@ -6559,7 +6559,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.45.147.7",
+      "ipv4": "79.27.148.53",
       "ipv6": null
     },
     {
@@ -7685,6 +7685,17 @@
       "ipv6": null
     },
     {
+      "designator": "26249",
+      "country": "DE",
+      "name": "F49",
+      "use_xx_prefix": false,
+      "description": "F49 Bridge",
+      "user_count": "000",
+      "port": 42346,
+      "ipv4": "85.215.138.68",
+      "ipv6": null
+    },
+    {
       "designator": "26257",
       "country": "DE",
       "name": "Siegerland",
@@ -7803,7 +7814,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3420:9500:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342a:4700:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10156,7 +10167,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.48.121.56",
+      "ipv4": "79.50.205.5",
       "ipv6": null
     },
     {
@@ -12239,6 +12250,17 @@
       "ipv6": null
     },
     {
+      "designator": "51866",
+      "country": "GB",
+      "name": "H1L8RE",
+      "use_xx_prefix": false,
+      "description": "GB-H1L8RE",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "86.143.170.166",
+      "ipv6": null
+    },
+    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -12862,7 +12884,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.236.47.25",
+      "ipv4": "90.236.237.15",
       "ipv6": null
     },
     {
@@ -14270,8 +14292,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:142a:2c76:1299:ab46"
+      "ipv4": "201.1.91.221",
+      "ipv6": "2804:7f0:b771:73d:cde3:1a48:4aa4:39c3"
     },
     {
       "designator": "72407",
@@ -14281,8 +14303,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "179.225.179.38",
-      "ipv6": "2804:7f0:b771:243b:142a:2c76:1299:ab46"
+      "ipv4": "201.1.91.221",
+      "ipv6": "2804:7f0:b771:73d:cde3:1a48:4aa4:39c3"
     },
     {
       "designator": "72420",
@@ -15112,12 +15134,23 @@
     {
       "designator": "80280",
       "country": "US",
-      "name": "NorCal-Link",
+      "name": "Contra-Costa",
       "use_xx_prefix": false,
       "description": "Wires-X 80280",
       "user_count": "000",
       "port": 42000,
       "ipv4": "99.43.91.147",
+      "ipv6": null
+    },
+    {
+      "designator": "80281",
+      "country": "US",
+      "name": "NorCal-Link",
+      "use_xx_prefix": false,
+      "description": "Multi-Mode",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "99.43.91.148",
       "ipv6": null
     },
     {
