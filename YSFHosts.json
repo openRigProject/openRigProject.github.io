@@ -2874,7 +2874,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.28.120.16",
+      "ipv4": "188.29.110.78",
       "ipv6": null
     },
     {
@@ -4847,6 +4847,17 @@
       "ipv6": null
     },
     {
+      "designator": "14054",
+      "country": "US",
+      "name": "W5JDW LINK",
+      "use_xx_prefix": false,
+      "description": "www.w5jdw.com",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "205.147.75.67",
+      "ipv6": null
+    },
+    {
       "designator": "14248",
       "country": "HR",
       "name": "9A-C4FM",
@@ -5481,7 +5492,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "5.54.117.192",
+      "ipv4": "46.177.251.13",
       "ipv6": null
     },
     {
