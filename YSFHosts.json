@@ -5591,7 +5591,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.22.110",
+      "ipv4": "77.187.139.111",
       "ipv6": null
     },
     {
@@ -13621,7 +13621,7 @@
       "description": "Longer QSO'S",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "24.1.186.5",
+      "ipv4": "24.14.165.246",
       "ipv6": null
     },
     {
@@ -14369,8 +14369,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.1.91.221",
-      "ipv6": "2804:7f0:b771:73d:b5a9:d0f5:cb6f:3f9f"
+      "ipv4": "189.38.189.162",
+      "ipv6": "2804:7f0:b771:2a35:a57:8939:e636:c388"
     },
     {
       "designator": "72407",
@@ -14380,8 +14380,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.1.91.221",
-      "ipv6": "2804:7f0:b771:73d:b5a9:d0f5:cb6f:3f9f"
+      "ipv4": "189.38.189.162",
+      "ipv6": "2804:7f0:b771:2a35:a57:8939:e636:c388"
     },
     {
       "designator": "72420",
