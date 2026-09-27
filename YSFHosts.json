@@ -409,9 +409,20 @@
       "use_xx_prefix": true,
       "description": "QSO Box YSF",
       "user_count": "000",
-      "port": 42000,
-      "ipv4": "212.237.6.15",
+      "port": 42009,
+      "ipv4": "188.213.170.172",
       "ipv6": "2a00:6d40:72:101::a"
+    },
+    {
+      "designator": "00046",
+      "country": "ES",
+      "name": "TERTULIA",
+      "use_xx_prefix": false,
+      "description": "Tertulia C4FM",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "188.213.170.172",
+      "ipv6": null
     },
     {
       "designator": "00049",
@@ -546,6 +557,28 @@
       "ipv6": null
     },
     {
+      "designator": "00072",
+      "country": "ES",
+      "name": "CONFERENCIAS",
+      "use_xx_prefix": false,
+      "description": "Confer. C4FM",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "188.213.170.172",
+      "ipv6": null
+    },
+    {
+      "designator": "00074",
+      "country": "ES",
+      "name": "PARROT-QB",
+      "use_xx_prefix": false,
+      "description": "Parrot / test",
+      "user_count": "000",
+      "port": 42008,
+      "ipv4": "188.213.170.172",
+      "ipv6": null
+    },
+    {
       "designator": "00077",
       "country": "US",
       "name": "0077 NETWORK",
@@ -554,6 +587,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "85.8.149.218",
+      "ipv6": null
+    },
+    {
+      "designator": "00078",
+      "country": "ES",
+      "name": "SSTV",
+      "use_xx_prefix": false,
+      "description": "SSTV Imagenes",
+      "user_count": "000",
+      "port": 42010,
+      "ipv4": "188.213.170.172",
       "ipv6": null
     },
     {
@@ -840,6 +884,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "200.80.247.94",
+      "ipv6": null
+    },
+    {
+      "designator": "00130",
+      "country": "ES",
+      "name": "TELEGRAFIA",
+      "use_xx_prefix": false,
+      "description": "Radioaficion",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "188.213.170.172",
       "ipv6": null
     },
     {
@@ -2874,7 +2929,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.29.110.78",
+      "ipv4": "188.28.120.48",
       "ipv6": null
     },
     {
@@ -8730,6 +8785,17 @@
       "ipv6": null
     },
     {
+      "designator": "29001",
+      "country": "ES",
+      "name": "MALAGA-QB",
+      "use_xx_prefix": false,
+      "description": "Malaga C4FM",
+      "user_count": "000",
+      "port": 42011,
+      "ipv4": "188.213.170.172",
+      "ipv6": null
+    },
+    {
       "designator": "29298",
       "country": "PH",
       "name": "Freedom",
@@ -12269,17 +12335,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.32.93.221",
-      "ipv6": null
-    },
-    {
-      "designator": "51866",
-      "country": "GB",
-      "name": "H1L8RE",
-      "use_xx_prefix": false,
-      "description": "GB-H1L8RE",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "86.143.170.166",
       "ipv6": null
     },
     {
@@ -15832,7 +15887,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.91.133.90",
+      "ipv4": "87.17.139.70",
       "ipv6": null
     },
     {
