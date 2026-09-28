@@ -4942,7 +4942,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.73.255",
+      "ipv4": "109.60.13.192",
       "ipv6": null
     },
     {
@@ -7891,7 +7891,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3435:8b00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343f:3500:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12338,6 +12338,17 @@
       "ipv6": null
     },
     {
+      "designator": "51866",
+      "country": "GB",
+      "name": "H1L8RE",
+      "use_xx_prefix": false,
+      "description": "GB-H1L8RE",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "86.143.170.166",
+      "ipv6": null
+    },
+    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -14369,7 +14380,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "201.1.91.221",
+      "ipv4": "189.38.189.162",
       "ipv6": "2804:7f0:b771:2a35:a57:8939:e636:c388"
     },
     {
@@ -14380,7 +14391,7 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "201.1.91.221",
+      "ipv4": "189.38.189.162",
       "ipv6": "2804:7f0:b771:2a35:a57:8939:e636:c388"
     },
     {
@@ -16146,9 +16157,9 @@
     {
       "designator": "90000",
       "country": "RU",
-      "name": "YSF Russia",
+      "name": "Club 618",
       "use_xx_prefix": false,
-      "description": "Moscow",
+      "description": "Moscow,Tushino",
       "user_count": "000",
       "port": 42000,
       "ipv4": "157.228.138.240",
