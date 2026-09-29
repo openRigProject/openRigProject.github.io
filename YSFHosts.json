@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.217.55",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -3368,7 +3368,7 @@
       "use_xx_prefix": false,
       "description": "XE1JMB",
       "user_count": "000",
-      "port": 41300,
+      "port": 42000,
       "ipv4": "89.117.61.236",
       "ipv6": null
     },
@@ -5602,7 +5602,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.4.79",
+      "ipv4": "77.12.14.40",
       "ipv6": null
     },
     {
@@ -9299,6 +9299,17 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "186.123.100.105",
+      "ipv6": null
+    },
+    {
+      "designator": "31311",
+      "country": "US",
+      "name": "NEBRASKA-HUB",
+      "use_xx_prefix": false,
+      "description": "BM TG 31311",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "103.89.15.147",
       "ipv6": null
     },
     {
@@ -14912,6 +14923,17 @@
       "ipv6": null
     },
     {
+      "designator": "75309",
+      "country": "US",
+      "name": "N5BA-YSF",
+      "use_xx_prefix": false,
+      "description": "N5BA Texas",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "47.222.4.246",
+      "ipv6": null
+    },
+    {
       "designator": "75749",
       "country": "US",
       "name": "Texas-i35hams",
@@ -15231,11 +15253,11 @@
       "ipv6": null
     },
     {
-      "designator": "80281",
+      "designator": "80280",
       "country": "US",
       "name": "NorCal-Link",
       "use_xx_prefix": false,
-      "description": "Multi-Mode",
+      "description": "Wires-X 80280",
       "user_count": "000",
       "port": 42000,
       "ipv4": "99.43.91.148",
