@@ -465,7 +465,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.29.69",
+      "ipv4": "31.62.19.11",
       "ipv6": null
     },
     {
@@ -5569,7 +5569,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.79.148",
+      "ipv4": "78.87.102.233",
       "ipv6": null
     },
     {
@@ -6647,7 +6647,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.239.143.236",
+      "ipv4": "87.4.108.117",
       "ipv6": null
     },
     {
@@ -7451,6 +7451,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "188.112.179.108",
+      "ipv6": null
+    },
+    {
+      "designator": "24800",
+      "country": "EE",
+      "name": "DMR248",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "46.22.220.26",
       "ipv6": null
     },
     {
@@ -12349,17 +12360,6 @@
       "ipv6": null
     },
     {
-      "designator": "51866",
-      "country": "GB",
-      "name": "H1L8RE",
-      "use_xx_prefix": false,
-      "description": "GB-H1L8RE",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "86.143.170.166",
-      "ipv6": null
-    },
-    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -12983,7 +12983,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.234.72.2",
+      "ipv4": "90.238.74.82",
       "ipv6": null
     },
     {
@@ -13786,7 +13786,7 @@
       "description": "AZ POTA on FB",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "184.170.187.108",
+      "ipv4": "184.170.187.46",
       "ipv6": null
     },
     {
@@ -16157,9 +16157,9 @@
     {
       "designator": "90000",
       "country": "RU",
-      "name": "Club 618",
+      "name": "Club-618",
       "use_xx_prefix": false,
-      "description": "Moscow,Tushino",
+      "description": "",
       "user_count": "000",
       "port": 42000,
       "ipv4": "157.228.138.240",
