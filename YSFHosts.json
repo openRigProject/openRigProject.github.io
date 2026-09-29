@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.217.55",
       "ipv6": null
     },
     {
@@ -4528,6 +4528,17 @@
       "ipv6": null
     },
     {
+      "designator": "11335",
+      "country": "US",
+      "name": "WM Connect 2",
+      "use_xx_prefix": false,
+      "description": "Wires-X 21335",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "64.177.124.223",
+      "ipv6": null
+    },
+    {
       "designator": "11520",
       "country": "US",
       "name": "D-Friends",
@@ -6988,7 +6999,7 @@
       "description": "IT-C4FM-RAGUSA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.117.247.221",
+      "ipv4": "93.67.140.102",
       "ipv6": null
     },
     {
@@ -7891,7 +7902,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343f:3500:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3409:7600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12764,7 +12775,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "177.131.119.153",
-      "ipv6": null
+      "ipv6": "2804:8c0:7400:0:1c61:b4bd:8844:96f6"
     },
     {
       "designator": "55697",
@@ -13374,7 +13385,7 @@
     {
       "designator": "62114",
       "country": "US",
-      "name": "Misfits",
+      "name": "MISFITS",
       "use_xx_prefix": false,
       "description": "K1NIC",
       "user_count": "000",
@@ -15887,7 +15898,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.17.139.70",
+      "ipv4": "82.91.140.219",
       "ipv6": null
     },
     {
