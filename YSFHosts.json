@@ -1272,6 +1272,17 @@
       "ipv6": null
     },
     {
+      "designator": "00221",
+      "country": "AR",
+      "name": "CQ La Plata",
+      "use_xx_prefix": false,
+      "description": "YSF La Plata",
+      "user_count": "000",
+      "port": 42006,
+      "ipv4": "181.23.127.192",
+      "ipv6": null
+    },
+    {
       "designator": "00222",
       "country": "BH",
       "name": "AGDX",
@@ -5602,7 +5613,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.14.40",
+      "ipv4": "77.181.50.132",
       "ipv6": null
     },
     {
@@ -6647,7 +6658,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.4.108.117",
+      "ipv4": "82.48.61.252",
       "ipv6": null
     },
     {
@@ -7245,6 +7256,17 @@
       "ipv6": null
     },
     {
+      "designator": "23534",
+      "country": "GB",
+      "name": "Cumbria CQ",
+      "use_xx_prefix": false,
+      "description": "CumbriaCQ",
+      "user_count": "000",
+      "port": 42100,
+      "ipv4": "57.128.190.202",
+      "ipv6": null
+    },
+    {
       "designator": "23557",
       "country": "JP",
       "name": "YSF-Shizuoka",
@@ -7450,7 +7472,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "95.146.3.161",
+      "ipv4": "217.44.217.246",
       "ipv6": null
     },
     {
@@ -10655,6 +10677,17 @@
       "ipv6": null
     },
     {
+      "designator": "42002",
+      "country": "US",
+      "name": "EastCoastHams",
+      "use_xx_prefix": false,
+      "description": "Tri State Area",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "75.194.116.28",
+      "ipv6": null
+    },
+    {
       "designator": "42021",
       "country": "IT",
       "name": "YSF-TEST",
@@ -11784,7 +11817,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.157.12",
+      "ipv4": "151.63.133.239",
       "ipv6": null
     },
     {
