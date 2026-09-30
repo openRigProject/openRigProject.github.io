@@ -1191,7 +1191,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.211.171.137",
+      "ipv4": "153.211.165.220",
       "ipv6": null
     },
     {
@@ -1345,7 +1345,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.211.171.137",
+      "ipv4": "153.211.165.220",
       "ipv6": null
     },
     {
@@ -4953,7 +4953,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.13.192",
+      "ipv4": "109.60.14.7",
       "ipv6": null
     },
     {
@@ -7924,7 +7924,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3409:7600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3413:5e00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12763,7 +12763,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "58.8.185.126",
+      "ipv4": "171.101.233.53",
       "ipv6": null
     },
     {
@@ -13016,7 +13016,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.238.74.82",
+      "ipv4": "90.236.87.232",
       "ipv6": null
     },
     {
@@ -15129,7 +15129,7 @@
       "user_count": "000",
       "port": 42777,
       "ipv4": "93.95.227.114",
-      "ipv6": null
+      "ipv6": "2804:1308::4:cc01"
     },
     {
       "designator": "78228",
@@ -16203,7 +16203,7 @@
       "country": "RU",
       "name": "Club-618",
       "use_xx_prefix": false,
-      "description": "",
+      "description": "XLX995",
       "user_count": "000",
       "port": 42000,
       "ipv4": "157.228.138.240",
