@@ -1422,7 +1422,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "2.86.35.1",
+      "ipv4": "2.86.36.123",
       "ipv6": null
     },
     {
@@ -2500,7 +2500,7 @@
       "description": "URF847",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "98.171.104.209",
+      "ipv4": "107.77.230.97",
       "ipv6": null
     },
     {
@@ -3303,7 +3303,7 @@
       "description": "PhilippineLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.116.240.91",
+      "ipv4": "47.229.44.102",
       "ipv6": null
     },
     {
@@ -7445,7 +7445,7 @@
     {
       "designator": "24598",
       "country": "US",
-      "name": "KJ4OHN",
+      "name": "24598",
       "use_xx_prefix": false,
       "description": "KJ4OHN Room",
       "user_count": "000",
@@ -7957,7 +7957,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3413:5e00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341c:f800:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10585,7 +10585,7 @@
       "description": "ONDATELEMATICA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.45.174.115",
+      "ipv4": "79.26.177.138",
       "ipv6": null
     },
     {
@@ -13060,7 +13060,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.234.125.224",
+      "ipv4": "90.234.103.216",
       "ipv6": null
     },
     {
