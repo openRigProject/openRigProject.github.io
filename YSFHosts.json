@@ -4055,6 +4055,17 @@
       "ipv6": null
     },
     {
+      "designator": "08180",
+      "country": "US",
+      "name": "TEXAS-DFW",
+      "use_xx_prefix": false,
+      "description": "TEXAS-DFW",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "44.27.135.30",
+      "ipv6": null
+    },
+    {
       "designator": "08208",
       "country": "CN",
       "name": "NMGBT-439275D",
@@ -8176,7 +8187,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.107.89",
+      "ipv4": "79.184.111.28",
       "ipv6": null
     },
     {
@@ -9350,10 +9361,10 @@
       "country": "US",
       "name": "NEBRASKA-HUB",
       "use_xx_prefix": false,
-      "description": "BM TG 31311",
+      "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "103.89.15.147",
+      "ipv4": "104.129.131.150",
       "ipv6": null
     },
     {
@@ -9678,11 +9689,11 @@
     {
       "designator": "31683",
       "country": "US",
-      "name": "Prescott",
+      "name": "PRESCOTT",
       "use_xx_prefix": false,
       "description": "N7YMM",
       "user_count": "000",
-      "port": 42002,
+      "port": 42000,
       "ipv4": "96.19.67.130",
       "ipv6": null
     },
@@ -11234,7 +11245,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.91.99",
+      "ipv4": "77.181.243.136",
       "ipv6": null
     },
     {
@@ -13753,8 +13764,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.170.31",
-      "ipv6": "2003:c9:8fff:3e44:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.155",
+      "ipv6": "2003:c9:8fff:16d6:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13764,8 +13775,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.170.31",
-      "ipv6": "2003:c9:8fff:3e44:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.155",
+      "ipv6": "2003:c9:8fff:16d6:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13775,8 +13786,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.170.31",
-      "ipv6": "2003:c9:8fff:3e44:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.155",
+      "ipv6": "2003:c9:8fff:16d6:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13786,8 +13797,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.170.31",
-      "ipv6": "2003:c9:8fff:3e44:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.155",
+      "ipv6": "2003:c9:8fff:16d6:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13797,8 +13808,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.170.31",
-      "ipv6": "2003:c9:8fff:3e44:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.155",
+      "ipv6": "2003:c9:8fff:16d6:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14458,7 +14469,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:8571:6f6d:11:720"
+      "ipv6": "2804:7f0:b771:2a35:e635:a072:5a03:b756"
     },
     {
       "designator": "72407",
@@ -14469,7 +14480,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:8571:6f6d:11:720"
+      "ipv6": "2804:7f0:b771:2a35:e635:a072:5a03:b756"
     },
     {
       "designator": "72420",
