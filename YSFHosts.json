@@ -3831,7 +3831,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.12.92",
+      "ipv4": "23.29.7.236",
       "ipv6": null
     },
     {
@@ -5624,7 +5624,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.189.244.71",
+      "ipv4": "77.187.14.251",
       "ipv6": null
     },
     {
@@ -8440,7 +8440,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.4.91.85",
+      "ipv4": "95.236.231.36",
       "ipv6": null
     },
     {
@@ -9859,7 +9859,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.36",
+      "ipv4": "192.253.246.38",
       "ipv6": null
     },
     {
@@ -16493,7 +16493,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "65.114.195.171",
-      "ipv6": null
+      "ipv6": "2606:4700:3032::ac43:b982"
     },
     {
       "designator": "93032",
