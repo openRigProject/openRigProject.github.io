@@ -2940,7 +2940,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.29.106.67",
+      "ipv4": "188.30.128.232",
       "ipv6": null
     },
     {
@@ -5591,7 +5591,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.102.233",
+      "ipv4": "178.59.148.83",
       "ipv6": null
     },
     {
@@ -7957,7 +7957,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:341c:f800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3426:e200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8440,7 +8440,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.53.217.41",
+      "ipv4": "95.232.228.9",
       "ipv6": null
     },
     {
@@ -10343,7 +10343,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.50.205.5",
+      "ipv4": "87.7.161.199",
       "ipv6": null
     },
     {
