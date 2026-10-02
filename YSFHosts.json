@@ -1895,7 +1895,7 @@
       "description": "URF517",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "67.212.42.234",
+      "ipv4": "66.153.152.203",
       "ipv6": null
     },
     {
@@ -2655,7 +2655,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "95.146.183.211",
-      "ipv6": "2a00:23c8:fa75:c501:bdb7:5ae6:3cef:9a54"
+      "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
       "designator": "00940",
@@ -2940,7 +2940,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.30.128.232",
+      "ipv4": "188.29.106.26",
       "ipv6": null
     },
     {
@@ -5712,7 +5712,7 @@
       "description": "YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.130.19.32",
+      "ipv4": "85.72.151.252",
       "ipv6": null
     },
     {
@@ -5995,7 +5995,7 @@
       "country": "BR",
       "name": "BRAZIL-X",
       "use_xx_prefix": false,
-      "description": "Brazilian Talk",
+      "description": "Wires-X  Link",
       "user_count": "000",
       "port": 42395,
       "ipv4": "180.199.39.49",
@@ -6669,7 +6669,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.6.150.150",
+      "ipv4": "79.51.201.178",
       "ipv6": null
     },
     {
@@ -6922,7 +6922,7 @@
       "description": "Scanner gruppo",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.19.77.184",
+      "ipv4": "79.4.146.176",
       "ipv6": null
     },
     {
@@ -8440,7 +8440,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "95.232.228.9",
+      "ipv4": "79.4.91.85",
       "ipv6": null
     },
     {
@@ -9859,7 +9859,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.38",
+      "ipv4": "192.253.246.36",
       "ipv6": null
     },
     {
@@ -13435,7 +13435,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "95.146.183.211",
-      "ipv6": "2a00:23c8:fa75:c501:bdb7:5ae6:3cef:9a54"
+      "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
       "designator": "61685",
