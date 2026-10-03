@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.222.156",
       "ipv6": null
     },
     {
@@ -1269,17 +1269,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "138.128.247.74",
-      "ipv6": null
-    },
-    {
-      "designator": "00221",
-      "country": "AR",
-      "name": "CQ La Plata",
-      "use_xx_prefix": false,
-      "description": "YSF La Plata",
-      "user_count": "000",
-      "port": 42006,
-      "ipv4": "181.23.106.134",
       "ipv6": null
     },
     {
@@ -5591,7 +5580,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.148.83",
+      "ipv4": "78.87.104.46",
       "ipv6": null
     },
     {
@@ -10486,7 +10475,7 @@
       "description": "SCANIA TEAM",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "79.131.81.139",
+      "ipv4": "79.131.82.172",
       "ipv6": null
     },
     {
@@ -13071,7 +13060,7 @@
       "description": "BM | SvxLink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "90.234.103.216",
+      "ipv4": "90.231.254.218",
       "ipv6": null
     },
     {
@@ -14195,17 +14184,6 @@
       "port": 42000,
       "ipv4": "44.27.131.126",
       "ipv6": null
-    },
-    {
-      "designator": "69420",
-      "country": "US",
-      "name": "NOVARS-YSF",
-      "use_xx_prefix": false,
-      "description": "NOVARS Bridge",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "216.82.35.115",
-      "ipv6": "2606:4700:3033::ac43:a9d8"
     },
     {
       "designator": "69614",
