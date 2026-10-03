@@ -1279,7 +1279,7 @@
       "description": "YSF La Plata",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "181.23.127.192",
+      "ipv4": "181.23.106.134",
       "ipv6": null
     },
     {
@@ -7957,7 +7957,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3426:e200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3430:9800:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -15700,7 +15700,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.55.116",
+      "ipv4": "109.104.55.241",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
@@ -16657,7 +16657,7 @@
       "description": "AmericanLegion",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "23.95.193.190",
+      "ipv4": "67.215.247.188",
       "ipv6": null
     },
     {
