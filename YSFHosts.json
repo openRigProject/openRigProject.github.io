@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.222.156",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -8829,6 +8829,17 @@
       "ipv6": null
     },
     {
+      "designator": "28686",
+      "country": "TR",
+      "name": "ARC",
+      "use_xx_prefix": false,
+      "description": "ARC Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "159.223.16.101",
+      "ipv6": null
+    },
+    {
       "designator": "28688",
       "country": "US",
       "name": "XLX910",
@@ -13038,7 +13049,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.240.53",
+      "ipv4": "80.136.242.29",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13049,7 +13060,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.240.53",
+      "ipv4": "80.136.242.29",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13060,7 +13071,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.240.53",
+      "ipv4": "80.136.242.29",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
