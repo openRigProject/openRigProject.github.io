@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.222.156",
       "ipv6": null
     },
     {
@@ -1367,7 +1367,7 @@
       "description": "WDRG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.131.214.206",
+      "ipv4": "109.145.97.193",
       "ipv6": null
     },
     {
@@ -1555,6 +1555,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "144.202.61.208",
+      "ipv6": null
+    },
+    {
+      "designator": "00341",
+      "country": "US",
+      "name": "XLX341",
+      "use_xx_prefix": false,
+      "description": "XLX341",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "148.170.96.90",
       "ipv6": null
     },
     {
@@ -2951,7 +2962,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.29.106.208",
+      "ipv4": "188.29.106.165",
       "ipv6": null
     },
     {
@@ -5624,7 +5635,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.104.46",
+      "ipv4": "178.59.79.129",
       "ipv6": null
     },
     {
@@ -5657,7 +5668,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.94.40",
+      "ipv4": "77.187.153.122",
       "ipv6": null
     },
     {
@@ -11150,6 +11161,17 @@
       "ipv6": null
     },
     {
+      "designator": "43672",
+      "country": "US",
+      "name": "KB7DFP",
+      "use_xx_prefix": false,
+      "description": "KB7DFP",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "96.18.105.242",
+      "ipv6": null
+    },
+    {
       "designator": "43701",
       "country": "US",
       "name": "OH-KD8USF",
@@ -12445,17 +12467,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.36.110.81",
-      "ipv6": null
-    },
-    {
-      "designator": "51700",
-      "country": "US",
-      "name": "URF517",
-      "use_xx_prefix": false,
-      "description": "RadioSC",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "67.212.42.234",
       "ipv6": null
     },
     {
