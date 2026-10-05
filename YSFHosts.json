@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.222.162",
       "ipv6": null
     },
     {
@@ -5008,7 +5008,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.154",
+      "ipv4": "88.207.72.207",
       "ipv6": null
     },
     {
@@ -5668,7 +5668,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.153.122",
+      "ipv4": "77.189.95.197",
       "ipv6": null
     },
     {
