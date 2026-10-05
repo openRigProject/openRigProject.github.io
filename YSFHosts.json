@@ -8001,7 +8001,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343a:2800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3403:4e00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -9101,6 +9101,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.139.21",
+      "ipv6": null
+    },
+    {
+      "designator": "30421",
+      "country": "US",
+      "name": "URFARA",
+      "use_xx_prefix": false,
+      "description": "URFARA",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.129.246",
       "ipv6": null
     },
     {
