@@ -8231,7 +8231,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.111.90",
+      "ipv4": "79.184.98.168",
       "ipv6": null
     },
     {
@@ -11311,7 +11311,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.254.28",
+      "ipv4": "77.181.129.60",
       "ipv6": null
     },
     {
@@ -13830,8 +13830,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.174.211",
-      "ipv6": "2003:c9:8fff:7d0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.46.83",
+      "ipv6": "2003:c9:8fff:557:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13841,8 +13841,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.174.211",
-      "ipv6": "2003:c9:8fff:7d0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.46.83",
+      "ipv6": "2003:c9:8fff:557:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13852,8 +13852,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.174.211",
-      "ipv6": "2003:c9:8fff:7d0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.46.83",
+      "ipv6": "2003:c9:8fff:557:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13863,8 +13863,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.174.211",
-      "ipv6": "2003:c9:8fff:7d0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.46.83",
+      "ipv6": "2003:c9:8fff:557:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13874,8 +13874,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.174.211",
-      "ipv6": "2003:c9:8fff:7d0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.46.83",
+      "ipv6": "2003:c9:8fff:557:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14432,7 +14432,7 @@
       "country": "AR",
       "name": "Digi-La-Plata",
       "use_xx_prefix": false,
-      "description": "Id. 72234",
+      "description": "ID 72234",
       "user_count": "000",
       "port": 42008,
       "ipv4": "77.237.239.118",
@@ -14524,7 +14524,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:88b:d39f:2b2:e4f1"
+      "ipv6": "2804:7f0:b771:2a35:2f58:2c75:aecc:97b8"
     },
     {
       "designator": "72407",
@@ -14535,7 +14535,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:88b:d39f:2b2:e4f1"
+      "ipv6": "2804:7f0:b771:2a35:2f58:2c75:aecc:97b8"
     },
     {
       "designator": "72420",
