@@ -828,7 +828,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.51.202.50",
+      "ipv4": "95.248.61.99",
       "ipv6": null
     },
     {
@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.217.44",
       "ipv6": null
     },
     {
@@ -2214,7 +2214,7 @@
       "description": "YSF CATALA",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "212.21.254.152",
+      "ipv4": "81.184.224.189",
       "ipv6": null
     },
     {
@@ -2952,17 +2952,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "212.71.250.63",
-      "ipv6": null
-    },
-    {
-      "designator": "01528",
-      "country": "GB",
-      "name": "G1INC",
-      "use_xx_prefix": false,
-      "description": "Home reflector",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "188.29.106.165",
       "ipv6": null
     },
     {
@@ -4315,7 +4304,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "47.153.255.145",
+      "ipv4": "47.150.181.163",
       "ipv6": null
     },
     {
@@ -4326,7 +4315,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "47.153.255.145",
+      "ipv4": "47.150.181.163",
       "ipv6": null
     },
     {
@@ -4744,7 +4733,7 @@
       "description": "YSF La Galera",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.219.230.162",
+      "ipv4": "87.219.230.141",
       "ipv6": null
     },
     {
@@ -5668,7 +5657,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.189.95.197",
+      "ipv4": "77.181.120.71",
       "ipv6": null
     },
     {
@@ -6043,17 +6032,6 @@
       "user_count": "000",
       "port": 42395,
       "ipv4": "180.199.39.49",
-      "ipv6": null
-    },
-    {
-      "designator": "21335",
-      "country": "US",
-      "name": "WM Connect",
-      "use_xx_prefix": false,
-      "description": "Wires-X 21335",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "144.202.51.173",
       "ipv6": null
     },
     {
@@ -10409,7 +10387,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.63.151.170",
+      "ipv4": "212.216.183.216",
       "ipv6": null
     },
     {
@@ -10552,7 +10530,7 @@
       "description": "SCANIA TEAM",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "79.131.82.172",
+      "ipv4": "79.131.82.81",
       "ipv6": null
     },
     {
@@ -12730,7 +12708,7 @@
       "description": "CUERA INC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "34.173.218.171",
+      "ipv4": "192.236.152.16",
       "ipv6": null
     },
     {
@@ -14535,7 +14513,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv6": "2804:7f0:b771:2a35:6bdb:8985:ff50:89dc"
     },
     {
       "designator": "72407",
@@ -14546,7 +14524,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv6": "2804:7f0:b771:2a35:6bdb:8985:ff50:89dc"
     },
     {
       "designator": "72420",
