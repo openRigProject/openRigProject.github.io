@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.217.44",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -1335,6 +1335,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "212.132.119.189",
+      "ipv6": null
+    },
+    {
+      "designator": "00244",
+      "country": "FI",
+      "name": "DMRLINK",
+      "use_xx_prefix": false,
+      "description": "Cross-mode",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "5.61.88.113",
       "ipv6": null
     },
     {
@@ -3502,6 +3513,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "107.152.44.80",
+      "ipv6": null
+    },
+    {
+      "designator": "04200",
+      "country": "CA",
+      "name": "VA3ODC - YSF",
+      "use_xx_prefix": false,
+      "description": "VA3ODC XLX REF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "178.128.237.219",
       "ipv6": null
     },
     {
@@ -7275,6 +7297,17 @@
       "user_count": "000",
       "port": 42009,
       "ipv4": "88.97.140.8",
+      "ipv6": null
+    },
+    {
+      "designator": "23530",
+      "country": "GB",
+      "name": "YORKSHIRELINK",
+      "use_xx_prefix": false,
+      "description": "YORKSHIRE HUB",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "194.146.49.25",
       "ipv6": null
     },
     {
@@ -14513,7 +14546,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:6bdb:8985:ff50:89dc"
+      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
       "designator": "72407",
@@ -14524,7 +14557,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:2a35:6bdb:8985:ff50:89dc"
+      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
       "designator": "72420",
