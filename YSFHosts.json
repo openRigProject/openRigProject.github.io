@@ -5008,7 +5008,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.72.207",
+      "ipv4": "109.60.20.210",
       "ipv6": null
     },
     {
@@ -5668,7 +5668,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.120.71",
+      "ipv4": "77.186.161.109",
       "ipv6": null
     },
     {
@@ -6770,6 +6770,17 @@
       "port": 42002,
       "ipv4": "82.165.136.30",
       "ipv6": null
+    },
+    {
+      "designator": "22270",
+      "country": "IT",
+      "name": "URFDDC",
+      "use_xx_prefix": false,
+      "description": "URFDDC",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "130.78.58.210",
+      "ipv6": "2a07:7e87:2000:47d6:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -10420,7 +10431,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.216.183.216",
+      "ipv4": "95.246.140.127",
       "ipv6": null
     },
     {
@@ -14545,7 +14556,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.97.30.214",
+      "ipv4": "189.38.189.162",
       "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
@@ -14556,7 +14567,7 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.97.30.214",
+      "ipv4": "189.38.189.162",
       "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
@@ -16324,7 +16335,7 @@
       "country": "RU",
       "name": "Club-618",
       "use_xx_prefix": false,
-      "description": "XLX995",
+      "description": "XLXR3A",
       "user_count": "000",
       "port": 42000,
       "ipv4": "157.228.138.240",
