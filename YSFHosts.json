@@ -1180,7 +1180,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.211.172.167",
+      "ipv4": "180.2.26.33",
       "ipv6": null
     },
     {
@@ -1345,7 +1345,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.211.172.167",
+      "ipv4": "180.2.26.33",
       "ipv6": null
     },
     {
@@ -4073,8 +4073,8 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "81.131.117.134",
-      "ipv6": null
+      "ipv4": "104.21.65.102",
+      "ipv6": "2606:4700:3033::6815:4166"
     },
     {
       "designator": "08005",
@@ -6702,7 +6702,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.2.195.74",
+      "ipv4": "87.16.140.145",
       "ipv6": null
     },
     {
@@ -8242,7 +8242,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.90.183",
+      "ipv4": "79.184.97.30",
       "ipv6": null
     },
     {
@@ -11344,7 +11344,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.86.220",
+      "ipv4": "78.51.152.94",
       "ipv6": null
     },
     {
@@ -13863,8 +13863,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "193.159.35.174",
-      "ipv6": "2003:c9:8fff:4204:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.174",
+      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13874,8 +13874,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "193.159.35.174",
-      "ipv6": "2003:c9:8fff:4204:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.174",
+      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13885,8 +13885,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "193.159.35.174",
-      "ipv6": "2003:c9:8fff:4204:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.174",
+      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13896,8 +13896,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "193.159.35.174",
-      "ipv6": "2003:c9:8fff:4204:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.174",
+      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13907,8 +13907,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "193.159.35.174",
-      "ipv6": "2003:c9:8fff:4204:e228:6dff:fe74:b559"
+      "ipv4": "87.178.165.174",
+      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14567,8 +14567,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv4": "189.97.30.214",
+      "ipv6": "2804:7f0:b771:1f99:ff53:254d:39:71ed"
     },
     {
       "designator": "72420",
@@ -16335,7 +16335,7 @@
       "country": "RU",
       "name": "Club-618",
       "use_xx_prefix": false,
-      "description": "XLXR3A",
+      "description": "",
       "user_count": "000",
       "port": 42000,
       "ipv4": "157.228.138.240",
