@@ -1107,17 +1107,6 @@
       "ipv6": null
     },
     {
-      "designator": "00165",
-      "country": "GR",
-      "name": "URF365",
-      "use_xx_prefix": false,
-      "description": "URF365",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "46.12.162.173",
-      "ipv6": null
-    },
-    {
       "designator": "00169",
       "country": "DE",
       "name": "XLX169",
@@ -8012,7 +8001,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340d:7c00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3417:3a00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -9541,6 +9530,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "64.176.222.98",
+      "ipv6": null
+    },
+    {
+      "designator": "31400",
+      "country": "US",
+      "name": "WP3D Florida",
+      "use_xx_prefix": false,
+      "description": "FL AllStar",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "162.35.185.221",
       "ipv6": null
     },
     {
@@ -14545,7 +14545,7 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.38.189.162",
+      "ipv4": "189.97.30.214",
       "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
@@ -14556,7 +14556,7 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.38.189.162",
+      "ipv4": "189.97.30.214",
       "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
