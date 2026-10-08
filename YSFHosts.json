@@ -4095,7 +4095,7 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "172.67.161.149",
+      "ipv4": "104.21.65.102",
       "ipv6": "2606:4700:3033::6815:4166"
     },
     {
@@ -4622,7 +4622,7 @@
       "use_xx_prefix": false,
       "description": "Digi amigos",
       "user_count": "000",
-      "port": 42000,
+      "port": 42001,
       "ipv4": "104.5.243.93",
       "ipv6": null
     },
@@ -5690,7 +5690,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.161.109",
+      "ipv4": "77.186.3.51",
       "ipv6": null
     },
     {
@@ -7175,7 +7175,7 @@
       "description": "DA1SR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.245.21.108",
+      "ipv4": "93.244.49.191",
       "ipv6": null
     },
     {
@@ -11960,7 +11960,7 @@
       "description": "Forth Valley",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "84.69.124.134",
+      "ipv4": "84.65.237.55",
       "ipv6": null
     },
     {
@@ -13104,7 +13104,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.242.29",
+      "ipv4": "79.247.191.79",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13115,7 +13115,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.242.29",
+      "ipv4": "79.247.191.79",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -13126,7 +13126,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.242.29",
+      "ipv4": "79.247.191.79",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14590,7 +14590,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
+      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
       "designator": "72407",
@@ -14601,7 +14601,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
+      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
     },
     {
       "designator": "72420",
