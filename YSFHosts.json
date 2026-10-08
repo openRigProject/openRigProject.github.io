@@ -828,7 +828,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.248.61.99",
+      "ipv4": "87.14.253.209",
       "ipv6": null
     },
     {
@@ -1126,6 +1126,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "27.91.233.142",
+      "ipv6": null
+    },
+    {
+      "designator": "00178",
+      "country": "GB",
+      "name": "URF178",
+      "use_xx_prefix": false,
+      "description": "URF178",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "80.229.161.124",
       "ipv6": null
     },
     {
@@ -4044,6 +4055,17 @@
       "ipv6": null
     },
     {
+      "designator": "07900",
+      "country": "US",
+      "name": "URF079",
+      "use_xx_prefix": false,
+      "description": "URF079",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "172.235.134.38",
+      "ipv6": null
+    },
+    {
       "designator": "07923",
       "country": "US",
       "name": "WA3PNY-GW",
@@ -4074,7 +4096,7 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "172.67.161.149",
-      "ipv6": "2606:4700:3037::ac43:a195"
+      "ipv6": "2606:4700:3033::6815:4166"
     },
     {
       "designator": "08005",
@@ -4458,7 +4480,7 @@
       "description": "YO5KAW-Radio c",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.27.182.24",
+      "ipv4": "188.27.180.146",
       "ipv6": null
     },
     {
@@ -5635,7 +5657,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.79.129",
+      "ipv4": "78.87.135.152",
       "ipv6": null
     },
     {
@@ -10475,7 +10497,7 @@
       "description": "RuralMN-707",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "140.186.31.154",
+      "ipv4": "208.107.73.234",
       "ipv6": null
     },
     {
@@ -13735,6 +13757,17 @@
       "ipv6": null
     },
     {
+      "designator": "63307",
+      "country": "CN",
+      "name": "CKG-DGID",
+      "use_xx_prefix": false,
+      "description": "DGID_ENABLE",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "47.109.55.52",
+      "ipv6": null
+    },
+    {
       "designator": "63309",
       "country": "CN",
       "name": "CKG-onlyYSF",
@@ -14557,7 +14590,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
     },
     {
       "designator": "72407",
@@ -14568,7 +14601,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
     },
     {
       "designator": "72420",
