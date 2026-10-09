@@ -1432,8 +1432,8 @@
       "use_xx_prefix": false,
       "description": "Turkiye Genel",
       "user_count": "000",
-      "port": 42000,
-      "ipv4": "31.57.33.9",
+      "port": 42286,
+      "ipv4": "151.250.94.150",
       "ipv6": null
     },
     {
@@ -4095,7 +4095,7 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "104.21.65.102",
+      "ipv4": "172.67.161.149",
       "ipv6": "2606:4700:3033::6815:4166"
     },
     {
@@ -8045,7 +8045,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3420:f600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342a:8f00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8386,17 +8386,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "76.233.28.23",
-      "ipv6": null
-    },
-    {
-      "designator": "27714",
-      "country": "AU",
-      "name": "SCAN-YSF",
-      "use_xx_prefix": false,
-      "description": "SCAN-I",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "103.236.163.81",
       "ipv6": null
     },
     {
@@ -10402,6 +10391,17 @@
       "ipv6": null
     },
     {
+      "designator": "37000",
+      "country": "DO",
+      "name": "REDOEN YSF",
+      "use_xx_prefix": false,
+      "description": "RD AllStar",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.136.172",
+      "ipv6": null
+    },
+    {
       "designator": "37006",
       "country": "ES",
       "name": "SALAMANCA",
@@ -10464,7 +10464,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.246.140.127",
+      "ipv4": "79.51.133.243",
       "ipv6": null
     },
     {
@@ -10531,6 +10531,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "219.111.16.62",
+      "ipv6": null
+    },
+    {
+      "designator": "39444",
+      "country": "GB",
+      "name": "XLX101",
+      "use_xx_prefix": false,
+      "description": "Coggeshall UK",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "5.81.59.168",
       "ipv6": null
     },
     {
