@@ -4407,6 +4407,17 @@
       "ipv6": null
     },
     {
+      "designator": "10202",
+      "country": "GR",
+      "name": "AETHER-ECHO",
+      "use_xx_prefix": false,
+      "description": "AETHER-CQ-ECHO",
+      "user_count": "000",
+      "port": 42012,
+      "ipv4": "38.19.202.24",
+      "ipv6": null
+    },
+    {
       "designator": "10231",
       "country": "IT",
       "name": "ITALYNET CONF",
@@ -6724,7 +6735,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.16.140.145",
+      "ipv4": "95.239.143.134",
       "ipv6": null
     },
     {
@@ -8264,7 +8275,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.97.30",
+      "ipv4": "79.184.79.62",
       "ipv6": null
     },
     {
@@ -8616,7 +8627,7 @@
       "description": "Wakefield UK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "86.164.78.57",
+      "ipv4": "86.173.228.163",
       "ipv6": null
     },
     {
@@ -11366,7 +11377,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "78.51.152.94",
+      "ipv4": "77.12.6.80",
       "ipv6": null
     },
     {
@@ -13339,6 +13350,17 @@
       "ipv6": "2605:a140:2295:518::1"
     },
     {
+      "designator": "59607",
+      "country": "US",
+      "name": "XLX748",
+      "use_xx_prefix": false,
+      "description": "7248 Buckroo's",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "137.25.138.88",
+      "ipv6": null
+    },
+    {
       "designator": "59637",
       "country": "JP",
       "name": "XLX098",
@@ -13896,8 +13918,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.165.174",
-      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.140",
+      "ipv6": "2003:c9:8fff:1489:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -13907,8 +13929,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.165.174",
-      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.140",
+      "ipv6": "2003:c9:8fff:1489:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -13918,8 +13940,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.165.174",
-      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.140",
+      "ipv6": "2003:c9:8fff:1489:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -13929,8 +13951,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.165.174",
-      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.140",
+      "ipv6": "2003:c9:8fff:1489:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -13940,8 +13962,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.165.174",
-      "ipv6": "2003:c9:8fff:3761:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.140",
+      "ipv6": "2003:c9:8fff:1489:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14589,8 +14611,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv4": "189.97.30.214",
+      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
     },
     {
       "designator": "72407",
@@ -14600,8 +14622,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.38.189.162",
-      "ipv6": "2804:7f0:b771:1f99:4a58:bce7:76eb:9028"
+      "ipv4": "189.97.30.214",
+      "ipv6": "2804:7f0:b771:1f99:97e2:a184:fcc9:9d4a"
     },
     {
       "designator": "72420",
