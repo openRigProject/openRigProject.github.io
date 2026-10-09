@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.217.44",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -4106,7 +4106,7 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "172.67.161.149",
+      "ipv4": "104.21.65.102",
       "ipv6": "2606:4700:3037::ac43:a195"
     },
     {
@@ -4706,12 +4706,23 @@
     {
       "designator": "12014",
       "country": "BE",
-      "name": "YSF Begium",
+      "name": "YSF Belgium",
       "use_xx_prefix": false,
       "description": "YSF Belgium",
       "user_count": "000",
       "port": 42002,
       "ipv4": "89.117.57.161",
+      "ipv6": null
+    },
+    {
+      "designator": "12015",
+      "country": "BE",
+      "name": "YSF-VEX",
+      "use_xx_prefix": false,
+      "description": "YSF VEX Bel",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "57.131.159.97",
       "ipv6": null
     },
     {
@@ -9991,7 +10002,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.38",
+      "ipv4": "192.253.246.41",
       "ipv6": null
     },
     {
@@ -13640,7 +13651,7 @@
       "country": "US",
       "name": "MISFITS",
       "use_xx_prefix": false,
-      "description": "K1NIC",
+      "description": "k1nic",
       "user_count": "000",
       "port": 42002,
       "ipv4": "172.102.161.251",
