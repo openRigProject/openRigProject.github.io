@@ -447,6 +447,17 @@
       "ipv6": null
     },
     {
+      "designator": "00052",
+      "country": "GB",
+      "name": "CQ-UK-ECHO",
+      "use_xx_prefix": false,
+      "description": "Parrot CQ-UK",
+      "user_count": "000",
+      "port": 42495,
+      "ipv4": "81.150.10.62",
+      "ipv6": null
+    },
+    {
       "designator": "00054",
       "country": "PL",
       "name": "XLX054",
@@ -4096,7 +4107,7 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "172.67.161.149",
-      "ipv6": "2606:4700:3033::6815:4166"
+      "ipv6": "2606:4700:3037::ac43:a195"
     },
     {
       "designator": "08005",
@@ -5712,7 +5723,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.77.79",
+      "ipv4": "77.12.60.102",
       "ipv6": null
     },
     {
@@ -6746,7 +6757,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.239.143.134",
+      "ipv4": "87.19.37.14",
       "ipv6": null
     },
     {
@@ -13654,7 +13665,7 @@
       "description": "k1nic",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "172.102.161.251",
+      "ipv4": "104.36.190.84",
       "ipv6": null
     },
     {
