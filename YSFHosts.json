@@ -1191,7 +1191,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "180.2.26.33",
+      "ipv4": "153.171.96.127",
       "ipv6": null
     },
     {
@@ -1356,7 +1356,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "180.2.26.33",
+      "ipv4": "153.171.96.127",
       "ipv6": null
     },
     {
@@ -10552,7 +10552,7 @@
       "description": "RuralMN-707",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "208.107.73.234",
+      "ipv4": "208.107.151.85",
       "ipv6": null
     },
     {
@@ -12632,6 +12632,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "107.152.46.106",
+      "ipv6": null
+    },
+    {
+      "designator": "52375",
+      "country": "GB",
+      "name": "RadioX",
+      "use_xx_prefix": false,
+      "description": "radiox.network",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "65.20.100.171",
       "ipv6": null
     },
     {
