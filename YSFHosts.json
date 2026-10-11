@@ -4107,7 +4107,7 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "104.21.65.102",
-      "ipv6": "2606:4700:3033::6815:4166"
+      "ipv6": "2606:4700:3037::ac43:a195"
     },
     {
       "designator": "08005",
@@ -5690,7 +5690,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.198.184.10",
+      "ipv4": "178.59.107.71",
       "ipv6": null
     },
     {
@@ -5723,7 +5723,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.60.102",
+      "ipv4": "77.179.163.146",
       "ipv6": null
     },
     {
@@ -7439,8 +7439,8 @@
       "description": "OZ-DMR NETWORK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.71.252.50",
-      "ipv6": "2a01:7e00::f03c:94ff:fedd:516"
+      "ipv4": "172.236.9.190",
+      "ipv6": "2600:3c13::f03c:94ff:fedd:516"
     },
     {
       "designator": "23636",
@@ -13502,6 +13502,17 @@
       "port": 42000,
       "ipv4": "130.162.162.192",
       "ipv6": null
+    },
+    {
+      "designator": "60230",
+      "country": "US",
+      "name": "Valkyrie",
+      "use_xx_prefix": false,
+      "description": "",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "64.177.53.121",
+      "ipv6": "2001:19f0:5400:1b30:5400:6ff:fecf:4036"
     },
     {
       "designator": "60254",
