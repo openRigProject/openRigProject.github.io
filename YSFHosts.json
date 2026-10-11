@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.29.51",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -900,9 +900,9 @@
     {
       "designator": "00131",
       "country": "US",
-      "name": "KD9FUW-YSF",
+      "name": "XLX131",
       "use_xx_prefix": false,
-      "description": "KD9FUW-YSF",
+      "description": "CenWis XLX131",
       "user_count": "000",
       "port": 42000,
       "ipv4": "68.115.14.213",
@@ -3252,6 +3252,17 @@
       "ipv6": null
     },
     {
+      "designator": "02399",
+      "country": "ES",
+      "name": "XLX399",
+      "use_xx_prefix": true,
+      "description": "URE Sabadell",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "83.50.40.217",
+      "ipv6": null
+    },
+    {
       "designator": "02416",
       "country": "US",
       "name": "D7AUXCOM",
@@ -4106,7 +4117,7 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "104.21.65.102",
+      "ipv4": "172.67.161.149",
       "ipv6": "2606:4700:3037::ac43:a195"
     },
     {
@@ -5063,7 +5074,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.14.91",
+      "ipv4": "88.207.72.78",
       "ipv6": null
     },
     {
@@ -9254,7 +9265,7 @@
       "description": "grupo latinos",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.155.88.85",
+      "ipv4": "162.35.25.21",
       "ipv6": null
     },
     {
