@@ -1591,17 +1591,6 @@
       "ipv6": null
     },
     {
-      "designator": "00355",
-      "country": "CN",
-      "name": "Wuhu460553",
-      "use_xx_prefix": false,
-      "description": "XLX355",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "223.95.197.217",
-      "ipv6": null
-    },
-    {
       "designator": "00359",
       "country": "BG",
       "name": "XLX359",
@@ -1873,7 +1862,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.40.233",
+      "ipv4": "75.161.94.129",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -4117,7 +4106,7 @@
       "description": "HighfieldsARC",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "104.21.65.102",
+      "ipv4": "172.67.161.149",
       "ipv6": "2606:4700:3037::ac43:a195"
     },
     {
@@ -4789,17 +4778,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "24.184.216.253",
-      "ipv6": null
-    },
-    {
-      "designator": "12178",
-      "country": "GB",
-      "name": "XLX178",
-      "use_xx_prefix": false,
-      "description": "XLX178",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "80.229.161.124",
       "ipv6": null
     },
     {
@@ -6768,7 +6746,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.5.32.84",
+      "ipv4": "79.32.137.12",
       "ipv6": null
     },
     {
@@ -8089,7 +8067,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3400:4800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340b:5000:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8946,7 +8924,7 @@
       "description": "YSF Bremen",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "90.186.114.60",
+      "ipv4": "90.186.112.175",
       "ipv6": null
     },
     {
@@ -14700,7 +14678,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.97.30.214",
-      "ipv6": "2804:7f0:b771:1f99:3175:4e73:3439:120b"
+      "ipv6": "2804:7f0:b771:1f99:ea33:9fc5:21c7:2cc2"
     },
     {
       "designator": "72407",
@@ -14711,7 +14689,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.97.30.214",
-      "ipv6": "2804:7f0:b771:1f99:3175:4e73:3439:120b"
+      "ipv6": "2804:7f0:b771:1f99:ea33:9fc5:21c7:2cc2"
     },
     {
       "designator": "72420",
