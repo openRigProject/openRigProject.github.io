@@ -5958,6 +5958,17 @@
       "ipv6": null
     },
     {
+      "designator": "20718",
+      "country": "US",
+      "name": "82Crew-Room",
+      "use_xx_prefix": false,
+      "description": "444.700 k4gv",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "66.171.80.93",
+      "ipv6": null
+    },
+    {
       "designator": "20780",
       "country": "GB",
       "name": "SMRCC",
@@ -12008,6 +12019,17 @@
       "ipv6": null
     },
     {
+      "designator": "47475",
+      "country": "DE",
+      "name": "LIMA07",
+      "use_xx_prefix": false,
+      "description": "OV L07 Ka-Li",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "81.169.240.11",
+      "ipv6": null
+    },
+    {
       "designator": "47789",
       "country": "ES",
       "name": "EA4GAX-YSF",
@@ -17229,7 +17251,7 @@
       "description": "tommumford.uk",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "90.246.6.104",
+      "ipv4": "90.253.84.75",
       "ipv6": null
     },
     {
