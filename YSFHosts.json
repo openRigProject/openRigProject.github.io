@@ -861,7 +861,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.219.163",
       "ipv6": null
     },
     {
@@ -8100,7 +8100,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3413:c100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341d:7600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -14118,6 +14118,17 @@
       "port": 42000,
       "ipv4": "178.136.97.107",
       "ipv6": null
+    },
+    {
+      "designator": "65535",
+      "country": "US",
+      "name": "URF668",
+      "use_xx_prefix": false,
+      "description": "URF668",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.59.84",
+      "ipv6": "2606:4700:3033::6815:4537"
     },
     {
       "designator": "65635",
