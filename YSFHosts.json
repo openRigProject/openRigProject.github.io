@@ -645,6 +645,17 @@
       "ipv6": null
     },
     {
+      "designator": "00086",
+      "country": "ES",
+      "name": "ACRAB",
+      "use_xx_prefix": false,
+      "description": "COSTA-ATLANTIC",
+      "user_count": "000",
+      "port": 42399,
+      "ipv4": "57.131.25.19",
+      "ipv6": null
+    },
+    {
       "designator": "00087",
       "country": "US",
       "name": "US IRLP_0087",
@@ -861,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.219.163",
+      "ipv4": "172.56.28.44",
       "ipv6": null
     },
     {
@@ -3270,7 +3281,7 @@
       "description": "URE Sabadell",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.50.40.217",
+      "ipv4": "83.41.133.253",
       "ipv6": null
     },
     {
@@ -5074,7 +5085,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.14.193",
+      "ipv4": "88.207.75.128",
       "ipv6": null
     },
     {
@@ -5261,7 +5272,7 @@
       "description": "YSF-NAGOYA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "118.109.150.22",
+      "ipv4": "122.135.209.10",
       "ipv6": null
     },
     {
@@ -8330,7 +8341,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.93.58",
+      "ipv4": "79.184.95.132",
       "ipv6": null
     },
     {
@@ -13478,7 +13489,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "118.109.150.22",
+      "ipv4": "122.135.209.10",
       "ipv6": null
     },
     {
@@ -15194,7 +15205,7 @@
       "description": "YSF-NAGOYA-2",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "118.109.150.22",
+      "ipv4": "122.135.209.10",
       "ipv6": null
     },
     {
@@ -16987,7 +16998,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "60.236.33.182",
+      "ipv4": "122.133.230.246",
       "ipv6": null
     },
     {
