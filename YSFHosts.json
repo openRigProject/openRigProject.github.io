@@ -5085,7 +5085,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.128",
+      "ipv4": "88.207.75.150",
       "ipv6": null
     },
     {
@@ -5745,7 +5745,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.23.68",
+      "ipv4": "77.179.243.69",
       "ipv6": null
     },
     {
@@ -6868,7 +6868,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:2000:6c84:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:2000:7413:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -10046,7 +10046,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.39",
+      "ipv4": "57.135.192.137",
       "ipv6": null
     },
     {
@@ -16261,7 +16261,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.91.140.219",
+      "ipv4": "79.46.146.232",
       "ipv6": null
     },
     {
