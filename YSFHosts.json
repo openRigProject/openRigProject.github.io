@@ -839,7 +839,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.180.176.98",
+      "ipv4": "87.9.229.246",
       "ipv6": null
     },
     {
@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.28.44",
       "ipv6": null
     },
     {
@@ -3062,17 +3062,6 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "87.106.80.210",
-      "ipv6": null
-    },
-    {
-      "designator": "01793",
-      "country": "GB",
-      "name": "XLX179",
-      "use_xx_prefix": false,
-      "description": "NE Wales",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "31.48.22.144",
       "ipv6": null
     },
     {
@@ -6735,7 +6724,7 @@
       "description": "",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "79.22.118.177",
+      "ipv4": "79.14.41.14",
       "ipv6": null
     },
     {
