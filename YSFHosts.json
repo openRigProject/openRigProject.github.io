@@ -839,7 +839,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.0.252.173",
+      "ipv4": "80.180.176.98",
       "ipv6": null
     },
     {
@@ -4062,7 +4062,7 @@
       "description": "HighestPower",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "70.16.65.11",
+      "ipv4": "69.53.72.24",
       "ipv6": null
     },
     {
@@ -5415,7 +5415,7 @@
       "description": "NewHampshire",
       "user_count": "000",
       "port": 42750,
-      "ipv4": "70.16.65.11",
+      "ipv4": "69.53.72.24",
       "ipv6": null
     },
     {
@@ -5712,7 +5712,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.107.71",
+      "ipv4": "178.59.26.111",
       "ipv6": null
     },
     {
@@ -6790,7 +6790,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.143.194",
+      "ipv4": "79.21.29.132",
       "ipv6": null
     },
     {
@@ -8111,7 +8111,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:341d:7600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3426:c200:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10915,7 +10915,7 @@
       "description": "Tri State Area",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.251.86.160",
+      "ipv4": "75.251.101.73",
       "ipv6": null
     },
     {
