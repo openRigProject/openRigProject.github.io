@@ -5074,7 +5074,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.150",
+      "ipv4": "88.207.74.123",
       "ipv6": null
     },
     {
@@ -5734,7 +5734,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.243.69",
+      "ipv4": "77.179.24.56",
       "ipv6": null
     },
     {
@@ -6358,7 +6358,7 @@
       "country": "ES",
       "name": "EA-4",
       "use_xx_prefix": false,
-      "description": "EA-5",
+      "description": "EA-DISTRITO-4",
       "user_count": "000",
       "port": 42004,
       "ipv4": "212.227.87.198",
@@ -11994,6 +11994,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.133.131",
+      "ipv6": null
+    },
+    {
+      "designator": "47100",
+      "country": "US",
+      "name": "Hanover YSF",
+      "use_xx_prefix": false,
+      "description": "Hanover VA YSF",
+      "user_count": "000",
+      "port": 43000,
+      "ipv4": "68.168.211.250",
       "ipv6": null
     },
     {
