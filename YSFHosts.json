@@ -2093,7 +2093,7 @@
       "description": "YSF SX Chat",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "176.253.168.59",
+      "ipv4": "46.64.64.92",
       "ipv6": null
     },
     {
@@ -3062,6 +3062,17 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "87.106.80.210",
+      "ipv6": null
+    },
+    {
+      "designator": "01793",
+      "country": "GB",
+      "name": "XLX179",
+      "use_xx_prefix": false,
+      "description": "NE Wales",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "31.48.22.144",
       "ipv6": null
     },
     {
@@ -6779,7 +6790,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.21.29.132",
+      "ipv4": "87.20.141.25",
       "ipv6": null
     },
     {
@@ -8100,7 +8111,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3426:c200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3430:cf00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
