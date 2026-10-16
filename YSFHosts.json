@@ -779,9 +779,9 @@
     {
       "designator": "00110",
       "country": "AR",
-      "name": "WIRE2LINK",
-      "use_xx_prefix": true,
-      "description": "WIRE2LINK",
+      "name": "C4FM AR",
+      "use_xx_prefix": false,
+      "description": "C4FM AR",
       "user_count": "000",
       "port": 42000,
       "ipv4": "161.153.200.24",
@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.28.44",
       "ipv6": null
     },
     {
@@ -3919,7 +3919,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.1.203",
+      "ipv4": "23.29.3.105",
       "ipv6": null
     },
     {
@@ -4096,17 +4096,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.236.34.49",
-      "ipv6": null
-    },
-    {
-      "designator": "07900",
-      "country": "US",
-      "name": "URF079",
-      "use_xx_prefix": false,
-      "description": "URF079",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "172.235.134.38",
       "ipv6": null
     },
     {
@@ -8527,7 +8516,7 @@
       "use_xx_prefix": false,
       "description": "ORIGINAL",
       "user_count": "000",
-      "port": 42350,
+      "port": 42355,
       "ipv4": "57.131.25.19",
       "ipv6": null
     },
@@ -11499,6 +11488,17 @@
       "user_count": "000",
       "port": 42300,
       "ipv4": "185.26.243.94",
+      "ipv6": null
+    },
+    {
+      "designator": "44255",
+      "country": "US",
+      "name": "YSF-KXM",
+      "use_xx_prefix": false,
+      "description": "K0XM Devel",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "23.95.207.82",
       "ipv6": null
     },
     {
@@ -15975,7 +15975,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.45.226",
+      "ipv4": "109.104.55.218",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
@@ -16526,6 +16526,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.236.92.130",
+      "ipv6": null
+    },
+    {
+      "designator": "89999",
+      "country": "HR",
+      "name": "XLXCRO",
+      "use_xx_prefix": false,
+      "description": "NEW",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": null,
       "ipv6": null
     },
     {
