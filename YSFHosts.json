@@ -1148,7 +1148,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.21.24.253",
-      "ipv6": "2606:4700:3031::ac43:dd42"
+      "ipv6": "2606:4700:3034::6815:18fd"
     },
     {
       "designator": "00181",
@@ -3919,7 +3919,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.3.105",
+      "ipv4": "23.29.7.137",
       "ipv6": null
     },
     {
@@ -8341,7 +8341,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.119.156",
+      "ipv4": "79.184.106.70",
       "ipv6": null
     },
     {
@@ -11476,7 +11476,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.155.89",
+      "ipv4": "78.51.227.0",
       "ipv6": null
     },
     {
@@ -14083,8 +14083,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.227.61",
-      "ipv6": "2003:c9:8fff:2490:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.211",
+      "ipv6": "2003:c9:8fff:aa0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14094,8 +14094,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.227.61",
-      "ipv6": "2003:c9:8fff:2490:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.211",
+      "ipv6": "2003:c9:8fff:aa0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14105,8 +14105,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.227.61",
-      "ipv6": "2003:c9:8fff:2490:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.211",
+      "ipv6": "2003:c9:8fff:aa0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14116,8 +14116,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.227.61",
-      "ipv6": "2003:c9:8fff:2490:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.211",
+      "ipv6": "2003:c9:8fff:aa0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14127,8 +14127,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.227.61",
-      "ipv6": "2003:c9:8fff:2490:e228:6dff:fe74:b559"
+      "ipv4": "87.178.172.211",
+      "ipv6": "2003:c9:8fff:aa0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14777,7 +14777,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:9d4a:6ea1:b0fd:8391"
+      "ipv6": "2804:7f0:b771:2396:6dc0:2c2:ffc0:cea8"
     },
     {
       "designator": "72407",
@@ -14788,7 +14788,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:9d4a:6ea1:b0fd:8391"
+      "ipv6": "2804:7f0:b771:2396:6dc0:2c2:ffc0:cea8"
     },
     {
       "designator": "72420",
@@ -15205,7 +15205,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.81.235",
+      "ipv4": "91.63.172.37",
       "ipv6": null
     },
     {
@@ -15481,7 +15481,7 @@
       "user_count": "000",
       "port": 42777,
       "ipv4": "93.95.227.114",
-      "ipv6": "2804:1308::4:cc01"
+      "ipv6": null
     },
     {
       "designator": "78228",
@@ -16360,7 +16360,7 @@
       "description": "PDARC Ref",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "24.230.164.174",
+      "ipv4": "96.2.160.28",
       "ipv6": null
     },
     {
