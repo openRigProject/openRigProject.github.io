@@ -5096,7 +5096,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.74.123",
+      "ipv4": "88.207.72.33",
       "ipv6": null
     },
     {
@@ -5756,7 +5756,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.128.254",
+      "ipv4": "77.181.190.174",
       "ipv6": null
     },
     {
@@ -6879,7 +6879,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:2000:7413:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:2000:845f:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
