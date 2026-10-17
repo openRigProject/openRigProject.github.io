@@ -2988,6 +2988,17 @@
       "ipv6": null
     },
     {
+      "designator": "01528",
+      "country": "GB",
+      "name": "G1INC",
+      "use_xx_prefix": false,
+      "description": "Home reflector",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "188.29.97.91",
+      "ipv6": null
+    },
+    {
       "designator": "01579",
       "country": "DO",
       "name": "DOMREP / YSF",
@@ -4381,7 +4392,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "47.150.181.163",
+      "ipv4": "47.143.204.120",
       "ipv6": null
     },
     {
@@ -4392,7 +4403,7 @@
       "description": "Place to chat",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "47.150.181.163",
+      "ipv4": "47.143.204.120",
       "ipv6": null
     },
     {
@@ -13137,7 +13148,7 @@
       "description": "XLXBRA-C",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "54.215.31.113",
+      "ipv4": "177.131.119.153",
       "ipv6": "2804:8c0:7400:0:1c61:b4bd:8844:96f6"
     },
     {
