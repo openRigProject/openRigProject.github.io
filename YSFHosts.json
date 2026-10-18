@@ -927,7 +927,7 @@
       "description": "East Midlands",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.77.226.200",
+      "ipv4": "89.242.177.0",
       "ipv6": null
     },
     {
@@ -1895,7 +1895,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.72.11",
+      "ipv4": "75.161.89.244",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -5734,7 +5734,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.210.28.161",
+      "ipv4": "46.177.249.200",
       "ipv6": null
     },
     {
@@ -5767,7 +5767,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.190.174",
+      "ipv4": "77.189.123.180",
       "ipv6": null
     },
     {
@@ -11147,6 +11147,17 @@
       "user_count": "000",
       "port": 42020,
       "ipv4": "137.184.28.141",
+      "ipv6": null
+    },
+    {
+      "designator": "42650",
+      "country": "FR",
+      "name": "URF650",
+      "use_xx_prefix": false,
+      "description": "URF650",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "176.134.151.34",
       "ipv6": null
     },
     {
