@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.28.44",
       "ipv6": null
     },
     {
@@ -1455,7 +1455,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "2.86.33.113",
+      "ipv4": "2.86.39.124",
       "ipv6": null
     },
     {
@@ -5723,7 +5723,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.29.52",
+      "ipv4": "178.59.43.22",
       "ipv6": null
     },
     {
@@ -7648,7 +7648,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "217.44.217.246",
+      "ipv4": "109.159.120.4",
       "ipv6": null
     },
     {
@@ -10563,7 +10563,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.51.133.243",
+      "ipv4": "79.45.200.58",
       "ipv6": null
     },
     {
@@ -10905,6 +10905,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "103.197.58.223",
+      "ipv6": null
+    },
+    {
+      "designator": "42000",
+      "country": "FR",
+      "name": "URF050",
+      "use_xx_prefix": false,
+      "description": "URF050",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "176.134.151.34",
       "ipv6": null
     },
     {
