@@ -1455,7 +1455,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "2.86.36.123",
+      "ipv4": "2.86.33.113",
       "ipv6": null
     },
     {
@@ -1895,7 +1895,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.94.129",
+      "ipv4": "75.161.95.37",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -5723,7 +5723,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.26.111",
+      "ipv4": "178.59.29.52",
       "ipv6": null
     },
     {
@@ -6801,7 +6801,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.19.37.201",
+      "ipv4": "87.18.34.200",
       "ipv6": null
     },
     {
@@ -8122,7 +8122,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343a:c800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3404:9800:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
