@@ -2937,7 +2937,7 @@
       "country": "BR",
       "name": "YSF-Minas",
       "use_xx_prefix": false,
-      "description": "TG-72431 M.Sul",
+      "description": "SP00070/72431+",
       "user_count": "000",
       "port": 42000,
       "ipv4": "189.90.244.29",
@@ -5745,7 +5745,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.106.224",
+      "ipv4": "78.87.129.98",
       "ipv6": null
     },
     {
@@ -9001,7 +9001,7 @@
       "description": "YSF Bremen",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "90.186.112.175",
+      "ipv4": "90.186.115.238",
       "ipv6": null
     },
     {
@@ -13973,7 +13973,7 @@
       "description": "DARKELL's",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.89.179.26",
+      "ipv4": "109.89.179.73",
       "ipv6": null
     },
     {
