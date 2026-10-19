@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.28.44",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -2138,6 +2138,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "15.218.44.59",
+      "ipv6": null
+    },
+    {
+      "designator": "00634",
+      "country": "JP",
+      "name": "XLX634",
+      "use_xx_prefix": false,
+      "description": "JQ1ZTN Tokyo",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "150.66.9.57",
       "ipv6": null
     },
     {
@@ -5734,7 +5745,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.177.249.200",
+      "ipv4": "46.198.186.158",
       "ipv6": null
     },
     {
@@ -6812,7 +6823,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.18.34.200",
+      "ipv4": "79.19.174.65",
       "ipv6": null
     },
     {
@@ -8363,7 +8374,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.163.82",
+      "ipv4": "79.184.90.49",
       "ipv6": null
     },
     {
@@ -9067,7 +9078,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.143.46.113",
+      "ipv4": "89.143.154.214",
       "ipv6": null
     },
     {
@@ -11152,9 +11163,9 @@
     {
       "designator": "42650",
       "country": "FR",
-      "name": "URF650",
+      "name": "XLX-650",
       "use_xx_prefix": false,
-      "description": "URF650",
+      "description": "Serveur XLX650",
       "user_count": "000",
       "port": 42000,
       "ipv4": "176.134.151.34",
@@ -11509,7 +11520,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "93.130.229.115",
+      "ipv4": "77.12.25.150",
       "ipv6": null
     },
     {
@@ -14116,8 +14127,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.228.224",
-      "ipv6": "2003:c9:8fff:464d:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.135",
+      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14127,8 +14138,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.228.224",
-      "ipv6": "2003:c9:8fff:464d:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.135",
+      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14138,8 +14149,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.228.224",
-      "ipv6": "2003:c9:8fff:464d:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.135",
+      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14149,8 +14160,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.228.224",
-      "ipv6": "2003:c9:8fff:464d:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.135",
+      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14160,8 +14171,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.228.224",
-      "ipv6": "2003:c9:8fff:464d:e228:6dff:fe74:b559"
+      "ipv4": "87.178.173.135",
+      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14810,7 +14821,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:73ca:8dff:6701:3a94"
+      "ipv6": "2804:7f0:b771:2396:fe53:db63:568b:d417"
     },
     {
       "designator": "72407",
@@ -14821,7 +14832,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:73ca:8dff:6701:3a94"
+      "ipv6": "2804:7f0:b771:2396:fe53:db63:568b:d417"
     },
     {
       "designator": "72420",
