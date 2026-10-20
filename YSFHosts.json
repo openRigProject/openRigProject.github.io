@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.28.44",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -4513,7 +4513,7 @@
       "description": "FunasssyLand",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "58.88.60.200",
+      "ipv4": "114.178.82.141",
       "ipv6": null
     },
     {
@@ -5778,7 +5778,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.162.69",
+      "ipv4": "77.186.180.117",
       "ipv6": null
     },
     {
@@ -6823,7 +6823,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.235.145.234",
+      "ipv4": "79.36.14.253",
       "ipv6": null
     },
     {
@@ -7670,7 +7670,7 @@
       "description": "Staffs YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "109.159.120.4",
+      "ipv4": "109.156.30.113",
       "ipv6": null
     },
     {
@@ -8616,7 +8616,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "80.183.129.181",
+      "ipv4": "79.41.217.236",
       "ipv6": null
     },
     {
@@ -9991,7 +9991,7 @@
       "description": "FOX HOUSE",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.254.187.154",
+      "ipv4": "151.26.152.119",
       "ipv6": null
     },
     {
@@ -13578,6 +13578,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "162.212.154.202",
+      "ipv6": null
+    },
+    {
+      "designator": "59709",
+      "country": "NL",
+      "name": "URF597",
+      "use_xx_prefix": false,
+      "description": "URF597",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "88.159.31.251",
       "ipv6": null
     },
     {
