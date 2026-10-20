@@ -6424,7 +6424,7 @@
       "country": "ES",
       "name": "ED7ZAK",
       "use_xx_prefix": false,
-      "description": "IPSC2-DR-2X",
+      "description": "DR-2X",
       "user_count": "000",
       "port": 42398,
       "ipv4": "212.227.87.198",
@@ -6901,7 +6901,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:2000:845f:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:8ee:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
