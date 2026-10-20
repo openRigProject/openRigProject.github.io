@@ -1455,7 +1455,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "2.86.39.124",
+      "ipv4": "2.86.36.9",
       "ipv6": null
     },
     {
@@ -2709,7 +2709,7 @@
       "description": "URF938",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.112.3.217",
+      "ipv4": "86.162.125.49",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -4535,7 +4535,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.162.173",
+      "ipv4": "46.12.215.248",
       "ipv6": null
     },
     {
@@ -8144,7 +8144,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:340e:f400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3418:ab00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -13775,7 +13775,7 @@
       "description": "Brundall RG",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "31.112.3.217",
+      "ipv4": "86.162.125.49",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -14821,7 +14821,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:fe53:db63:568b:d417"
+      "ipv6": "2804:7f0:b771:2396:cca0:5cd1:431a:fef9"
     },
     {
       "designator": "72407",
@@ -14832,7 +14832,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:fe53:db63:568b:d417"
+      "ipv6": "2804:7f0:b771:2396:cca0:5cd1:431a:fef9"
     },
     {
       "designator": "72420",
