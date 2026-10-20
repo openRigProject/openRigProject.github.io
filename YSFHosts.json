@@ -465,7 +465,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.19.11",
+      "ipv4": "31.62.97.93",
       "ipv6": null
     },
     {
@@ -2709,7 +2709,7 @@
       "description": "URF938",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "86.181.80.23",
+      "ipv4": "31.112.3.217",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -5745,7 +5745,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.129.98",
+      "ipv4": "46.103.198.50",
       "ipv6": null
     },
     {
@@ -8374,7 +8374,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.90.49",
+      "ipv4": "79.184.155.142",
       "ipv6": null
     },
     {
@@ -11520,7 +11520,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.25.150",
+      "ipv4": "77.184.147.128",
       "ipv6": null
     },
     {
@@ -12279,7 +12279,7 @@
       "description": "GAYLORD-MI",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "71.82.92.107",
+      "ipv4": "97.83.44.73",
       "ipv6": null
     },
     {
@@ -13775,7 +13775,7 @@
       "description": "Brundall RG",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "86.181.80.23",
+      "ipv4": "31.112.3.217",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -14127,8 +14127,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.173.135",
-      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.12",
+      "ipv6": "2003:c9:8fff:444a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14138,8 +14138,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.173.135",
-      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.12",
+      "ipv6": "2003:c9:8fff:444a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14149,8 +14149,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.173.135",
-      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.12",
+      "ipv6": "2003:c9:8fff:444a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14160,8 +14160,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.173.135",
-      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.12",
+      "ipv6": "2003:c9:8fff:444a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14171,8 +14171,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.173.135",
-      "ipv6": "2003:c9:8fff:291e:e228:6dff:fe74:b559"
+      "ipv4": "193.159.35.12",
+      "ipv6": "2003:c9:8fff:444a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16509,9 +16509,9 @@
     {
       "designator": "88898",
       "country": "BE",
-      "name": "XLX898",
+      "name": "URF898",
       "use_xx_prefix": false,
-      "description": "XLXD Server",
+      "description": "URF898",
       "user_count": "000",
       "port": 42000,
       "ipv4": "95.182.247.26",
