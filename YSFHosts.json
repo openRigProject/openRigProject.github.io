@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.28.44",
       "ipv6": null
     },
     {
@@ -6640,6 +6640,17 @@
       "ipv6": null
     },
     {
+      "designator": "22200",
+      "country": "IT",
+      "name": "C4FM-ELBA",
+      "use_xx_prefix": false,
+      "description": "YSFReflector",
+      "user_count": "000",
+      "port": 42005,
+      "ipv4": "87.0.252.116",
+      "ipv6": null
+    },
+    {
       "designator": "22201",
       "country": "IT",
       "name": "C4FM Italy",
@@ -6901,7 +6912,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:1000:8ee:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:12d9:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -12158,7 +12169,7 @@
       "description": "Forth Valley",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "35.178.161.97",
+      "ipv4": "90.240.52.93",
       "ipv6": null
     },
     {
@@ -13137,7 +13148,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "171.101.233.53",
+      "ipv4": "171.101.232.116",
       "ipv6": null
     },
     {
