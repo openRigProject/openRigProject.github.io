@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.28.44",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -6923,7 +6923,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:1000:14d0:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:153b:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -16364,6 +16364,17 @@
       "ipv6": null
     },
     {
+      "designator": "87465",
+      "country": "ES",
+      "name": "EA5KHU-YSF",
+      "use_xx_prefix": false,
+      "description": "Alicante Shack",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "64.177.32.71",
+      "ipv6": null
+    },
+    {
       "designator": "87648",
       "country": "IT",
       "name": "IR8UCW YSF",
@@ -17251,7 +17262,7 @@
       "description": "HoHNet",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "136.32.93.173",
+      "ipv4": "136.35.147.152",
       "ipv6": null
     },
     {
