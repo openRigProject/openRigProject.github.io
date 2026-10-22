@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.29.186",
       "ipv6": null
     },
     {
@@ -6845,7 +6845,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.36.14.253",
+      "ipv4": "79.50.39.194",
       "ipv6": null
     },
     {
@@ -6923,7 +6923,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:1000:153b:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:2000:98ff:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -7219,7 +7219,7 @@
       "description": "IT-C4FM-RAGUSA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.67.140.102",
+      "ipv4": "130.25.137.176",
       "ipv6": null
     },
     {
@@ -8396,7 +8396,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.155.190",
+      "ipv4": "79.184.177.166",
       "ipv6": null
     },
     {
@@ -11036,7 +11036,7 @@
       "description": "Scottsville.KY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "66.38.113.77",
+      "ipv4": "66.38.109.20",
       "ipv6": null
     },
     {
@@ -11542,7 +11542,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.78.72",
+      "ipv4": "77.12.99.151",
       "ipv6": null
     },
     {
@@ -14160,8 +14160,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "193.159.47.99",
-      "ipv6": "2003:c9:8fff:70a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.60",
+      "ipv6": "2003:c9:8fff:67e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14171,8 +14171,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "193.159.47.99",
-      "ipv6": "2003:c9:8fff:70a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.60",
+      "ipv6": "2003:c9:8fff:67e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14182,8 +14182,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "193.159.47.99",
-      "ipv6": "2003:c9:8fff:70a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.60",
+      "ipv6": "2003:c9:8fff:67e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14193,8 +14193,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "193.159.47.99",
-      "ipv6": "2003:c9:8fff:70a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.60",
+      "ipv6": "2003:c9:8fff:67e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14204,8 +14204,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "193.159.47.99",
-      "ipv6": "2003:c9:8fff:70a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.60",
+      "ipv6": "2003:c9:8fff:67e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -14853,8 +14853,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:30ee:7a92:82b6:9c28"
+      "ipv4": "189.38.175.163",
+      "ipv6": "2804:7f0:b771:2a3:9fd4:92a4:ce87:2a87"
     },
     {
       "designator": "72407",
@@ -14864,8 +14864,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "179.247.133.191",
-      "ipv6": "2804:7f0:b771:2396:30ee:7a92:82b6:9c28"
+      "ipv4": "189.38.175.163",
+      "ipv6": "2804:7f0:b771:2a3:9fd4:92a4:ce87:2a87"
     },
     {
       "designator": "72420",
