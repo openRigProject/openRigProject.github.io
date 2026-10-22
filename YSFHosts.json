@@ -2163,6 +2163,17 @@
       "ipv6": null
     },
     {
+      "designator": "00647",
+      "country": "RE",
+      "name": "FR-La_Reunion",
+      "use_xx_prefix": false,
+      "description": "YSF - C4FM",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "102.35.25.168",
+      "ipv6": null
+    },
+    {
       "designator": "00654",
       "country": "US",
       "name": "N2FED",
@@ -5756,7 +5767,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.129.42",
+      "ipv4": "178.59.150.56",
       "ipv6": null
     },
     {
@@ -6174,7 +6185,7 @@
       "description": "Wires-X  Link",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "180.199.65.221",
+      "ipv4": "180.199.10.191",
       "ipv6": null
     },
     {
@@ -6923,7 +6934,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:2000:98ff:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:1790:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -8166,7 +8177,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3423:9c00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342f:4800:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -12169,7 +12180,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.133.239",
+      "ipv4": "151.63.148.126",
       "ipv6": null
     },
     {
