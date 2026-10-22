@@ -1466,7 +1466,7 @@
       "description": "Turkiye Genel",
       "user_count": "000",
       "port": 42286,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -2940,7 +2940,7 @@
       "description": "Turk Konferans",
       "user_count": "000",
       "port": 42453,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -3171,7 +3171,7 @@
       "description": "Turkiye 1923",
       "user_count": "000",
       "port": 42923,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -5767,7 +5767,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.150.56",
+      "ipv4": "78.87.100.158",
       "ipv6": null
     },
     {
@@ -6934,7 +6934,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:1000:1790:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:1880:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
@@ -8770,7 +8770,7 @@
       "description": "YSF Adana",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8781,7 +8781,7 @@
       "description": "YSF Adiyaman",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8792,7 +8792,7 @@
       "description": "YSF Afyon",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8803,7 +8803,7 @@
       "description": "YSF Ankara",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8814,7 +8814,7 @@
       "description": "YSF Antalya",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8825,7 +8825,7 @@
       "description": "YSF Aydin",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8836,7 +8836,7 @@
       "description": "YSF Balikesir",
       "user_count": "000",
       "port": 42010,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8847,7 +8847,7 @@
       "description": "YSF Bursa",
       "user_count": "000",
       "port": 42016,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8858,7 +8858,7 @@
       "description": "YSF Canakkale",
       "user_count": "000",
       "port": 42017,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8869,7 +8869,7 @@
       "description": "YSF Denizli",
       "user_count": "000",
       "port": 42020,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8880,7 +8880,7 @@
       "description": "YSF Eskisehir",
       "user_count": "000",
       "port": 42026,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8891,7 +8891,7 @@
       "description": "YSF Mersin",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8902,7 +8902,7 @@
       "description": "YSF Istanbul",
       "user_count": "000",
       "port": 42034,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8913,7 +8913,7 @@
       "description": "YSF Izmir",
       "user_count": "000",
       "port": 42035,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8924,7 +8924,7 @@
       "description": "YSF Kocaeli",
       "user_count": "000",
       "port": 42041,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8935,7 +8935,7 @@
       "description": "YSF Konya",
       "user_count": "000",
       "port": 42042,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8946,7 +8946,7 @@
       "description": "YSF Malatya",
       "user_count": "000",
       "port": 42044,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -8957,7 +8957,7 @@
       "description": "YSF Mugla",
       "user_count": "000",
       "port": 42048,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -9001,7 +9001,7 @@
       "description": "YSF Duzce",
       "user_count": "000",
       "port": 42081,
-      "ipv4": "151.250.94.150",
+      "ipv4": "5.175.136.98",
       "ipv6": null
     },
     {
@@ -10112,7 +10112,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.40",
+      "ipv4": "192.253.246.38",
       "ipv6": null
     },
     {
