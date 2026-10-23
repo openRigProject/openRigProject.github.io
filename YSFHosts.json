@@ -5151,7 +5151,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.13.168",
+      "ipv4": "88.207.72.107",
       "ipv6": null
     },
     {
@@ -5811,7 +5811,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.166.234",
+      "ipv4": "77.179.237.188",
       "ipv6": null
     },
     {
@@ -11150,6 +11150,17 @@
       "ipv6": null
     },
     {
+      "designator": "42311",
+      "country": "FR",
+      "name": "YSF-XLX311",
+      "use_xx_prefix": false,
+      "description": "Serveur XLX311",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "176.134.151.34",
+      "ipv6": null
+    },
+    {
       "designator": "42400",
       "country": "FR",
       "name": "XLX 424 ysf",
@@ -11202,17 +11213,6 @@
       "user_count": "000",
       "port": 42020,
       "ipv4": "137.184.28.141",
-      "ipv6": null
-    },
-    {
-      "designator": "42650",
-      "country": "FR",
-      "name": "XLX-650",
-      "use_xx_prefix": false,
-      "description": "Serveur XLX650",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "176.134.151.34",
       "ipv6": null
     },
     {
@@ -15283,17 +15283,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.133.184",
-      "ipv6": null
-    },
-    {
-      "designator": "74132",
-      "country": "US",
-      "name": "us xlx245",
-      "use_xx_prefix": false,
-      "description": "xlx245",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "172.232.15.244",
       "ipv6": null
     },
     {
