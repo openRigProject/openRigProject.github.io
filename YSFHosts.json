@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.29.186",
       "ipv6": null
     },
     {
@@ -8177,7 +8177,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:342f:4800:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343a:5900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10618,7 +10618,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.45.200.58",
+      "ipv4": "79.29.202.192",
       "ipv6": null
     },
     {
@@ -14281,7 +14281,7 @@
       "description": "AZ POTA on FB",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "184.170.187.46",
+      "ipv4": "184.170.187.165",
       "ipv6": null
     },
     {
