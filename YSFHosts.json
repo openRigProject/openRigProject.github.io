@@ -1888,6 +1888,17 @@
       "ipv6": null
     },
     {
+      "designator": "00501",
+      "country": "US",
+      "name": "Arkansas CN",
+      "use_xx_prefix": false,
+      "description": "Arkansas CN",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "162.226.75.73",
+      "ipv6": null
+    },
+    {
       "designator": "00505",
       "country": "US",
       "name": "NM505-KB0WMA",
@@ -6075,7 +6086,7 @@
       "description": "LincsLink",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.130.34.205",
+      "ipv4": "86.145.83.57",
       "ipv6": null
     },
     {
@@ -13416,6 +13427,17 @@
       "ipv6": null
     },
     {
+      "designator": "57711",
+      "country": "US",
+      "name": "K5AIN ASL",
+      "use_xx_prefix": false,
+      "description": "ASL YSF Link",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "162.226.75.73",
+      "ipv6": null
+    },
+    {
       "designator": "57839",
       "country": "SE",
       "name": "SM5GXQ",
@@ -16096,7 +16118,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.55.218",
+      "ipv4": "109.104.50.51",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
