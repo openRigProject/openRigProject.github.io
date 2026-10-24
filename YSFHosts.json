@@ -3615,6 +3615,17 @@
       "ipv6": null
     },
     {
+      "designator": "04024",
+      "country": "IT",
+      "name": "CL-GLF-GAETA",
+      "use_xx_prefix": false,
+      "description": "Cluster Gaeta",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "174.138.189.151",
+      "ipv6": null
+    },
+    {
       "designator": "04107",
       "country": "PH",
       "name": "DX1CC",
@@ -10123,7 +10134,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.37",
+      "ipv4": "192.253.246.34",
       "ipv6": null
     },
     {
