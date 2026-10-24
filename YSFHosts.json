@@ -361,9 +361,9 @@
     {
       "designator": "00041",
       "country": "GB",
-      "name": "CUMBRIACQ-BAK",
+      "name": "cumbriaCQ4",
       "use_xx_prefix": false,
-      "description": "CumbriaCQ Baku",
+      "description": "CumbriaCQ4",
       "user_count": "000",
       "port": 42100,
       "ipv4": "89.240.4.99",
@@ -2693,9 +2693,9 @@
     {
       "designator": "00927",
       "country": "US",
-      "name": "XLX927",
+      "name": "URF927",
       "use_xx_prefix": false,
-      "description": "XLX927 RADNET",
+      "description": "URF927",
       "user_count": "000",
       "port": 42000,
       "ipv4": "69.164.209.180",
@@ -7511,9 +7511,9 @@
     {
       "designator": "23534",
       "country": "GB",
-      "name": "Cumbria CQ",
+      "name": "cumbriaCQ1",
       "use_xx_prefix": false,
-      "description": "CumbriaCQ",
+      "description": "cumbriaCQ1",
       "user_count": "000",
       "port": 42100,
       "ipv4": "57.128.190.202",
@@ -8815,6 +8815,17 @@
       "user_count": "000",
       "port": 42003,
       "ipv4": "89.144.10.204",
+      "ipv6": null
+    },
+    {
+      "designator": "28604",
+      "country": "TR",
+      "name": "YSF Agri",
+      "use_xx_prefix": false,
+      "description": "YSF Agri",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "78.174.230.73",
       "ipv6": null
     },
     {
@@ -13940,7 +13951,7 @@
       "description": "Middle River",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "71.244.183.44",
+      "ipv4": "96.244.42.149",
       "ipv6": null
     },
     {
@@ -16586,9 +16597,9 @@
     {
       "designator": "88888",
       "country": "GB",
-      "name": "cumbriaCQ2",
+      "name": "cumbriaCQ3",
       "use_xx_prefix": false,
-      "description": "cumbriaCQ.com",
+      "description": "cumbriaCQ3",
       "user_count": "000",
       "port": 42000,
       "ipv4": "89.240.4.99",
@@ -16619,9 +16630,9 @@
     {
       "designator": "89134",
       "country": "GB",
-      "name": "CUMBRIACQ",
+      "name": "cumbriaCQ2",
       "use_xx_prefix": false,
-      "description": "cumbriaCQ URF",
+      "description": "cumbriaCQ2-URF",
       "user_count": "000",
       "port": 42100,
       "ipv4": "57.128.190.202",
