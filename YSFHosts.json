@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.28.161",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -2918,7 +2918,7 @@
       "description": "Wirral Pen ARC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.9.98.102",
+      "ipv4": "82.8.249.235",
       "ipv6": null
     },
     {
@@ -5162,7 +5162,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.72.107",
+      "ipv4": "109.60.14.71",
       "ipv6": null
     },
     {
@@ -5822,7 +5822,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.55.0",
+      "ipv4": "77.187.63.167",
       "ipv6": null
     },
     {
