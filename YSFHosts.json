@@ -5397,17 +5397,6 @@
       "ipv6": null
     },
     {
-      "designator": "16848",
-      "country": "KR",
-      "name": "GyeongSan",
-      "use_xx_prefix": false,
-      "description": "KR-GyeongSan",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "131.186.19.99",
-      "ipv6": null
-    },
-    {
       "designator": "17077",
       "country": "US",
       "name": "LaGrandeDigit",
@@ -8210,7 +8199,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3404:fe00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3416:8000:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8440,7 +8429,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.107.175",
+      "ipv4": "79.184.79.107",
       "ipv6": null
     },
     {
@@ -12213,7 +12202,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.231.109",
+      "ipv4": "77.181.37.157",
       "ipv6": null
     },
     {
@@ -14853,8 +14842,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.165.80",
-      "ipv6": "2003:c9:8fff:d28:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.49",
+      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14864,8 +14853,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.165.80",
-      "ipv6": "2003:c9:8fff:d28:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.49",
+      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14875,8 +14864,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.165.80",
-      "ipv6": "2003:c9:8fff:d28:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.49",
+      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14886,8 +14875,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.165.80",
-      "ipv6": "2003:c9:8fff:d28:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.49",
+      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14897,8 +14886,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.165.80",
-      "ipv6": "2003:c9:8fff:d28:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.49",
+      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15547,7 +15536,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:8e69:b379:9d08:15e"
+      "ipv6": "2804:7f0:b771:2a3:2476:8f28:d2bd:25c8"
     },
     {
       "designator": "72407",
@@ -15558,7 +15547,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:8e69:b379:9d08:15e"
+      "ipv6": "2804:7f0:b771:2a3:2476:8f28:d2bd:25c8"
     },
     {
       "designator": "72420",
