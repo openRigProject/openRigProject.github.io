@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -2699,6 +2699,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "69.164.209.180",
+      "ipv6": null
+    },
+    {
+      "designator": "00933",
+      "country": "FR",
+      "name": "URF933",
+      "use_xx_prefix": false,
+      "description": "URF933",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "51.254.33.194",
       "ipv6": null
     },
     {
@@ -12829,7 +12840,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.77.99",
+      "ipv4": "151.63.88.228",
       "ipv6": null
     },
     {
@@ -14681,6 +14692,17 @@
       "ipv6": null
     },
     {
+      "designator": "62981",
+      "country": "ES",
+      "name": "EL EJIDO",
+      "use_xx_prefix": false,
+      "description": "YSF EL EJIDO",
+      "user_count": "000",
+      "port": 43000,
+      "ipv4": "80.211.1.143",
+      "ipv6": null
+    },
+    {
       "designator": "63082",
       "country": "US",
       "name": "DezertRatz",
@@ -14952,7 +14974,7 @@
       "description": "AZ POTA on FB",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "184.170.187.165",
+      "ipv4": "184.170.187.231",
       "ipv6": null
     },
     {
@@ -15150,7 +15172,7 @@
       "description": "JAPAN KANAZAWA",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.221.245.190",
+      "ipv4": "153.216.117.160",
       "ipv6": null
     },
     {
@@ -17911,7 +17933,7 @@
       "description": "C4FM JAPAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.131.27.75",
+      "ipv4": "153.227.48.121",
       "ipv6": null
     },
     {
