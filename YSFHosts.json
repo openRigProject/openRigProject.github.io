@@ -2878,6 +2878,17 @@
       "ipv6": null
     },
     {
+      "designator": "01174",
+      "country": "FR",
+      "name": "YSF-RIVIERA",
+      "use_xx_prefix": false,
+      "description": "French Riviera",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "180.183.64.71",
+      "ipv6": null
+    },
+    {
       "designator": "01222",
       "country": "IT",
       "name": "22201-Lazio",
@@ -5162,7 +5173,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.14.71",
+      "ipv4": "88.207.72.70",
       "ipv6": null
     },
     {
@@ -5822,7 +5833,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.63.167",
+      "ipv4": "77.179.190.96",
       "ipv6": null
     },
     {
@@ -12789,6 +12800,17 @@
       "ipv6": null
     },
     {
+      "designator": "47265",
+      "country": "US",
+      "name": "IN JCARA",
+      "use_xx_prefix": false,
+      "description": "JCARA Network",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "104.153.151.53",
+      "ipv6": null
+    },
+    {
       "designator": "47474",
       "country": "PL",
       "name": "KAB-FUSION",
@@ -12840,7 +12862,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.88.228",
+      "ipv4": "151.52.75.202",
       "ipv6": null
     },
     {
