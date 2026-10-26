@@ -2702,17 +2702,6 @@
       "ipv6": null
     },
     {
-      "designator": "00933",
-      "country": "FR",
-      "name": "URF933",
-      "use_xx_prefix": false,
-      "description": "URF933",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "51.254.33.194",
-      "ipv6": null
-    },
-    {
       "designator": "00935",
       "country": "US",
       "name": "XLX935 SoCal",
@@ -4332,12 +4321,12 @@
     {
       "designator": "09140",
       "country": "US",
-      "name": "URF914",
-      "use_xx_prefix": false,
-      "description": "URF914",
+      "name": "ARCA",
+      "use_xx_prefix": true,
+      "description": "ARCA Net",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "47.156.44.132",
+      "ipv4": "47.156.57.241",
       "ipv6": null
     },
     {
@@ -4557,7 +4546,7 @@
       "description": "FunasssyLand",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "114.178.82.141",
+      "ipv4": "124.87.101.215",
       "ipv6": null
     },
     {
@@ -9254,7 +9243,7 @@
       "description": "YSF Manisa",
       "user_count": "000",
       "port": 42045,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9265,7 +9254,7 @@
       "description": "YSF K Maras",
       "user_count": "000",
       "port": 42046,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9276,7 +9265,7 @@
       "description": "YSF Mardin",
       "user_count": "000",
       "port": 42047,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9287,7 +9276,7 @@
       "description": "YSF Mugla",
       "user_count": "000",
       "port": 42048,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9298,7 +9287,7 @@
       "description": "YSF Mus",
       "user_count": "000",
       "port": 42049,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9309,7 +9298,7 @@
       "description": "YSF Nevsehir",
       "user_count": "000",
       "port": 42050,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9320,7 +9309,7 @@
       "description": "YSF Nigde",
       "user_count": "000",
       "port": 42051,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9331,7 +9320,7 @@
       "description": "YSF Ordu",
       "user_count": "000",
       "port": 42052,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9342,7 +9331,7 @@
       "description": "YSF Rize",
       "user_count": "000",
       "port": 42053,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9353,7 +9342,7 @@
       "description": "YSF Sakarya",
       "user_count": "000",
       "port": 42054,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9375,7 +9364,7 @@
       "description": "YSF Siirt",
       "user_count": "000",
       "port": 42056,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9386,7 +9375,7 @@
       "description": "YSF Sinop",
       "user_count": "000",
       "port": 42057,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9397,7 +9386,7 @@
       "description": "YSF Sivas",
       "user_count": "000",
       "port": 42058,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9419,7 +9408,7 @@
       "description": "YSF Tokat",
       "user_count": "000",
       "port": 42060,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9430,7 +9419,7 @@
       "description": "YSF Trabzon",
       "user_count": "000",
       "port": 42061,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9441,7 +9430,7 @@
       "description": "YSF Tunceli",
       "user_count": "000",
       "port": 42062,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9452,7 +9441,7 @@
       "description": "YSF Sanliurfa",
       "user_count": "000",
       "port": 42063,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9463,7 +9452,7 @@
       "description": "YSF Usak",
       "user_count": "000",
       "port": 42064,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9474,7 +9463,7 @@
       "description": "YSF Van",
       "user_count": "000",
       "port": 42065,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9485,7 +9474,7 @@
       "description": "YSF Yozgat",
       "user_count": "000",
       "port": 42066,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9496,7 +9485,7 @@
       "description": "YSF Zonguldak",
       "user_count": "000",
       "port": 42067,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9507,7 +9496,7 @@
       "description": "YSF Aksaray",
       "user_count": "000",
       "port": 42068,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9518,7 +9507,7 @@
       "description": "YSF Bayburt",
       "user_count": "000",
       "port": 42069,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9529,7 +9518,7 @@
       "description": "YSF Karaman",
       "user_count": "000",
       "port": 42070,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9540,7 +9529,7 @@
       "description": "YSF Kirikkale",
       "user_count": "000",
       "port": 42071,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9551,7 +9540,7 @@
       "description": "YSF Batman",
       "user_count": "000",
       "port": 42072,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9562,7 +9551,7 @@
       "description": "YSF Sirnak",
       "user_count": "000",
       "port": 42073,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9573,7 +9562,7 @@
       "description": "YSF Bartin",
       "user_count": "000",
       "port": 42074,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9584,7 +9573,7 @@
       "description": "YSF Ardahan",
       "user_count": "000",
       "port": 42075,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9595,7 +9584,7 @@
       "description": "YSF Igdir",
       "user_count": "000",
       "port": 42076,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9617,7 +9606,7 @@
       "description": "YSF Karabuk",
       "user_count": "000",
       "port": 42078,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9628,7 +9617,7 @@
       "description": "YSF Kilis",
       "user_count": "000",
       "port": 42079,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9639,7 +9628,7 @@
       "description": "YSF Osmaniye",
       "user_count": "000",
       "port": 42080,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9650,7 +9639,7 @@
       "description": "YSF Duzce",
       "user_count": "000",
       "port": 42081,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -17922,7 +17911,7 @@
       "description": "C4FM JAPAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.227.87.133",
+      "ipv4": "153.131.27.75",
       "ipv6": null
     },
     {
