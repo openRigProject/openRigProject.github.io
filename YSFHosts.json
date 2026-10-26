@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.223.186",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -3754,7 +3754,7 @@
       "description": "chaseroom",
       "user_count": "000",
       "port": 42250,
-      "ipv4": "81.152.75.166",
+      "ipv4": "217.44.128.255",
       "ipv6": null
     },
     {
@@ -6878,7 +6878,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.5.185",
+      "ipv4": "79.33.16.37",
       "ipv6": null
     },
     {
@@ -7511,9 +7511,9 @@
     {
       "designator": "23534",
       "country": "GB",
-      "name": "cumbriaCQ1",
+      "name": "CUMBRIACQ",
       "use_xx_prefix": false,
-      "description": "cumbriaCQ1",
+      "description": "CUMBRIACQ",
       "user_count": "000",
       "port": 42100,
       "ipv4": "57.128.190.202",
@@ -8199,7 +8199,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3416:8000:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341f:8600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8429,7 +8429,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.79.107",
+      "ipv4": "79.184.172.217",
       "ipv6": null
     },
     {
@@ -9199,7 +9199,7 @@
       "description": "YSF Kirsehir",
       "user_count": "000",
       "port": 42040,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9210,7 +9210,7 @@
       "description": "YSF Kocaeli",
       "user_count": "000",
       "port": 42041,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9221,7 +9221,7 @@
       "description": "YSF Konya",
       "user_count": "000",
       "port": 42042,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9232,7 +9232,7 @@
       "description": "YSF Kutahya",
       "user_count": "000",
       "port": 42043,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -9243,7 +9243,7 @@
       "description": "YSF Malatya",
       "user_count": "000",
       "port": 42044,
-      "ipv4": "78.174.230.73",
+      "ipv4": "89.144.10.204",
       "ipv6": null
     },
     {
@@ -12213,7 +12213,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.37.157",
+      "ipv4": "77.179.244.102",
       "ipv6": null
     },
     {
@@ -14017,7 +14017,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.255.89",
+      "ipv4": "79.247.185.36",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14028,7 +14028,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.255.89",
+      "ipv4": "79.247.185.36",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14039,7 +14039,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.255.89",
+      "ipv4": "79.247.185.36",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14864,8 +14864,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.162.49",
-      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.164.233",
+      "ipv6": "2003:c9:8fff:2f5c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14875,8 +14875,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.162.49",
-      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.164.233",
+      "ipv6": "2003:c9:8fff:2f5c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14886,8 +14886,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.162.49",
-      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.164.233",
+      "ipv6": "2003:c9:8fff:2f5c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14897,8 +14897,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.162.49",
-      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.164.233",
+      "ipv6": "2003:c9:8fff:2f5c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -14908,8 +14908,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.162.49",
-      "ipv6": "2003:c9:8fff:4d1a:e228:6dff:fe74:b559"
+      "ipv4": "87.178.164.233",
+      "ipv6": "2003:c9:8fff:2f5c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15558,7 +15558,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:2476:8f28:d2bd:25c8"
+      "ipv6": "2804:7f0:b771:2a3:3654:37cf:4b69:f811"
     },
     {
       "designator": "72407",
@@ -15569,7 +15569,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:2476:8f28:d2bd:25c8"
+      "ipv6": "2804:7f0:b771:2a3:3654:37cf:4b69:f811"
     },
     {
       "designator": "72420",
