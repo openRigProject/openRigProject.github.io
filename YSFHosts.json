@@ -388,8 +388,8 @@
       "description": "SF Bay",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "140.82.51.26",
-      "ipv6": null
+      "ipv4": "64.177.53.121",
+      "ipv6": "2001:19f0:5400:1b30:5400:6ff:fecf:4036"
     },
     {
       "designator": "00044",
@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -1395,11 +1395,11 @@
     {
       "designator": "00247",
       "country": "GB",
-      "name": "XLX247",
+      "name": "URF247",
       "use_xx_prefix": false,
-      "description": "OZ-DMR NETWORK",
+      "description": "URF247",
       "user_count": "000",
-      "port": 42000,
+      "port": 42099,
       "ipv4": "44.31.91.236",
       "ipv6": null
     },
@@ -2647,6 +2647,17 @@
       "ipv6": null
     },
     {
+      "designator": "00898",
+      "country": "BE",
+      "name": "URF898",
+      "use_xx_prefix": false,
+      "description": "URF898",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "95.182.247.26",
+      "ipv6": null
+    },
+    {
       "designator": "00907",
       "country": "GB",
       "name": "FreeDMR 907",
@@ -2885,7 +2896,7 @@
       "description": "French Riviera",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "180.183.30.88",
+      "ipv4": "180.183.20.213",
       "ipv6": null
     },
     {
@@ -3050,7 +3061,7 @@
       "description": "Home reflector",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "188.29.97.91",
+      "ipv4": "188.28.116.198",
       "ipv6": null
     },
     {
@@ -5551,6 +5562,17 @@
       "ipv6": null
     },
     {
+      "designator": "18181",
+      "country": "BE",
+      "name": "XLXLUS",
+      "use_xx_prefix": true,
+      "description": "YSF reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "148.113.148.18",
+      "ipv6": null
+    },
+    {
       "designator": "18470",
       "country": "ES",
       "name": "EA EXTREMADUR",
@@ -5800,7 +5822,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.177.245.109",
+      "ipv4": "78.87.130.39",
       "ipv6": null
     },
     {
@@ -5833,7 +5855,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.90.169",
+      "ipv4": "77.12.53.66",
       "ipv6": null
     },
     {
@@ -8210,7 +8232,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3429:2e00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3432:b400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10772,7 +10794,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.38",
+      "ipv4": "192.253.246.35",
       "ipv6": null
     },
     {
@@ -12862,7 +12884,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.52.75.202",
+      "ipv4": "151.63.245.222",
       "ipv6": null
     },
     {
@@ -13863,7 +13885,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "171.101.232.116",
+      "ipv4": "58.8.189.89",
       "ipv6": null
     },
     {
@@ -17274,17 +17296,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "89.240.4.99",
-      "ipv6": null
-    },
-    {
-      "designator": "88898",
-      "country": "BE",
-      "name": "URF898",
-      "use_xx_prefix": false,
-      "description": "URF898",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "95.182.247.26",
       "ipv6": null
     },
     {
