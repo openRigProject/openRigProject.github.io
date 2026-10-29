@@ -1202,7 +1202,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.164.37.231",
+      "ipv4": "153.171.107.170",
       "ipv6": null
     },
     {
@@ -1389,7 +1389,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.164.37.231",
+      "ipv4": "153.171.107.170",
       "ipv6": null
     },
     {
@@ -3267,7 +3267,7 @@
       "country": "NL",
       "name": "NLOost",
       "use_xx_prefix": false,
-      "description": "C4FM NL-Room",
+      "description": "YSF NL-NLOost",
       "user_count": "000",
       "port": 42001,
       "ipv4": "51.83.46.75",
@@ -3369,7 +3369,7 @@
       "description": "URE Sabadell",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "83.50.42.97",
+      "ipv4": "79.155.48.193",
       "ipv6": null
     },
     {
