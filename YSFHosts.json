@@ -7722,7 +7722,7 @@
       "country": "US",
       "name": "KJ4OHN-24598",
       "use_xx_prefix": false,
-      "description": "KJ4OHN Ragchew",
+      "description": "KJ4OHN Bridge",
       "user_count": "000",
       "port": 42395,
       "ipv4": "74.208.174.230",
@@ -8232,7 +8232,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3432:b400:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343c:b600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -11300,7 +11300,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.63.151.171",
+      "ipv4": "95.248.34.100",
       "ipv6": null
     },
     {
@@ -13526,6 +13526,17 @@
       "ipv6": null
     },
     {
+      "designator": "52000",
+      "country": "TH",
+      "name": "XLXTHA",
+      "use_xx_prefix": false,
+      "description": "YSF Reflector",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "183.88.224.213",
+      "ipv6": null
+    },
+    {
       "designator": "52375",
       "country": "GB",
       "name": "RadioX",
@@ -15613,7 +15624,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:c2a3:bccf:c96a:634"
+      "ipv6": "2804:7f0:b771:2a3:221e:19db:a953:2afb"
     },
     {
       "designator": "72407",
@@ -15624,7 +15635,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:c2a3:bccf:c96a:634"
+      "ipv6": "2804:7f0:b771:2a3:221e:19db:a953:2afb"
     },
     {
       "designator": "72420",
