@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -2391,7 +2391,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "222.230.76.62",
-      "ipv6": null
+      "ipv6": "::1"
     },
     {
       "designator": "00760",
@@ -4084,7 +4084,7 @@
       "description": "Alicante",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.117.122.252",
+      "ipv4": "79.112.151.71",
       "ipv6": null
     },
     {
@@ -5855,7 +5855,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.53.66",
+      "ipv4": "77.181.176.46",
       "ipv6": null
     },
     {
@@ -7396,6 +7396,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "193.237.215.185",
+      "ipv6": null
+    },
+    {
+      "designator": "23436",
+      "country": "MX",
+      "name": "MEXICO",
+      "use_xx_prefix": false,
+      "description": "MEXICO-C4FM",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "217.160.209.125",
       "ipv6": null
     },
     {
@@ -10155,8 +10166,8 @@
       "use_xx_prefix": false,
       "description": "Keys-MIAMI",
       "user_count": "000",
-      "port": 42395,
-      "ipv4": "217.154.97.237",
+      "port": 42003,
+      "ipv4": "217.160.209.125",
       "ipv6": null
     },
     {
@@ -11913,7 +11924,7 @@
       "country": "US",
       "name": "DirtyBirds",
       "use_xx_prefix": false,
-      "description": "Chop Chop",
+      "description": "Project Talk",
       "user_count": "000",
       "port": 42002,
       "ipv4": "140.186.17.219",
@@ -14083,7 +14094,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.253.100",
+      "ipv4": "80.136.254.156",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14094,7 +14105,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.253.100",
+      "ipv4": "80.136.254.156",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14105,7 +14116,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.253.100",
+      "ipv4": "80.136.254.156",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -15106,7 +15117,7 @@
       "description": "Acadie,Qc est",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "174.113.118.234",
+      "ipv4": "174.113.119.75",
       "ipv6": null
     },
     {
