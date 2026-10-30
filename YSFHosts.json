@@ -1455,7 +1455,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "2.86.36.9",
+      "ipv4": "109.242.59.105",
       "ipv6": null
     },
     {
@@ -3380,7 +3380,7 @@
       "description": "URE Sabadell",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.155.48.193",
+      "ipv4": "91.107.220.221",
       "ipv6": null
     },
     {
@@ -6332,6 +6332,17 @@
       "ipv6": null
     },
     {
+      "designator": "21412",
+      "country": "ES",
+      "name": "Vallatellon",
+      "use_xx_prefix": false,
+      "description": "QSO QSLs CERTs",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "79.112.77.132",
+      "ipv6": null
+    },
+    {
       "designator": "21413",
       "country": "ES",
       "name": "D-FRIENDS",
@@ -7000,7 +7011,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "130.78.58.210",
-      "ipv6": "2a07:7e87:1000:6667:1e23:a2ff:feaf:dc03"
+      "ipv6": "2a07:7e87:1000:7381:1e23:a2ff:feaf:dc03"
     },
     {
       "designator": "22271",
