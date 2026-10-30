@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -5305,7 +5305,7 @@
       "description": "Marieville, QC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "142.169.190.227",
+      "ipv4": "142.169.21.127",
       "ipv6": null
     },
     {
@@ -5866,7 +5866,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.176.46",
+      "ipv4": "77.189.111.110",
       "ipv6": null
     },
     {
@@ -7186,7 +7186,7 @@
       "description": "Scanner gruppo",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.32.1.172",
+      "ipv4": "82.90.43.95",
       "ipv6": null
     },
     {
@@ -16496,6 +16496,17 @@
       "ipv6": null
     },
     {
+      "designator": "80222",
+      "country": "US",
+      "name": "K5TKR",
+      "use_xx_prefix": false,
+      "description": "K5TKR YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "45.79.10.125",
+      "ipv6": null
+    },
+    {
       "designator": "80280",
       "country": "US",
       "name": "NorCal-Link",
@@ -16866,7 +16877,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.50.51",
+      "ipv4": "109.104.54.4",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
