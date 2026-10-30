@@ -5195,7 +5195,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.73.2",
+      "ipv4": "88.207.73.157",
       "ipv6": null
     },
     {
@@ -8254,7 +8254,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343c:b600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3406:6600:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -10728,7 +10728,7 @@
       "description": "FOX HOUSE",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.254.235.150",
+      "ipv4": "91.254.143.129",
       "ipv6": null
     },
     {
@@ -15645,8 +15645,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:221e:19db:a953:2afb"
+      "ipv4": "179.111.158.58",
+      "ipv6": "2804:7f0:b771:88:af63:863c:d7d9:94c5"
     },
     {
       "designator": "72407",
@@ -15656,8 +15656,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.38.175.163",
-      "ipv6": "2804:7f0:b771:2a3:221e:19db:a953:2afb"
+      "ipv4": "179.111.158.58",
+      "ipv6": "2804:7f0:b771:88:af63:863c:d7d9:94c5"
     },
     {
       "designator": "72420",
