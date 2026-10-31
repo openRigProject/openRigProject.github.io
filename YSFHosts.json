@@ -509,7 +509,7 @@
       "description": "OARC Bridge",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.248.160.49",
+      "ipv4": "44.31.241.76",
       "ipv6": null
     },
     {
@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.223.186",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -1593,9 +1593,9 @@
     {
       "designator": "00333",
       "country": "US",
-      "name": "00333",
+      "name": "W2NJR",
       "use_xx_prefix": false,
-      "description": "W2NJR YSF Ref",
+      "description": "W2NJR Link Sys",
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.139.150",
@@ -3876,6 +3876,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "54.85.206.3",
+      "ipv6": null
+    },
+    {
+      "designator": "06969",
+      "country": "US",
+      "name": "WJM Rockwall",
+      "use_xx_prefix": false,
+      "description": "Home2",
+      "user_count": "000",
+      "port": 42016,
+      "ipv4": "99.106.54.170",
       "ipv6": null
     },
     {
@@ -6933,7 +6944,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.234.140.144",
+      "ipv4": "79.47.86.213",
       "ipv6": null
     },
     {
@@ -8495,7 +8506,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.79.18",
+      "ipv4": "79.184.159.43",
       "ipv6": null
     },
     {
@@ -12279,7 +12290,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "78.51.152.61",
+      "ipv4": "93.130.236.208",
       "ipv6": null
     },
     {
@@ -14963,8 +14974,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.163.23",
-      "ipv6": "2003:c9:8fff:ce0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.160.208",
+      "ipv6": "2003:c9:8fff:124a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14974,8 +14985,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.163.23",
-      "ipv6": "2003:c9:8fff:ce0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.160.208",
+      "ipv6": "2003:c9:8fff:124a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -14985,8 +14996,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.163.23",
-      "ipv6": "2003:c9:8fff:ce0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.160.208",
+      "ipv6": "2003:c9:8fff:124a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -14996,8 +15007,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.163.23",
-      "ipv6": "2003:c9:8fff:ce0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.160.208",
+      "ipv6": "2003:c9:8fff:124a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15007,8 +15018,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.163.23",
-      "ipv6": "2003:c9:8fff:ce0:e228:6dff:fe74:b559"
+      "ipv4": "87.178.160.208",
+      "ipv6": "2003:c9:8fff:124a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
