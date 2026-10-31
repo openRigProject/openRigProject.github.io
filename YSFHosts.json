@@ -1554,7 +1554,7 @@
       "description": "URF304",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "139.177.194.71",
+      "ipv4": "172.105.14.152",
       "ipv6": null
     },
     {
@@ -8276,7 +8276,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3406:6600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3410:1c00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -11344,7 +11344,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.248.34.100",
+      "ipv4": "79.14.152.237",
       "ipv6": null
     },
     {
@@ -11421,7 +11421,7 @@
       "description": "Coggeshall UK",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "5.81.59.168",
+      "ipv4": "95.146.178.205",
       "ipv6": null
     },
     {
@@ -13247,7 +13247,7 @@
       "description": "SaskWarn/Parkl",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "139.177.194.71",
+      "ipv4": "172.105.14.152",
       "ipv6": null
     },
     {
@@ -14127,7 +14127,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.254.156",
+      "ipv4": "79.247.186.164",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14138,7 +14138,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.254.156",
+      "ipv4": "79.247.186.164",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14149,7 +14149,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.254.156",
+      "ipv4": "79.247.186.164",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -15668,7 +15668,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "179.111.158.58",
-      "ipv6": "2804:7f0:b771:88:af63:863c:d7d9:94c5"
+      "ipv6": "2804:7f0:b771:88:33c3:28d6:ec46:842b"
     },
     {
       "designator": "72407",
@@ -15679,7 +15679,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "179.111.158.58",
-      "ipv6": "2804:7f0:b771:88:af63:863c:d7d9:94c5"
+      "ipv6": "2804:7f0:b771:88:33c3:28d6:ec46:842b"
     },
     {
       "designator": "72420",
