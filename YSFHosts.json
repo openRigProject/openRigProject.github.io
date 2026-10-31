@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -12615,12 +12615,12 @@
     {
       "designator": "46087",
       "country": "CN",
-      "name": "YSF-46087",
+      "name": "YN-46087",
       "use_xx_prefix": false,
       "description": "Yunnan C4FM",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "8.137.165.149",
+      "ipv4": "8.137.160.70",
       "ipv6": null
     },
     {
@@ -13555,7 +13555,7 @@
       "description": "GB-H1L8RE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.157.160.172",
+      "ipv4": "86.164.225.242",
       "ipv6": null
     },
     {
@@ -14793,7 +14793,7 @@
     {
       "designator": "62981",
       "country": "ES",
-      "name": "EL EJIDO",
+      "name": "EL-EJIDO",
       "use_xx_prefix": false,
       "description": "YSF EL EJIDO",
       "user_count": "000",
@@ -18143,6 +18143,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "116.91.197.3",
+      "ipv6": null
+    },
+    {
+      "designator": "99808",
+      "country": "GB",
+      "name": "HADARS",
+      "use_xx_prefix": false,
+      "description": "HALIFAX-DIST",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "217.154.54.124",
       "ipv6": null
     },
     {
