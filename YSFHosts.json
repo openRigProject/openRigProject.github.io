@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.223.186",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -12939,7 +12939,7 @@
       "description": "Forth Valley",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "90.240.52.93",
+      "ipv4": "80.176.12.149",
       "ipv6": null
     },
     {
@@ -14703,6 +14703,17 @@
       "ipv6": null
     },
     {
+      "designator": "62424",
+      "country": "US",
+      "name": "KN6PKG",
+      "use_xx_prefix": false,
+      "description": "KN6PKG YSF Ref",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "47.156.55.213",
+      "ipv6": null
+    },
+    {
       "designator": "62426",
       "country": "US",
       "name": "CRHRC-TX",
@@ -15161,7 +15172,7 @@
       "description": "CA VA2RXY",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "184.161.30.124",
+      "ipv4": "24.202.96.126",
       "ipv6": null
     },
     {
