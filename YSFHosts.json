@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.223.186",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -7126,9 +7126,9 @@
     {
       "designator": "22355",
       "country": "IT",
-      "name": "DSTAR-ITALY-N",
+      "name": "IT-595-MULTIP",
       "use_xx_prefix": false,
-      "description": "DSTAR-ITALY-N",
+      "description": "IT-595-MULTIP",
       "user_count": "000",
       "port": 42000,
       "ipv4": "82.165.139.66",
@@ -15220,17 +15220,6 @@
       "ipv6": null
     },
     {
-      "designator": "67498",
-      "country": "US",
-      "name": "Netoholics",
-      "use_xx_prefix": false,
-      "description": "Netoholics Net",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "45.76.255.39",
-      "ipv6": null
-    },
-    {
       "designator": "67762",
       "country": "GB",
       "name": "m0usr-room",
@@ -17681,17 +17670,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "61.195.98.225",
-      "ipv6": null
-    },
-    {
-      "designator": "92586",
-      "country": "JP",
-      "name": "XLX926",
-      "use_xx_prefix": false,
-      "description": "XLX926",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "150.66.12.109",
       "ipv6": null
     },
     {
