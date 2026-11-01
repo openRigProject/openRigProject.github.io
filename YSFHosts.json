@@ -3589,7 +3589,7 @@
       "description": "Test reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.159.115.193",
+      "ipv4": "217.155.206.7",
       "ipv6": null
     },
     {
@@ -4623,7 +4623,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.215.248",
+      "ipv4": "46.12.9.208",
       "ipv6": null
     },
     {
@@ -5877,7 +5877,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.240.36",
+      "ipv4": "77.187.29.202",
       "ipv6": null
     },
     {
@@ -8352,7 +8352,7 @@
       "description": "URF363",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.88.159.19",
+      "ipv4": "212.88.149.244",
       "ipv6": null
     },
     {
