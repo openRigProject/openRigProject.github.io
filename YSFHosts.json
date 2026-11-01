@@ -872,7 +872,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -1202,7 +1202,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.171.107.170",
+      "ipv4": "153.208.77.66",
       "ipv6": null
     },
     {
@@ -1389,7 +1389,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.171.107.170",
+      "ipv4": "153.208.77.66",
       "ipv6": null
     },
     {
@@ -2732,7 +2732,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "51.254.33.194",
-      "ipv6": null
+      "ipv6": "2001:41d0:401:3000::24d9"
     },
     {
       "designator": "00935",
@@ -5206,7 +5206,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.73.157",
+      "ipv4": "88.207.74.149",
       "ipv6": null
     },
     {
@@ -10838,7 +10838,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.35",
+      "ipv4": "192.253.246.42",
       "ipv6": null
     },
     {
@@ -11707,7 +11707,7 @@
       "description": "Tri State Area",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "72.108.229.209",
+      "ipv4": "75.251.5.219",
       "ipv6": null
     },
     {
@@ -14688,7 +14688,7 @@
       "description": "Middle River",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "96.244.42.149",
+      "ipv4": "71.179.13.100",
       "ipv6": null
     },
     {
@@ -18087,7 +18087,7 @@
       "description": "HoHNet",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "136.35.147.152",
+      "ipv4": "136.33.113.207",
       "ipv6": null
     },
     {
