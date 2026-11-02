@@ -2148,7 +2148,7 @@
       "description": "STARFIELD XLX",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "61.195.108.241",
+      "ipv4": "153.127.9.227",
       "ipv6": null
     },
     {
@@ -2203,7 +2203,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "96.225.96.169",
+      "ipv4": "45.79.175.220",
       "ipv6": null
     },
     {
@@ -6944,7 +6944,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.19.21.18",
+      "ipv4": "87.18.91.148",
       "ipv6": null
     },
     {
@@ -8276,7 +8276,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3419:a600:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3422:ec00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8506,7 +8506,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.101.179",
+      "ipv4": "79.184.87.21",
       "ipv6": null
     },
     {
@@ -12290,7 +12290,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.160.17",
+      "ipv4": "77.189.210.100",
       "ipv6": null
     },
     {
@@ -14985,8 +14985,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.162.70",
-      "ipv6": "2003:c9:8fff:41b5:e228:6dff:fe74:b559"
+      "ipv4": "91.16.235.192",
+      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -14996,8 +14996,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.162.70",
-      "ipv6": "2003:c9:8fff:41b5:e228:6dff:fe74:b559"
+      "ipv4": "91.16.235.192",
+      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15007,8 +15007,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.162.70",
-      "ipv6": "2003:c9:8fff:41b5:e228:6dff:fe74:b559"
+      "ipv4": "91.16.235.192",
+      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15018,8 +15018,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.162.70",
-      "ipv6": "2003:c9:8fff:41b5:e228:6dff:fe74:b559"
+      "ipv4": "91.16.235.192",
+      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15029,8 +15029,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.162.70",
-      "ipv6": "2003:c9:8fff:41b5:e228:6dff:fe74:b559"
+      "ipv4": "91.16.235.192",
+      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15217,6 +15217,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "72.14.178.62",
+      "ipv6": null
+    },
+    {
+      "designator": "67498",
+      "country": "US",
+      "name": "Netoholics",
+      "use_xx_prefix": false,
+      "description": "Netoholics Net",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "45.76.255.39",
       "ipv6": null
     },
     {
@@ -15667,8 +15678,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "179.111.158.58",
-      "ipv6": "2804:7f0:b771:88:5f96:e1c3:b363:9b3f"
+      "ipv4": "177.94.131.146",
+      "ipv6": "2804:7f0:b771:628:2d44:262b:a065:172e"
     },
     {
       "designator": "72407",
@@ -15678,8 +15689,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "179.111.158.58",
-      "ipv6": "2804:7f0:b771:88:5f96:e1c3:b363:9b3f"
+      "ipv4": "177.94.131.146",
+      "ipv6": "2804:7f0:b771:628:2d44:262b:a065:172e"
     },
     {
       "designator": "72420",
