@@ -568,6 +568,17 @@
       "ipv6": null
     },
     {
+      "designator": "00073",
+      "country": "US",
+      "name": "URF073",
+      "use_xx_prefix": false,
+      "description": "URF073",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "162.213.130.93",
+      "ipv6": null
+    },
+    {
       "designator": "00074",
       "country": "ES",
       "name": "PARROT-QB",
@@ -872,7 +883,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "68.81.42.133",
+      "ipv4": "172.56.223.186",
       "ipv6": null
     },
     {
@@ -2176,9 +2187,9 @@
     {
       "designator": "00637",
       "country": "US",
-      "name": "W6IDK HUB",
+      "name": "NO SAD HAMS",
       "use_xx_prefix": false,
-      "description": "W6IDK HUB",
+      "description": "ALLSTAR BRIDGE",
       "user_count": "000",
       "port": 42000,
       "ipv4": "72.174.162.14",
@@ -4605,6 +4616,17 @@
       "ipv6": null
     },
     {
+      "designator": "10293",
+      "country": "GB",
+      "name": "Duston-AR",
+      "use_xx_prefix": false,
+      "description": "M9RAH UK",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "87.106.56.50",
+      "ipv6": null
+    },
+    {
       "designator": "10350",
       "country": "GB",
       "name": "WARC",
@@ -5032,17 +5054,6 @@
       "port": 42000,
       "ipv4": "66.255.211.202",
       "ipv6": null
-    },
-    {
-      "designator": "13100",
-      "country": "DE",
-      "name": "Lausitz",
-      "use_xx_prefix": false,
-      "description": "LausitzLink",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "94.130.143.160",
-      "ipv6": "2a01:4f8:13b:2c95::2"
     },
     {
       "designator": "13111",
@@ -7126,9 +7137,9 @@
     {
       "designator": "22355",
       "country": "IT",
-      "name": "IT-595-MULTIP",
+      "name": "MATRIX-DIGI-N",
       "use_xx_prefix": false,
-      "description": "IT-595-MULTIP",
+      "description": "MATRIX-DIGI-N",
       "user_count": "000",
       "port": 42000,
       "ipv4": "82.165.139.66",
@@ -7208,7 +7219,7 @@
       "description": "Scanner gruppo",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.90.43.95",
+      "ipv4": "95.248.88.89",
       "ipv6": null
     },
     {
