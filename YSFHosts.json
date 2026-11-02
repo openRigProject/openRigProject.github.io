@@ -377,8 +377,8 @@
       "description": "YSF/DMR/ALL*",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "15.204.205.35",
-      "ipv6": null
+      "ipv4": "51.81.92.198",
+      "ipv6": "2604:2dc0:101:200::4773"
     },
     {
       "designator": "00043",
@@ -883,7 +883,7 @@
       "description": "DStar",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.56.223.186",
+      "ipv4": "68.81.42.133",
       "ipv6": null
     },
     {
@@ -1248,6 +1248,17 @@
       "port": 42000,
       "ipv4": "91.250.248.216",
       "ipv6": "2a09:cd43:f:4294::1"
+    },
+    {
+      "designator": "00204",
+      "country": "NL",
+      "name": "VEX-YSF204",
+      "use_xx_prefix": false,
+      "description": "Dutch VEX YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "159.173.136.37",
+      "ipv6": null
     },
     {
       "designator": "00207",
@@ -2127,6 +2138,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "46.64.64.92",
+      "ipv6": null
+    },
+    {
+      "designator": "00564",
+      "country": "GB",
+      "name": "URF429",
+      "use_xx_prefix": false,
+      "description": "URF429",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "217.155.217.4",
       "ipv6": null
     },
     {
@@ -4616,17 +4638,6 @@
       "ipv6": null
     },
     {
-      "designator": "10293",
-      "country": "GB",
-      "name": "Duston-AR",
-      "use_xx_prefix": false,
-      "description": "M9RAH UK",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "87.106.56.50",
-      "ipv6": null
-    },
-    {
       "designator": "10350",
       "country": "GB",
       "name": "WARC",
@@ -5888,7 +5899,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.29.202",
+      "ipv4": "77.179.131.182",
       "ipv6": null
     },
     {
@@ -7418,6 +7429,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "93.244.37.83",
+      "ipv6": null
+    },
+    {
+      "designator": "23401",
+      "country": "GB",
+      "name": "Duston-AR",
+      "use_xx_prefix": false,
+      "description": "DAR-M9RAH",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "87.106.56.50",
       "ipv6": null
     },
     {
@@ -10354,7 +10376,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.238.133.194",
+      "ipv4": "44.70.53.7",
       "ipv6": "2001:19f0:1000:2d64:5400:4ff:fe6e:f9f2"
     },
     {
@@ -10971,6 +10993,17 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "67.224.140.59",
+      "ipv6": null
+    },
+    {
+      "designator": "33090",
+      "country": "US",
+      "name": "AA9RA YSF",
+      "use_xx_prefix": false,
+      "description": "Sabor A Pueblo",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "24.12.177.92",
       "ipv6": null
     },
     {
