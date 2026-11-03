@@ -377,8 +377,8 @@
       "description": "YSF/DMR/ALL*",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "51.81.92.198",
-      "ipv6": "2604:2dc0:101:200::4773"
+      "ipv4": "15.204.205.35",
+      "ipv6": null
     },
     {
       "designator": "00043",
@@ -1477,7 +1477,7 @@
       "description": "CYPRUS C4FM",
       "user_count": "000",
       "port": 42006,
-      "ipv4": "109.242.59.105",
+      "ipv4": "37.6.27.190",
       "ipv6": null
     },
     {
@@ -5239,7 +5239,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.74.149",
+      "ipv4": "109.60.43.222",
       "ipv6": null
     },
     {
@@ -10388,7 +10388,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.70.53.7",
-      "ipv6": "2001:19f0:1000:2d64:5400:4ff:fe6e:f9f2"
+      "ipv6": null
     },
     {
       "designator": "31331",
@@ -11553,7 +11553,7 @@
       "description": "SCANIA TEAM",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "94.65.37.245",
+      "ipv4": "94.65.37.120",
       "ipv6": null
     },
     {
@@ -11865,17 +11865,6 @@
       "ipv6": null
     },
     {
-      "designator": "42262",
-      "country": "FR",
-      "name": "YSF-TG20862",
-      "use_xx_prefix": false,
-      "description": "pYSF3",
-      "user_count": "000",
-      "port": 42262,
-      "ipv4": "147.79.100.223",
-      "ipv6": null
-    },
-    {
       "designator": "42270",
       "country": "FR",
       "name": "YSF-TEST",
@@ -11983,17 +11972,6 @@
       "user_count": "000",
       "port": 42521,
       "ipv4": "176.134.151.34",
-      "ipv6": null
-    },
-    {
-      "designator": "42562",
-      "country": "FR",
-      "name": "YSF-XLX562",
-      "use_xx_prefix": false,
-      "description": "Serveur XLX562",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "87.106.212.215",
       "ipv6": null
     },
     {
@@ -16173,7 +16151,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.63.172.37",
+      "ipv4": "91.56.70.246",
       "ipv6": null
     },
     {
