@@ -2603,6 +2603,17 @@
       "ipv6": null
     },
     {
+      "designator": "00835",
+      "country": "US",
+      "name": "FLEXRADIO",
+      "use_xx_prefix": false,
+      "description": "FLEXIBLE RADIO",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "45.32.86.110",
+      "ipv6": null
+    },
+    {
       "designator": "00836",
       "country": "US",
       "name": "XLXUFO",
@@ -6966,7 +6977,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.18.91.148",
+      "ipv4": "79.26.11.21",
       "ipv6": null
     },
     {
@@ -8309,7 +8320,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3422:ec00:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:342c:7300:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8539,7 +8550,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.87.21",
+      "ipv4": "79.184.165.56",
       "ipv6": null
     },
     {
@@ -12334,7 +12345,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.210.100",
+      "ipv4": "77.179.221.222",
       "ipv6": null
     },
     {
@@ -15029,8 +15040,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.235.192",
-      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
+      "ipv4": "91.16.233.68",
+      "ipv6": "2003:c9:8fff:d16:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15040,8 +15051,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.235.192",
-      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
+      "ipv4": "91.16.233.68",
+      "ipv6": "2003:c9:8fff:d16:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15051,8 +15062,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.235.192",
-      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
+      "ipv4": "91.16.233.68",
+      "ipv6": "2003:c9:8fff:d16:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15062,8 +15073,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.235.192",
-      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
+      "ipv4": "91.16.233.68",
+      "ipv6": "2003:c9:8fff:d16:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15073,8 +15084,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.235.192",
-      "ipv6": "2003:c9:8fff:2b6c:e228:6dff:fe74:b559"
+      "ipv4": "91.16.233.68",
+      "ipv6": "2003:c9:8fff:d16:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15140,6 +15151,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "75.145.198.42",
+      "ipv6": null
+    },
+    {
+      "designator": "66483",
+      "country": "US",
+      "name": "AARN-YSF",
+      "use_xx_prefix": true,
+      "description": "AARN YSF Ref",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.143.69",
       "ipv6": null
     },
     {
@@ -15723,7 +15745,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:2d44:262b:a065:172e"
+      "ipv6": "2804:7f0:b771:628:d50a:8efd:5b78:4eb7"
     },
     {
       "designator": "72407",
@@ -15734,7 +15756,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:2d44:262b:a065:172e"
+      "ipv6": "2804:7f0:b771:628:d50a:8efd:5b78:4eb7"
     },
     {
       "designator": "72420",
