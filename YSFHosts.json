@@ -744,6 +744,17 @@
       "ipv6": null
     },
     {
+      "designator": "00098",
+      "country": "JP",
+      "name": "URF098",
+      "use_xx_prefix": false,
+      "description": "URF098",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "133.125.58.227",
+      "ipv6": null
+    },
+    {
       "designator": "00099",
       "country": "PL",
       "name": "XLX003",
@@ -1213,7 +1224,7 @@
       "description": "HItach",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.208.77.66",
+      "ipv4": "153.210.243.201",
       "ipv6": null
     },
     {
@@ -1400,7 +1411,7 @@
       "description": "Hitachi245",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.208.77.66",
+      "ipv4": "153.210.243.201",
       "ipv6": null
     },
     {
@@ -5877,7 +5888,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.26.199",
+      "ipv4": "46.177.240.132",
       "ipv6": null
     },
     {
@@ -8342,7 +8353,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:342c:7300:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3436:9e00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -15745,7 +15756,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:d50a:8efd:5b78:4eb7"
+      "ipv6": "2804:7f0:b771:628:72cc:6dbd:5213:89f0"
     },
     {
       "designator": "72407",
@@ -15756,7 +15767,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:d50a:8efd:5b78:4eb7"
+      "ipv6": "2804:7f0:b771:628:72cc:6dbd:5213:89f0"
     },
     {
       "designator": "72420",
@@ -17334,9 +17345,9 @@
     {
       "designator": "88194",
       "country": "PA",
-      "name": "XLX507",
+      "name": "URF507",
       "use_xx_prefix": false,
-      "description": "Multi-Gateway",
+      "description": "URF507",
       "user_count": "000",
       "port": 42000,
       "ipv4": "190.123.237.11",
