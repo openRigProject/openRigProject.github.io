@@ -1928,7 +1928,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.82.12",
+      "ipv4": "75.161.54.31",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -2940,7 +2940,7 @@
       "description": "French Riviera",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "180.183.43.51",
+      "ipv4": "180.183.42.204",
       "ipv6": null
     },
     {
@@ -4745,7 +4745,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.8.207.66",
-      "ipv6": null
+      "ipv6": "2600:1700:4e90:3be0::46"
     },
     {
       "designator": "10902",
@@ -5921,7 +5921,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.141.155",
+      "ipv4": "77.189.198.255",
       "ipv6": null
     },
     {
@@ -6163,7 +6163,7 @@
       "description": "S.Mcr Radio",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "212.159.75.1",
+      "ipv4": "195.166.150.40",
       "ipv6": null
     },
     {
@@ -10424,6 +10424,17 @@
       "ipv6": null
     },
     {
+      "designator": "31325",
+      "country": "US",
+      "name": "HXO Reflector",
+      "use_xx_prefix": false,
+      "description": "BM TG 31325",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "162.248.93.209",
+      "ipv6": null
+    },
+    {
       "designator": "31331",
       "country": "US",
       "name": "NNHASL",
@@ -10915,7 +10926,7 @@
       "description": "URF324",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "192.253.246.43",
+      "ipv4": "192.253.246.39",
       "ipv6": null
     },
     {
@@ -14193,7 +14204,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.247.186.164",
+      "ipv4": "80.136.245.93",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14204,7 +14215,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "79.247.186.164",
+      "ipv4": "80.136.245.93",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14215,7 +14226,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "79.247.186.164",
+      "ipv4": "80.136.245.93",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -15756,7 +15767,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:ff14:2467:d013:e08a"
+      "ipv6": "2804:7f0:b771:628:123f:9e7b:1d69:b8ac"
     },
     {
       "designator": "72407",
@@ -15767,7 +15778,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:ff14:2467:d013:e08a"
+      "ipv6": "2804:7f0:b771:628:123f:9e7b:1d69:b8ac"
     },
     {
       "designator": "72420",
@@ -16184,7 +16195,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.95.78",
+      "ipv4": "91.56.77.75",
       "ipv6": null
     },
     {
@@ -18121,6 +18132,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "185.177.59.32",
+      "ipv6": null
+    },
+    {
+      "designator": "98765",
+      "country": "JP",
+      "name": "URFYAI",
+      "use_xx_prefix": false,
+      "description": "URFYAI",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "203.138.145.124",
       "ipv6": null
     },
     {
