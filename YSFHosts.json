@@ -6145,17 +6145,6 @@
       "ipv6": null
     },
     {
-      "designator": "20800",
-      "country": "GR",
-      "name": "MACEDONIA C4F",
-      "use_xx_prefix": false,
-      "description": "GR-MACED C4FM",
-      "user_count": "000",
-      "port": 42008,
-      "ipv4": "79.107.29.98",
-      "ipv6": null
-    },
-    {
       "designator": "20820",
       "country": "UA",
       "name": "Cherkasy YSF",
@@ -8087,8 +8076,8 @@
       "use_xx_prefix": false,
       "description": "YSF Legnica",
       "user_count": "000",
-      "port": 42002,
-      "ipv4": "89.67.246.231",
+      "port": 42000,
+      "ipv4": "57.128.208.118",
       "ipv6": null
     },
     {
@@ -8803,7 +8792,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.41.217.236",
+      "ipv4": "79.4.91.64",
       "ipv6": null
     },
     {
@@ -11784,7 +11773,7 @@
       "description": "Tri State Area",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.251.5.219",
+      "ipv4": "75.194.91.254",
       "ipv6": null
     },
     {
@@ -15745,7 +15734,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:123f:9e7b:1d69:b8ac"
+      "ipv6": "2804:7f0:b771:628:8e68:5a46:47c6:ad55"
     },
     {
       "designator": "72407",
@@ -15756,7 +15745,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:123f:9e7b:1d69:b8ac"
+      "ipv6": "2804:7f0:b771:628:8e68:5a46:47c6:ad55"
     },
     {
       "designator": "72420",
