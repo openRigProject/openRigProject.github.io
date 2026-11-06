@@ -1239,17 +1239,6 @@
       "ipv6": "2a09:cd43:f:4294::1"
     },
     {
-      "designator": "00204",
-      "country": "NL",
-      "name": "VEX-YSF204",
-      "use_xx_prefix": false,
-      "description": "Dutch VEX YSF",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "159.173.136.37",
-      "ipv6": null
-    },
-    {
       "designator": "00207",
       "country": "GB",
       "name": "XLX207",
@@ -5910,7 +5899,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.189.198.255",
+      "ipv4": "77.184.146.163",
       "ipv6": null
     },
     {
@@ -5998,7 +5987,7 @@
       "description": "YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.130.248.89",
+      "ipv4": "79.130.127.41",
       "ipv6": null
     },
     {
@@ -7102,6 +7091,17 @@
       "ipv6": null
     },
     {
+      "designator": "22275",
+      "country": "IT",
+      "name": "TRAPANI-MP",
+      "use_xx_prefix": false,
+      "description": "MP-TRAPANI",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "101.56.247.20",
+      "ipv6": null
+    },
+    {
       "designator": "22276",
       "country": "IT",
       "name": "TRANI-BAT",
@@ -7683,17 +7683,6 @@
       "port": 42001,
       "ipv4": "88.97.140.8",
       "ipv6": null
-    },
-    {
-      "designator": "23595",
-      "country": "GB",
-      "name": "OZ-DMR (UK)",
-      "use_xx_prefix": false,
-      "description": "OZ-DMR NETWORK",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "172.236.9.190",
-      "ipv6": "2600:3c13::f03c:94ff:fedd:516"
     },
     {
       "designator": "23620",
@@ -16987,7 +16976,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.54.4",
+      "ipv4": "109.104.48.142",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
