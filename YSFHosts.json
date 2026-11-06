@@ -4275,17 +4275,6 @@
       "ipv6": null
     },
     {
-      "designator": "07941",
-      "country": "US",
-      "name": "WMRA",
-      "use_xx_prefix": false,
-      "description": "MULTIMODE",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "149.248.4.184",
-      "ipv6": null
-    },
-    {
       "designator": "08000",
       "country": "GB",
       "name": "HARC",
@@ -4678,7 +4667,7 @@
       "description": "pYSF3 DV-GR3",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "46.12.9.208",
+      "ipv4": "79.103.115.66",
       "ipv6": null
     },
     {
@@ -8353,7 +8342,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3400:2100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:340a:2400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -14028,7 +14017,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "58.8.189.89",
+      "ipv4": "110.169.119.167",
       "ipv6": null
     },
     {
