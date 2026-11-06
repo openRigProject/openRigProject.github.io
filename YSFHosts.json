@@ -2940,7 +2940,7 @@
       "description": "French Riviera",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "180.183.42.204",
+      "ipv4": "180.183.63.40",
       "ipv6": null
     },
     {
@@ -3623,7 +3623,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "217.155.206.7",
-      "ipv6": null
+      "ipv6": "2a02:8012:89b3:10:216:3eff:fef3:1bff"
     },
     {
       "designator": "03711",
@@ -4656,7 +4656,7 @@
       "description": "FunasssyLand",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "122.16.32.249",
+      "ipv4": "153.134.137.150",
       "ipv6": null
     },
     {
@@ -6163,7 +6163,7 @@
       "description": "S.Mcr Radio",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "195.166.150.40",
+      "ipv4": "212.159.75.1",
       "ipv6": null
     },
     {
@@ -6999,7 +6999,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.18.34.123",
+      "ipv4": "79.19.151.236",
       "ipv6": null
     },
     {
@@ -7736,7 +7736,7 @@
       "description": "DX3L Multilink",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "24.111.198.192",
+      "ipv4": "24.111.119.66",
       "ipv6": null
     },
     {
@@ -8583,7 +8583,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.159.171",
+      "ipv4": "79.184.173.38",
       "ipv6": null
     },
     {
@@ -12367,7 +12367,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.12.37.111",
+      "ipv4": "93.130.145.100",
       "ipv6": null
     },
     {
@@ -15062,8 +15062,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.164.90",
-      "ipv6": "2003:c9:8fff:1098:e228:6dff:fe74:b559"
+      "ipv4": "193.159.47.165",
+      "ipv6": "2003:c9:8fff:1218:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15073,8 +15073,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.164.90",
-      "ipv6": "2003:c9:8fff:1098:e228:6dff:fe74:b559"
+      "ipv4": "193.159.47.165",
+      "ipv6": "2003:c9:8fff:1218:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15084,8 +15084,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.164.90",
-      "ipv6": "2003:c9:8fff:1098:e228:6dff:fe74:b559"
+      "ipv4": "193.159.47.165",
+      "ipv6": "2003:c9:8fff:1218:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15095,8 +15095,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.164.90",
-      "ipv6": "2003:c9:8fff:1098:e228:6dff:fe74:b559"
+      "ipv4": "193.159.47.165",
+      "ipv6": "2003:c9:8fff:1218:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15106,8 +15106,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.164.90",
-      "ipv6": "2003:c9:8fff:1098:e228:6dff:fe74:b559"
+      "ipv4": "193.159.47.165",
+      "ipv6": "2003:c9:8fff:1218:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
