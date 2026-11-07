@@ -1906,7 +1906,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.140.24",
+      "ipv4": "75.161.142.141",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -11986,6 +11986,17 @@
       "ipv6": null
     },
     {
+      "designator": "42450",
+      "country": "US",
+      "name": "N1YKT",
+      "use_xx_prefix": false,
+      "description": "N1YKT YSF HUB",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "162.213.130.92",
+      "ipv6": null
+    },
+    {
       "designator": "42562",
       "country": "FR",
       "name": "YSF-XLX562",
@@ -13299,7 +13310,7 @@
       "country": "CA",
       "name": "XLX304",
       "use_xx_prefix": false,
-      "description": "SaskWarn/Parkl",
+      "description": "Saskwarn Parkl",
       "user_count": "000",
       "port": 42000,
       "ipv4": "172.105.14.152",
@@ -15745,7 +15756,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:8e68:5a46:47c6:ad55"
+      "ipv6": "2804:7f0:b771:628:bf32:7380:2397:95ec"
     },
     {
       "designator": "72407",
@@ -15756,7 +15767,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:8e68:5a46:47c6:ad55"
+      "ipv6": "2804:7f0:b771:628:bf32:7380:2397:95ec"
     },
     {
       "designator": "72420",
