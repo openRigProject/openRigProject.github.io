@@ -1547,17 +1547,6 @@
       "ipv6": null
     },
     {
-      "designator": "00304",
-      "country": "CA",
-      "name": "URF304",
-      "use_xx_prefix": false,
-      "description": "URF304",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "172.105.14.152",
-      "ipv6": null
-    },
-    {
       "designator": "00306",
       "country": "AU",
       "name": "URF306",
@@ -1917,7 +1906,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.54.31",
+      "ipv4": "75.161.140.24",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -5910,7 +5899,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.184.146.163",
+      "ipv4": "77.186.132.90",
       "ipv6": null
     },
     {
@@ -7010,7 +6999,7 @@
       "description": "Test YSF Room",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.171.67.24",
+      "ipv4": "79.18.194.233",
       "ipv6": null
     },
     {
@@ -16760,6 +16749,17 @@
       "ipv6": null
     },
     {
+      "designator": "81925",
+      "country": "DE",
+      "name": "DN2ANE",
+      "use_xx_prefix": false,
+      "description": "XLX 084",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "74.208.132.51",
+      "ipv6": null
+    },
+    {
       "designator": "81941",
       "country": "CA",
       "name": "XLX819",
@@ -17461,6 +17461,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "89.240.4.99",
+      "ipv6": null
+    },
+    {
+      "designator": "88889",
+      "country": "FR",
+      "name": "ARA_TO_YSF",
+      "use_xx_prefix": false,
+      "description": "ARA",
+      "user_count": "000",
+      "port": 43000,
+      "ipv4": "163.172.45.165",
       "ipv6": null
     },
     {
