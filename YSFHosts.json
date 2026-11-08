@@ -1917,7 +1917,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.55.92",
+      "ipv4": "75.161.48.179",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -5910,7 +5910,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.132.90",
+      "ipv4": "77.187.57.87",
       "ipv6": null
     },
     {
@@ -11652,7 +11652,7 @@
       "description": "C4FM TEAM",
       "user_count": "000",
       "port": 42008,
-      "ipv4": "2.86.36.9",
+      "ipv4": "79.107.25.162",
       "ipv6": null
     },
     {
@@ -14204,7 +14204,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "80.136.245.93",
+      "ipv4": "87.152.165.113",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14215,7 +14215,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "80.136.245.93",
+      "ipv4": "87.152.165.113",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14226,7 +14226,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "80.136.245.93",
+      "ipv4": "87.152.165.113",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
