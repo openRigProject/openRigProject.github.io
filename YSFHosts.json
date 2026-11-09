@@ -1756,6 +1756,17 @@
       "ipv6": null
     },
     {
+      "designator": "00429",
+      "country": "JP",
+      "name": "URF098",
+      "use_xx_prefix": false,
+      "description": "URF098",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "133.125.58.227",
+      "ipv6": null
+    },
+    {
       "designator": "00431",
       "country": "US",
       "name": "XLX043A",
@@ -1879,9 +1890,9 @@
     {
       "designator": "00493",
       "country": "US",
-      "name": "VEX493",
+      "name": "WPSD-VEX493",
       "use_xx_prefix": false,
-      "description": "VEX493",
+      "description": "WPSD-VEX493",
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.218.221.46",
@@ -4671,6 +4682,17 @@
       "ipv6": null
     },
     {
+      "designator": "10429",
+      "country": "JP",
+      "name": "XLX429",
+      "use_xx_prefix": false,
+      "description": "Aoba",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "133.125.58.227",
+      "ipv6": null
+    },
+    {
       "designator": "10465",
       "country": "US",
       "name": "XLX749",
@@ -5239,7 +5261,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.14.124",
+      "ipv4": "109.60.12.221",
       "ipv6": null
     },
     {
@@ -5910,7 +5932,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.57.87",
+      "ipv4": "93.130.212.240",
       "ipv6": null
     },
     {
@@ -6409,6 +6431,17 @@
       "ipv6": null
     },
     {
+      "designator": "21419",
+      "country": "ES",
+      "name": "CANAL-19",
+      "use_xx_prefix": false,
+      "description": "C4FM-CARRETERA",
+      "user_count": "000",
+      "port": 42007,
+      "ipv4": "217.160.209.125",
+      "ipv6": null
+    },
+    {
       "designator": "21429",
       "country": "ES",
       "name": "MALAGA",
@@ -6779,7 +6812,7 @@
       "description": "MP Matrix",
       "user_count": "000",
       "port": 42022,
-      "ipv4": "212.216.148.3",
+      "ipv4": "95.247.196.92",
       "ipv6": null
     },
     {
@@ -7220,6 +7253,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "80.93.251.178",
+      "ipv6": null
+    },
+    {
+      "designator": "22480",
+      "country": "ES",
+      "name": "ARCANGEL",
+      "use_xx_prefix": false,
+      "description": "DR-2X CORDOBA",
+      "user_count": "000",
+      "port": 42006,
+      "ipv4": "217.160.209.125",
       "ipv6": null
     },
     {
@@ -13141,6 +13185,17 @@
       "ipv6": null
     },
     {
+      "designator": "49711",
+      "country": "ES",
+      "name": "SEVILLA",
+      "use_xx_prefix": false,
+      "description": "SEVILLA",
+      "user_count": "000",
+      "port": 42005,
+      "ipv4": "217.160.209.125",
+      "ipv6": null
+    },
+    {
       "designator": "49735",
       "country": "US",
       "name": "NORTH-MI",
@@ -16195,7 +16250,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.63.172.224",
+      "ipv4": "91.56.72.213",
       "ipv6": null
     },
     {
@@ -16641,9 +16696,9 @@
     {
       "designator": "80364",
       "country": "US",
-      "name": "VEX493",
+      "name": "WPSD-VEX493",
       "use_xx_prefix": false,
-      "description": "VEX493",
+      "description": "WPSD-VEX493",
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.218.221.46",
