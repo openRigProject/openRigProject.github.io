@@ -406,7 +406,7 @@
       "designator": "00045",
       "country": "ES",
       "name": "QSOBOX",
-      "use_xx_prefix": true,
+      "use_xx_prefix": false,
       "description": "QSO Box YSF",
       "user_count": "000",
       "port": 42009,
@@ -582,7 +582,7 @@
       "designator": "00075",
       "country": "ES",
       "name": "ANDALUCIA-QB",
-      "use_xx_prefix": true,
+      "use_xx_prefix": false,
       "description": "YSF ANDALUCIA",
       "user_count": "000",
       "port": 42007,
@@ -5932,7 +5932,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.130.212.240",
+      "ipv4": "77.181.113.104",
       "ipv6": null
     },
     {
@@ -7010,7 +7010,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.21.222.26",
+      "ipv4": "79.37.94.212",
       "ipv6": null
     },
     {
@@ -8605,7 +8605,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.163.237",
+      "ipv4": "79.184.161.81",
       "ipv6": null
     },
     {
@@ -15822,7 +15822,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:9a24:aa18:39a8:43ed"
+      "ipv6": "2804:7f0:b771:628:bdf8:99f2:8966:6320"
     },
     {
       "designator": "72407",
@@ -15833,7 +15833,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.146",
-      "ipv6": "2804:7f0:b771:628:9a24:aa18:39a8:43ed"
+      "ipv6": "2804:7f0:b771:628:bdf8:99f2:8966:6320"
     },
     {
       "designator": "72420",
