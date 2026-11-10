@@ -311,7 +311,7 @@
       "description": "CQ-AETHER-C4FM",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "38.19.202.24",
+      "ipv4": "157.173.36.81",
       "ipv6": null
     },
     {
@@ -583,7 +583,7 @@
       "country": "ES",
       "name": "ANDALUCIA-QB",
       "use_xx_prefix": false,
-      "description": "YSF ANDALUCIA",
+      "description": "YSF QSOBOX",
       "user_count": "000",
       "port": 42007,
       "ipv4": "188.213.170.172",
@@ -4634,7 +4634,7 @@
       "description": "AETHER-CQ-ECHO",
       "user_count": "000",
       "port": 42012,
-      "ipv4": "38.19.202.24",
+      "ipv4": "157.173.36.81",
       "ipv6": null
     },
     {
@@ -5932,7 +5932,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.113.104",
+      "ipv4": "77.181.37.53",
       "ipv6": null
     },
     {
@@ -9804,7 +9804,7 @@
       "description": "URFYLV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.242.159.44",
+      "ipv4": "78.177.16.106",
       "ipv6": "2a00:1d32:5b0:16a7:46a8:ac79:ad14:9c15"
     },
     {
@@ -18339,7 +18339,7 @@
       "use_xx_prefix": false,
       "description": "(FCS002)",
       "user_count": "000",
-      "port": 42000,
+      "port": 42510,
       "ipv4": "57.131.25.19",
       "ipv6": null
     },
