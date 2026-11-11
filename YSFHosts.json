@@ -5261,7 +5261,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.12.221",
+      "ipv4": "88.207.75.8",
       "ipv6": null
     },
     {
@@ -9804,8 +9804,8 @@
       "description": "URFYLV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.177.16.106",
-      "ipv6": "2a00:1d32:5b0:16a7:46a8:ac79:ad14:9c15"
+      "ipv4": "88.226.83.80",
+      "ipv6": "2a01:4f8:271:5a5c::"
     },
     {
       "designator": "28678",
@@ -11498,7 +11498,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.54.134.79",
+      "ipv4": "79.36.195.30",
       "ipv6": null
     },
     {
@@ -11916,7 +11916,7 @@
       "description": "Alta Gracia CB",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "181.87.254.227",
+      "ipv4": "181.2.40.174",
       "ipv6": null
     },
     {
