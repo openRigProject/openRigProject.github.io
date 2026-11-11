@@ -300,7 +300,7 @@
       "description": "XLX109F",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.195.218.129",
+      "ipv4": "153.195.252.62",
       "ipv6": null
     },
     {
@@ -773,7 +773,7 @@
       "description": "XLX109 Fusion",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.195.218.129",
+      "ipv4": "153.195.252.62",
       "ipv6": null
     },
     {
@@ -1928,7 +1928,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.48.179",
+      "ipv4": "75.161.154.186",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -7010,7 +7010,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.37.94.212",
+      "ipv4": "79.26.8.96",
       "ipv6": null
     },
     {
@@ -8375,7 +8375,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3432:9200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343b:e100:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8605,7 +8605,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.118.9",
+      "ipv4": "79.184.172.56",
       "ipv6": null
     },
     {
@@ -11106,6 +11106,17 @@
       "ipv6": null
     },
     {
+      "designator": "33144",
+      "country": "BG",
+      "name": "XLX931",
+      "use_xx_prefix": true,
+      "description": "xlx931 ysf",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "92.118.153.77",
+      "ipv6": null
+    },
+    {
       "designator": "33420",
       "country": "MX",
       "name": "Durango",
@@ -12411,7 +12422,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.128.17",
+      "ipv4": "77.179.206.151",
       "ipv6": null
     },
     {
@@ -15117,8 +15128,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.232.52",
-      "ipv6": "2003:c9:8fff:1a57:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.128",
+      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15128,8 +15139,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.232.52",
-      "ipv6": "2003:c9:8fff:1a57:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.128",
+      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15139,8 +15150,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.232.52",
-      "ipv6": "2003:c9:8fff:1a57:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.128",
+      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15150,8 +15161,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.232.52",
-      "ipv6": "2003:c9:8fff:1a57:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.128",
+      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15161,8 +15172,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.232.52",
-      "ipv6": "2003:c9:8fff:1a57:e228:6dff:fe74:b559"
+      "ipv4": "87.178.162.128",
+      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15822,7 +15833,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.58",
-      "ipv6": "2804:7f0:b771:74c:f65b:4695:5aa7:aa56"
+      "ipv6": "2804:7f0:b771:74c:3fee:aad:6952:92a"
     },
     {
       "designator": "72407",
@@ -15833,7 +15844,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.58",
-      "ipv6": "2804:7f0:b771:74c:f65b:4695:5aa7:aa56"
+      "ipv6": "2804:7f0:b771:74c:3fee:aad:6952:92a"
     },
     {
       "designator": "72420",
@@ -18197,7 +18208,7 @@
       "description": "C4FM JAPAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.227.48.121",
+      "ipv4": "153.222.16.81",
       "ipv6": null
     },
     {
