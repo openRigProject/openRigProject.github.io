@@ -2548,6 +2548,17 @@
       "ipv6": null
     },
     {
+      "designator": "00775",
+      "country": "IT",
+      "name": "URF775",
+      "use_xx_prefix": false,
+      "description": "URF775",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "51.38.27.230",
+      "ipv6": null
+    },
+    {
       "designator": "00776",
       "country": "JP",
       "name": "XLX776",
@@ -6020,7 +6031,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.79.70",
+      "ipv4": "77.186.19.248",
       "ipv6": null
     },
     {
@@ -6099,17 +6110,6 @@
       "port": 42000,
       "ipv4": "72.73.43.13",
       "ipv6": "2600:4040:4014:e601::10"
-    },
-    {
-      "designator": "20273",
-      "country": "IT",
-      "name": "YSF-X",
-      "use_xx_prefix": true,
-      "description": "YSF",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "94.65.88.4",
-      "ipv6": null
     },
     {
       "designator": "20281",
@@ -8715,7 +8715,7 @@
       "description": "WIRES-X ITALY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "52.18.59.124",
+      "ipv4": "31.14.135.231",
       "ipv6": null
     },
     {
@@ -15000,6 +15000,17 @@
       "ipv6": null
     },
     {
+      "designator": "62716",
+      "country": "SI",
+      "name": "Slovenia2",
+      "use_xx_prefix": false,
+      "description": "Slovenia2",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "178.79.110.13",
+      "ipv6": null
+    },
+    {
       "designator": "62800",
       "country": "IT",
       "name": "XLX628",
@@ -16360,7 +16371,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.85.17",
+      "ipv4": "91.56.67.130",
       "ipv6": null
     },
     {
