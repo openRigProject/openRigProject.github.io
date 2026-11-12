@@ -249,6 +249,17 @@
       "ipv6": null
     },
     {
+      "designator": "00028",
+      "country": "ES",
+      "name": "ALANDALUS",
+      "use_xx_prefix": false,
+      "description": "ALANDALUS",
+      "user_count": "000",
+      "port": 42005,
+      "ipv4": "113.20.8.61",
+      "ipv6": null
+    },
+    {
       "designator": "00029",
       "country": "US",
       "name": "Adirondack",
@@ -416,9 +427,9 @@
     {
       "designator": "00046",
       "country": "ES",
-      "name": "TERTULIA",
+      "name": "ALANDALUS",
       "use_xx_prefix": false,
-      "description": "Tertulia C4FM",
+      "description": "ANDALUCIA QB",
       "user_count": "000",
       "port": 42002,
       "ipv4": "188.213.170.172",
@@ -625,7 +636,7 @@
     {
       "designator": "00075",
       "country": "ES",
-      "name": "Al-Andalus",
+      "name": "ANDALUCIA-QB",
       "use_xx_prefix": false,
       "description": "YSF QSOBOX",
       "user_count": "000",
@@ -3054,6 +3065,17 @@
       "ipv6": null
     },
     {
+      "designator": "01423",
+      "country": "ES",
+      "name": "JAEN",
+      "use_xx_prefix": false,
+      "description": "JAEN",
+      "user_count": "000",
+      "port": 42003,
+      "ipv4": "113.20.8.61",
+      "ipv6": null
+    },
+    {
       "designator": "01453",
       "country": "TR",
       "name": "Turk Konf.",
@@ -3370,6 +3392,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "213.186.34.50",
+      "ipv6": null
+    },
+    {
+      "designator": "02148",
+      "country": "ES",
+      "name": "MADRID",
+      "use_xx_prefix": false,
+      "description": "MADRID",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "113.20.8.61",
       "ipv6": null
     },
     {
@@ -6075,7 +6108,7 @@
       "description": "YSF",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.130.127.41",
+      "ipv4": "94.65.88.4",
       "ipv6": null
     },
     {
@@ -6461,6 +6494,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "62.84.187.225",
+      "ipv6": null
+    },
+    {
+      "designator": "21414",
+      "country": "ES",
+      "name": "CORDOBA",
+      "use_xx_prefix": false,
+      "description": "CORDOBA",
+      "user_count": "000",
+      "port": 42004,
+      "ipv4": "113.20.8.61",
       "ipv6": null
     },
     {
@@ -10013,7 +10057,7 @@
       "description": "Experimental",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "89.143.154.214",
+      "ipv4": "86.61.13.193",
       "ipv6": null
     },
     {
@@ -14956,17 +15000,6 @@
       "ipv6": null
     },
     {
-      "designator": "62716",
-      "country": "SI",
-      "name": "Slovenia2",
-      "use_xx_prefix": false,
-      "description": "Slovenia2",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "109.182.208.218",
-      "ipv6": null
-    },
-    {
       "designator": "62800",
       "country": "IT",
       "name": "XLX628",
@@ -15899,7 +15932,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.94.131.58",
-      "ipv6": "2804:7f0:b771:74c:3fee:aad:6952:92a"
+      "ipv6": "2804:7f0:b771:74c:dc51:1371:611a:8e48"
     },
     {
       "designator": "72407",
@@ -15910,7 +15943,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.94.131.58",
-      "ipv6": "2804:7f0:b771:74c:3fee:aad:6952:92a"
+      "ipv6": "2804:7f0:b771:74c:dc51:1371:611a:8e48"
     },
     {
       "designator": "72420",
@@ -16327,7 +16360,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.63.173.231",
+      "ipv4": "91.56.85.17",
       "ipv6": null
     },
     {
