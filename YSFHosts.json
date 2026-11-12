@@ -883,7 +883,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.0.252.116",
+      "ipv4": "95.247.3.166",
       "ipv6": null
     },
     {
@@ -4073,7 +4073,7 @@
       "description": "RMDV",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "216.128.169.118",
+      "ipv4": "45.32.162.45",
       "ipv6": null
     },
     {
@@ -4139,7 +4139,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.7.137",
+      "ipv4": "23.29.7.140",
       "ipv6": null
     },
     {
@@ -5954,7 +5954,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.155.66",
+      "ipv4": "178.59.26.208",
       "ipv6": null
     },
     {
@@ -8430,7 +8430,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343b:e100:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3406:400:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8660,7 +8660,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.172.56",
+      "ipv4": "79.184.169.116",
       "ipv6": null
     },
     {
@@ -8671,7 +8671,7 @@
       "description": "WIRES-X ITALY",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.14.135.231",
+      "ipv4": "52.18.59.124",
       "ipv6": null
     },
     {
@@ -10565,6 +10565,17 @@
       "port": 42000,
       "ipv4": "52.23.107.220",
       "ipv6": "2600:1f18:ecc:6f00:863c:f0b6:9de2:b086"
+    },
+    {
+      "designator": "31349",
+      "country": "US",
+      "name": "HKC IRC",
+      "use_xx_prefix": false,
+      "description": "HKC Worldwide",
+      "user_count": "000",
+      "port": 41500,
+      "ipv4": "67.85.61.239",
+      "ipv6": null
     },
     {
       "designator": "31357",
@@ -12477,7 +12488,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.179.206.151",
+      "ipv4": "77.181.88.126",
       "ipv6": null
     },
     {
@@ -14886,7 +14897,7 @@
       "description": "Middle River",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "71.244.179.55",
+      "ipv4": "71.179.96.25",
       "ipv6": null
     },
     {
@@ -15183,8 +15194,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.162.128",
-      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.28",
+      "ipv6": "2003:c9:8fff:1340:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15194,8 +15205,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.162.128",
-      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.28",
+      "ipv6": "2003:c9:8fff:1340:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15205,8 +15216,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.162.128",
-      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.28",
+      "ipv6": "2003:c9:8fff:1340:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15216,8 +15227,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.162.128",
-      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.28",
+      "ipv6": "2003:c9:8fff:1340:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15227,8 +15238,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.162.128",
-      "ipv6": "2003:c9:8fff:466a:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.28",
+      "ipv6": "2003:c9:8fff:1340:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16316,7 +16327,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.72.213",
+      "ipv4": "91.63.173.231",
       "ipv6": null
     },
     {
