@@ -5349,7 +5349,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "88.207.75.8",
+      "ipv4": "109.60.13.127",
       "ipv6": null
     },
     {
@@ -5690,7 +5690,7 @@
       "description": "YSF :17810",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "2.84.224.195",
+      "ipv4": "94.70.108.149",
       "ipv6": null
     },
     {
@@ -6110,6 +6110,17 @@
       "port": 42000,
       "ipv4": "72.73.43.13",
       "ipv6": "2600:4040:4014:e601::10"
+    },
+    {
+      "designator": "20273",
+      "country": "IT",
+      "name": "YSF-X",
+      "use_xx_prefix": true,
+      "description": "YSF",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "79.130.127.0",
+      "ipv6": null
     },
     {
       "designator": "20281",
@@ -10299,7 +10310,7 @@
       "description": "grupo latinos",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "162.35.25.21",
+      "ipv4": "74.50.87.59",
       "ipv6": null
     },
     {
@@ -11608,7 +11619,7 @@
       "description": "CDP DX Team",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.36.195.30",
+      "ipv4": "95.249.164.127",
       "ipv6": null
     },
     {
@@ -14193,7 +14204,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "110.169.119.167",
+      "ipv4": "58.8.190.171",
       "ipv6": null
     },
     {
@@ -14369,7 +14380,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.247.191.99",
+      "ipv4": "87.152.174.66",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14380,7 +14391,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "79.247.191.99",
+      "ipv4": "87.152.174.66",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14391,7 +14402,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "79.247.191.99",
+      "ipv4": "87.152.174.66",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -17174,7 +17185,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.48.142",
+      "ipv4": "109.104.54.246",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
