@@ -636,7 +636,7 @@
     {
       "designator": "00075",
       "country": "ES",
-      "name": "ANDALUCIA-QB",
+      "name": "AL-ANDALUS-QB",
       "use_xx_prefix": false,
       "description": "YSF QSOBOX",
       "user_count": "000",
@@ -1983,7 +1983,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.154.186",
+      "ipv4": "75.161.83.148",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -10644,17 +10644,6 @@
       "ipv6": null
     },
     {
-      "designator": "31358",
-      "country": "US",
-      "name": "QSO31358",
-      "use_xx_prefix": false,
-      "description": "K8KHW-YSF",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "24.231.20.178",
-      "ipv6": null
-    },
-    {
       "designator": "31378",
       "country": "US",
       "name": "Gate City",
@@ -16371,7 +16360,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.67.130",
+      "ipv4": "91.56.87.121",
       "ipv6": null
     },
     {
@@ -16526,17 +16515,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "20.245.230.216",
-      "ipv6": null
-    },
-    {
-      "designator": "76263",
-      "country": "PL",
-      "name": "GORLICE",
-      "use_xx_prefix": false,
-      "description": "",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "46.149.220.118",
       "ipv6": null
     },
     {
