@@ -476,7 +476,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.95.139",
+      "ipv4": "31.62.43.151",
       "ipv6": null
     },
     {
@@ -6031,7 +6031,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.19.248",
+      "ipv4": "77.186.154.46",
       "ipv6": null
     },
     {
@@ -8077,7 +8077,7 @@
       "description": "Russia",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "62.113.103.244",
+      "ipv4": "31.128.44.121",
       "ipv6": null
     },
     {
@@ -8715,7 +8715,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.167.33",
+      "ipv4": "79.184.100.254",
       "ipv6": null
     },
     {
@@ -14248,7 +14248,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42171,
-      "ipv4": "62.113.103.244",
+      "ipv4": "31.128.44.121",
       "ipv6": null
     },
     {
@@ -15932,7 +15932,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:648d:cdb6:fc7a:dc72"
+      "ipv6": "2804:7f0:b771:3bd:df93:ccea:3888:5587"
     },
     {
       "designator": "72407",
@@ -15943,7 +15943,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:648d:cdb6:fc7a:dc72"
+      "ipv6": "2804:7f0:b771:3bd:df93:ccea:3888:5587"
     },
     {
       "designator": "72420",
