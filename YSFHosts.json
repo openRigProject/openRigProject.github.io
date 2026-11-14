@@ -1657,6 +1657,17 @@
       "ipv6": null
     },
     {
+      "designator": "00320",
+      "country": "US",
+      "name": "QNET",
+      "use_xx_prefix": false,
+      "description": "QuadNet Fusion",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "3.21.215.45",
+      "ipv6": null
+    },
+    {
       "designator": "00322",
       "country": "US",
       "name": "00322",
@@ -6053,7 +6064,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.154.46",
+      "ipv4": "77.179.17.91",
       "ipv6": null
     },
     {
@@ -12206,6 +12217,17 @@
       "ipv6": null
     },
     {
+      "designator": "42456",
+      "country": "FR",
+      "name": "YSF-XLX310",
+      "use_xx_prefix": false,
+      "description": "Serveur XLX310",
+      "user_count": "000",
+      "port": 42087,
+      "ipv4": "176.134.151.34",
+      "ipv6": null
+    },
+    {
       "designator": "42725",
       "country": "PT",
       "name": "XLX268",
@@ -15976,7 +15998,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:df93:ccea:3888:5587"
+      "ipv6": "2804:7f0:b771:3bd:ff81:1e56:d5ec:2fc"
     },
     {
       "designator": "72407",
@@ -15987,7 +16009,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:df93:ccea:3888:5587"
+      "ipv6": "2804:7f0:b771:3bd:ff81:1e56:d5ec:2fc"
     },
     {
       "designator": "72420",
