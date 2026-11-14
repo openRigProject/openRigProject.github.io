@@ -1635,6 +1635,28 @@
       "ipv6": null
     },
     {
+      "designator": "00310",
+      "country": "ES",
+      "name": "HUELVA",
+      "use_xx_prefix": false,
+      "description": "ANDALUCIA REF",
+      "user_count": "000",
+      "port": 54208,
+      "ipv4": "57.131.25.19",
+      "ipv6": null
+    },
+    {
+      "designator": "00311",
+      "country": "ES",
+      "name": "CADIZ",
+      "use_xx_prefix": false,
+      "description": "ANDALUCIA REF",
+      "user_count": "000",
+      "port": 54207,
+      "ipv4": "57.131.25.19",
+      "ipv6": null
+    },
+    {
       "designator": "00322",
       "country": "US",
       "name": "00322",
@@ -3080,10 +3102,10 @@
       "country": "ES",
       "name": "JAEN",
       "use_xx_prefix": false,
-      "description": "JAEN",
+      "description": "ANDALUCIA REF",
       "user_count": "000",
-      "port": 42003,
-      "ipv4": "113.20.8.61",
+      "port": 54202,
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -6512,10 +6534,10 @@
       "country": "ES",
       "name": "CORDOBA",
       "use_xx_prefix": false,
-      "description": "CORDOBA",
+      "description": "ANDALUCIA",
       "user_count": "000",
-      "port": 42004,
-      "ipv4": "113.20.8.61",
+      "port": 54203,
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -6532,12 +6554,12 @@
     {
       "designator": "21418",
       "country": "ES",
-      "name": "Granada",
+      "name": "GRANADA",
       "use_xx_prefix": false,
-      "description": "TG-21418",
+      "description": "ANDALUCIA REF",
       "user_count": "000",
-      "port": 42018,
-      "ipv4": "113.20.8.61",
+      "port": 54209,
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -8253,7 +8275,7 @@
       "description": "Taoyuan",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "114.34.207.164",
+      "ipv4": "114.34.158.34",
       "ipv6": null
     },
     {
@@ -10641,6 +10663,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "100.36.64.185",
+      "ipv6": null
+    },
+    {
+      "designator": "31358",
+      "country": "US",
+      "name": "QSO31358",
+      "use_xx_prefix": false,
+      "description": "K8KHW-YSF",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "24.231.20.178",
       "ipv6": null
     },
     {
@@ -13299,10 +13332,10 @@
       "country": "ES",
       "name": "SEVILLA",
       "use_xx_prefix": false,
-      "description": "SEVILLA",
+      "description": "ANDALUCIA REF",
       "user_count": "000",
-      "port": 42005,
-      "ipv4": "217.160.209.125",
+      "port": 54206,
+      "ipv4": "57.131.25.19",
       "ipv6": null
     },
     {
@@ -13797,7 +13830,7 @@
       "description": "GB-H1L8RE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.164.225.242",
+      "ipv4": "5.81.115.61",
       "ipv6": null
     },
     {
@@ -16371,7 +16404,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.87.121",
+      "ipv4": "91.56.83.176",
       "ipv6": null
     },
     {
