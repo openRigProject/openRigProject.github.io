@@ -7626,7 +7626,7 @@
       "description": "DA1SR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "93.244.37.83",
+      "ipv4": "217.154.210.18",
       "ipv6": null
     },
     {
@@ -11073,17 +11073,6 @@
       "ipv6": null
     },
     {
-      "designator": "32100",
-      "country": "IT",
-      "name": "IT-IU3GMR-BL",
-      "use_xx_prefix": false,
-      "description": "IU3GMR-YSF",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "79.44.201.183",
-      "ipv6": null
-    },
-    {
       "designator": "32343",
       "country": "US",
       "name": "K4NWS",
@@ -13225,7 +13214,7 @@
       "description": "Forth Valley",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "80.176.12.149",
+      "ipv4": "81.78.32.87",
       "ipv6": null
     },
     {
@@ -13369,6 +13358,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "97.83.44.73",
+      "ipv6": null
+    },
+    {
+      "designator": "49790",
+      "country": "US",
+      "name": "XLXYPX",
+      "use_xx_prefix": false,
+      "description": "KQ4YPX Amateur",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "65.35.192.82",
       "ipv6": null
     },
     {
