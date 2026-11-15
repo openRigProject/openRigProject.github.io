@@ -476,7 +476,7 @@
       "description": "XLX054",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "31.62.43.151",
+      "ipv4": "31.62.4.100",
       "ipv6": null
     },
     {
@@ -1356,7 +1356,7 @@
       "description": "URF217",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "100.36.101.23",
+      "ipv4": "71.191.68.169",
       "ipv6": null
     },
     {
@@ -6053,7 +6053,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.17.91",
+      "ipv4": "78.51.212.130",
       "ipv6": null
     },
     {
@@ -11073,6 +11073,17 @@
       "ipv6": null
     },
     {
+      "designator": "32100",
+      "country": "IT",
+      "name": "IU3GMR-BL",
+      "use_xx_prefix": false,
+      "description": "IU3GMR-YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "79.29.55.232",
+      "ipv6": null
+    },
+    {
       "designator": "32343",
       "country": "US",
       "name": "K4NWS",
@@ -15998,7 +16009,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:ff81:1e56:d5ec:2fc"
+      "ipv6": "2804:7f0:b771:3bd:cddd:265b:be4e:8481"
     },
     {
       "designator": "72407",
@@ -16009,7 +16020,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.103.125.19",
-      "ipv6": "2804:7f0:b771:3bd:ff81:1e56:d5ec:2fc"
+      "ipv6": "2804:7f0:b771:3bd:cddd:265b:be4e:8481"
     },
     {
       "designator": "72420",
@@ -16867,17 +16878,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "104.218.221.46",
-      "ipv6": null
-    },
-    {
-      "designator": "80787",
-      "country": "IT",
-      "name": "ARI-BELLUNO",
-      "use_xx_prefix": false,
-      "description": "IT IQ3UCY-BL",
-      "user_count": "000",
-      "port": 43000,
-      "ipv4": "79.44.201.183",
       "ipv6": null
     },
     {
