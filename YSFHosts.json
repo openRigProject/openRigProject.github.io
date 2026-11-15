@@ -4748,17 +4748,6 @@
       "ipv6": null
     },
     {
-      "designator": "10202",
-      "country": "GR",
-      "name": "AETHER-ECHO",
-      "use_xx_prefix": false,
-      "description": "AETHER-CQ-ECHO",
-      "user_count": "000",
-      "port": 42012,
-      "ipv4": "157.173.36.81",
-      "ipv6": null
-    },
-    {
       "designator": "10231",
       "country": "IT",
       "name": "ITALYNET CONF",
@@ -7153,7 +7142,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.41.30.12",
+      "ipv4": "79.42.7.154",
       "ipv6": null
     },
     {
@@ -8748,7 +8737,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.100.254",
+      "ipv4": "79.184.172.15",
       "ipv6": null
     },
     {
@@ -10661,7 +10650,7 @@
       "use_xx_prefix": false,
       "description": "HKC Worldwide",
       "user_count": "000",
-      "port": 41500,
+      "port": 41501,
       "ipv4": "67.85.61.239",
       "ipv6": null
     },
@@ -12576,7 +12565,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.93.67",
+      "ipv4": "78.51.174.95",
       "ipv6": null
     },
     {
@@ -15282,8 +15271,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "91.16.230.134",
-      "ipv6": "2003:c9:8fff:174a:e228:6dff:fe74:b559"
+      "ipv4": "91.16.225.46",
+      "ipv6": "2003:c9:8fff:3a42:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15293,8 +15282,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.230.134",
-      "ipv6": "2003:c9:8fff:174a:e228:6dff:fe74:b559"
+      "ipv4": "91.16.225.46",
+      "ipv6": "2003:c9:8fff:3a42:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15304,8 +15293,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.230.134",
-      "ipv6": "2003:c9:8fff:174a:e228:6dff:fe74:b559"
+      "ipv4": "91.16.225.46",
+      "ipv6": "2003:c9:8fff:3a42:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15315,8 +15304,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.230.134",
-      "ipv6": "2003:c9:8fff:174a:e228:6dff:fe74:b559"
+      "ipv4": "91.16.225.46",
+      "ipv6": "2003:c9:8fff:3a42:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15326,8 +15315,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.230.134",
-      "ipv6": "2003:c9:8fff:174a:e228:6dff:fe74:b559"
+      "ipv4": "91.16.225.46",
+      "ipv6": "2003:c9:8fff:3a42:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -18044,6 +18033,17 @@
       "user_count": "000",
       "port": 42395,
       "ipv4": "74.208.37.116",
+      "ipv6": null
+    },
+    {
+      "designator": "93180",
+      "country": "US",
+      "name": "KC5CPO-603180",
+      "use_xx_prefix": false,
+      "description": "Cigar Lounge",
+      "user_count": "000",
+      "port": 42050,
+      "ipv4": "156.146.188.88",
       "ipv6": null
     },
     {
