@@ -711,6 +711,17 @@
       "ipv6": null
     },
     {
+      "designator": "00086",
+      "country": "ES",
+      "name": "ACRAB",
+      "use_xx_prefix": false,
+      "description": "COSTA-ATLANTIC",
+      "user_count": "000",
+      "port": 42399,
+      "ipv4": "57.131.25.19",
+      "ipv6": null
+    },
+    {
       "designator": "00087",
       "country": "US",
       "name": "US IRLP_0087",
@@ -2775,7 +2786,7 @@
       "description": "North East TX",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.180.133.125",
+      "ipv4": "2.57.91.92",
       "ipv6": null
     },
     {
@@ -3204,7 +3215,7 @@
       "description": "WRC Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "212.71.250.63",
+      "ipv4": "44.27.138.145",
       "ipv6": null
     },
     {
@@ -6020,7 +6031,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "178.59.26.208",
+      "ipv4": "77.69.40.134",
       "ipv6": null
     },
     {
