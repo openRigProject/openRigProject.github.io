@@ -2038,7 +2038,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.60.154",
+      "ipv4": "75.161.40.117",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -7164,7 +7164,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.42.19.163",
+      "ipv4": "95.250.142.243",
       "ipv6": null
     },
     {
@@ -7450,7 +7450,7 @@
       "description": "Scanner gruppo",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.59.14.123",
+      "ipv4": "87.18.253.105",
       "ipv6": null
     },
     {
@@ -8540,7 +8540,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3435:e300:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:343e:dc00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -11575,7 +11575,7 @@
       "description": "RPT 147.240",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "67.167.60.99",
+      "ipv4": "24.1.212.241",
       "ipv6": null
     },
     {
@@ -11828,7 +11828,7 @@
       "description": "SCANIA TEAM",
       "user_count": "000",
       "port": 42007,
-      "ipv4": "94.65.38.219",
+      "ipv4": "79.131.80.146",
       "ipv6": null
     },
     {
@@ -15337,8 +15337,8 @@
       "description": "King",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "87.178.160.115",
-      "ipv6": "2003:c9:8fff:13fb:e228:6dff:fe74:b559"
+      "ipv4": "87.178.166.240",
+      "ipv6": "2003:c9:8fff:3892:e228:6dff:fe74:b559"
     },
     {
       "designator": "65082",
@@ -15348,8 +15348,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.160.115",
-      "ipv6": "2003:c9:8fff:13fb:e228:6dff:fe74:b559"
+      "ipv4": "87.178.166.240",
+      "ipv6": "2003:c9:8fff:3892:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15359,8 +15359,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.160.115",
-      "ipv6": "2003:c9:8fff:13fb:e228:6dff:fe74:b559"
+      "ipv4": "87.178.166.240",
+      "ipv6": "2003:c9:8fff:3892:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15370,8 +15370,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.160.115",
-      "ipv6": "2003:c9:8fff:13fb:e228:6dff:fe74:b559"
+      "ipv4": "87.178.166.240",
+      "ipv6": "2003:c9:8fff:3892:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15381,8 +15381,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.160.115",
-      "ipv6": "2003:c9:8fff:13fb:e228:6dff:fe74:b559"
+      "ipv4": "87.178.166.240",
+      "ipv6": "2003:c9:8fff:3892:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16053,7 +16053,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:355:e932:2c42:8eaf:5e53"
+      "ipv6": "2804:7f0:b771:355:dbd0:6569:880b:1ee2"
     },
     {
       "designator": "72407",
@@ -16064,7 +16064,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:355:e932:2c42:8eaf:5e53"
+      "ipv6": "2804:7f0:b771:355:dbd0:6569:880b:1ee2"
     },
     {
       "designator": "72420",
