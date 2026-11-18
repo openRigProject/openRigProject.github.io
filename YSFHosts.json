@@ -4766,7 +4766,7 @@
       "description": "North America",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "44.15.64.51",
+      "ipv4": "44.15.64.11",
       "ipv6": null
     },
     {
@@ -6075,7 +6075,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.179.223.176",
+      "ipv4": "77.189.157.116",
       "ipv6": null
     },
     {
@@ -7164,7 +7164,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.36.3.26",
+      "ipv4": "79.42.19.163",
       "ipv6": null
     },
     {
@@ -7881,6 +7881,17 @@
       "port": 42001,
       "ipv4": "88.97.140.8",
       "ipv6": null
+    },
+    {
+      "designator": "23595",
+      "country": "GB",
+      "name": "OZ-DMR",
+      "use_xx_prefix": false,
+      "description": "OZ-DMR",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "172.236.9.190",
+      "ipv6": "2600:3c13::f03c:94ff:fedd:516"
     },
     {
       "designator": "23620",
@@ -8759,7 +8770,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.159.175",
+      "ipv4": "79.184.101.56",
       "ipv6": null
     },
     {
@@ -12587,7 +12598,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.86.32",
+      "ipv4": "77.179.18.100",
       "ipv6": null
     },
     {
