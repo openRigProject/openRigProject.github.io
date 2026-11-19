@@ -1510,7 +1510,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "213.178.70.236",
+      "ipv4": "51.75.155.184",
       "ipv6": null
     },
     {
@@ -4770,6 +4770,17 @@
       "ipv6": null
     },
     {
+      "designator": "10202",
+      "country": "GR",
+      "name": "AETHER-ECHO",
+      "use_xx_prefix": false,
+      "description": "AETHER-CQ-ECHO",
+      "user_count": "000",
+      "port": 42012,
+      "ipv4": "157.173.36.81",
+      "ipv6": null
+    },
+    {
       "designator": "10231",
       "country": "IT",
       "name": "ITALYNET CONF",
@@ -4799,7 +4810,7 @@
       "description": "Warrington ARC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "109.149.122.35",
+      "ipv4": "86.176.151.40",
       "ipv6": null
     },
     {
@@ -5503,7 +5514,7 @@
       "description": "Marieville, QC",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "142.169.21.127",
+      "ipv4": "158.69.208.13",
       "ipv6": null
     },
     {
@@ -7566,9 +7577,9 @@
     {
       "designator": "23002",
       "country": "CZ",
-      "name": "URFCZ1",
+      "name": "URF144",
       "use_xx_prefix": false,
-      "description": "URFCZ1",
+      "description": "URF144",
       "user_count": "000",
       "port": 42000,
       "ipv4": "185.33.145.102",
@@ -8143,7 +8154,7 @@
       "description": "Russia",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "31.128.44.121",
+      "ipv4": "31.207.76.53",
       "ipv6": null
     },
     {
@@ -8892,6 +8903,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "76.233.28.23",
+      "ipv6": null
+    },
+    {
+      "designator": "27772",
+      "country": "US",
+      "name": "JSS-Parrot",
+      "use_xx_prefix": false,
+      "description": "Audio Testing",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "69.53.72.24",
       "ipv6": null
     },
     {
@@ -14358,7 +14380,7 @@
       "description": "XLX reflector",
       "user_count": "000",
       "port": 42171,
-      "ipv4": "31.128.44.121",
+      "ipv4": "31.207.76.53",
       "ipv6": null
     },
     {
@@ -18439,7 +18461,7 @@
       "description": "C4FM JAPAN",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.222.16.81",
+      "ipv4": "153.227.62.147",
       "ipv6": null
     },
     {
