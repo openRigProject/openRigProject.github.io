@@ -1511,7 +1511,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "51.75.155.184",
-      "ipv6": null
+      "ipv6": "2001:41d0:700:1085::1"
     },
     {
       "designator": "00269",
@@ -4238,7 +4238,7 @@
       "description": "MEADOWLAKES CA",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "23.29.7.140",
+      "ipv4": "23.29.12.251",
       "ipv6": null
     },
     {
@@ -6086,7 +6086,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.186.33.120",
+      "ipv4": "77.186.171.70",
       "ipv6": null
     },
     {
@@ -7175,7 +7175,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.28.128.120",
+      "ipv4": "79.37.141.65",
       "ipv6": null
     },
     {
@@ -8792,7 +8792,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.118.60",
+      "ipv4": "79.184.116.123",
       "ipv6": null
     },
     {
@@ -10619,6 +10619,17 @@
       "user_count": "000",
       "port": 42006,
       "ipv4": "136.35.153.57",
+      "ipv6": null
+    },
+    {
+      "designator": "31297",
+      "country": "US",
+      "name": "SWMO Skywarn",
+      "use_xx_prefix": false,
+      "description": "SWMO Skywarn",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "159.65.225.188",
       "ipv6": null
     },
     {
@@ -12631,7 +12642,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.90.68",
+      "ipv4": "77.189.22.237",
       "ipv6": null
     },
     {
@@ -15381,8 +15392,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.228.167",
-      "ipv6": "2003:c9:8fff:22ee:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.195",
+      "ipv6": "2003:c9:8fff:421e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15392,8 +15403,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.228.167",
-      "ipv6": "2003:c9:8fff:22ee:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.195",
+      "ipv6": "2003:c9:8fff:421e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15403,8 +15414,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.228.167",
-      "ipv6": "2003:c9:8fff:22ee:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.195",
+      "ipv6": "2003:c9:8fff:421e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15414,8 +15425,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.228.167",
-      "ipv6": "2003:c9:8fff:22ee:e228:6dff:fe74:b559"
+      "ipv4": "193.159.43.195",
+      "ipv6": "2003:c9:8fff:421e:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -15656,7 +15667,7 @@
       "description": "Gateway-Lesta",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "86.151.149.46",
+      "ipv4": "81.131.134.174",
       "ipv6": null
     },
     {
