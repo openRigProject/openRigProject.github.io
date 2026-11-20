@@ -2658,6 +2658,17 @@
       "ipv6": null
     },
     {
+      "designator": "00805",
+      "country": "US",
+      "name": "W4END 805",
+      "use_xx_prefix": false,
+      "description": "W4END Bridge",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "173.17.194.7",
+      "ipv6": null
+    },
+    {
       "designator": "00814",
       "country": "US",
       "name": "XLX814",
@@ -6053,7 +6064,7 @@
       "description": "GR-C4FM-REFL",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.87.111.69",
+      "ipv4": "46.177.243.230",
       "ipv6": null
     },
     {
@@ -6460,7 +6471,7 @@
       "description": "Wires-X  Link",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "180.199.26.244",
+      "ipv4": "180.199.49.153",
       "ipv6": null
     },
     {
@@ -13933,17 +13944,6 @@
       "ipv6": null
     },
     {
-      "designator": "51866",
-      "country": "GB",
-      "name": "H1L8RE",
-      "use_xx_prefix": false,
-      "description": "GB-H1L8RE",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "5.81.115.61",
-      "ipv6": null
-    },
-    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -14386,7 +14386,7 @@
     {
       "designator": "55697",
       "country": "RU",
-      "name": "XLX171",
+      "name": "XLX025",
       "use_xx_prefix": false,
       "description": "XLX reflector",
       "user_count": "000",
@@ -15508,12 +15508,12 @@
     {
       "designator": "66546",
       "country": "TH",
-      "name": "XLX818",
+      "name": "XLX818 XNexus",
       "use_xx_prefix": false,
       "description": "XLX reflector",
       "user_count": "000",
-      "port": 42005,
-      "ipv4": "188.166.226.76",
+      "port": 42000,
+      "ipv4": "152.42.160.206",
       "ipv6": null
     },
     {
@@ -16694,6 +16694,17 @@
       "ipv6": null
     },
     {
+      "designator": "76715",
+      "country": "CA",
+      "name": "VA2ZXO",
+      "use_xx_prefix": false,
+      "description": "VA2ZXO Room",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.139.216",
+      "ipv6": null
+    },
+    {
       "designator": "77194",
       "country": "PL",
       "name": "XLX194",
@@ -17328,7 +17339,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.54.246",
+      "ipv4": "109.104.50.203",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
@@ -17757,7 +17768,7 @@
       "description": "YSF818 Reflect",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "188.166.226.76",
+      "ipv4": "152.42.160.206",
       "ipv6": null
     },
     {
@@ -18133,6 +18144,17 @@
       "port": 42000,
       "ipv4": "65.114.195.171",
       "ipv6": "2606:4700:3032::ac43:b982"
+    },
+    {
+      "designator": "92805",
+      "country": "US",
+      "name": "W4END 92805",
+      "use_xx_prefix": false,
+      "description": "W4END",
+      "user_count": "000",
+      "port": 42001,
+      "ipv4": "173.17.194.7",
+      "ipv6": null
     },
     {
       "designator": "93032",
