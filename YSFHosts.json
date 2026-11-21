@@ -1481,17 +1481,6 @@
       "ipv6": null
     },
     {
-      "designator": "00247",
-      "country": "GB",
-      "name": "URF247",
-      "use_xx_prefix": false,
-      "description": "URF247",
-      "user_count": "000",
-      "port": 42099,
-      "ipv4": "44.31.91.236",
-      "ipv6": null
-    },
-    {
       "designator": "00252",
       "country": "GB",
       "name": "XLX042 - WDRG",
@@ -6108,7 +6097,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "78.51.181.21",
+      "ipv4": "77.12.116.89",
       "ipv6": null
     },
     {
