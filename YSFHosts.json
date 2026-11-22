@@ -1598,7 +1598,7 @@
       "description": "BR300",
       "user_count": "000",
       "port": 42300,
-      "ipv4": "93.95.227.114",
+      "ipv4": "92.246.130.240",
       "ipv6": null
     },
     {
@@ -8345,6 +8345,17 @@
       "ipv6": null
     },
     {
+      "designator": "26100",
+      "country": "PL",
+      "name": "HUBlink",
+      "use_xx_prefix": false,
+      "description": "HUBlink Polska",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "51.195.139.65",
+      "ipv6": null
+    },
+    {
       "designator": "26112",
       "country": "TW",
       "name": "YSF-333",
@@ -9067,7 +9078,7 @@
       "description": "C4FM CUNEO",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "79.4.91.64",
+      "ipv4": "79.17.212.84",
       "ipv6": null
     },
     {
@@ -16822,7 +16833,7 @@
       "description": "dvbr.net",
       "user_count": "000",
       "port": 42777,
-      "ipv4": "93.95.227.114",
+      "ipv4": "92.246.130.240",
       "ipv6": null
     },
     {
@@ -17669,7 +17680,7 @@
       "description": "IR8UCW YSF REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.238.149.85",
+      "ipv4": "82.91.136.28",
       "ipv6": null
     },
     {
