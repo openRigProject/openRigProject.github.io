@@ -6108,7 +6108,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.116.89",
+      "ipv4": "77.187.9.156",
       "ipv6": null
     },
     {
@@ -11645,17 +11645,6 @@
       "ipv6": null
     },
     {
-      "designator": "36633",
-      "country": "US",
-      "name": "K9RUF Repeatr",
-      "use_xx_prefix": false,
-      "description": "RPT 147.240",
-      "user_count": "000",
-      "port": 42002,
-      "ipv4": "24.1.212.241",
-      "ipv6": null
-    },
-    {
       "designator": "36905",
       "country": "US",
       "name": "XLX239",
@@ -13966,6 +13955,17 @@
       "ipv6": null
     },
     {
+      "designator": "51866",
+      "country": "GB",
+      "name": "H1L8RE",
+      "use_xx_prefix": false,
+      "description": "GB-H1L8RE",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "5.81.115.61",
+      "ipv6": null
+    },
+    {
       "designator": "51903",
       "country": "PH",
       "name": "NA7LV",
@@ -15920,17 +15920,6 @@
       "description": "Who Cares ARG",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "162.230.255.145",
-      "ipv6": null
-    },
-    {
-      "designator": "70778",
-      "country": "US",
-      "name": "WC8MI-LURK",
-      "use_xx_prefix": false,
-      "description": "YSF Lurker",
-      "user_count": "000",
-      "port": 42099,
       "ipv4": "162.230.255.145",
       "ipv6": null
     },
