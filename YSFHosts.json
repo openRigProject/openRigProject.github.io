@@ -1690,6 +1690,17 @@
       "ipv6": null
     },
     {
+      "designator": "00327",
+      "country": "US",
+      "name": "URF327",
+      "use_xx_prefix": false,
+      "description": "URF327",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "64.177.61.233",
+      "ipv6": null
+    },
+    {
       "designator": "00333",
       "country": "US",
       "name": "W2NJR",
@@ -2027,7 +2038,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.62.7",
+      "ipv4": "75.161.56.135",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -2918,7 +2929,7 @@
       "description": "URF938",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "86.185.1.230",
+      "ipv4": "86.162.125.18",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -3483,17 +3494,6 @@
       "ipv6": null
     },
     {
-      "designator": "02304",
-      "country": "CZ",
-      "name": "URFCZS",
-      "use_xx_prefix": false,
-      "description": "URFCZS",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "128.0.182.6",
-      "ipv6": null
-    },
-    {
       "designator": "02307",
       "country": "AR",
       "name": "C4FM Arg",
@@ -4007,7 +4007,7 @@
       "description": "chaseroom",
       "user_count": "000",
       "port": 42250,
-      "ipv4": "81.132.230.78",
+      "ipv4": "86.172.151.233",
       "ipv6": null
     },
     {
@@ -5426,7 +5426,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.12.107",
+      "ipv4": "109.60.15.63",
       "ipv6": null
     },
     {
@@ -7758,7 +7758,7 @@
       "description": "Bridge XE1RAG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "187.170.92.45",
+      "ipv4": "189.146.58.227",
       "ipv6": null
     },
     {
@@ -7769,7 +7769,7 @@
       "description": "RC SATELITE",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "201.102.191.69",
+      "ipv4": "187.202.54.44",
       "ipv6": null
     },
     {
@@ -13346,7 +13346,7 @@
       "description": "YSF PIRS",
       "user_count": "000",
       "port": 42395,
-      "ipv4": "151.63.245.222",
+      "ipv4": "31.189.209.88",
       "ipv6": null
     },
     {
@@ -14106,17 +14106,6 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "92.62.226.78",
-      "ipv6": null
-    },
-    {
-      "designator": "52693",
-      "country": "CZ",
-      "name": "YSF-Doksany",
-      "use_xx_prefix": false,
-      "description": "CZ-Litomericko",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "194.182.85.175",
       "ipv6": null
     },
     {
@@ -15051,7 +15040,7 @@
       "description": "Brundall RG",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "86.185.1.230",
+      "ipv4": "86.162.125.18",
       "ipv6": "2a00:23c8:fa75:c501:e65f:1ff:fed1:b7ba"
     },
     {
@@ -16152,7 +16141,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:355:5eba:7294:4cba:6cc4"
+      "ipv6": "2804:7f0:b771:17c0:8974:3bba:9865:d9d5"
     },
     {
       "designator": "72407",
@@ -16163,7 +16152,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:355:5eba:7294:4cba:6cc4"
+      "ipv6": "2804:7f0:b771:17c0:8974:3bba:9865:d9d5"
     },
     {
       "designator": "72420",
@@ -16988,6 +16977,61 @@
       "user_count": "000",
       "port": 42002,
       "ipv4": "81.190.16.64",
+      "ipv6": null
+    },
+    {
+      "designator": "80001",
+      "country": "US",
+      "name": "QRV001",
+      "use_xx_prefix": false,
+      "description": "Wordwide - NY",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "109.224.230.240",
+      "ipv6": null
+    },
+    {
+      "designator": "80002",
+      "country": "US",
+      "name": "QRV002",
+      "use_xx_prefix": false,
+      "description": "South Central",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "109.224.231.21",
+      "ipv6": null
+    },
+    {
+      "designator": "80003",
+      "country": "US",
+      "name": "QRV003",
+      "use_xx_prefix": false,
+      "description": "PNW",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "109.224.231.76",
+      "ipv6": null
+    },
+    {
+      "designator": "80004",
+      "country": "US",
+      "name": "QRV004",
+      "use_xx_prefix": false,
+      "description": "Midwest",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "109.224.231.86",
+      "ipv6": null
+    },
+    {
+      "designator": "80005",
+      "country": "US",
+      "name": "QRV005",
+      "use_xx_prefix": false,
+      "description": "Southeast",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "109.224.231.247",
       "ipv6": null
     },
     {
@@ -18199,17 +18243,6 @@
       "port": 42000,
       "ipv4": "65.114.195.171",
       "ipv6": "2606:4700:3032::ac43:b982"
-    },
-    {
-      "designator": "92805",
-      "country": "US",
-      "name": "W4END 92805",
-      "use_xx_prefix": false,
-      "description": "W4END",
-      "user_count": "000",
-      "port": 42001,
-      "ipv4": "173.17.194.7",
-      "ipv6": null
     },
     {
       "designator": "93032",
