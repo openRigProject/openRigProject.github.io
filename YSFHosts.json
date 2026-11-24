@@ -5239,7 +5239,7 @@
       "description": "Puerto Rico",
       "user_count": "000",
       "port": 43000,
-      "ipv4": "24.55.110.201",
+      "ipv4": "24.41.236.219",
       "ipv6": null
     },
     {
@@ -5745,7 +5745,7 @@
       "description": "TEST & Develop",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "15.157.128.240",
+      "ipv4": "74.208.73.126",
       "ipv6": null
     },
     {
@@ -6130,7 +6130,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.12.179.142",
+      "ipv4": "77.181.4.16",
       "ipv6": null
     },
     {
@@ -7219,7 +7219,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "82.63.195.179",
+      "ipv4": "79.40.109.179",
       "ipv6": null
     },
     {
@@ -7769,7 +7769,7 @@
       "description": "Bridge XE1RAG",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "189.146.58.227",
+      "ipv4": "187.170.55.143",
       "ipv6": null
     },
     {
@@ -9167,6 +9167,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "155.138.206.95",
+      "ipv6": null
+    },
+    {
+      "designator": "28468",
+      "country": "GR",
+      "name": "GR SVQSO468",
+      "use_xx_prefix": false,
+      "description": "GREECE SV1HAB",
+      "user_count": "000",
+      "port": 42002,
+      "ipv4": "94.65.195.24",
       "ipv6": null
     },
     {
@@ -11994,6 +12005,17 @@
       "user_count": "000",
       "port": 42008,
       "ipv4": "79.107.25.162",
+      "ipv6": null
+    },
+    {
+      "designator": "40669",
+      "country": "DE",
+      "name": "HAMster_talk",
+      "use_xx_prefix": false,
+      "description": "HAMster Talk",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "217.154.206.224",
       "ipv6": null
     },
     {
@@ -16163,7 +16185,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:8974:3bba:9865:d9d5"
+      "ipv6": "2804:7f0:b771:17c0:f2cf:a3f4:958c:a08b"
     },
     {
       "designator": "72407",
@@ -16174,7 +16196,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:8974:3bba:9865:d9d5"
+      "ipv6": "2804:7f0:b771:17c0:f2cf:a3f4:958c:a08b"
     },
     {
       "designator": "72420",
@@ -17600,10 +17622,10 @@
       "country": "US",
       "name": "Arizona",
       "use_xx_prefix": false,
-      "description": "XLX858",
+      "description": "Wires-X 85008",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "172.236.254.232",
+      "ipv4": "159.65.69.195",
       "ipv6": null
     },
     {
