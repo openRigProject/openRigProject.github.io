@@ -860,8 +860,8 @@
       "use_xx_prefix": false,
       "description": "C4FM AR",
       "user_count": "000",
-      "port": 42000,
-      "ipv4": "161.153.200.24",
+      "port": 42100,
+      "ipv4": "64.176.17.106",
       "ipv6": null
     },
     {
@@ -1830,6 +1830,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "173.255.221.199",
+      "ipv6": null
+    },
+    {
+      "designator": "00411",
+      "country": "US",
+      "name": "XLX411",
+      "use_xx_prefix": false,
+      "description": "SoCal Digitalk",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "172.233.138.81",
       "ipv6": null
     },
     {
@@ -6119,7 +6130,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.9.156",
+      "ipv4": "77.12.179.142",
       "ipv6": null
     },
     {
@@ -8408,7 +8419,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "85.215.138.68",
-      "ipv6": "2a01:239:396:1100::1"
+      "ipv6": null
     },
     {
       "designator": "26201",
@@ -8474,7 +8485,7 @@
       "user_count": "000",
       "port": 42342,
       "ipv4": "85.215.138.68",
-      "ipv6": "2a01:239:396:1100::1"
+      "ipv6": null
     },
     {
       "designator": "26237",
@@ -8485,7 +8496,7 @@
       "user_count": "000",
       "port": 42337,
       "ipv4": "85.215.138.68",
-      "ipv6": "2a01:239:396:1100::1"
+      "ipv6": null
     },
     {
       "designator": "26244",
@@ -8529,7 +8540,7 @@
       "user_count": "000",
       "port": 42366,
       "ipv4": "85.215.138.68",
-      "ipv6": "2a01:239:396:1100::1"
+      "ipv6": null
     },
     {
       "designator": "26263",
@@ -8540,7 +8551,7 @@
       "user_count": "000",
       "port": 42398,
       "ipv4": "85.215.138.68",
-      "ipv6": "2a01:239:396:1100::1"
+      "ipv6": null
     },
     {
       "designator": "26268",
@@ -8858,7 +8869,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.79.76",
+      "ipv4": "79.184.115.6",
       "ipv6": null
     },
     {
@@ -12697,7 +12708,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "93.130.233.229",
+      "ipv4": "77.189.233.235",
       "ipv6": null
     },
     {
@@ -15436,8 +15447,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.166.115",
-      "ipv6": "2003:c9:8fff:20ab:e228:6dff:fe74:b559"
+      "ipv4": "87.178.168.97",
+      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15447,8 +15458,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.166.115",
-      "ipv6": "2003:c9:8fff:20ab:e228:6dff:fe74:b559"
+      "ipv4": "87.178.168.97",
+      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15458,8 +15469,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.166.115",
-      "ipv6": "2003:c9:8fff:20ab:e228:6dff:fe74:b559"
+      "ipv4": "87.178.168.97",
+      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15469,8 +15480,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.166.115",
-      "ipv6": "2003:c9:8fff:20ab:e228:6dff:fe74:b559"
+      "ipv4": "87.178.168.97",
+      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16984,7 +16995,7 @@
       "country": "US",
       "name": "QRV001",
       "use_xx_prefix": false,
-      "description": "Wordwide - NY",
+      "description": "Worldwide / NE",
       "user_count": "000",
       "port": 42000,
       "ipv4": "109.224.230.240",
@@ -17032,6 +17043,50 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "109.224.231.247",
+      "ipv6": null
+    },
+    {
+      "designator": "80006",
+      "country": "US",
+      "name": "QRV006",
+      "use_xx_prefix": false,
+      "description": "Mountain West",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "194.156.156.158",
+      "ipv6": null
+    },
+    {
+      "designator": "80007",
+      "country": "US",
+      "name": "QRV007",
+      "use_xx_prefix": false,
+      "description": "Southern Calif",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "194.156.156.161",
+      "ipv6": null
+    },
+    {
+      "designator": "80008",
+      "country": "US",
+      "name": "QRV008",
+      "use_xx_prefix": false,
+      "description": "Florida",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "194.156.156.162",
+      "ipv6": null
+    },
+    {
+      "designator": "80009",
+      "country": "US",
+      "name": "QRV011",
+      "use_xx_prefix": false,
+      "description": "California",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "194.156.156.165",
       "ipv6": null
     },
     {
