@@ -916,7 +916,7 @@
       "description": "URF121",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.247.3.166",
+      "ipv4": "87.9.251.1",
       "ipv6": null
     },
     {
@@ -2049,7 +2049,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "75.161.51.103",
+      "ipv4": "75.161.45.133",
       "ipv6": "2605:59c0:403f:ca10:e300:8dab:c049:44f6"
     },
     {
@@ -7219,7 +7219,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.40.109.179",
+      "ipv4": "79.27.149.152",
       "ipv6": null
     },
     {
@@ -8639,7 +8639,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:343a:1200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:3404:8a00:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8869,7 +8869,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.115.6",
+      "ipv4": "79.184.118.47",
       "ipv6": null
     },
     {
@@ -11399,7 +11399,7 @@
       "description": "Coamo WP4NNZ",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "67.224.140.59",
+      "ipv4": "64.237.221.215",
       "ipv6": null
     },
     {
@@ -12730,7 +12730,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.233.235",
+      "ipv4": "77.181.229.214",
       "ipv6": null
     },
     {
@@ -15480,8 +15480,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "87.178.168.97",
-      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.37.140",
+      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15491,8 +15491,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "87.178.168.97",
-      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.37.140",
+      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15502,8 +15502,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "87.178.168.97",
-      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.37.140",
+      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15513,8 +15513,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "87.178.168.97",
-      "ipv6": "2003:c9:8fff:fc0:e228:6dff:fe74:b559"
+      "ipv4": "193.159.37.140",
+      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
