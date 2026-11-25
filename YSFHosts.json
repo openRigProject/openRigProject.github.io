@@ -960,7 +960,7 @@
       "description": "XLXD Multiref",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "81.39.94.243",
+      "ipv4": "81.39.95.96",
       "ipv6": null
     },
     {
@@ -2347,6 +2347,17 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": "45.79.175.220",
+      "ipv6": null
+    },
+    {
+      "designator": "00655",
+      "country": "ZA",
+      "name": "XLX655",
+      "use_xx_prefix": false,
+      "description": "XLX655",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.53.39",
       "ipv6": null
     },
     {
@@ -5437,7 +5448,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.15.63",
+      "ipv4": "109.60.12.23",
       "ipv6": null
     },
     {
@@ -5921,7 +5932,7 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.1.113.13",
+      "ipv4": "88.1.108.169",
       "ipv6": "2606:4700:3035::6815:338d"
     },
     {
@@ -7219,7 +7230,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.27.149.152",
+      "ipv4": "95.250.142.70",
       "ipv6": null
     },
     {
@@ -11751,7 +11762,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "104.238.156.182",
+      "ipv4": "64.177.61.233",
       "ipv6": null
     },
     {
@@ -12379,6 +12390,17 @@
       "user_count": "000",
       "port": 42087,
       "ipv4": "176.134.151.34",
+      "ipv6": null
+    },
+    {
+      "designator": "42707",
+      "country": "US",
+      "name": "EverythingNet",
+      "use_xx_prefix": false,
+      "description": "Everything Net",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.30.10.54",
       "ipv6": null
     },
     {
@@ -15968,6 +15990,17 @@
       "ipv6": null
     },
     {
+      "designator": "69969",
+      "country": "US",
+      "name": "URF969",
+      "use_xx_prefix": false,
+      "description": "URF969",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.133.49.122",
+      "ipv6": null
+    },
+    {
       "designator": "70100",
       "country": "HN",
       "name": "C-AMERICA",
@@ -16185,7 +16218,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:f2cf:a3f4:958c:a08b"
+      "ipv6": "2804:7f0:b771:17c0:2032:26cb:62bd:717d"
     },
     {
       "designator": "72407",
@@ -16196,7 +16229,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:f2cf:a3f4:958c:a08b"
+      "ipv6": "2804:7f0:b771:17c0:2032:26cb:62bd:717d"
     },
     {
       "designator": "72420",
@@ -16355,7 +16388,7 @@
     {
       "designator": "73237",
       "country": "CO",
-      "name": "HUBNETREM52HZ",
+      "name": "REM52HZ",
       "use_xx_prefix": false,
       "description": "HUBNet REM52Hz",
       "user_count": "000",
