@@ -860,7 +860,7 @@
       "use_xx_prefix": false,
       "description": "C4FM AR",
       "user_count": "000",
-      "port": 42100,
+      "port": 42020,
       "ipv4": "64.176.17.106",
       "ipv6": null
     },
@@ -4612,7 +4612,7 @@
       "description": "ARCA Net",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "47.156.57.241",
+      "ipv4": "47.156.49.62",
       "ipv6": null
     },
     {
@@ -5932,7 +5932,7 @@
       "description": "XLX Reflector",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "88.1.108.169",
+      "ipv4": "81.33.32.19",
       "ipv6": "2606:4700:3035::6815:338d"
     },
     {
@@ -6141,7 +6141,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.181.4.16",
+      "ipv4": "78.51.15.197",
       "ipv6": null
     },
     {
@@ -8880,7 +8880,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.118.47",
+      "ipv4": "79.184.178.67",
       "ipv6": null
     },
     {
@@ -10875,6 +10875,17 @@
       "ipv6": null
     },
     {
+      "designator": "31385",
+      "country": "US",
+      "name": "WX4ALA",
+      "use_xx_prefix": false,
+      "description": "WX4ALA YSF",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "45.32.172.166",
+      "ipv6": null
+    },
+    {
       "designator": "31393",
       "country": "US",
       "name": "WX8CLE",
@@ -12752,7 +12763,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.181.229.214",
+      "ipv4": "77.189.100.105",
       "ipv6": null
     },
     {
@@ -14622,7 +14633,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.247.180.77",
+      "ipv4": "87.152.163.30",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14633,7 +14644,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "79.247.180.77",
+      "ipv4": "87.152.163.30",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14644,7 +14655,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "79.247.180.77",
+      "ipv4": "87.152.163.30",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -15502,8 +15513,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "193.159.37.140",
-      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
+      "ipv4": "91.16.234.10",
+      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15513,8 +15524,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "193.159.37.140",
-      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
+      "ipv4": "91.16.234.10",
+      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15524,8 +15535,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "193.159.37.140",
-      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
+      "ipv4": "91.16.234.10",
+      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15535,8 +15546,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "193.159.37.140",
-      "ipv6": "2003:c9:8fff:daf:e228:6dff:fe74:b559"
+      "ipv4": "91.16.234.10",
+      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16217,8 +16228,8 @@
       "description": "Sao Paulo",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:2032:26cb:62bd:717d"
+      "ipv4": "177.172.216.214",
+      "ipv6": "2804:7f0:b771:904:37e5:4705:3460:40e9"
     },
     {
       "designator": "72407",
@@ -16228,8 +16239,8 @@
       "description": "SP link",
       "user_count": "000",
       "port": 42100,
-      "ipv4": "189.110.251.142",
-      "ipv6": "2804:7f0:b771:17c0:2032:26cb:62bd:717d"
+      "ipv4": "177.172.216.214",
+      "ipv6": "2804:7f0:b771:904:37e5:4705:3460:40e9"
     },
     {
       "designator": "72420",
@@ -16646,7 +16657,7 @@
       "description": "Kloenschnack",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.56.81.47",
+      "ipv4": "91.56.80.48",
       "ipv6": null
     },
     {
@@ -17769,6 +17780,17 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "51.11.37.229",
+      "ipv6": null
+    },
+    {
+      "designator": "86591",
+      "country": "US",
+      "name": "KO4WIL-LINK",
+      "use_xx_prefix": false,
+      "description": "W4KEV link",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "96.30.206.220",
       "ipv6": null
     },
     {
