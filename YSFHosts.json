@@ -4002,9 +4002,9 @@
     {
       "designator": "06000",
       "country": "US",
-      "name": "URF616",
+      "name": "URFALD",
       "use_xx_prefix": false,
-      "description": "URF616",
+      "description": "URFALD",
       "user_count": "000",
       "port": 42000,
       "ipv4": "44.27.35.194",
@@ -5459,7 +5459,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.12.23",
+      "ipv4": "109.60.13.124",
       "ipv6": null
     },
     {
@@ -7241,7 +7241,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.33.90.45",
+      "ipv4": "87.17.13.173",
       "ipv6": null
     },
     {
@@ -14490,7 +14490,7 @@
       "description": "XLX647-YSF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "58.8.190.171",
+      "ipv4": "58.8.190.158",
       "ipv6": null
     },
     {
@@ -17603,7 +17603,7 @@
       "description": "YSF Sachen",
       "user_count": "000",
       "port": 42001,
-      "ipv4": "109.104.50.203",
+      "ipv4": "109.104.48.251",
       "ipv6": "2a02:238:f017:46f:36e1:a9ff:fe02:d798"
     },
     {
