@@ -1679,6 +1679,17 @@
       "ipv6": null
     },
     {
+      "designator": "00312",
+      "country": "US",
+      "name": "URF312",
+      "use_xx_prefix": false,
+      "description": "URF312",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "44.27.44.254",
+      "ipv6": null
+    },
+    {
       "designator": "00320",
       "country": "US",
       "name": "QNET",
@@ -2060,7 +2071,7 @@
       "description": "KB0WMA_YSF_REF",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "153.66.21.130",
+      "ipv4": "75.161.54.1",
       "ipv6": "2605:59c8:f00:ed9a:d59c:294c:e1c3:8472"
     },
     {
@@ -4792,6 +4803,17 @@
       "ipv6": "2604:2dc0:101:200::425c"
     },
     {
+      "designator": "10104",
+      "country": "US",
+      "name": "URF104",
+      "use_xx_prefix": false,
+      "description": "URF104",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "209.225.101.170",
+      "ipv6": null
+    },
+    {
       "designator": "10169",
       "country": "US",
       "name": "AD8G MultiMod",
@@ -4966,6 +4988,17 @@
       "port": 42000,
       "ipv4": "45.42.215.8",
       "ipv6": "2606:4700:3030::ac43:9065"
+    },
+    {
+      "designator": "10969",
+      "country": "US",
+      "name": "URF969",
+      "use_xx_prefix": false,
+      "description": "URF969",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "72.133.49.122",
+      "ipv6": null
     },
     {
       "designator": "10978",
@@ -5459,7 +5492,7 @@
       "description": "CHAT",
       "user_count": "000",
       "port": 42009,
-      "ipv4": "109.60.13.124",
+      "ipv4": "88.207.74.154",
       "ipv6": null
     },
     {
@@ -6152,7 +6185,7 @@
       "description": "HELLAS-ADNDMR",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "77.187.63.101",
+      "ipv4": "77.181.3.178",
       "ipv6": null
     },
     {
@@ -7241,7 +7274,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.17.13.173",
+      "ipv4": "79.46.188.210",
       "ipv6": null
     },
     {
@@ -16034,17 +16067,6 @@
       "ipv6": null
     },
     {
-      "designator": "69969",
-      "country": "US",
-      "name": "URF969",
-      "use_xx_prefix": false,
-      "description": "URF969",
-      "user_count": "000",
-      "port": 42000,
-      "ipv4": "72.133.49.122",
-      "ipv6": null
-    },
-    {
       "designator": "70100",
       "country": "HN",
       "name": "C-AMERICA",
@@ -16262,7 +16284,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.172.216.214",
-      "ipv6": "2804:7f0:b771:904:e93c:cca3:f0bf:8408"
+      "ipv6": "2804:7f0:b771:904:c851:1b09:8140:ddea"
     },
     {
       "designator": "72407",
@@ -16273,7 +16295,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.172.216.214",
-      "ipv6": "2804:7f0:b771:904:e93c:cca3:f0bf:8408"
+      "ipv6": "2804:7f0:b771:904:c851:1b09:8140:ddea"
     },
     {
       "designator": "72420",
