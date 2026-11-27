@@ -1184,6 +1184,17 @@
       "ipv6": null
     },
     {
+      "designator": "00159",
+      "country": "US",
+      "name": "XLX159",
+      "use_xx_prefix": false,
+      "description": "Wheels N Keels",
+      "user_count": "000",
+      "port": 42000,
+      "ipv4": "69.84.242.182",
+      "ipv6": null
+    },
+    {
       "designator": "00161",
       "country": "RU",
       "name": "CLUBFM",
@@ -1598,7 +1609,7 @@
       "description": "BR300",
       "user_count": "000",
       "port": 42300,
-      "ipv4": "92.246.130.240",
+      "ipv4": "94.141.97.97",
       "ipv6": null
     },
     {
@@ -7230,7 +7241,7 @@
       "description": "URF288",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "95.250.142.70",
+      "ipv4": "79.33.90.45",
       "ipv6": null
     },
     {
@@ -8661,7 +8672,7 @@
       "user_count": "000",
       "port": 42000,
       "ipv4": null,
-      "ipv6": "2001:9e8:3410:3200:8aa2:9eff:fe8b:e708"
+      "ipv6": "2001:9e8:341b:4900:8aa2:9eff:fe8b:e708"
     },
     {
       "designator": "26299",
@@ -8891,7 +8902,7 @@
       "description": "",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "79.184.173.129",
+      "ipv4": "79.184.107.38",
       "ipv6": null
     },
     {
@@ -12785,7 +12796,7 @@
       "description": "Lokale Gruppe",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "77.189.100.105",
+      "ipv4": "77.181.153.217",
       "ipv6": null
     },
     {
@@ -14655,7 +14666,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42000,
-      "ipv4": "87.152.163.30",
+      "ipv4": "87.152.170.46",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14666,7 +14677,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42032,
-      "ipv4": "87.152.163.30",
+      "ipv4": "87.152.170.46",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -14677,7 +14688,7 @@
       "description": "YSF-Reflektor",
       "user_count": "000",
       "port": 42033,
-      "ipv4": "87.152.163.30",
+      "ipv4": "87.152.170.46",
       "ipv6": "2003:e9:f7ff:332c:3681:c4ff:fe19:a0b2"
     },
     {
@@ -15535,8 +15546,8 @@
       "description": "Only VW-mode",
       "user_count": "000",
       "port": 42002,
-      "ipv4": "91.16.234.10",
-      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
+      "ipv4": "91.16.229.165",
+      "ipv6": "2003:c9:8fff:4231:e228:6dff:fe74:b559"
     },
     {
       "designator": "65083",
@@ -15546,8 +15557,8 @@
       "description": "Test",
       "user_count": "000",
       "port": 42003,
-      "ipv4": "91.16.234.10",
-      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
+      "ipv4": "91.16.229.165",
+      "ipv6": "2003:c9:8fff:4231:e228:6dff:fe74:b559"
     },
     {
       "designator": "65084",
@@ -15557,8 +15568,8 @@
       "description": "Bayern",
       "user_count": "000",
       "port": 42004,
-      "ipv4": "91.16.234.10",
-      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
+      "ipv4": "91.16.229.165",
+      "ipv6": "2003:c9:8fff:4231:e228:6dff:fe74:b559"
     },
     {
       "designator": "65085",
@@ -15568,8 +15579,8 @@
       "description": "Munich",
       "user_count": "000",
       "port": 42005,
-      "ipv4": "91.16.234.10",
-      "ipv6": "2003:c9:8fff:1084:e228:6dff:fe74:b559"
+      "ipv4": "91.16.229.165",
+      "ipv6": "2003:c9:8fff:4231:e228:6dff:fe74:b559"
     },
     {
       "designator": "65102",
@@ -16251,7 +16262,7 @@
       "user_count": "000",
       "port": 42001,
       "ipv4": "177.172.216.214",
-      "ipv6": "2804:7f0:b771:904:37e5:4705:3460:40e9"
+      "ipv6": "2804:7f0:b771:904:e93c:cca3:f0bf:8408"
     },
     {
       "designator": "72407",
@@ -16262,7 +16273,7 @@
       "user_count": "000",
       "port": 42100,
       "ipv4": "177.172.216.214",
-      "ipv6": "2804:7f0:b771:904:37e5:4705:3460:40e9"
+      "ipv6": "2804:7f0:b771:904:e93c:cca3:f0bf:8408"
     },
     {
       "designator": "72420",
@@ -16954,7 +16965,7 @@
       "description": "dvbr.net",
       "user_count": "000",
       "port": 42777,
-      "ipv4": "92.246.130.240",
+      "ipv4": "94.141.97.97",
       "ipv6": null
     },
     {
